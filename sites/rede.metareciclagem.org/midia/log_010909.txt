@@ -1,0 +1,189 @@
+fescur:oi pessoal
+[6:04pm]fescur:o efe falou se vinha?
+[6:06pm]tatirp:oi, fê
+[6:06pm]tatirp:falou que vinha, sim
+[6:08pm]tatirp:ff acabou de avisar que tá atrasado, mas vem
+[6:08pm]fescur:blz
+[6:10pm]tatirp:to por aqui limpando armario...
+[6:12pm]fescur:eu to por aqui trabalhando...bizoio de veiz em quando pra ver se a conversa comecou...
+[6:34pm] efeefe joined the chat room.
+[6:35pm]efeefe:alous
+[6:35pm]efeefe:desculpem o atraso
+[6:36pm]tatirp:oie
+[6:36pm]fescur:oi
+[6:36pm]efeefe:rolou papo ai?
+[6:36pm]tatirp:no
+[6:37pm]fescur:e ontem, rolou papo?
+[6:37pm]fescur:na verdade eu nao tenho muito que falar ainda
+[6:37pm]efeefe:fescur: acompanhaste a conversa na lista?
+[6:38pm]fescur:sim
+[6:38pm]efeefe:nao tem muita novidade por lah tambem
+[6:38pm]fescur:mas nao veio muito feedback, ne. o que veio, eu separei.
+[6:38pm]efeefe:quais sao os proximos passos do esforco interface
+[6:38pm]efeefe:?
+[6:38pm]fescur:estou quebrando a cabeca para fazer uma representacao visual naquele esquema que a tati falou. mas eh bem dificil, nunca fiz
+[6:39pm]tatirp:essa semana tinha o feedback e o resultado da migracao, neh?
+[6:39pm]fescur:entao peco um pouquinho da paciencia de vcs...
+[6:39pm]tatirp:acho que a gente pode pensar nas "metas" pro encontrao
+[6:40pm]tatirp:o que tem que terminar ateh lah
+[6:40pm]fescur:tatirp, como ficou o esquema de tempos no encontrao?
+[6:40pm]tatirp:e o que a gente quer discutir
+[6:40pm]fescur:sera que conseguimos fazer alguns testes?
+[6:40pm]tatirp:ou resolver antes de sair de lah
+[6:40pm]tatirp:fe, falei com o regis e ateh ontem tava assim
+[6:41pm]tatirp:sexta - manha: abertura, apresentacoes, divisão de grupos e interesses desconferencia
+[6:41pm]fescur:ate semana que vem, quero ter uma primeira versao dessa representacao visual, um par de wireframes pra ajudar nos testes (se forem rolar) e tambem uma lista das especificacoes mais formal e detalhada
+[6:41pm]tatirp:sexta - tarde: oficinas metarec basicas (pintura, engenharia reversa) e infograficos dpadua
+[6:42pm]tatirp:sabado - oficina de adobe no sitio; conversa infralogica na pousada (por causa da conexao)
+[6:42pm]tatirp:domingo - desvios gerais e coisas não programadas
+[6:43pm]tatirp:testes: podemos fazer eqto rolam as oficinas na sexta a tarde
+[6:43pm]efeefe:vai rolar um papo mutirao tambem
+[6:43pm]tatirp:ou, se a gente quiser continuar aquela conversa com todo mundo
+[6:43pm]tatirp:que nao rolou na cp
+[6:44pm]tatirp:sobre o site
+[6:44pm]tatirp:cadastro de perfil
+[6:44pm]tatirp:apresentacao das possibilidades atuais e o que ta sendo mexido
+[6:44pm]efeefe:sim
+[6:44pm]efeefe:entao
+[6:44pm]efeefe:vamos falar de possibilidades infralogica no encontrao
+[6:45pm]efeefe:acho que tem uma conversa entre a gente (claro que incluiindo todomundo que quiser) sobre o trampo que estamos desenrolando
+[6:45pm]tatirp:sim
+[6:45pm]fescur:efeefe: com certeza
+[6:45pm]efeefe:dar cara pras coisas, visualizar, trazer uma concretude, dividir tarefas e balizar o trampo
+[6:45pm]efeefe:aih tem outra coisa que eh mostrar pras pessoas o que eh e o que vai ser a infralogica
+[6:45pm]fescur:estou sentindo alta falta disso, parece que estou dando tiro no escuro aqui
+[6:45pm]efeefe:mostrar funcionalidades, mesmo que limitadas
+[6:46pm]fescur:entao, vou tentar mostrar ao maximo o que estamos pensando
+[6:46pm]efeefe:talvez seja interessante essa divulgacao ser antes da nossa sessao de trabalho
+[6:46pm]efeefe:daih acho que a gente pode pensar em tres momentos:
+[6:46pm]tatirp:efe, que falar da infralogica como um todo de uma vez?
+[6:46pm]efeefe:no primeiro dia, mostramos o geral das funcionalidades
+[6:46pm]tatirp:ops, sim, 3 momentos
+[6:47pm]efeefe:que estao presentes ou potenciais
+[6:47pm]efeefe:seguido de uma conversa sobre infralogica ideal
+[6:47pm]efeefe:estender essa conversa que rolou na lista
+[6:47pm]efeefe:pegar mais elementos
+[6:47pm]efeefe:um pouco de brainstorm, um pouico de aprendizdo com pessoas que tenham experiencias interessantes
+[6:47pm] ian_brasil joined the chat room.
+[6:47pm]efeefe:aih, depois a gente fecha com uma reuniao de desenvolvimento
+[6:48pm]tatirp:eu acho que a reuniao de desenvolvimento pode ser essa de sabado a tarde
+[6:48pm]tatirp:mais focada e concentrada
+[6:48pm]efeefe:sim
+[6:48pm]efeefe:enquanto a galera tah lah fazendo adobe
+[6:49pm]fescur:por mim tah boa essa dinamica. dai nao haverao os testes, correto?
+[6:49pm]efeefe:a nao ser que voces queiram fazer adobe
+[6:49pm]efeefe:acho que a gente nao vai conseguir _trabalhar_ muito no encontrao
+[6:49pm]tatirp:nao faço questao do adobe
+[6:49pm]fescur:nao sei direito o que vai ser essa oficina
+[6:49pm]fescur:e sobre os softwares da adobe?
+[6:49pm]tatirp:fe, qual?
+[6:49pm]fescur:essa de adobe
+[6:50pm]fescur:no sitio
+[6:50pm]tatirp:nao, eh adobe - arquitetura
+[6:50pm]fescur:como assim?
+[6:50pm]tatirp:saca? barro, coisa e tal?
+[6:50pm]efeefe:hahah
+[6:50pm]fescur:adobe é isso??? incompatible encoding
+[6:50pm]efeefe:tijolo de adobe
+[6:50pm]fescur:putz, que ignorante que eu sou
+[6:50pm]efeefe:mistura de barro, palha e areia pra fazer casa sustentavel 
+[6:50pm]fescur:ahhhhh
+[6:50pm]efeefe:eu tambem nao sabia ate ano passado, relaxa
+[6:50pm]tatirp:ninguem tem obrigacao de saber...
+[6:51pm]tatirp:tem outro nome bem na moda pra essas coisas
+[6:51pm]tatirp:arquitetura vernacular
+[6:51pm]fescur:bem que eu nao tava entendendo...oficina do pacote adobe???? num sitio??? 
+[6:51pm]tatirp:rsrsrs
+[6:51pm]fescur:e ainda mais da adobe
+[6:51pm]efeefe:http://pt.wikipedia.org/wiki/Adobe
+[6:52pm]efeefe:todo mundo desenhando casa com pacote adobe 
+[6:52pm]fescur:eu queria conhecer o sitio, mas nao faco muita questao da oficina (fosse qual tipo de adobe fosse)
+[6:52pm]tatirp:pelo que entendi a galera quer ir pra passar o dia
+[6:53pm]tatirp:com a tal oficina de culinario no meio
+[6:53pm]fescur:mas voltando lah, deixamos pra mais alem entao os prototipos de papel?
+[6:53pm]fescur:podemos ir ate o sitio, e fazer la a reuniao, que tal
+[6:53pm]efeefe:acho que era legal ter conexao pra reuniao
+[6:53pm]tatirp:acho que os prototipos de papel podiam ser carta na manga
+[6:53pm]efeefe:mas sei lah, posso estar errado
+[6:53pm]tatirp:efe, tb acho
+[6:54pm]fescur:nao acho imprescindivel, mas fico por voces
+[6:54pm]tatirp:e a sintonia do adobe vai "desconcentrar" a da infralogica
+[6:54pm]fescur:sobre os prototipos: ok, fica de carta na manga. a gente so precisa de papel mesmo pra fazer
+[6:55pm]efeefe:fescur: na real acho bem importante uma outra coisa: consegues preparar uma apresentacaozinha rapida sobe o que levantamos de infralogica ideal ateh agora?
+[6:55pm]fescur:acho que sim, pode ser em cima daquele documento que eu fiz?
+[6:56pm]tatirp:acho que precisa ser uma conversa meio didatica...
+[6:56pm]fescur:tatirp, concordo contigo.
+[6:57pm]tatirp:a gente faz isso logo depois da abertura/apresentacoes?
+[6:57pm]efeefe:fescur: pode sim
+[6:57pm]efeefe:tatirp: acho que sim
+[6:57pm]efeefe:ainda na sexta de manha
+[6:58pm]tatirp:eh, acho melhor pq depois comeca a dispersao e a gente nao consegue mais
+[6:58pm]fescur:ok.
+[6:58pm]tatirp:que horas acham bacana comecarmos?
+[6:59pm]tatirp:na sexta
+[6:59pm]fescur:depois das apresentacoes?
+[6:59pm]tatirp:nao, o comeco de tudo
+[6:59pm]tatirp:to pensando aqui qto tempo a gente precisa
+[6:59pm]tatirp:pra galera nao ficar com fome
+[7:00pm]fescur:ah...vai ser apresentacao E discussao?
+[7:00pm]fescur:acho que por volta de uma hora se for assim
+[7:01pm]tatirp:acham ruim se separar os dois momentos?
+[7:02pm]fescur:eu prefiro fazer tudo junto
+[7:02pm]efeefe:apresentacao das pessoas?
+[7:02pm]efeefe:demora pacas
+[7:03pm]fescur:nao, efeefe, eu to falando da apresentacao da infralogicaideal
+[7:03pm]efeefe:ah, ok
+[7:03pm]tatirp:pois eh
+[7:03pm]efeefe:acho que fazemos entao uma sessao na sexta: apresentacao da infralogica atual, da infralogica ideal e comeco de discussao
+[7:03pm]efeefe:o papo se estende espontaneamente a tarde e noite
+[7:03pm]efeefe:e sabado a gente se reune pra trampar
+[7:03pm]fescur:isso, ai vamos coletando os feedbacks.
+[7:04pm]tatirp:acho que na manha da sexta só vai caber a apresentacao das pessoas e da infralogica atual
+[7:04pm]tatirp:pq soh efeefe fala 1h 
+[7:04pm]efeefe:hahaha
+[7:04pm]fescur:mas tem tanta gente assim pra se apresentar?
+[7:04pm]efeefe:true, true
+[7:04pm]efeefe:cara, nao faco ideia de quanta gente vai
+[7:04pm]fescur:e se a gente se limitar ao nome da pessoa so 
+[7:05pm]tatirp:o fato eh que deve ter mais gente nova do que da rede/lista
+[7:05pm]fescur:a gente leva um apito. passou de 5min, passa a bola 
+[7:05pm]fescur:gente, mas se assim for, dai tem que fazer uma apresentacao geral de metareciclagem mesmo...
+[7:05pm]fescur:dai nao sei nem se cabe falar do site?
+[7:05pm]fescur:ou to viajando?
+[7:06pm]tatirp:acho bom falar do site no comeco, sim
+[7:07pm]efeefe:acho que falar de metareciclagem evitando os erros comuns eh exatamente falar de ferramentas de integracao das acoes descentralizadas
+[7:07pm]efeefe:entao o site pode ser um elemento importante
+[7:07pm]tatirp:efeefe: eh por ai que eu penso
+[7:08pm]fescur:hum, ok. faz sentido
+[7:08pm]tatirp:tb pode ser uma "ilustracao" do que ele eh, a partir da propria historia e dinamica metarec
+[7:08pm]tatirp:os grupos, wiki, etc
+[7:09pm]efeefe:e deixando claro que a gente tah construindo um momento novo a partir do midialivre
+[7:09pm]efeefe:de estruturar melhor essa descentralizacao
+[7:09pm]tatirp:sim
+[7:09pm]efeefe:tem tambem o lance mutirao, que complemena a infralogica, que a maira tah tocando
+[7:10pm]tatirp:acho que no começo o mutirao e citado
+[7:10pm]fescur:isso tudo e uma conversa bem longa
+[7:10pm]tatirp:no domingo a gente pode conversar melhor sobre documentacao
+[7:11pm]tatirp:usando o proprio encontrao como exemplo/exercicio
+[7:11pm]efeefe:pode ser
+[7:11pm]tatirp:e a maira entra com os detalhes
+[7:12pm]tatirp:tem o proprio bando que nem cadastrado no esporo tah
+[7:13pm]efeefe:sim
+[7:13pm]efeefe:tem essa onda de trazer as pessoas pro site
+[7:13pm]efeefe:mostrar o que ele quer ser
+[7:14pm]efeefe:quero fazer uma apresentacao rapida disso
+[7:15pm]tatirp:pode ser um caminho - infralogica, site, mutirao
+[7:15pm]efeefe:legal
+[7:17pm]efeefe:entao, decidimos: 1) vamos fazer na sexta uma apresentacao sobre infralogica. dependendo do ritmo que andar, a gente cobre infralogica atual, infralogica ideal e discussao em cima. no aperto, falamos menos.
+[7:17pm]efeefe:2) no sabado fazemos uma sessao de trabalho em paralelo aa oficina de adobe.
+[7:17pm]efeefe:3) domingo, conversamos sobre mutirao (que tambem tem bastante novidade)
+[7:17pm]efeefe:algo mais?
+[7:17pm]tatirp:pra mim, eh isso
+[7:18pm] You left the chat by being disconnected from the server.
+[7:19pm] You rejoined the room.
+[7:19pm]efeefe:wala fundo!
+[7:25pm]fescur:entao, ficamos assim pessoal?
+[7:25pm]tatirp:acho que sim
+[7:25pm]tatirp:nao sei como ajudar mais com seu arquivo...
+[7:25pm]efeefe:bele
+

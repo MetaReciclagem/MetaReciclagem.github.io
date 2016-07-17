@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - mídia livre</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/585/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Prêmio de Mídia Livre 2009</title>
+ <link>http://rede.metareciclagem.org/blog/12-04-11/Premio-de-Midia-Livre-2009</link>
+ <description>&lt;p&gt;Em 2009, depois de um grande esfor&amp;ccedil;o para conseguir concentrar o foco e &lt;a href=&quot;http://rede.metareciclagem.org/wiki/PremioMidiaLivre&quot; rel=&quot;nofollow&quot;&gt;colocar em texto&lt;/a&gt; um monte de ideias que flanavam soltas ao redor da rede MetaReciclagem, n&amp;oacute;s fomos selecionados (mesmo que em segunda chamada) na primeira edi&amp;ccedil;&amp;atilde;o do Pr&amp;ecirc;mio de M&amp;iacute;dias Livres do Minist&amp;eacute;rio da Cultura. A inscri&amp;ccedil;&amp;atilde;o foi feita atrav&amp;eacute;s da Associa&amp;ccedil;&amp;atilde;o &lt;a href=&quot;http://rede.metareciclagem.org/wiki/AgenteCidadao&quot; rel=&quot;nofollow&quot;&gt;Agente Cidad&amp;atilde;o&lt;/a&gt;, parceiro da MetaReciclagem desde nossa pr&amp;eacute;-hist&amp;oacute;ria. Logo depois da not&amp;iacute;cia da premia&amp;ccedil;&amp;atilde;o, fizemos uma s&amp;eacute;rie de reuni&amp;otilde;es no IRC para conversar sobre como seria aplicado o dinheiro do pr&amp;ecirc;mio. Decidimos por tr&amp;ecirc;s eixos de atua&amp;ccedil;&amp;atilde;o, cada um ficando com cerca de um ter&amp;ccedil;o dos recursos:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;A &lt;a href=&quot;http://rede.metareciclagem.org/conectaz/Infra-Logica&quot; rel=&quot;nofollow&quot;&gt;Infral&amp;oacute;gica&lt;/a&gt;, um grupo de pessoas dedicadas a desenvolver as tecnologias de comunica&amp;ccedil;&amp;atilde;o online que possibilitam o contato, articula&amp;ccedil;&amp;atilde;o e troca entre os projetos de MetaReciclagem espalhados por a&amp;iacute;. Desde ent&amp;atilde;o, o grupo da infral&amp;oacute;gica desenvolveu um &lt;a href=&quot;http://rede.metareciclagem.org/wiki/ProjetoInfraLogica&quot; rel=&quot;nofollow&quot;&gt;planejamento&lt;/a&gt;, uma &lt;a href=&quot;http://rede.metareciclagem.org/wiki/PropostaInterface&quot; rel=&quot;nofollow&quot;&gt;proposta de interface&lt;/a&gt;&amp;nbsp;parcialmente implementada, a atualiza&amp;ccedil;&amp;atilde;o (mais complexa do que a gente imaginava) para a vers&amp;atilde;o 6.x do drupal e uma s&amp;eacute;rie de pequenos prot&amp;oacute;tipos e experi&amp;ecirc;ncias de interface. Ponderamos algumas hip&amp;oacute;teses que foram deixadas de lado, e nos pr&amp;oacute;ximos tempos ainda devem vir mais algumas mudan&amp;ccedil;as.&lt;/li&gt;
+    &lt;li&gt;O &lt;a href=&quot;http://mutirao.metareciclagem.org/&quot; rel=&quot;nofollow&quot;&gt;Mutir&amp;atilde;o da Gambiarra&lt;/a&gt;, que de um esfor&amp;ccedil;o dedicado &amp;agrave; documenta&amp;ccedil;&amp;atilde;o de a&amp;ccedil;&amp;otilde;es de MetaReciclagem transformou-se em um coletivo editorial aut&amp;ocirc;nomo, com projetos pr&amp;oacute;prios e produ&amp;ccedil;&amp;atilde;o constante. O MutGamb ganhou &lt;a href=&quot;http://mutgamb.org&quot; rel=&quot;nofollow&quot;&gt;site pr&amp;oacute;prio&lt;/a&gt;, tem desenvolvido publica&amp;ccedil;&amp;otilde;es peri&amp;oacute;dicas (o &lt;a href=&quot;http://mutgamb.org/mutsaz&quot; rel=&quot;nofollow&quot;&gt;MutSaz&lt;/a&gt;, &amp;quot;Mutir&amp;atilde;o Sazonal&amp;quot;), v&amp;iacute;deos e projetos espec&amp;iacute;ficos. O MutGamb&amp;nbsp;tamb&amp;eacute;m &lt;a href=&quot;http://rede.metareciclagem.org/wiki/MidiaLivre2010&quot; rel=&quot;nofollow&quot;&gt;se inscreveu&lt;/a&gt; e foi selecionado na edi&amp;ccedil;&amp;atilde;o 2010 do Pr&amp;ecirc;mio de M&amp;iacute;dia Livre do Minc.&lt;/li&gt;
+    &lt;li&gt;O eixo MetaRecursos, formado com o objetivo de pesquisar, documentar e implementar alternativas de sustentabilidade, atuando tamb&amp;eacute;m como apoio t&amp;eacute;cnico e administrativo para projetos distribu&amp;iacute;dos de MetaReciclagem. Uma de suas a&amp;ccedil;&amp;otilde;es principais foi a elabora&amp;ccedil;&amp;atilde;o do projeto MicroReciclagem - uma incubadora de projetos baseada em microfinanciamento -, que chegou a ser inscrito no Pr&amp;ecirc;mio Economia Viva do Minc em 2010, mas n&amp;atilde;o levamos.&amp;nbsp;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Por conta de alguns problemas burocr&amp;aacute;ticos recentes na Associa&amp;ccedil;&amp;atilde;o Agente Cidad&amp;atilde;o, a finaliza&amp;ccedil;&amp;atilde;o da implementa&amp;ccedil;&amp;atilde;o da nova interface do site da MetaReciclagem e &lt;em&gt;toda&lt;/em&gt; a fase experimental do projeto MicroReciclagem tiveram que ser adiados por tempo indeterminado. O coletivo MutGamb j&amp;aacute; est&amp;aacute; pesquisando suas pr&amp;oacute;prias formas de sobreviv&amp;ecirc;ncia.&lt;/p&gt;
+&lt;p&gt;No mais, continuamos mantendo as atualiza&amp;ccedil;&amp;otilde;es de seguran&amp;ccedil;a da infral&amp;oacute;gica, fazendo algumas experi&amp;ecirc;ncias de ferramentas e interface e desenvolvendo conceitualmente a plataforma como um todo (inclusive refletindo sobre novas quest&amp;otilde;es que surgem a cada dia), al&amp;eacute;m de prestar apoio a projetos de MetaReciclagem em desenvolvimento. Mas precisamos por algum tempo dar aten&amp;ccedil;&amp;atilde;o a quest&amp;otilde;es mais corriqueiras (subsist&amp;ecirc;ncia, pagar as contas, etc.). Assim que der, voltamos &amp;agrave; carga.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/12-04-11/Premio-de-Midia-Livre-2009#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/metarecursos">metarecursos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/m%C3%ADdia-livre">mídia livre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/pr%C3%AAmios">prêmios</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/M%C3%ADdia-Livre" xmlns="http://drupal.org/project/og">Mídia Livre</group>
+ <pubDate>Wed, 13 Apr 2011 02:43:54 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2030 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Carta de Indicações aos Participantes do Edital Pontos de Mídia Livre 2010</title>
+ <link>http://rede.metareciclagem.org/wiki/Carta-de-Indica%C3%A7%C3%B5es-aos-Participantes-do-Edital-Pontos-de-M%C3%ADdia-Livre-2010</link>
+ <description>&lt;p&gt;Bras&amp;iacute;ılia-DF, Campinas, S&amp;atilde;o Carlos, S&amp;atilde;o Paulo-SP&lt;br /&gt;
+&lt;br /&gt;
+21 de julho de 2010&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Caros Participantes do Pr&amp;ecirc;mio Midias Livres 2010,&lt;br /&gt;
+&lt;br /&gt;
+&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/Carta-de-Indica%C3%A7%C3%B5es-aos-Participantes-do-Edital-Pontos-de-M%C3%ADdia-Livre-2010&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Carta-de-Indica%C3%A7%C3%B5es-aos-Participantes-do-Edital-Pontos-de-M%C3%ADdia-Livre-2010#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/inverno-2010">inverno 2010</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metarecicagem">metarecicagem</category>
+ <category domain="http://rede.metareciclagem.org/assunto/m%C3%ADdia-livre">mídia livre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mutsaz">mutsaz</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Sun, 22 Aug 2010 23:10:20 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">1946 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>liberativismo_br</title>
+ <link>http://rede.metareciclagem.org/wiki/liberativismobr-0</link>
+ <description>&lt;p&gt;
+
+
+
+
+
+ 
+  Normal
+  0
+  
+ 
+
+&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/liberativismobr-0&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/liberativismobr-0#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/m%C3%ADdia-livre">mídia livre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/m%C3%ADdia-t%C3%A1tica-brasil">mídia tática brasil</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/MetaRecursos" xmlns="http://drupal.org/project/og">MetaRecursos</group>
+ <group domain="http://rede.metareciclagem.org/conectaz/Ativismo-Digital" xmlns="http://drupal.org/project/og">Ativismo Digital</group>
+ <pubDate>Fri, 23 Apr 2010 17:31:55 +0000</pubDate>
+ <dc:creator>pedroaquino</dc:creator>
+ <guid isPermaLink="false">1911 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Infralógica - chute inicial</title>
+ <link>http://rede.metareciclagem.org/blog/19-02-10/Infral%C3%B3gica-chute-inicial</link>
+ <description>&lt;p&gt;Nesse ano de 2010 que agora come&amp;ccedil;a (afinal o carnaval acabou de passar) estamos com algumas a&amp;ccedil;&amp;otilde;es bem interessantes por aqui.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/19-02-10/Infral%C3%B3gica-chute-inicial&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/19-02-10/Infral%C3%B3gica-chute-inicial#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/m%C3%ADdia-livre">mídia livre</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Fri, 19 Feb 2010 23:08:48 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1863 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Um amigo preso em Israel</title>
+ <link>http://rede.metareciclagem.org/blog/23-12-09/Um-amigo-preso-em-Israel</link>
+ <description>&lt;p&gt;via lista submidialogia by lelex&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/23-12-09/Um-amigo-preso-em-Israel&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/23-12-09/Um-amigo-preso-em-Israel#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/fsm">fsm</category>
+ <category domain="http://rede.metareciclagem.org/assunto/Jamal-Juma">Jamal Juma</category>
+ <category domain="http://rede.metareciclagem.org/assunto/m%C3%ADdia-livre">mídia livre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/Stop-Wall">Stop the Wall</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/adversos" xmlns="http://drupal.org/project/og">(ad)versos</group>
+ <pubDate>Wed, 23 Dec 2009 16:04:58 +0000</pubDate>
+ <dc:creator>o2</dc:creator>
+ <guid isPermaLink="false">1824 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>vamos parar de nos piratear a nós mesmos</title>
+ <link>http://rede.metareciclagem.org/blog/14-12-09/vamos-parar-de-nos-piratear-n%C3%B3s-mesmos</link>
+ <description>&lt;p&gt;Aparentemente em resposta &amp;agrave; divulga&amp;ccedil;&amp;atilde;o de mat&amp;eacute;ria na &lt;a href=&quot;http://www.revistaforum.com.br/sitefinal/NoticiasIntegra.asp?id_artigo=7841&quot; rel=&quot;nofollow&quot;&gt;Revista F&amp;oacute;rum&lt;/a&gt; e no &lt;a href=&quot;http://www.direitoacomunicacao.org.br/content.php?option=com_content&amp;amp;task=view&amp;amp;id=5917&quot; rel=&quot;nofollow&quot;&gt;Observatorio do Direito a Comunica&amp;ccedil;&amp;atilde;o&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;Fabiane Borges partilha seu contraponto em algumas listas.&lt;/em&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/14-12-09/vamos-parar-de-nos-piratear-n%C3%B3s-mesmos&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/14-12-09/vamos-parar-de-nos-piratear-n%C3%B3s-mesmos#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/fabi-borges">fabi borges</category>
+ <category domain="http://rede.metareciclagem.org/assunto/m%C3%ADdia-livre">mídia livre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/sustentabilidade">sustentabilidade</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/adversos" xmlns="http://drupal.org/project/og">(ad)versos</group>
+ <pubDate>Mon, 14 Dec 2009 15:05:15 +0000</pubDate>
+ <dc:creator>o2</dc:creator>
+ <guid isPermaLink="false">1813 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Prêmio de Mídia Livre</title>
+ <link>http://rede.metareciclagem.org/blog/17-06-09/Pr%C3%AAmio-de-M%C3%ADdia-Livre</link>
+ <description>&lt;p&gt;Pessoal&lt;br /&gt;
+&lt;br /&gt;
+Como foi informado aqui pela lista, eu e a tati prado trabalhamos junto com o Agente Cidad&amp;atilde;o para inscrever a MetaReciclagem no Pr&amp;ecirc;mio de M&amp;iacute;dias Livres. Na classifica&amp;ccedil;&amp;atilde;o, ficamos com 79 pontos, logo abaixo da nota de corte que foi 80. Na semana seguinte ao resultado, entramos com recurso pedindo explica&amp;ccedil;&amp;atilde;o sobre os resultados. Hoje o Agente Cidad&amp;atilde;o recebeu a resposta: fomos reavaliados com 80 pontos, e por isso estamos dentro!&lt;br /&gt;
+&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/17-06-09/Pr%C3%AAmio-de-M%C3%ADdia-Livre&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/17-06-09/Pr%C3%AAmio-de-M%C3%ADdia-Livre#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/m%C3%ADdia-livre">mídia livre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/pr%C3%AAmios">prêmios</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/M%C3%ADdia-Livre" xmlns="http://drupal.org/project/og">Mídia Livre</group>
+ <pubDate>Wed, 17 Jun 2009 15:36:55 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1604 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Aprendizado distribuído – expandindo um comentário</title>
+ <link>http://rede.metareciclagem.org/blog/21-04-09/Aprendizado-distribu%C3%ADdo-%E2%80%93-expandindo-um-coment%C3%A1rio</link>
+ <description>&lt;p&gt;Me interessei pela reflex&amp;atilde;o sobre aprendizado distribu&amp;iacute;do ainda no ano passado e o di&amp;aacute;logo come&amp;ccedil;ou de modo bem modesto, com um simples coment&amp;aacute;rio sobre &amp;ldquo;conte&amp;uacute;do&amp;rdquo; (ou tipos de conte&amp;uacute;do).&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/21-04-09/Aprendizado-distribu%C3%ADdo-%E2%80%93-expandindo-um-coment%C3%A1rio&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/21-04-09/Aprendizado-distribu%C3%ADdo-%E2%80%93-expandindo-um-coment%C3%A1rio#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/aprendizado-distribu%C3%ADdo">aprendizado distribuído</category>
+ <category domain="http://rede.metareciclagem.org/assunto/m%C3%ADdia-livre">mídia livre</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/MetaLearning" xmlns="http://drupal.org/project/og">MetaLearning</group>
+ <pubDate>Tue, 21 Apr 2009 04:43:50 +0000</pubDate>
+ <dc:creator>tatirprado</dc:creator>
+ <guid isPermaLink="false">1580 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Cibersalão Pipa - programação atualizada</title>
+ <link>http://rede.metareciclagem.org/blog/03-04-09/Cibersal%C3%A3o-Pipa-programa%C3%A7%C3%A3o-atualizada</link>
+ <description>&lt;p&gt;&lt;a href=&quot;http://cibersalao.midiatatica.info&quot; rel=&quot;nofollow&quot;&gt;http://cibersalao.midiatatica.info&lt;/a&gt; + &lt;a href=&quot;http://rede.metareciclagem.org/midia/flyer_web.JPG&quot; rel=&quot;nofollow&quot;&gt;Flyer&lt;/a&gt;&lt;br /&gt;
+&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/03-04-09/Cibersal%C3%A3o-Pipa-programa%C3%A7%C3%A3o-atualizada&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/03-04-09/Cibersal%C3%A3o-Pipa-programa%C3%A7%C3%A3o-atualizada#comments</comments>
+ <category domain="http://rede.metareciclagem.org/tags/cibersalao">cibersalao</category>
+ <category domain="http://rede.metareciclagem.org/assunto/m%C3%ADdia-livre">mídia livre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/permacultura">permacultura</category>
+ <category domain="http://rede.metareciclagem.org/assunto/pipa">pipa</category>
+ <category domain="http://rede.metareciclagem.org/assunto/rio-grande-do-norte">rio grande do norte</category>
+ <group domain="http://rede.metareciclagem.org/esporo/Casa-Maluca-Rio-Grande-do-Norte-2005-2009" xmlns="http://drupal.org/project/og">Casa Maluca - Rio Grande do Norte (2005-2009)</group>
+ <pubDate>Fri, 03 Apr 2009 16:50:10 +0000</pubDate>
+ <dc:creator>t</dc:creator>
+ <guid isPermaLink="false">1567 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>MetaReciclagem no prêmio de Mídia Livre</title>
+ <link>http://rede.metareciclagem.org/blog/27-03-09/MetaReciclagem-no-pr%C3%AAmio-de-M%C3%ADdia-Livre</link>
+ <description>&lt;p&gt;Passamos (eu e tati prado escrevendo, algumas pessoas aconselhando e o AgenteCidadao colaborando) os &amp;uacute;ltimos dias trabalhando na inscri&amp;ccedil;&amp;atilde;o da MetaReciclagem no Pr&amp;ecirc;mio de M&amp;iacute;dias Livres do Minc. Estou publicando todo o material produzido para a inscri&amp;ccedil;&amp;atilde;o, e disponibilizando &lt;a href=&quot;http://rede.metareciclagem.org/wiki/PremioMidiaLivre&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;. A montagem do porfolio foi uma das coisas mais prazerosas - rever tanta coisa que foi feita em nome da MetaReciclagem d&amp;aacute; um certo orgulho dessa galera toda.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/27-03-09/MetaReciclagem-no-pr%C3%AAmio-de-M%C3%ADdia-Livre&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/27-03-09/MetaReciclagem-no-pr%C3%AAmio-de-M%C3%ADdia-Livre#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/editais">editais</category>
+ <category domain="http://rede.metareciclagem.org/assunto/m%C3%ADdia-livre">mídia livre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/minc">minc</category>
+ <category domain="http://rede.metareciclagem.org/assunto/pr%C3%AAmios">prêmios</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Fri, 27 Mar 2009 20:56:28 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1561 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

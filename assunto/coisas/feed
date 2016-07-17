@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - coisas</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/923/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Relembrando a interdependência</title>
+ <link>http://rede.metareciclagem.org/blog/07-09-10/Relembrando-interdepend%C3%AAncia</link>
+ <description>&lt;p&gt;As coisas n&amp;atilde;o... Vez em quando me pego querendo come&amp;ccedil;ar a escrever um texto come&amp;ccedil;ando com &amp;quot;as coisas n&amp;atilde;o...&amp;quot;. Agora,&amp;nbsp; para registrar esta data, marcar esta passagem, deixar um tanto das minhas reflex&amp;otilde;es sobre tudo isso, falar voltando no tempo um ano atr&amp;aacute;s, n&amp;atilde;o foi diferente.&amp;nbsp; Mas, por que isto?&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/07-09-10/Relembrando-interdepend%C3%AAncia&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/07-09-10/Relembrando-interdepend%C3%AAncia#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/coisas">coisas</category>
+ <category domain="http://rede.metareciclagem.org/assunto/interdependencia">interdependencia</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metareciclagem">metareciclagem</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mutgamb">mutgamb</category>
+ <category domain="http://rede.metareciclagem.org/assunto/transforma%C3%A7%C3%A3o">transformação</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Wed, 08 Sep 2010 02:15:22 +0000</pubDate>
+ <dc:creator>o2</dc:creator>
+ <guid isPermaLink="false">1952 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

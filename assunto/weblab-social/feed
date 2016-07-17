@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - weblab social</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/343/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Fotos do Weblab Social</title>
+ <link>http://rede.metareciclagem.org/blog/02-09-08/Fotos-do-Weblab-Social</link>
+ <description>&lt;p&gt;Fiz umas &lt;a href=&quot;http://flickr.com/photos/felipefonseca/tags/weblabsocial/&quot; rel=&quot;nofollow&quot;&gt;fotos&lt;/a&gt; no Weblab Social.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://flickr.com/photos/felipefonseca/tags/weblabsocial/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;Weblab Social&quot; src=&quot;http://farm4.static.flickr.com/3278/2811949270_b18fc49321_m.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/02-09-08/Fotos-do-Weblab-Social#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/carandiru">carandiru</category>
+ <category domain="http://rede.metareciclagem.org/assunto/imagens">imagens</category>
+ <category domain="http://rede.metareciclagem.org/assunto/parque-da-juventude">parque da juventude</category>
+ <category domain="http://rede.metareciclagem.org/assunto/sampa">sampa</category>
+ <category domain="http://rede.metareciclagem.org/assunto/s-o-paulo">são paulo</category>
+ <category domain="http://rede.metareciclagem.org/assunto/sp">sp</category>
+ <category domain="http://rede.metareciclagem.org/assunto/weblab-social">weblab social</category>
+ <group domain="http://rede.metareciclagem.org/esporo/metaprojeto" xmlns="http://drupal.org/project/og">Metaprojeto</group>
+ <pubDate>Tue, 02 Sep 2008 18:54:13 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1410 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

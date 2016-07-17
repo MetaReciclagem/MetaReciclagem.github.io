@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - how-to</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/784/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>tutorial para construir gerador de energia sustentavel</title>
+ <link>http://rede.metareciclagem.org/wiki/geradorsustentavel</link>
+ <description>&lt;p&gt;&lt;em&gt;O tutorial abaixo foi extra&amp;iacute;do de um email gentilmente compartilhado pelo Peetssa e que deixo registrado por aqui para uma maior difus&amp;atilde;o deste conhecimento t&amp;atilde;o precioso para a preserva&amp;ccedil;&amp;atilde;o de nosso planeta -- fabs.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+O principio da Corrente Induzida Magneticamente &amp;eacute; simples. Todo im&amp;atilde; tem as polaridades positivo e negativo (alguns preferem dizer norte e sul) portanto quando posicionamos os im&amp;atilde;s lado a lado os opostos se atraem formando um circulo que cont&amp;eacute;m a intermitencia + - que s&amp;atilde;o colocados em movimento ciclico (ex: roda da bicicleta com os im&amp;atilde;s colados lado a lado radialmente). Em outro disco que se mantem est&amp;aacute;tico posicionamos as bobinas de fio de cobre esmaltado que &amp;quot;captam&amp;quot; esta intermitencia dos im&amp;atilde;s gerando uma corrente alternada + -. &amp;Eacute; fundamental marcar todo come&amp;ccedil;o e final de cada bobina, pois se ligar alguma invertida ela anula o resto da fase.&lt;/p&gt;
+&lt;p&gt;As bobinas tem que ser padronizadas, ou seja, devem conter a mesma quantidade de voltas (chamadas espiras), enroladas na mesma dire&amp;ccedil;&amp;atilde;o (caso contrario tambem anula a fase) e dimensionadas conforme as&lt;br /&gt;
+necessidades. Este dimensionamento &amp;eacute; emp&amp;iacute;rico, testes, testes, testes, haja testes... A quantidade de voltas determina a tens&amp;atilde;o (voltagem) e a bitola do fio determina a corrente (amperagem). No caso do gerador P2RCA do video utilizamos fio de cobre 0,8mm com 200 voltas cada.&lt;/p&gt;
+&lt;p&gt;Para a montagem &amp;eacute; necess&amp;aacute;rio seguir uma geometria especifica que, no caso de um gerador de 7 fases, cada fase &amp;eacute; um hexagono com uma bobina em cada v&amp;eacute;rtice, portanto 7 hexagonos com 6 bobinas cada. Uma vez que voc&amp;ecirc; consegue este circulo que contem os 7 hexagonos voce precisa fixar os im&amp;atilde;s de forma que as 6 bobinas do hexagono sejam estimuladas no mesmo instante pois no instante seguinte os im&amp;atilde;s estimular&amp;atilde;o a&lt;br /&gt;
+proxima fase ou hexagono. &amp;Eacute; uma matem&amp;aacute;tica um pouco estranha mas para 42 bobinas (7X6) utilizamos 24 im&amp;atilde;s.&lt;/p&gt;
+&lt;p&gt;A quantidade de im&amp;atilde;s &amp;eacute; relativamente proporcional &amp;agrave; quantidade de energia gerada, portanto dentro da circunferencia do disco de im&amp;atilde;s couberam apenas 24. Pode-se utilzar mais ou menos bobinas o importante &amp;eacute; que seja um n&amp;uacute;mero divisivel por 6 para garantir que o disco de im&amp;atilde;s contenha os hexagonos. No video citamos 48 im&amp;atilde;s e 84 bobinas pois fizemos dois geradores em um para melhor aproveitamento da energia cinetica.&lt;/p&gt;
+&lt;p&gt;A energia gerada &amp;eacute; AC (corrente alternada) e as baterias que utilizei no banco de baterias &amp;eacute; DC (corrente cont&amp;iacute;nua). Para resolver esta quest&amp;atilde;o a corrente passa por uma &amp;quot;ponte de retifica&amp;ccedil;&amp;atilde;o&amp;quot;, ou seja, a onda senoide gerada pela AC (onda senoide &amp;eacute; aquela que se l&amp;ecirc; nos oscilosc&amp;oacute;pios) &amp;eacute; cortada em seu picos e vales formando assim uma curva cortada onde o diferencial de polaridades fica mais pr&amp;oacute;ximo e a corrente mais &amp;quot;reta&amp;quot;. &amp;Eacute; basicamente uma linha tracejada. A ponte de retifica&amp;ccedil;&amp;atilde;o &amp;eacute; feita simplesmente com 4 diodos para cada duas fases.&lt;/p&gt;
+&lt;p&gt;Os diodos funcionam como v&amp;aacute;lvulas, a corrente vai mas n&amp;atilde;o volta e tem que ser ligados dois com a &amp;quot;bundinha&amp;quot; pra baixo (terminal negativo) e outros dois com a &amp;quot;cabe&amp;ccedil;a&amp;quot; pra cima (terminal positivo). O que determina o sentido &amp;eacute; a linha que existe no diodo que diz pra que lado a corrente correr&amp;aacute;. Ligando um ao outro pelas outras duas pontas do diodos que sobraram se obtem as entradas da AC. Procure sempre super-estimar seu gerador pois ap&amp;oacute;s a retifica&amp;ccedil;&amp;atilde;o h&amp;aacute; uma perda consider&amp;aacute;vel de aproximadamente 2/3, por exemplo, se voc&amp;ecirc;&lt;br /&gt;
+conseguiu 21vAC obter&amp;aacute; apenas 7vDC. A velocidade de rota&amp;ccedil;&amp;atilde;o do gerador &amp;eacute; outra equa&amp;ccedil;&amp;atilde;o incompreensivel&lt;br /&gt;
+pois quando voc&amp;ecirc; dobra a velocidade a corrente triplica. Esta especificidade me p&amp;ocirc;s a desenvolver um gerador com circunferencias menores para poder girar mais r&amp;aacute;pido sem estresse dos materiais. imagina uma roda de bicicleta girando a 1200RPM, o sistema n&amp;atilde;o deve suportar nem um ano.&lt;/p&gt;
+&lt;p&gt;Para armazenar energia utilizei na Canhambora 6 baterias de no-break (12vDC/7Ah),&amp;nbsp;chamadas estacion&amp;aacute;rias seladas de baixa manuten&amp;ccedil;&amp;atilde;o, recondicionadas &amp;nbsp;que custam R$ 25,00 cada. Uma bateria de carro custa&lt;br /&gt;
+R$120,00 e n&amp;atilde;o suportam muitos ciclos de carga e recarga, devem durar no m&amp;aacute;ximo um ano enquanto as estacion&amp;aacute;rias (sempre relativo &amp;agrave; demanda e uso) duram entre 2 a 4 anos. Pelo menos o no-break que tenho em casa est&amp;aacute; trabalhando a 5 anos.&lt;/p&gt;
+&lt;p&gt;Para carregar as baterias &amp;eacute; importa pensar na qualidade da carga. Se a bateria &amp;eacute; 12v o ideal &amp;eacute; chegar at&amp;eacute; ela 14,5v (conforme os alternadores de carros) com baixa amperagem. &amp;Eacute; chamada carga lenta que demora mais&lt;br /&gt;
+pra carregar por&amp;eacute;m tamb&amp;eacute;m dura mais. Ap&amp;oacute;s o banco de baterias,&amp;nbsp;no caso de utiliza&amp;ccedil;&amp;atilde;o de equipamentos 110v, pode-se utilzar um inversor 12vDC/110vAC. Caso n&amp;atilde;o tenha equipamentos 110v podemos fazer a rede eletrica com 12v ou menos. Na Canhambora fizemos toda a ilumina&amp;ccedil;&amp;atilde;o com sistema de LED pois consomem apenas 4,5v/800mA, ou seja, em um banco com 6 baterias de 7Ah temos 42Ah, o sistema LED utilza no m&amp;aacute;ximo 1A deixando 41A livres.&lt;/p&gt;
+&lt;p&gt;Para dimensionar o banco de baterias &amp;eacute; necess&amp;aacute;rio saber previamente o consumo em watts do estabelecimento. Por exemplo: 1 geladeira 120w + 1 TV 80w + 150w de ilumina&amp;ccedil;&amp;atilde;o (10 lampadas econ&amp;ocirc;micas de 15w cada) = 350w. Para saber quantos watts voc&amp;ecirc; tem &amp;eacute; s&amp;oacute; multiplicar a tens&amp;atilde;o(volts) pela corrente (amperes). Por exemplo: 6 baterias de 7 Ah cada = 42Ah X 12vDC = 504w. Considere sempre a perda de 25% da corrente entre resistencia, dissipa&amp;ccedil;&amp;atilde;o t&amp;eacute;rmica, etc... 25% de 504 = 126, 504 - 126 = 378w, portanto meu sistema comporta o consumo descrito anteriormente. O ideal &amp;eacute; sempre dar uma folga para o sistema como 400 ou 500w. O banco de baterias da Amazonia est&amp;aacute; com 8baterias X 7Ah cada = 56Ah X 12vDC + 672w. Utilizei um inversor 700w e pretendo consumir apenas 400w com geladeira, ilumina&amp;ccedil;&amp;atilde;o a LED, radio-comunica&amp;ccedil;&amp;atilde;o 12v e baterias de radio, laptop, pilhas recarregaveis de lanternas.&lt;/p&gt;
+&lt;p&gt;O gerador da Amazonia fiz com 120 im&amp;atilde;s e 120 bobinas com 600 voltas cada e bitola 0,4mm, consegui 30v em 1/2 fase a 400RPM. Lembre-se sempre que liga&amp;ccedil;&amp;otilde;es em serie somam voltagem e em paralelo&lt;br /&gt;
+somam amperagem. Assim pode-se ligar as fases em serie at&amp;eacute; atingir a voltagem desejada para depois ligar as restantes em paralelo para aumentar a amperagem.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/watch?v=l-z0lIgBNI4&quot; title=&quot;http://www.youtube.com/watch?v=l-z0lIgBNI4&quot; rel=&quot;nofollow&quot;&gt;http://www.youtube.com/watch?v=l-z0lIgBNI4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.youtube.com/v/uWa5vC_KwSI&quot; title=&quot;http://www.youtube.com/v/uWa5vC_KwSI&quot; rel=&quot;nofollow&quot;&gt;http://www.youtube.com/v/uWa5vC_KwSI&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;Eacute; muita coisa mesmo para pensar, mas todos n&amp;oacute;s sabemos que o que &amp;eacute; sustentavel d&amp;aacute; mais trabalho, por isso que o mundo prefere queimar petroleo ou inundar grandes areas para hidreletricas. Tudo pelo mais&lt;br /&gt;
+f&amp;aacute;cil.&lt;/p&gt;
+&lt;p&gt;Estou nesta pesquisa a apenas 4 meses mas j&amp;aacute; aprendi bastante fu&amp;ccedil;ando e perguntando e acredito plenamente que todo o conhecimento adquirido tem que ser compartilhado e difundido. Infeliz &amp;eacute; aquele que quer tudo pra si.&lt;/p&gt;
+&lt;p&gt;Seguem desenhos das liga&amp;ccedil;&amp;otilde;es das bobinas e da ponte de retifica&amp;ccedil;&amp;atilde;o. Mando tambem um breve video do meu ultimo prototipo para a Amazonia. Quando eu voltar da Amazonia editarei um video como o da Reserva&lt;br /&gt;
+Canhambora. A ideia &amp;eacute; fazer videos-manuais de constru&amp;ccedil;&amp;atilde;o de geradores com lixo tecnologico. Tenho chamado este principio de ENERGIA ALTERNATIVA &amp;quot;LIMPADORA&amp;quot; pois vai al&amp;eacute;m da energia LIMPA por limpar o lixo tecnologico das grandes metropoles.&lt;/p&gt;
+&lt;p&gt;Infelizmente acho que em lagos n&amp;atilde;o &amp;eacute; possivel gerar energia pois voce necessita de energia cin&amp;eacute;tica que existe apenas na &amp;aacute;gua corrente (no caso &amp;aacute;gua). No mar &amp;eacute; possivel pois ele oscila constantemente, mas em&lt;br /&gt;
+um lago a agua est&amp;aacute; praticamente parada. Para materiais graficos, informa&amp;ccedil;&amp;otilde;es, etc... entre em contato com o Mauro Souza, meu parceiro no crime:&amp;nbsp;mauro.a.so (at) gmail.com&lt;/p&gt;
+&lt;p&gt;D&amp;aacute; uma olhada no meu site que tem outras investidas interessantes!&lt;br /&gt;
+&lt;br /&gt;
+Valeu irm&amp;atilde;o!!!&lt;br /&gt;
+Sinto que h&amp;aacute; realmente uma revolu&amp;ccedil;&amp;atilde;o em andamento.&lt;br /&gt;
+Lutando sempre at&amp;eacute; outro come&amp;ccedil;o...&lt;br /&gt;
+Com as pr&amp;oacute;prias m&amp;atilde;os...&lt;br /&gt;
+TODOS TEM PODER&lt;br /&gt;
+PEETSSA&lt;br /&gt;
+&lt;a target=&quot;_blank&quot; href=&quot;http://www.peetssa.com.br/&quot; rel=&quot;nofollow&quot;&gt;www.peetssa.com.br&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/geradorsustentavel#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/energia">energia</category>
+ <category domain="http://rede.metareciclagem.org/assunto/gerador">gerador</category>
+ <category domain="http://rede.metareciclagem.org/assunto/how">how-to</category>
+ <category domain="http://rede.metareciclagem.org/assunto/tutorial">tutorial</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/7p2p-full.gif" length="83878" type="image/gif" />
+ <pubDate>Tue, 17 Nov 2009 11:25:09 +0000</pubDate>
+ <dc:creator>fabs</dc:creator>
+ <guid isPermaLink="false">1794 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

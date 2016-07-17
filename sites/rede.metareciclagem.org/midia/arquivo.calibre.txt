@@ -1,0 +1,88 @@
+Um teste do LYX
+
+efeefe
+
+Sexta-feira, 13 de agosto de 2010
+
+Abstract
+
+Esse texto é teste do software LYX para a diagramação de publicações online.
+
+Part I
+
+O primeiro capítulo Aqui ca o primeiro capítulo. Ele pode ter hyperlinks, notas de rodapé 1,
+
+entradas automáticas para índice remissivo (uau!) , nomenclatura (glossário)e outras coisas que ainda vou investigar.
+
+• Uma
+
+• Lista
+
+• De
+
+• Itens
+
+1. Ou
+
+2. Uma
+
+3. numerada
+
+Também dá pra importar imagens e inserir tabelas. Primeira coluna Segunda coluna Terceira coluna Linhas
+
+Linhas
+
+Linhas
+
+Nota
+
+de
+
+Linhas
+
+Linhas
+
+Linhas
+
+Margem
+
+Caixa de texto.
+
+1notas de rodapé
+
+1
+
+Figure 1:
+
+2
+
+Part II
+
+O segundo capítulo Aqui vem mais coisa. Daquele jeito. 3
+
+Index
+
+entradas pra índice remissivo, 1
+
+4
+
+List of Figures
+
+1
+
+2
+
+List of Tables
+
+Nomenclature
+
+nomenclatura o que é isso? um glossário?
+
+5
+
+Document Outline
+
+��
+
+��
+

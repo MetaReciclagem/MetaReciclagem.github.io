@@ -1,0 +1,175 @@
+Conversation with #metareciclagem at Qua 03 Mar 2010 10:08:15 BRT on efeefe@irc.freenode.org (irc)
+(10:08:26) #metareciclagem: Modo (+o efeefe) por ChanServ
+(10:09:48) efeefe!~felipe@201-42-48-65.dsl.telesp.net.br: efeefe mudou o tópico para: infralogicando
+(10:13:43) fescur: vamos la entao
+(10:13:49) efeefe: manda ver
+(10:13:55) efeefe: dia, fabiano
+(10:14:31) fescur: http://rede.metareciclagem.org/node/add/blog
+(10:14:33) fescur: entra ai
+(10:14:39) fescur: (oi wundo)
+(10:15:18) wundo: ooopa
+(10:16:36) efeefe: so um minuto que deu uma travada aqui]
+(10:16:36) wundo: ontem o dia foi suado
+(10:16:41) efeefe: wundo: eca
+(10:16:51) wundo: trabalhei das 6:30 as 23:40
+(10:16:52) wundo: :/
+(10:17:01) wundo: :/
+(10:17:03) efeefe: opa
+(10:17:14) wundo: (nossa esse emoction é mto feio aqui no colloqy)
+(10:17:16) efeefe: esse garoto vai longe
+(10:17:20) wundo: hahahaha
+(10:17:22) wundo: quem me derá
+(10:17:24) efeefe: me avisa quando ficar rico que eu peco emprestimo
+(10:18:14) efeefe: saquei
+(10:18:17) efeefe: fescur: abri a pagina
+(10:18:40) fescur: t?
+(10:18:54) efeefe: diga
+(10:19:17) fescur: pra mim a pagina comeca a complicar depois do editor de texto
+(10:19:42) efeefe: sim
+(10:19:49) fescur: pra que serve isso: "The ID for excluir ou incluir this element is blog@node/add/blog.edit-body."
+(10:20:05) efeefe: na real, perai
+(10:20:09) wundo: fescur: voce esta com permissoes de admin
+(10:20:15) efeefe: wundo: isso
+(10:20:18) wundo: fescur: efeefe: eu acho que o Vertical tabs resolve esse problema
+(10:20:31) efeefe: manda link
+(10:20:31) fescur: wundo: que vem a ser isso?
+(10:20:54) wundo: http://drupal.org/project/vertical_tabs
+(10:20:54) fescur: eu preciso ver entao o que um usuario normal veria
+(10:20:57) efeefe: fescur: soh pra esclarecer um lance do drupal
+(10:20:58) efeefe: isso
+(10:21:02) efeefe: a gente tem 5 tipos de usuarixs no site
+(10:21:06) wundo: ele transforma a página nisso aqui: http://drupal.org/node/296021
+(10:21:12) wundo: ao invés daqueles montes de textos
+(10:21:31) efeefe: anonimxs, registradxs, metarecicleirxs, editorxs, admins
+(10:21:41) efeefe: com niveis progressivos de permissoes
+(10:22:19) fescur: isso eu sei
+(10:22:32) fescur: a partir de onde pode adicionar conteudo?
+(10:22:36) efeefe: entao, perai. vou criar 1s usuarixs de teste
+(10:22:43) fescur: certo
+(10:26:14) efeefe: acho que soh o testemeta pode blogar
+(10:26:54) fescur: eh
+(10:27:10) fescur: ahhh agora ficou beeem mais simples a pagina...
+(10:27:23) efeefe: sim
+(10:27:43) fescur: ok...vou usar esse usuario entao
+(10:28:14) fescur: agora ficou bem mais tranquilo
+(10:28:44) efeefe: ;)
+(10:28:55) efeefe: a gente vai precisar mostrar essas opcoes pra editorxs e admins
+(10:29:06) efeefe: mas na real acho que esse modulo que o fabiano mostrou pode ser uma solucao
+(10:29:08) fescur: sim
+(10:29:35) fescur: hum...tah, mas eu so vi uma imagenzinha, tem alguma pagina que usa ele mesmo? assim eu posso fazer o layout em cima...
+(10:29:40) efeefe: wundo: tu viu lah que eu comecei a decompor historias em jobs?
+(10:30:13) efeefe: fescur: vou ver se a gente instala o modulo, aih ele fica disponivel pra quem eh admin/editorx
+(10:33:18) fescur: certo
+(10:33:41) fescur: ficarei no aguardo dessa entao
+(10:33:51) efeefe: sim, eu aviso na lista
+(10:33:55) efeefe: mais alguma duvida?
+(10:33:58) fescur: hum...na real acho que era isso
+(10:34:11) fescur: agora que eu estou vendo a pagina de wiki mais simples, se foram as duvidas
+(10:34:28) efeefe: btw, to tirando aquele lance da camada em cima pro link editar
+(10:34:48) fescur: legal, eu acho aquilo meio redundante
+(10:34:50) efeefe: tem uma coisa importante no wiki, que normalmente nao eh muito valorizada no drupal
+(10:34:52) efeefe: revision
+(10:35:07) fescur: sim, eu acho isso importante.
+(10:35:16) efeefe: a gente tem que traduzir melhor isso, mas tambem mostrar
+(10:35:25) fescur: no wp se nao me engano, as revisoes ficam na propria pagina
+(10:35:36) efeefe: é?
+(10:35:39) fescur: no sistema RoR tb
+(10:35:43) fescur: sao os que eu conheco
+(10:35:50) efeefe: como assim na propria pagina?
+(10:36:16) efeefe: me fala o que entendes por revisions
+(10:36:18) fescur: no RoR, quando o cara ta editando a pagina, ela fica dentro de um editor ja, e abaixo ja tem a lista de paginas
+(10:36:19) wundo: efeefe:  nao vi nao
+(10:36:29) fescur: as revisoes de pagina, versoes anteriores, ue
+(10:36:32) wundo: fescur: como assim?
+(10:36:35) efeefe: isso
+(10:36:51) efeefe: wundo: http://rede.metareciclagem.org/wiki/InfraLogicaTarefas
+(10:36:54) fescur: deixa ver se eu consigo um printscreen
+(10:37:00) efeefe: ok
+(10:37:04) wundo: fescur: svp
+(10:40:23) fescur: svp?
+(10:40:54) efeefe: s'il vous plait
+(10:41:28) efeefe: fescur:  tu viu que tem o box de grupos tambem, neh?
+(10:41:42) efeefe: talvez a gente possa fazer isso diferente, nao sei
+(10:43:02) fescur: ahhh nao to conseguindo entrar la
+(10:43:18) efeefe: onde?
+(10:43:21) fescur: vi, mas ele sumiu quando eu entrei como metateste
+(10:43:27) fescur: no site que eu queria fazer o printscreen
+(10:43:31) efeefe: saquei
+(10:43:44) efeefe: o metateste accho que nao tah cadastrado em nenhum grupo
+(10:45:36) fescur: ah, o box tem os grupos dos quais eu faco parte?
+(10:46:10) efeefe: a principio, deveria mostrar todos os grupos
+(10:46:16) efeefe: primeiro os que tu faz parte, depois os outros
+(10:47:19) fescur: hum, mas nao mostra nenhum agora
+(10:48:19) efeefe: deixa eu confirmar uma coisa
+(10:49:51) efeefe: ve agora
+(10:51:07) fescur: agora aparece o unico grupo a qual eu pertenco (infralogica)
+(10:51:15) efeefe: eh isso
+(10:51:19) fescur: quer dizer, esse usuario ai
+(10:51:31) efeefe: acho que soh admins vao poder mandar pra grupos a que nao estao cadastrados
+(10:51:34) efeefe: o que faz sentido, acho
+(10:51:47) fescur: sim
+(10:52:15) fescur: e os modulos que ficam fechados, e tem que clicar pra abrir...deixamos assim?
+(10:52:17) fescur: tipo
+(10:52:24) fescur: arquivos anexados
+(10:52:34) wundo: sim
+(10:52:55) efeefe: nao sei
+(10:53:05) efeefe: nao eh muito claro isso
+(10:53:43) fescur: lembro que eu tive que fu?ar bastante pra achar as coisas, a primeira vez que fui escrever e adicionar arquivos
+(10:54:06) efeefe: acho que tudo podia estar mais claro
+(10:54:09) efeefe: todas as opcoes ali
+(10:55:38) efeefe: wundo: tava pensando aqui tambem que tem um jeito de descobrir mais ou menos quem nao conseguiu receber a senha quando o smtp tava off
+(10:55:45) fescur: ok
+(10:56:16) efeefe: wundo: tava vendo admin/user/user, e tem uma longa fileira de usuarixs registradxs que nunca acessaram
+(10:56:22) efeefe: ateh ha "18 semanas 4 dias"
+(10:56:31) efeefe: usuarix 821
+(10:56:50) efeefe: a principio, acho que dah pra afirmar que todxs usuarixs acima do uid 821 tiveram problemas, neh?
+(10:56:59) efeefe: teve 2 ou 3 que eu mandei a senha direto
+(10:57:32) wundo: efeefe: putz isso é meeega dor de cabesa
+(10:57:41) efeefe: por que?
+(10:57:51) wundo: efeefe: podemos assumir isso sim
+(10:58:04) efeefe: se a gente errar meia duzia de usuarixs, nao tem problema
+(10:58:08) wundo: da trabalho ter certeza quem realmente nao recebeu
+(10:58:17) wundo: mas se a gente só mandar pra td mundo
+(10:58:19) wundo: nao da nada
+(10:58:23) efeefe: podemos mandar um email pra todo mundo entre uid x e uid y
+(10:58:32) efeefe: eu quase mandei um spam geralzao
+(10:58:45) efeefe: mas aih pensei no meu smtp, e tal. nao quero ser considerado spammer ;
+(10:59:17) efeefe: acho que eh do uid 821 ao uid 904
+(11:00:40) efeefe: fescur: outra coisa que merece um penso eh a exibicao de comentarios
+(11:00:42) efeefe: http://rede.metareciclagem.org/blog/01-03-10/Avisos-por-e-mail#comment-165
+(11:01:00) fescur: sim, ja havia pensado nisso
+(11:01:42) efeefe: ah
+(11:01:46) efeefe: reabilitei os mapas gerais
+(11:02:11) efeefe: http://rede.metareciclagem.org/map/node
+(11:02:14) fescur: isso jah vai entrar no redesign da pagina de post mesmo
+(11:02:43) efeefe: tem um mapa de usuarixs tambem, mas por enquanto nao to liberando o acesso dele pra publico
+(11:02:46) efeefe: acho meio complicado
+(11:02:52) efeefe: privacidade e tal
+(11:02:57) efeefe: mas admins podem ver ;)
+(11:02:58) efeefe: http://rede.metareciclagem.org/map/user
+(11:04:09) efeefe: ali a gente ve que nao tem nenh1 metarecicleix em campinas :P
+(11:04:31) fescur: legal
+(11:04:43) fescur: (o mapa, nao que nao tem metarecicleiro em campinas)
+(11:05:32) fescur: buenas, acho que pra mim era isso
+(11:05:35) fescur: posso seguir aqui.
+(11:05:43) efeefe: ok
+(11:05:46) efeefe: qualquer coisa pergunta na lista
+(11:07:54) fescur: certo
+(11:07:56) wundo: ahauhauhauahuauha
+(11:08:03) wundo: efeefe: vergonha né?
+(11:08:26) ***wundo apanhando do photoshop
+(11:08:35) efeefe: posso ajudar?
+(11:08:44) wundo: efeefe: sobre o spam
+(11:08:49) wundo: 80 pessoas não é spam
+(11:08:50) wundo: efe
+(11:08:50) wundo:  
+(11:09:02) efeefe: sim, isso eh mais facil
+(11:09:11) efeefe: eu tinha pensado em mandar uma mensagem pra todo mundo que tah cadastradx
+(11:09:12) efeefe: 900
+(11:10:47) fescur: to dispensada da reuniao?
+(11:10:59) efeefe: sim, senhora
+(11:11:10) efeefe: manda as telas quando terminar?
+(11:11:19) efeefe: embreve a gente vai precisar conversar sobre a home
+(11:11:47) fescur: mando
+(11:11:48) fescur: ok
+(11:11:50) fescur: bjs

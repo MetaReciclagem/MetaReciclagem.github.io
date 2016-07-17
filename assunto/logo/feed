@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - logo</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/1065/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>metalogos</title>
+ <link>http://rede.metareciclagem.org/blog/18-07-11/metalogos</link>
+ <description>&lt;p&gt;&lt;img align=&quot;absMiddle&quot; width=&quot;520&quot; height=&quot;213&quot; alt=&quot;&quot; src=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/metalogossemtexto.png&quot; /&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/18-07-11/metalogos#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/3setas">3setas</category>
+ <category domain="http://rede.metareciclagem.org/assunto/logo">logo</category>
+ <category domain="http://rede.metareciclagem.org/assunto/logomarca">logomarca</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metareciclagem">metareciclagem</category>
+ <category domain="http://rede.metareciclagem.org/assunto/tamojunto">tamojunto</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/metalogossemtexto.png" length="1369143" type="image/png" />
+ <group domain="http://rede.metareciclagem.org/conectaz/Dpaduando" xmlns="http://drupal.org/project/og">Dpaduando</group>
+ <pubDate>Mon, 18 Jul 2011 05:35:38 +0000</pubDate>
+ <dc:creator>o2</dc:creator>
+ <guid isPermaLink="false">2055 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - conceito</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/581/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>MutiraoApocalipticosIntegradoseHackers</title>
+ <link>http://rede.metareciclagem.org/wiki/MutiraoApocalipticosIntegradoseHackers</link>
+ <description>&lt;p&gt;&lt;b&gt;Apocal&amp;iacute;pticos, integrados e... hackers&lt;/b&gt;&lt;br /&gt;
+De Paulo Bicarato, 31/03/2006&lt;br /&gt;
+&lt;br /&gt;
+Umberto Eco deve, certamente, rever hoje seus conceitos de *apocal&amp;iacute;pticos e integrados*. Diante das possibilidades oferecidas pelas novas tecnologias, resumir as gentes que fazem e consomem informa&amp;ccedil;&amp;atilde;o e comunica&amp;ccedil;&amp;atilde;o nestas duas classifica&amp;ccedil;&amp;otilde;es ficou completamente sem sentido.&lt;br /&gt;
+&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/MutiraoApocalipticosIntegradoseHackers&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/MutiraoApocalipticosIntegradoseHackers#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/conceito">conceito</category>
+ <category domain="http://rede.metareciclagem.org/assunto/hacker">hacker</category>
+ <category domain="http://rede.metareciclagem.org/assunto/hackers">hackers</category>
+ <category domain="http://rede.metareciclagem.org/assunto/hacking">hacking</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mutir%C3%A3o-da-gambiarra">mutirão da gambiarra</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Sat, 05 Sep 2009 16:38:04 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">1738 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>MutiraoTeoriadaPratica</title>
+ <link>http://rede.metareciclagem.org/wiki/MutiraoTeoriadaPratica</link>
+ <description>&lt;h1 class=&quot;title&quot;&gt;A teoria da pr&amp;aacute;tica da teoria, e vice-versa&lt;/h1&gt;
+&lt;p&gt;Todo o processo de desenvolvimento da &lt;a rel=&quot;nofollow&quot; href=&quot;http://mutirao.metareciclagem.org/freelinking/MetaReciclagem&quot; rel=&quot;nofollow&quot;&gt;MetaReciclagem&lt;/a&gt; foi constru&amp;iacute;do colaborativamente, por meio de profundo di&amp;aacute;logo entre aquelas pessoas mais voltadas &amp;agrave; pr&amp;aacute;tica e aquelas de base mais te&amp;oacute;rica. Nesse sentido, ela est&amp;aacute; carregada de diversas refer&amp;ecirc;ncias conceituais e simb&amp;oacute;licas, expl&amp;iacute;citas ou veladas.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/MutiraoTeoriadaPratica&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/MutiraoTeoriadaPratica#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/conceito">conceito</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mutir%C3%A3o-da-gambiarra">mutirão da gambiarra</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Fri, 04 Sep 2009 17:37:27 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">1732 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Projeto Casa Maluca</title>
+ <link>http://rede.metareciclagem.org/wiki/Projeto-Casa-Maluca</link>
+ <description>&lt;p&gt;Leia mais sobre o projeto aqui: &lt;a href=&quot;http://pub.descentro.org/casa_maluca&quot; title=&quot;http://pub.descentro.org/casa_maluca&quot; rel=&quot;nofollow&quot;&gt;http://pub.descentro.org/casa_maluca&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Projeto-Casa-Maluca#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/conceito">conceito</category>
+ <category domain="http://rede.metareciclagem.org/assunto/id%C3%A9ias">idéias</category>
+ <category domain="http://rede.metareciclagem.org/assunto/rio-grande-do-norte">rio grande do norte</category>
+ <group domain="http://rede.metareciclagem.org/esporo/Casa-Maluca-Rio-Grande-do-Norte-2005-2009" xmlns="http://drupal.org/project/og">Casa Maluca - Rio Grande do Norte (2005-2009)</group>
+ <pubDate>Fri, 13 Mar 2009 17:52:58 +0000</pubDate>
+ <dc:creator>t</dc:creator>
+ <guid isPermaLink="false">1547 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

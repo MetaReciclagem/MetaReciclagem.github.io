@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - pub</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/670/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>MutiraoPrimeiraEdicao</title>
+ <link>http://rede.metareciclagem.org/wiki/MutiraoPrimeiraEdicao</link>
+ <description>&lt;p&gt;Primeira edi&amp;ccedil;&amp;atilde;o do Mutir&amp;atilde;o da Gambiarra, contando a hist&amp;oacute;ria da MetaReciclagem e hist&amp;oacute;rias de MetaReciclagem. J&amp;aacute; est&amp;aacute; &lt;em&gt;dispon&amp;iacute;vel para download&lt;/em&gt; a vers&amp;atilde;o beta, e tamb&amp;eacute;m o arquivo ODT aberto com todos os textos. A partir de agora, n&amp;atilde;o vamos adicionar nem retirar nenhum texto, s&amp;oacute; fazer eventuais corre&amp;ccedil;&amp;otilde;es e ajustes.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/MutiraoPrimeiraEdicao&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/MutiraoPrimeiraEdicao#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/livro">livro</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mutir%C3%A3o-da-gambiarra">mutirão da gambiarra</category>
+ <category domain="http://rede.metareciclagem.org/assunto/pub">pub</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Wed, 02 Sep 2009 16:38:53 +0000</pubDate>
+ <dc:creator>o2</dc:creator>
+ <guid isPermaLink="false">1713 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>InterDependencia</title>
+ <link>http://rede.metareciclagem.org/wiki/InterDependencia</link>
+ <description>&lt;h1&gt;7/9/9&lt;/h1&gt;
+&lt;p&gt;Dia da in(ter)depend&amp;ecirc;ncia! A rede MetaReciclagem convoca todxs integrantes e interessadxs&amp;nbsp;a &lt;span&gt;postar&lt;/span&gt; sobre sensibilidade low-tech, aprendizados e trocas em rede, produ&amp;ccedil;&amp;atilde;o distribu&amp;iacute;da, gambiarra, fa&amp;ccedil;a-voc&amp;ecirc;-mesmx e qualquer outro assunto que esteja por perto. Nos interessam textos, causos, hist&amp;oacute;rias, imagens, v&amp;iacute;deos, links, ideias, insights. Enfim, qualquer coisa que voc&amp;ecirc; ache interessante no contexto da MetaReciclagem.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/InterDependencia&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/InterDependencia#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/blogagem-coletiva">blogagem coletiva</category>
+ <category domain="http://rede.metareciclagem.org/assunto/eventos">eventos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metablog">metablog</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mundo">mundo</category>
+ <category domain="http://rede.metareciclagem.org/assunto/pub">pub</category>
+ <category domain="http://rede.metareciclagem.org/assunto/rede">rede</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Sat, 22 Aug 2009 01:40:15 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1651 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

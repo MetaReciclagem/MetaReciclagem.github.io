@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>MetaReciclagem - campinas</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/254/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>MetaCampinas</title>
+ <link>http://rede.metareciclagem.org/wiki/MetaCampinas</link>
+ <description>&lt;p&gt;= MetaReciclagem Campinas = &lt;br /&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Ver tamb&amp;eacute;m: CampinasConvenio, CampinasCurso&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/MetaCampinas&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/MetaCampinas#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/campinas">campinas</category>
+ <group domain="http://rede.metareciclagem.org/esporo/MetaCampinas" xmlns="http://drupal.org/project/og">MetaCampinas</group>
+ <pubDate>Mon, 16 Jun 2008 23:06:28 +0000</pubDate>
+ <dc:creator>dmartins</dc:creator>
+ <guid isPermaLink="false">1265 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>MetaCampinas</title>
+ <link>http://rede.metareciclagem.org/esporo/MetaCampinas</link>
+ <description>&lt;div class=&quot;form-item&quot;&gt;
+ &lt;label&gt;Descrição: &lt;/label&gt;
+ Esporo de MetaReciclagem em Campinas
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-situacao-esporo&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Situação do Esporo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    encerrado        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+  &lt;h3 class=&quot;location-locations-header&quot;&gt;Localização&lt;/h3&gt;
+  &lt;div class=&quot;location-locations-wrapper&quot;&gt;
+          &lt;div class=&quot;location vcard&quot;&gt;
+  &lt;div class=&quot;adr&quot;&gt;
+          &lt;span class=&quot;fn&quot;&gt;Campinas&lt;/span&gt;
+                  &lt;span class=&quot;locality&quot;&gt;Campinas&lt;/span&gt;,               &lt;span class=&quot;region&quot;&gt;SP&lt;/span&gt;
+                  &lt;div class=&quot;country-name&quot;&gt;Brazil&lt;/div&gt;
+                                        &lt;span class=&quot;geo&quot;&gt;&lt;abbr class=&quot;latitude&quot; title=&quot;-22.908151&quot;&gt;22° 54&#039; 29.3436&quot; S&lt;/abbr&gt;, &lt;abbr class=&quot;longitude&quot; title=&quot;-47.063467&quot;&gt;47° 3&#039; 48.4812&quot; W&lt;/abbr&gt;&lt;/span&gt;
+            &lt;/div&gt;
+      &lt;div class=&quot;map-link&quot;&gt;
+      &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com.br?q=-22.908151+-47.063467+%28Campinas%2C%2C+Campinas%2C+SP%2C+%2C+br%29&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/esporo/MetaCampinas#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/campinas">campinas</category>
+ <georss:point>-22.908151 -47.063467</georss:point>
+ <pubDate>Mon, 16 Jun 2008 23:05:46 +0000</pubDate>
+ <dc:creator>dmartins</dc:creator>
+ <guid isPermaLink="false">1264 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

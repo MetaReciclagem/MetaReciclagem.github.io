@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - robotica-livre</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/751/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Kit Didático de Robótica-Livre</title>
+ <link>http://rede.metareciclagem.org/blog/25-09-09/Kit-Did%C3%A1tico-de-Rob%C3%B3tica-Livre</link>
+ <description>&lt;p&gt;Finalmente consegui retonar ao projeto de rob&amp;oacute;tica-livre no weblab-social (metaprojeto);&lt;/p&gt;
+&lt;p&gt;Nessa segunda vai come&amp;ccedil;ar a oficina das 14hs as 16hs, a ideia &amp;eacute; aproveitar a energia da para produzir um Kit&amp;nbsp; Did&amp;aacute;tico de Rob&amp;oacute;tica-Livre, escrevi mais a respeito na p&amp;aacute;gina da &lt;a href=&quot;http://rede.acessasp.sp.gov.br/&quot; rel=&quot;nofollow&quot;&gt;rede de projetos&lt;/a&gt; do &lt;a href=&quot;http://www.acessasp.sp.gov.br&quot; rel=&quot;nofollow&quot;&gt;acessasp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rede.acessasp.sp.gov.br/?q=node/185&quot; title=&quot;http://rede.acessasp.sp.gov.br/?q=node/185&quot; rel=&quot;nofollow&quot;&gt;http://rede.acessasp.sp.gov.br/?q=node/185&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;e replico o formato a seguir:&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/25-09-09/Kit-Did%C3%A1tico-de-Rob%C3%B3tica-Livre&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/25-09-09/Kit-Did%C3%A1tico-de-Rob%C3%B3tica-Livre#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/hardware-livre">hardware-livre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metareciclagem">metareciclagem</category>
+ <category domain="http://rede.metareciclagem.org/assunto/pesquisas">pesquisas</category>
+ <category domain="http://rede.metareciclagem.org/assunto/robotica-livre">robotica-livre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/software-livre">software-livre</category>
+ <group domain="http://rede.metareciclagem.org/esporo/metaprojeto" xmlns="http://drupal.org/project/og">Metaprojeto</group>
+ <pubDate>Fri, 25 Sep 2009 02:36:59 +0000</pubDate>
+ <dc:creator>guimasan</dc:creator>
+ <guid isPermaLink="false">1771 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - web2</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/357/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>DialogosCasinhaBastos</title>
+ <link>http://rede.metareciclagem.org/wiki/DialogosCasinhaBastos</link>
+ <description>&lt;p&gt;&lt;a rel=&quot;nofollow&quot; href=&quot;../../../../../../wiki/Di%C3%A1logos-na-Casinha&quot; rel=&quot;nofollow&quot;&gt;Di&amp;aacute;logos na Casinha&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Conversa com Marcus Bastos em &lt;a rel=&quot;nofollow&quot; href=&quot;http://metareciclagem.org/drupal/evento/ciclo-gambiarra-dialogo-na-casinha-marcus-bastos&quot; rel=&quot;nofollow&quot;&gt;05/06/07&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Proposta original&lt;/strong&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/DialogosCasinhaBastos&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/DialogosCasinhaBastos#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/colabora%C3%A7%C3%A3o">colaboração</category>
+ <category domain="http://rede.metareciclagem.org/assunto/conversas">conversas</category>
+ <category domain="http://rede.metareciclagem.org/assunto/internet">internet</category>
+ <category domain="http://rede.metareciclagem.org/assunto/web2">web2</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/midia/log_05_06_07.txt" length="14102" type="text/plain" />
+ <group domain="http://rede.metareciclagem.org/conectaz/Ciclo-Gambiarra" xmlns="http://drupal.org/project/og">Ciclo Gambiarra</group>
+ <pubDate>Mon, 08 Sep 2008 20:59:12 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1420 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

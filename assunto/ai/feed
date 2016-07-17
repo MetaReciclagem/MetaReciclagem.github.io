@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - ai</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/775/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>PropostaInterFace</title>
+ <link>http://rede.metareciclagem.org/wiki/PropostaInterFace</link>
+ <description>&lt;p&gt;Organizando uma consulta a aliadxs sobre a proposta de nova interface para o site da MetaReciclagem. Se poss&amp;iacute;vel, sigam esta ordem:&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/PropostaInterFace&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/PropostaInterFace#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/ai">ai</category>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/interface">interface</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/projeto_infralogica_metareciclagem_1.pdf" length="46006" type="application/pdf" />
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Mon, 08 Mar 2010 21:20:21 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1880 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Listagens e agregador</title>
+ <link>http://rede.metareciclagem.org/wiki/Listagens-e-agregador</link>
+ <description>&lt;p&gt;&amp;nbsp;Reuni&amp;atilde;o por chat enfre &lt;a href=&quot;/pessoa/felipefonseca&quot; rel=&quot;nofollow&quot;&gt;efeefe&lt;/a&gt; e &lt;a href=&quot;/pessoa/Fernanda&quot; rel=&quot;nofollow&quot;&gt;Fernanda&lt;/a&gt;. Conversamos sobre as novas telas que ela fez. Acertamos alguns detalhes. Ela ficou de entregar, antes da pr&amp;oacute;xima reuni&amp;atilde;o com todo mundo, mais tr&amp;ecirc;s telas: lista de teasers de blog, p&amp;aacute;gina individual de wiki ou blog e p&amp;aacute;gina de adicionar conte&amp;uacute;do.&lt;/p&gt;
+&lt;p&gt;Log &lt;a href=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/log_26021010_0.txt &quot; rel=&quot;nofollow&quot;&gt;em anexo&lt;/a&gt;.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Listagens-e-agregador#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/ai">ai</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/interface">interface</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/log_26021010_0.txt" length="15275" type="text/plain" />
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Sat, 27 Feb 2010 21:55:02 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1868 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Encontro IRC - Interface Infralógica - Dashboard</title>
+ <link>http://rede.metareciclagem.org/wiki/Encontro-IRC-Interface-Infralogica-Dashboard</link>
+ <description>&lt;p&gt;Primeira reuni&amp;atilde;o online de brainstorm para a interface da infral&amp;oacute;gica.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Presentes:&lt;/strong&gt; efeefe, fernanda, tati prado, yaso, varga, wundo&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/Encontro-IRC-Interface-Infralogica-Dashboard&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Encontro-IRC-Interface-Infralogica-Dashboard#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/ai">ai</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/interface">interface</category>
+ <category domain="http://rede.metareciclagem.org/assunto/irc">irc</category>
+ <category domain="http://rede.metareciclagem.org/assunto/reuni%C3%B5es">reuniões</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/irc_infralogica_090210.txt" length="37980" type="text/plain" />
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Wed, 10 Feb 2010 16:33:41 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1853 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>AI da Homepage</title>
+ <link>http://rede.metareciclagem.org/wiki/AI-da-Homepage</link>
+ <description>&lt;p&gt;&amp;nbsp;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/AI-da-Homepage&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/AI-da-Homepage#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/ai">ai</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/midia/analise-home.pdf" length="260775" type="application/pdf" />
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Mon, 16 Feb 2009 15:23:20 +0000</pubDate>
+ <dc:creator>Fernanda</dc:creator>
+ <guid isPermaLink="false">1537 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

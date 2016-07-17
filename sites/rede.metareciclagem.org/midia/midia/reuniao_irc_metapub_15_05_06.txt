@@ -1,0 +1,719 @@
+Conversation with #metareciclagem at 2006-05-15 19:57:30 on felipefonseca@irc.freenode.net (irc)
+(19:57:36) felipefonseca: alous
+(19:57:40) paulinho: oi
+(19:58:02) felipefonseca: paulinho?
+(19:58:06) felipefonseca: liquuid: tah na area?
+(19:58:11) paulinho: portuga
+(19:58:11) liquuid: yeap
+(19:58:59) Tupi [n=icechat5@200.207.190.14] entrou na sala.
+(19:59:36) paulinho saiu da sala ("Leaving").
+(19:59:51) felipefonseca: ixe, cade o portuga?
+(19:59:56) felipefonseca: liquuid: preciso de ajuda
+(20:00:02) felipefonseca: banto: opeia nois tudo!
+(20:00:34) liquuid: felipefonseca: diga
+(20:00:55) Tupi: fmz manos!
+(20:00:55) felipefonseca: mysql fora, de novo
+(20:00:57) felipefonseca: isso acaba logo
+(20:01:01) felipefonseca: com servidor na holanda
+(20:01:09) felipefonseca: e gente pra administrar
+(20:01:12) felipefonseca: fala, tupi
+(20:01:38) Tupi: e' nois!
+(20:01:52) p [n=paulinho@200-158-198-146.dsl.telesp.net.br] entrou na sala.
+(20:02:14) p: mudei de nome...
+(20:02:48) felipefonseca: belez
+(20:02:56) Tupi: pela ordem
+(20:03:06) liquuid: me passa o server, usuário , senha e uma conta pro no flickr que ele volta
+(20:03:06) p: e aí panico em sp?
+(20:03:06) felipefonseca: liquuid: server fora
+(20:03:12) felipefonseca: ahahah
+(20:03:16) felipefonseca: conta pro no flickr, quanto eh?
+(20:03:26) liquuid: US$ 24,95
+(20:03:38) felipefonseca: se puder esperar mes que vem, tah fechadi
+(20:03:46) felipefonseca: mas ai tu me ajuda na migracao de tudo pro server novo...
+(20:03:56) liquuid: posso tentar
+(20:04:26) Tupi: se incluir as fotos nas comunidades do flickr, nao desaparece
+(20:04:31) Tupi: acho
+(20:05:15) felipefonseca: liquuid: usuario e senha no servidor tu jah tem
+(20:05:20) felipefonseca: sudoer
+(20:05:22) felipefonseca: 201.6.103.134
+(20:08:07) marc [n=marc@200-158-152-141.dsl.telesp.net.br] entrou na sala.
+(20:08:46) marc: ohia eu ... noite !
+(20:08:56) p: noite
+(20:09:05) Tupi: fmz?
+(20:09:26) marc: bele
+(20:09:34) marc: cade o povo?
+(20:10:18) p: neste momento o liquuid está dentro da máquina do fff e nao pode responder, acho...
+(20:11:02) felipefonseca: liquuid tah aqui ainda nao :(
+(20:11:08) felipefonseca: mysql fora do ar, de novo
+(20:11:19) p: ahhh entendi.
+(20:11:45) liquuid: galera tá rolando um mega batidão, fecharam minha rua es estão revistando tudo, já volto
+(20:11:52) p: e fora isso, as idéias de esporo fixo em sampa, como é que vao andando?
+(20:11:55) marc: iiiihhh, que droga. 
+(20:12:03) p: essa foi imprevista... panico em sp...
+(20:12:53) marc: boatos em cascata... mas a coisa tah feia ...
+(20:13:33) felipefonseca: panico em sampa
+(20:13:36) felipefonseca: muito boato
+(20:13:43) felipefonseca: mas o transito tah realmente uma merda
+(20:13:46) p: tá mesmo, me ligaram da tugolândia (.pt) até pessoas que nunca tinham ligado a perguntar se está tudo bem :-)
+(20:14:05) felipefonseca: putz, minha familia no sul, tambem, meia duzia de ligacoes hojhe
+(20:14:12) Tupi: tiozinho ta' pondo a culpa na internet
+(20:14:54) Tupi: http://www1.folha.uol.com.br/folha/informatica/ult124u20010.shtml
+(20:15:19) felipefonseca: eu ouvi no radio a declaracao do chefe da pM
+(20:15:26) felipefonseca: reclamou "dos orkuts"
+(20:15:34) felipefonseca: daqui a pouco vao querer regulamentar
+(20:15:38) felipefonseca: bom eh que nao passa
+(20:16:04) p: claro. busao.burn().now :-) a culpa eh da net e dos hackers do pcc
+(20:16:22) felipefonseca: hahaha
+(20:16:27) felipefonseca: essa internet eh fogo
+(20:16:31) felipefonseca: tem que mandar prende-la!
+(20:17:38) p: um busao meio-queimado seria um puta esporo...
+(20:17:54) felipefonseca: demorou, vamo rebocar com metamovel
+(20:17:58) felipefonseca!n=felipe@201.6.103.134: felipefonseca mudou o tópico para: metapub
+(20:18:03) felipefonseca: comecar a conversa?
+(20:18:08) p: isso!
+(20:18:49) Tupi: e' nois
+(20:19:39) felipefonseca: problema eh que o wiki tah fora do ar
+(20:20:04) liquuid: Tem um busão aqui, é só rebocar
+(20:20:10) p: o liquuid conserta depois do sacode...
+(20:20:16) liquuid: tirei umas fotos de violência policial hehhe
+(20:20:19) felipefonseca: voces todos leram o que jah tinha lah?
+(20:20:25) felipefonseca: liquuid: manda no cmi!
+(20:21:19) p: acho que quase tudo, mas meio por alto. resumos?
+(20:23:06) felipefonseca: resumindo
+(20:23:10) felipefonseca: esporo no olido jah era
+(20:23:20) felipefonseca: naturalmente vao surgir outros espacos
+(20:23:35) felipefonseca: minha ideia eh estimular a criacao de um espaco que se sustente sozinho
+(20:23:39) liquuid: as fotos ficaram ruins, n]ao deu pra ver na hora que o policial tava distribuindo tapas na galera hehheh
+(20:23:49) felipefonseca: sem precisar de apoios de prefeitura ou ministerios para se manter de peh
+(20:23:51) felipefonseca: contas basicas
+(20:24:00) felipefonseca: aluguel, energia, internet, poh de cafeh
+(20:24:09) felipefonseca: papel higienico tambem
+(20:24:24) liquuid: Problema é que grana constante vai ser mais simples que pessoal constante
+(20:24:32) felipefonseca: ateh hoje, a gente foi muito desorganizado pra manter uma coisa assim
+(20:24:33) p: quero, estou desempregado, moro a zona oeste, passo um cafeh muito bom, e quero ser zelador, pode?
+(20:24:38) felipefonseca: pessoal constante vai ter que vir de outras coisas
+(20:24:59) felipefonseca: a ideia eh que as coisas basicas desse espaco nao paguem pessoas
+(20:25:10) felipefonseca: mas a gente pode usa-lo como sede de projetos que eventualmente banquem pessoas
+(20:25:21) liquuid: isso vai ter que ser muito bem orquestrado...
+(20:25:32) p: essa é a idéia que tinha entendido.
+(20:25:37) felipefonseca: um problema que a gente teve com olido eh que nao dava pra cobrar por nada nem vender nada
+(20:25:41) felipefonseca: bem orquestrado, sim
+(20:25:50) liquuid: O pessoal ho MH consegue isso, mas o espaço fica fechado boa parte da semana
+(20:26:05) felipefonseca: a ideia eh uma parte da grana vir de um acordo com o agente cidadao
+(20:26:08) felipefonseca: bem organizado
+(20:26:10) felipefonseca: estruturado 
+(20:26:11) felipefonseca: no papel
+(20:26:27) liquuid: oque eles ganham com isso ?
+(20:26:58) p: mas por exemplo:"instalamos e mantemos linux, pra qualquer fim." e isso dá 50/50, pessoa/espaco, ajuda a sustentar, né?
+(20:27:05) felipefonseca: 1) a gente direcionar de novo pra eles doadores de sampa que nos procurarem
+(20:27:05) felipefonseca: 2) a gente seleciona o que dah pra usar sem muito trampo
+(20:27:05) felipefonseca: 3) tudo que eh resto, vende
+(20:27:20) felipefonseca: p: pode ser, mas esses 50/espaco ficam pra um fundo
+(20:27:37) p: claro, aluguel e etc.
+(20:27:43) felipefonseca: ideia eh que a preocupacao com aluguel nem exista
+(20:27:46) felipefonseca: o fundo eh pra ir alem
+(20:27:52) felipefonseca: comprar um gravador de DVD
+(20:27:53) felipefonseca: uma camera
+(20:27:55) felipefonseca: algo assim
+(20:27:57) felipefonseca: gerido coletivamente
+(20:28:09) felipefonseca: podemos sediar cursos, seminarios, eventos
+(20:28:34) felipefonseca: vender equipamentos usados
+(20:28:38) felipefonseca: vender camisetas
+(20:28:39) marc: opa, entro aih nas oficinas, cursos ...
+(20:28:39) felipefonseca: livros
+(20:28:41) felipefonseca: apostilas
+(20:29:03) felipefonseca: de tudo isso, quem fez tira uma parte que considerar justa, e o resto vai pro fundo coletivo
+(20:29:10) marc: escambos ?
+(20:29:13) felipefonseca: junto com isso, pensar em sistemas de reputacao
+(20:29:17) felipefonseca: excambos :)
+(20:29:24) felipefonseca: tupi tem algumas ideias a respeito
+(20:29:30) felipefonseca: podemos aceitar excambits
+(20:29:49) felipefonseca: podemos oferecer equipos recebidos de doacao ou qualquer das outras coisas acima dentro do excambo
+(20:29:50) Tupi: tem uma banca tentando a sorte com um clube de trocas na internet
+(20:29:52) banto: opa
+(20:29:55) felipefonseca: podemos montar lojinha no ML
+(20:29:57) banto: vou fazer entao
+(20:29:57) felipefonseca: fala, banto
+(20:30:00) felipefonseca: opeia nois
+(20:30:01) felipefonseca: !
+(20:30:12) felipefonseca: fala, tupi
+(20:30:37) Tupi: inspirado nas moedas sociais e clube de trocas da economia solidaria
+(20:30:58) Tupi: quem quer usar a moeda digital, tem q ter coisa pra trocar
+(20:31:12) Tupi: excambo.ourproject.org
+(20:31:19) Tupi: excambo.wikispaces.org
+(20:31:39) Tupi: o problema e' q a gente nao pode emitir moeda
+(20:31:44) Tupi: :-D
+(20:32:05) Tupi: teria q trocar uma ideia com o clube q comecou o excambo
+(20:32:19) marc: banco central metarec :-)))
+(20:32:37) p: e, se a parte desse agente cidadao é facil, quase-considerado-feito, segundo entendi pelas listas, o que falta mesmo é espaco, gente, .. e um banco para emitir mais moeda
+(20:32:38) liquuid: Vcs viram o cara que de troca em troca tá tentando trocar um clips vermelho por uma casa ? Lindo isso
+(20:32:52) p: liquuid: vi, achei do c...
+(20:32:52) Tupi: frase do brecht ou do lenin: o q e' um assalto a banco, comparado a fundacao de um banco
+(20:33:15) p: tupi: vamo falar c o pcc e pedir ajuda?
+(20:33:25) Tupi: pcc e' moeda oficial
+(20:33:32) Tupi: mas nem de moeda alternativa
+(20:33:44) Tupi: o crime ganha com a falsa escassez da moeda oficial
+(20:33:45) banto: to lendo o log
+(20:33:51) banto: perai
+(20:34:21) banto: carai
+(20:34:27) Tupi: reputacao como moeda alternativa e' o contrario da moeda ao portador
+(20:34:30) banto: acabei da mandar essa frase  do brech
+(20:34:37) banto: pra senhora
+(20:34:44) banto: so nao encontro a poesia completa
+(20:34:59) banto: acabei de ler o log
+(20:35:38) felipefonseca: eae?
+(20:35:39) felipefonseca: bom
+(20:35:46) felipefonseca: tem varias hipoteses interessantes
+(20:35:56) p: fala ff
+(20:36:06) felipefonseca: de moeda alternativa, de lodjinha, de varias fontes de recursos pra gente gerenciar coletivamente
+(20:36:07) #metareciclagem: Modo (+o felipefonseca ) por banto
+(20:36:15) #metareciclagem: Modo (+o Tupi ) por banto
+(20:36:19) #metareciclagem: Modo (+o p ) por banto
+(20:36:29) #metareciclagem: Modo (+o liquuid ) por banto
+(20:36:30) felipefonseca: que dah pra testar
+(20:36:37) felipefonseca: tem alguns lugares interessantes
+(20:36:46) banto: tava conversando com a dona toya
+(20:36:50) banto: sobre o espaco
+(20:37:01) banto: ela falou de lance.. de uma experiencia
+(20:37:04) banto: que ela vivencia na gringa
+(20:37:13) banto: que eh a cooperativa de bicicletas
+(20:37:14) felipefonseca: chama a toya aqui
+(20:37:19) banto: o pessoal dividia as ferramentas
+(20:37:29) banto: ela deve ta em alguma reuniao
+(20:37:40) banto: o lance da cooperativa era que
+(20:37:46) liquuid: marc: Marcelo Braz ?
+(20:37:54) banto: a pessoa ia com a bicicleta quebrada la
+(20:37:59) banto: alguem arrumava ou ensinava arruma
+(20:38:10) felipefonseca: liquuid: isso mesmo
+(20:38:12) banto: se a pessoa precisasse de um peca
+(20:38:19) banto: uma peca
+(20:38:31) banto: poderia pegar, mas tinha que deixar algo la
+(20:38:37) banto: sei la.. tipo um livro
+(20:38:37) p: :-)
+(20:38:43) banto: um sapato.. sei la
+(20:38:49) #metareciclagem: Modo (+o marc ) por banto
+(20:39:22) felipefonseca: legal
+(20:39:48) p: acho do c... com computadores, mais dificil com outras coisas... mas lindo!
+(20:39:52) banto: e tem outras coisas
+(20:40:00) banto: tem varios grupos desalojados
+(20:40:09) banto: que podem vim contribuir na casa
+(20:40:15) banto: mesmo na troca de experiencia e tal
+(20:40:24) Tupi: a vantagem da moeda alternativa e' possibilitar a troca de coisas diferentes, e assincrona
+(20:40:40) banto: a moeda como equivalente de troca
+(20:40:45) banto: o problema vai ser o lucro
+(20:40:47) Tupi: tipo computador troca com frete de motoboy
+(20:41:00) banto: ou algo que nao reproduza exatamente como o capitalismo
+(20:41:32) banto: e nem renovar o essa forma producao
+(20:41:36) p: acho isso bem melhor do que troca por moeda-alternativa-que-serah-trocada-de-novo por ago com significado
+(20:41:40) marc: yeah. marc:marcelo braz
+(20:41:43) Tupi: tem teorico de moeda social q incentiva o juro negativo e a inflacao, pra desestimular a poupanca
+(20:42:11) banto: sobre esse lance da moeda
+(20:42:15) banto: ou mmelhor, de banco
+(20:42:23) banto: na europa tem os bancos populares
+(20:42:30) banto: tem algo sendo feito no ceara
+(20:42:34) banto: com o banco palmas
+(20:42:50) banto: criaram uma moeda local para formentar
+(20:42:55) banto: a economia local
+(20:43:01) p: em .pt ouvi falar mas n vi nada do banco-de-horas
+(20:43:03) banto: mas creio que o bacana do espaco 
+(20:43:10) banto: e juntar varias coletivos 
+(20:43:19) banto: e no processo mesmo testar as formas
+(20:43:26) p: troque uma hora do seu conhecimento por uma do meu... achei muito boa a ideia, mais direto, mas n vi nada
+(20:43:31) banto: de relacao na producao e gestao do espaco
+(20:43:32) Tupi: antes da internet tinham esses corres lets local exchange trade systems
+(20:43:55) Tupi: depende muito do espaco
+(20:43:58) Tupi: baseado em local
+(20:44:00) banto: nao entende ingres
+(20:44:22) Tupi: banco palmas e nessa levada, fomento local
+(20:44:37) Tupi: tipo, descobriram la' q o q eles precisavam era comida
+(20:44:47) Tupi: entao a moeda tem q comprar comida
+(20:45:00) Tupi: comecaram a criar umas oficinas de agricultura urbana
+(20:45:19) Tupi: galinheiro, horta, na comunidade
+(20:45:36) Tupi: sei la'... se pensase sem o limite do local
+(20:45:50) Tupi: poderiam fazer um acordo com o pessoal rural
+(20:46:08) Tupi: o problema e' logistica e aceitacao da moeda local
+(20:46:32) felipefonseca: faz parceria com o pessoal do centro de formacao do MST, ali no bras
+(20:46:41) felipefonseca: podemos fazer uma feira da reforma agraria toda semana ou mes
+(20:46:51) felipefonseca: mas moeda virtual com eles nao pega
+(20:46:57) wundo [n=wundo@200-168-176-253.dsl.telesp.net.br] entrou na sala.
+(20:47:01) wundo: toc otc
+(20:47:02) wundo: ops
+(20:47:03) felipefonseca: intercambio em outras coisas, se pans, rola
+(20:47:04) wundo: toc toc
+(20:47:06) felipefonseca: fala, fabiano
+(20:47:09) Tupi: mst so aceita real?
+(20:47:15) wundo: fala felipe
+(20:47:33) p: mst deve aceitar conhecimento e trocar por leite, se pans, nao?
+(20:47:43) Tupi: nao aceita maquina?
+(20:47:45) p: e maquinas para uso deles...
+(20:47:59) Tupi: nao aceita videodocumentario?
+(20:48:06) Tupi: servidor bittorrent
+(20:48:17) Tupi: post em blog?
+(20:48:19) Tupi: :-D
+(20:48:40) felipefonseca: mst aceita outras coisas
+(20:48:42) felipefonseca: maquina, eles tem
+(20:48:47) felipefonseca: conhecimento, facil
+(20:48:56) felipefonseca: mas excambits acho que nao
+(20:49:17) marc: vou come ... quem quer? hoje tem arroz com linhaca e cenoura + abobora com linguica... huuumi
+(20:49:26) felipefonseca: to no vinho aqui
+(20:49:29) marc: mas to olhando ...
+(20:50:04) banto: eu fui na escola nacional do mst
+(20:50:07) liquuid: Eu to só no cereal
+(20:50:10) banto: e conversei com o milla
+(20:50:19) banto: e o pessoal facilmente iria topar esse tipo de troca
+(20:50:23) liquuid: mst é tuti bona gente
+(20:50:34) banto: tem do mst de campinas que tambe aceitaria
+(20:50:39) banto: tem outra tanto de grupos
+(20:50:47) banto: precisamos de espaco e o minino de
+(20:51:01) banto: proposta para se aproximar de outros grupos
+(20:51:20) liquuid: É, temos que ter um portifólio pra fisgar
+(20:51:38) liquuid: Uma lista de produtos pra oferecer
+(20:51:49) felipefonseca: ok
+(20:51:54) felipefonseca: primeiras coisas, acho
+(20:52:06) liquuid: E um regente equilibrando os pratos com a ponta do nariz
+(20:52:07) felipefonseca: fechar com o agente cidadao como vai funcionar o esquema, qual vai ser o corte
+(20:52:27) felipefonseca: dependendo do volume de doacoes, talvez a gente tenha que contratar uma pessoa pra ficar lah no novo galpao deles, triando
+(20:52:32) felipefonseca: nao eh mais no spmarket
+(20:52:36) felipefonseca: eh campo belo
+(20:52:41) glerm [n=livre@201.21.151.242] entrou na sala.
+(20:52:45) felipefonseca: contratar, porque tudo que vem depois depende desse trampo
+(20:52:48) felipefonseca: fala, glerm
+(20:52:53) glerm: ulala
+(20:53:12) felipefonseca: 1) fechar com agentecidadao
+(20:53:12) felipefonseca: 2) encontrar um lugar
+(20:53:17) glerm: nao caiu a internet em sp ainda?
+(20:53:27) felipefonseca: internet nao cai, diz a ARPA
+(20:53:53) felipefonseca: continuando: eu tenho uma certa tendencia aa vila mariana
+(20:53:58) felipefonseca: por varios motivos
+(20:54:03) felipefonseca: metro
+(20:54:10) felipefonseca: estrutura cultural
+(20:54:11) felipefonseca: calmaria
+(20:54:19) felipefonseca: mais facil pra logistica que o centro
+(20:54:21) glerm: ow
+(20:54:24) felipefonseca: (carro, caminhao, etc)
+(20:54:29) felipefonseca: fala, glerm
+(20:54:35) glerm: alguem me passa o log até aqui
+(20:54:41) glerm: organismo@gmail.com
+(20:54:57) glerm: valeu
+(20:55:00) glerm: fala
+(20:55:02) glerm: desculpe
+(20:55:39) felipefonseca: te mando já
+(20:56:01) liquuid saiu da sala (quit: Excess Flood).
+(20:56:34) Tupi: opa, toque de recolher aqui na firma
+(20:56:38) Tupi: vou ter q vazar
+(20:56:46) Tupi: vou colando as ideias no wiki
+(20:56:48) Tupi: fmz?
+(20:56:50) felipefonseca: bele, tupi
+(20:56:54) Tupi: sucesso e boa sorte!
+(20:56:58) p: falou
+(20:56:59) liquuid [n=xsl4v3@201-42-38-12.dsl.telesp.net.br] entrou na sala.
+(20:57:02) Tupi saiu da sala (quit: "IceChat - it may not be hot but damn it's cool").
+(20:57:04) felipefonseca: wiki deve voltar daqui a pouco, quando o liquuid tiver tempo
+(20:57:09) #metareciclagem: Modo (+o liquuid ) por felipefonseca
+(20:57:16) #metareciclagem: Modo (+o glerm ) por felipefonseca
+(20:57:18) #metareciclagem: Modo (+o wundo ) por felipefonseca
+(20:57:41) felipefonseca: mais vila mariana:
+(20:58:03) felipefonseca: nos proximos anos, vai ter metro pra imigrantes e metro direto pra zona sul, linha rosa, ligando com largo treze e capao
+(20:58:21) felipefonseca: bom pela parceria com o agente cidadão, que é mais zona sul
+(20:58:32) felipefonseca: a historia eh conseguir estruturar dessa forma:
+(20:58:43) felipefonseca: tudo o que passa por sustentabilidade da casa eh coletivo
+(20:58:47) felipefonseca: coisas vendidas, etc
+(20:59:03) felipefonseca: tudo o que vai alem, como cada um ganha seus trocos, eh de decisao pessoal
+(20:59:07) felipefonseca: desde que nao descambe
+(20:59:11) banto: beleza
+(20:59:24) p: blz.
+(20:59:46) banto: mas ai teria o lance de contribuicao?
+(20:59:50) banto: essa ideia eh boa
+(21:00:00) banto: de pessoas que usam ou nao o espaco
+(21:00:14) banto: mas dque de alguma quer ajuda
+(21:00:19) banto: pode esta contribuindo
+(21:00:27) felipefonseca: sim
+(21:00:27) banto: acho legal ter uma biblioteca
+(21:00:36) banto: discoteca, gibiteca
+(21:00:37) felipefonseca: totalmente
+(21:00:40) banto: essas coisas
+(21:00:44) felipefonseca: e uma impressora laser pra imprimir PDFS :0
+(21:00:53) marc: tudo que terminar em teca ...
+(21:01:06) banto: mas tb fazer a discussao sobre utilizar
+(21:01:13) banto: do papel felipe
+(21:01:15) p: lugar para exposicoes high-tech, que dao uma caixinha para as proprias exposicoes low-tech...
+(21:01:21) banto: boa marc
+(21:01:45) banto: uma coisa que ouvir do michel uma vez
+(21:01:54) banto: quando esta na taina e alguem perguntou 
+(21:01:57) liquuid: mangateca é massa
+(21:02:02) banto: para ele quem era responsavel pela casa de cultura
+(21:02:12) banto: e ele respondeu,todo mundo, inclusive vc
+(21:02:27) banto: bacana manter o espirito nesse naipe
+(21:03:07) felipefonseca: sim, bem legal
+(21:03:20) felipefonseca: aih as pessoas podem montar projetos de ocupacao do espaco
+(21:03:26) liquuid: agora, como evitar extrações indevidas de material , isso rolava no spmarket e atrapalhou vários planos 
+(21:03:31) glerm saiu da sala (quit: "Download Gaim: http://gaim.sourceforge.net/").
+(21:03:38) felipefonseca: eu, por exemplo, quero uma bancada pra montar experimentos com midia
+(21:03:57) liquuid: euquero um microondas pra derreter chocolate
+(21:04:02) glerm [n=livre@201.21.151.242] entrou na sala.
+(21:04:07) felipefonseca: gumstix, volksbeamer, essas coisas
+(21:04:18) felipefonseca: glerm: tentei te mandar, mas meu firefox reclamou
+(21:04:27) glerm: opa
+(21:04:30) glerm: alguem pode
+(21:04:33) glerm: ?
+(21:04:34) liquuid: tentei mandar e fui kickado do servidor
+(21:04:37) glerm: mas fale
+(21:04:43) glerm: coipa e cola
+(21:05:10) glerm: mas continue
+(21:05:17) glerm: to quase entendendo
+(21:05:31) felipefonseca: glerm: metareciclagem.org/~felipe/log_irc
+(21:05:52) liquuid: Minha duvida é se nego começar a levar material coletivo pra casa como acontecia no spmarket e no olido
+(21:05:54) felipefonseca: conversando sobre a criacao de um espaco de metareciclagem aqui em sampa
+(21:06:06) felipefonseca: liquuid: vai poder, desde que ninguem discorde
+(21:06:14) felipefonseca: e de qualquer forma, as coisas vao ser diferentes
+(21:06:18) liquuid: secretamente estou dizendo
+(21:06:19) felipefonseca: nao estaremos no mesmo espaco que o agente
+(21:06:22) glerm: valeu
+(21:06:35) felipefonseca: o espaco vai ser gerenciado por nos
+(21:07:45) liquuid: sim, paranoia total.. e se levarem o gravador de dvd embora.... como evitar isso, educação resolve ou tem que passar a corrente também ?
+(21:08:27) felipefonseca: as vezes tem que ter corrente enquanto a educacao nao funciona ainda
+(21:08:34) felipefonseca: mas temos que aprender bastante sobre esse tipo de coisa
+(21:08:37) felipefonseca: com o mst
+(21:08:41) felipefonseca: com a taina
+(21:08:45) felipefonseca: banto, como eh isso na taina?
+(21:08:49) felipefonseca: o que faz o pessoal respeitar?
+(21:09:24) #metareciclagem: Modo (+o glerm ) por felipefonseca
+(21:10:19) banto: eh muito embacado isso na taina
+(21:10:30) banto: as vezes troca uma ideia
+(21:10:36) banto: como decobre que foi
+(21:10:41) banto: nao sei como esta agora
+(21:10:48) marc: tem que ter responsa ... falar com cada um que circular pelo espaco ...
+(21:10:49) banto: se ta trocando uma ideia com a molecada
+(21:10:56) banto: sobre a responsabilidade comum do espac
+(21:11:03) banto: e das coisas que tem la
+(21:11:10) banto: mas sempre sumiu muita coisa de le
+(21:11:17) banto: sim sim
+(21:11:20) banto: trocar uma ideia
+(21:11:31) banto: creio que o lance eh a apropriacao
+(21:11:36) banto: e divisao de responsabilidade
+(21:11:38) liquuid: eu ouvi isso do tc.......
+(21:11:48) felipefonseca: sim
+(21:11:48) banto: a pessoa sentir em casa e tomar conta
+(21:11:54) felipefonseca: divisao de responsa eh fundamental
+(21:11:54) banto: de poder levar para casa mas saber que 
+(21:11:58) banto: aquilo eh algo coletivo
+(21:12:02) felipefonseca: por isso que nao dah pra ser um esquema tipo olido
+(21:12:10) felipefonseca: porque em ultima instancia a responsa era da prefeitura
+(21:12:17) felipefonseca: eramos hospedes
+(21:12:24) felipefonseca: nunca poderiamos achar que a casa era nossa
+(21:12:35) banto: pode crer
+(21:12:48) marc: pregar um cartazao lembrando que sao bens coletivos ...
+(21:13:03) felipefonseca: isso eh legal
+(21:13:14) felipefonseca: fazer papos periodicos e tocar nesses assuntos
+(21:13:36) wundo: casa
+(21:13:38) marc: sim
+(21:13:44) wundo: ops
+(21:13:46) wundo: chat errado
+(21:13:48) wundo: ;)
+(21:15:50) felipefonseca: heh
+(21:15:51) felipefonseca: bueno
+(21:16:08) felipefonseca: 1) fechar com agentecidadao
+(21:16:08) felipefonseca: 2) encontrar um lugar
+(21:16:08) felipefonseca: 3) ocupar a casa
+(21:16:12) felipefonseca: sobre ocupar a casa
+(21:16:28) liquuid: E se eu quiser levar uma turma pra fazer uma oficina de XYZ usando DreamWeaver, CorelDraw onde o foco não é a ferramenta mas sim o XYZ ?????
+(21:16:34) felipefonseca: trabalhar a noção de espaço publico, ainda que nao estatal
+(21:16:48) felipefonseca: liquuid: isso pode ser pauta de conversa presencial
+(21:16:56) felipefonseca: acho que nao podemos pre-determinar essas coisas
+(21:17:07) felipefonseca: por mais que eu, pessoalmente, pense em mandar aa merda :)
+(21:18:02) liquuid: Sei lá.... sem radicalismos, mas até onde a tolerancia a esse tipo de problema é permissivel ?
+(21:18:51) p: ateh onde causar alergias a outros membros do coletivo?
+(21:19:40) liquuid: Oque fazer com os parasitas do orkut ? Vi isso no Olido e achava um saco heeh
+(21:19:42) felipefonseca: acho que tudo deve ser debatido por quem frequentar o espaco
+(21:19:47) banto: tem que entender que uma galera curtir sofrer
+(21:19:55) felipefonseca: porque tem que ser integrado com a rede metareciclenta. MAS...
+(21:19:58) felipefonseca: quem decide eh quem faz
+(21:20:03) felipefonseca: enton...
+(21:20:06) banto: eu nao veria problema numa oficina dessa
+(21:20:11) banto: so nao conta com a minha ajuda
+(21:20:11) banto: hehe
+(21:20:11) liquuid: eu sou um feliz usuário de software proprietário e nem sofro tanto ehee
+(21:20:44) felipefonseca: olha, eu uso software proprietario no meu celular, no dvd, no mp3 player...
+(21:20:48) felipefonseca: tudo tem que flexibilizar
+(21:20:55) felipefonseca: no banco, na urna eletronica :(
+(21:20:58) p: blz, se for para ensinar pd, se for para me fazer inveja com qq programa soh para macOS, sou contra
+(21:21:02) felipefonseca: VOTE NULO
+(21:21:19) felipefonseca: de qualquer forma, tem uma coisa conceitual ai
+(21:21:28) felipefonseca: de esporos de metareciclagem serem auto-geridos
+(21:21:35) felipefonseca: enton, quem frequenta eh que decide
+(21:21:41) felipefonseca: temos que definir as formas disso
+(21:21:42) banto: VOTE NULO
+(21:21:43) felipefonseca: e outras coisas
+(21:21:52) felipefonseca: quem vai poder usar o espaco
+(21:21:58) felipefonseca: a principio, todo mundo, mas...
+(21:22:06) felipefonseca: o espaco tem limite, fisico
+(21:22:25) liquuid: E se todo mundo do esporo resolve que o windows vista com corel pirata, vai ter intervenção da UNO ?
+(21:22:27) felipefonseca: como resolver se eu quero por uma bancada e o glauco quer por um quixote e o slave quer por um microondas e estocar chocolate?
+(21:22:37) glerm: velho
+(21:22:37) felipefonseca: tudo tem que ser decidido localmente
+(21:22:43) liquuid: Estocar é impossível !
+(21:22:57) glerm: porque voces pensam em fazer nucleo em sp?
+(21:22:58) liquuid: derreter e rezar pra dar tempo de esfriar
+(21:23:02) glerm: não é mais caro?
+(21:23:05) felipefonseca: a principio, acho que esse espaco parte de pessoas que estao relacionadas em acao
+(21:23:06) banto: e se eu pegar um chocolate
+(21:23:07) banto: ?
+(21:23:14) felipefonseca: glerm: podem existir varios nucleos
+(21:23:21) glerm: não é só juntar pessoas e ter internet?
+(21:23:23) felipefonseca: mas eu, pessoalmente, to sentindo falta de um nucleo aqui
+(21:23:26) felipefonseca: nao eh
+(21:23:27) felipefonseca: tem mais
+(21:23:37) felipefonseca: tem uma questao de referencia
+(21:23:43) felipefonseca: de criar identidade
+(21:23:46) liquuid: Só blabla não rola
+(21:23:48) felipefonseca: de ter uma segunda casa
+(21:24:07) marc: uma casa como essa ? http://www.abelardomorell.net/camera12.html
+(21:24:09) p: quero falar com os outros hackerzinhos, mas tb quero fazer puzzles com eles...
+(21:24:13) felipefonseca: de ter espaco pra trabalhar junto, pra espiar por cima do ombro do liquuid e do banto pra ver que comandos eles estao usando no terminal
+(21:24:19) p: isso
+(21:24:36) liquuid: o banto é hacker, não conta pra ninguem
+(21:25:18) felipefonseca: ou como essa
+(21:25:18) felipefonseca: metareciclagem.org/gallery/casametareciclada
+(21:25:19) felipefonseca: :)
+(21:25:31) p: ff:essa eu achei da hora
+(21:25:35) felipefonseca: ai dah pra brincar de varias coisas
+(21:25:38) felipefonseca: anarquitetura
+(21:25:41) felipefonseca: eventos
+(21:25:48) felipefonseca: isopor gigante pra cerveja
+(21:25:54) felipefonseca: banco coletivo de cerveja
+(21:26:00) p: chocolate
+(21:26:01) felipefonseca: cada lata eh um excambit
+(21:26:08) felipefonseca: experimento social...
+(21:26:13) felipefonseca: ou no pluralk
+(21:26:15) glerm: cara eu tava falando hoje com ruiz sobre uma idéia
+(21:26:39) liquuid: Essa casa é quase tão loca quanto meu banheiro
+(21:26:49) felipefonseca: glerm: conta
+(21:26:52) glerm: de fundamentar metodologias de aprendizado autodidata em rituais de auto diplomação
+(21:27:00) glerm: eu tive essa pira
+(21:27:12) glerm: de uma especie de ensino em processo
+(21:27:27) glerm: e ritualização de um "doutoramento honoris causa-sui causa"
+(21:27:32) glerm: tipo assim
+(21:27:46) banto: hehe
+(21:27:50) marc: cadeira_da_hora na casa_maluquias ...
+(21:27:53) p: tipo aprenda sozinho com a presença do xama
+(21:27:55) glerm: uma parada pra criar uma metodologia de contrução de conhecimento "científico"
+(21:28:08) glerm: usando um tipo de "remix"
+(21:28:23) glerm: da cultura popular e academica... hackeando os academicos
+(21:28:29) glerm: eu tava pensando nuns lances
+(21:28:39) glerm: que eu tava lendo de um antropologo
+(21:28:44) glerm: chamado david graber
+(21:28:49) glerm: que fala um lance
+(21:28:52) glerm: massa
+(21:28:56) glerm: de que a antropologia
+(21:29:07) glerm: ja vizualizou sociedades anarquistas
+(21:29:11) glerm: funcionando
+(21:29:19) felipefonseca: haha
+(21:29:23) felipefonseca: sui causa eh bom
+(21:29:24) glerm: mas não tem como ir longe no discurso e argumentação
+(21:29:36) glerm: porque esta presa na estrutura mais hierarquica de todas
+(21:29:41) glerm: a academia
+(21:29:47) felipefonseca: si
+(21:29:50) glerm: então a idéia é mais ou menos assim
+(21:30:12) glerm: digamos que o ff quer escrever um "tese de doutorado sui causa"
+(21:30:16) glerm: ele pega um tema
+(21:30:22) glerm: tipo
+(21:30:38) glerm: que ele sabe que tem pessoas no brasil e no exterior que poderiam ajud[a-lo
+(21:30:42) glerm: a fundamentar
+(21:30:50) glerm: e vai descrevendo o processo
+(21:30:53) glerm: com entrevistas
+(21:30:55) glerm: tipo
+(21:31:02) glerm: tem que ser fora de qqer instituição
+(21:31:08) glerm: mesmo que voce entreviste um academico
+(21:31:15) glerm: voce nao tem que chamr ele pra uma banca
+(21:31:22) glerm: tem que chamar ele pra um boteco
+(21:31:31) glerm: dae vai fazendo remix
+(21:31:39) glerm: com oiniões do slave por exemplo
+(21:31:43) glerm: e o interessante
+(21:31:55) glerm: seria a construção de um processo de aprendizagem recursivo
+(21:31:58) glerm: tipo
+(21:32:14) glerm: ao inves de se perder na busca de uma "base"
+(21:32:33) glerm: (por exemplo pra falar de sociologia o cara tem que conehcer todas as e"escolas" disso)
+(21:32:45) glerm: ele vai buscando conhecimento por demanda
+(21:32:56) glerm: e tecendo uma colcha de retalhos
+(21:33:04) glerm: mas o lance é fundamentar isso
+(21:33:16) glerm: na idéia que a idéia ja se construiu muito assim
+(21:33:26) glerm: sem a necessidade da instituição
+(21:33:35) glerm: que é uma coisa mais forte com a industrialização
+(21:33:42) glerm: a idéia de fábrica de conhecimento
+(21:33:43) glerm: ...
+(21:33:46) glerm: e por aí vai...
+(21:33:56) felipefonseca: sim
+(21:34:09) felipefonseca: na real tem um monte de gente que faz isso, mas sem essa consciencia
+(21:34:18) glerm: sim
+(21:34:21) felipefonseca: meia duzia de blogs tem uma coisa interessante nesse sentido
+(21:34:21) glerm: a brincadeira
+(21:34:24) glerm: era justamente
+(21:34:34) glerm: trazer isso pro campo da "seriedade"
+(21:34:35) felipefonseca: mas falta a tentativa de estruturar a busca em alguma coisa maior
+(21:34:38) glerm: com ritualizações
+(21:34:40) felipefonseca: (ou menor)
+(21:34:46) glerm: tipo "carnaval da auto diplomação"
+(21:34:51) felipefonseca: e existem sistemas que podem ajudar nisso?
+(21:34:53) felipefonseca: ou eventos?
+(21:34:57) liquuid: ou que simplesmente funcione :P
+(21:35:10) glerm: e outra coisa que seria bem interessante
+(21:35:22) glerm: seria hackear os espertos que estão dentro da academia
+(21:35:41) glerm: perovocando um tipo de entropia implosiva
+(21:35:48) glerm: tipo pega um carinha lá
+(21:35:54) glerm: que é considerado cientista
+(21:35:58) glerm: em alguma area
+(21:36:04) glerm: e fala vem ca
+(21:36:17) glerm: tu sabe que sem ter que provar coisa pra burocracia
+(21:36:25) glerm: voce ia falar com muit mais sinceridade
+(21:36:35) glerm: então vamos fazer essa experincia
+(21:36:39) glerm: experiencia
+(21:36:48) glerm: nem que ela seja considerada "arte"
+(21:36:57) liquuid: Por isso que eu acho astronomia o máximo, uma observação à um grupo de estrelas só faz sentido de dez em dez anos, as descobertas de hoje são baseadas em observações de 50 anos atrás... e tudo isso é aberto, pq se não for, não se faz astronomia
+(21:37:00) glerm: de voce me orientaer em espaços informais
+(21:37:28) marc: to gostando ....
+(21:37:45) glerm: pra isso ganhar credibilidade
+(21:37:56) marc: desacademizar o conhecimento, desescolarizar a sociedade ...
+(21:38:04) glerm: tinha que ser um lance tipo bem baseado em documentação
+(21:38:15) glerm: documentação de processos
+(21:38:20) felipefonseca: sim
+(21:38:24) felipefonseca: estimular a documentacao
+(21:38:25) glerm: essa idéia de processo de estudo recursivo
+(21:38:31) glerm: tipo assim
+(21:38:36) felipefonseca: eh a briga eterna com @s metarecicleir@s
+(21:38:45) felipefonseca: tinha um papo de metalearning
+(21:38:47) glerm: eu quero fazer um eletroencefalograma que faz musica
+(21:38:52) glerm: daí
+(21:38:52) felipefonseca: de estruturar metodologia de aprendizado distribuido
+(21:38:54) felipefonseca: fala
+(21:39:02) glerm: ao inves de me perder
+(21:39:11) glerm: tentando buscar formações de "base"
+(21:39:19) glerm: eu vou fazendo uma busca recursiva
+(21:39:21) glerm: tio
+(21:39:26) glerm: ah eu nao sei eletrecidade
+(21:39:29) glerm: vai la e estuda
+(21:39:31) glerm: documenta
+(21:39:34) glerm: faz experiencias
+(21:39:39) glerm: ta mas eu nao sei musica
+(21:39:44) glerm: vai lça documenta
+(21:39:47) glerm: e etc
+(21:39:53) glerm: até o objetivo focar pronto
+(21:40:03) glerm: e surgir toda uma documentação de processo
+(21:40:08) glerm: que uma didática orgãnica
+(21:40:28) glerm: acho que tem uma coisa bem justificável
+(21:40:41) felipefonseca: sim
+(21:40:52) glerm: que é o fato que a gente só cinsegue ter atenção sobre aquilo que desejamos no momento
+(21:40:58) glerm: da até pra sustentar isso sobrte uma ótica psicanalitica
+(21:40:58) felipefonseca: mas como estruturar isso sem todo mundo ter que entrear no esquema de todo mundo, um de cada vez?
+(21:41:15) glerm: isso inclusive é a primeira tese doutor-sui-generis
+(21:41:16) felipefonseca: eu to preparando material pra uma outra reuniao aqui no irc sobre sistemas pra metareciclagem
+(21:41:21) glerm: tipo uma tese em educação
+(21:41:31) glerm: mas autodidata
+(21:41:32) felipefonseca: uma possibilidade eh um sistema pra gerenciar projetos
+(21:41:39) felipefonseca: que podia prever essas coisas
+(21:41:53) felipefonseca: cada proposta de tese sui-causa podia virar um projeto
+(21:42:04) glerm: isso
+(21:42:07) glerm: é masi ou menos
+(21:42:08) glerm: isso
+(21:42:12) glerm: tipo
+(21:42:20) glerm: ela é sustentada pelo reconhecimento da comunidade
+(21:42:30) glerm: e aos poucos a propria academia vai se sensibilizando
+(21:42:47) glerm: e o troço vira teoria educacional mesmo
+(21:43:01) glerm: só que indiscutivelmente prática
+(21:44:18) felipefonseca: academia sensibilizar-se, tenho minhas duvidas
+(21:44:26) felipefonseca: se bem que metafora/metareciclagem viraram tema de mestrado :)
+(21:45:02) liquuid: Tá tendo um debate na USP sobre abertura de conhecimento
+(21:45:17) liquuid: o que é melhor, sua carreira ou progresso para humanidade ?
+(21:45:54) glerm: heheheheh
+(21:45:57) glerm: aí é que ta
+(21:46:10) glerm: até que ponto essa carreira via realmente existir
+(21:46:18) glerm: do jeito que ele acha
+(21:46:26) banto: pode crer
+(21:46:27) glerm: sendo pelegão
+(21:46:41) banto: vc fala no campus na zona leste?
+(21:47:55) liquuid: no geral para as humanidades é complicado, mas a galera da geofísica, fisica médica, ciencias moleculares tem carreiras de sucesso mesmo, com salários altíssimos e chances concretas de se tornarem millhonários desde que saibam como vender oque pesquisaram
+(21:48:27) glerm: entendo
+(21:48:29) liquuid: não to falando da usp tradiconal
+(21:48:45) glerm: mas "sucesso" quer dizer "dinheiro"?
+(21:48:53) liquuid: teve a mina que fez o plástico biodegradavel
+(21:49:44) glerm: poizé ela não ganha "dinheiro" do mesmo jeito?
+(21:49:47) liquuid: teve o maluco que inventou um sistema pra escurecer os vidros do carro com um botão (que foi abduzido pela pejout)
+(21:50:33) liquuid: então, se ela abrir isso para humanidade será que ela ficaria rica ? Quem pagaria os royalties ?
+(21:50:47) liquuid: No geral esses caras deixam de fazer ciência
+(21:51:08) glerm: aí é que ta
+(21:51:11) liquuid: e compram uma ilha
+(21:51:19) glerm: muito mais do que "royalties"
+(21:51:28) glerm: ela poderia circular em qqer lugar
+(21:51:46) glerm: e teria "sucesso" do mesmo jeito
+(21:52:40) liquuid: É.... sucesso para a maioria não é uma estátua de bronze na praça, é 0's na conta bancária ! É disso que esse encontro ta tratando
+(21:52:48) felipefonseca: ah
+(21:52:49) glerm: entendi
+(21:52:53) felipefonseca: caguei pra maioria
+(21:52:57) felipefonseca: enton
+(21:53:13) glerm: fala
+(21:53:18) glerm: velho
+(21:53:18) felipefonseca: sobre metapub, vou continuar tocando os papos aqui com agente cidadao e pans
+(21:53:21) glerm: esse lance de sede
+(21:53:25) felipefonseca: to falando com o dalton
+(21:53:27) felipefonseca: nao eh sede
+(21:53:30) felipefonseca: eh um esporo
+(21:53:33) glerm: pub?
+(21:53:36) felipefonseca: nada de ser sede ou matriz
+(21:53:39) felipefonseca: pub eh publico
+(21:53:40) glerm: ok
+(21:53:44) felipefonseca: eh pubere
+(21:53:46) felipefonseca: eh pubis
+(21:53:49) felipefonseca: pubico
+(21:53:51) glerm: enfim
+(21:53:53) glerm: mocó
+(21:53:58) felipefonseca: e eh boteco tambem
+(21:54:07) glerm: aparelho
+(21:54:09) glerm: hahaha
+(21:54:25) glerm: então
+(21:54:46) glerm: a gente tinha que fazer isso em varios lugares ao mesmo tempo
+(21:54:46) liquuid: Mas vai ter umas privadas igual aquelas com aquecedor que tem na sala do saulo no IPTI ?
+(21:55:00) glerm: para
+(21:55:30) glerm: eu moraria no espaço
+(21:55:36) glerm: eu tenho essa sugestão
+(21:55:44) glerm: de levantar uma pauta de pessoas
+(21:55:49) glerm: que deixariam sua atual casa
+(21:55:58) glerm: para morar nesse tipo de espaço
+(21:56:14) glerm: porque assim da pra levantar um tipo de garantia de uso do espaço
+(21:56:17) glerm: tipo
+(21:56:23) glerm: se o cara ja ia ter que morar mesmo
+(21:56:49) glerm: daí começa a se desvincilhar de qqer tipo de "instituição" apoiadora
+(21:57:06) glerm: será?
+(21:57:23) glerm: mas acho bem amssa
+(21:57:46) glerm: uma maneira de dar mais sinceridade pro espaço
+(21:58:06) glerm: porque assim
+(21:58:19) glerm: podia tentar fechar um número minimo de pessoas
+(21:58:24) glerm: em algumas cidades
+(21:58:28) liquuid: Ai não vai rolar de dizer pro cara deixar seus problemas pessoais em casa
+(21:58:35) glerm: pra garantir aluguel luz e net de um espaço
+(21:58:55) glerm: daí o cara decide em qual cidade vai morar
+(21:58:56) glerm: aí
+(21:59:00) glerm: isso seria massa
+(21:59:09) glerm: o cara podia morar em varias cidades ao mesmo tempo
+(21:59:15) glerm: todas as casas são a casa dele
+(21:59:30) liquuid: e quem paga todos esses alugueis ?
+(21:59:42) glerm: quem ja paga aluguel ué
+(21:59:51) felipefonseca: ai eh terraslivres
+(22:00:00) liquuid: sei não
+(22:00:02) felipefonseca: eu acho que isso facilita uma coisa
+(22:00:04) felipefonseca: mas dificulta outra
+(22:00:20) felipefonseca: e acho que, de qualquer forma, esse tipo de experiencia pode acontecer em paralelo
+(22:00:26) felipefonseca: nao tem que ter uma matriz
+(22:00:27) felipefonseca: nem sede
+(22:00:34) glerm: entendi
+(22:00:34) felipefonseca: nem monopolio nenhum
+(22:01:05) felipefonseca: a gente fazer esse esporo nao quer dizer que o pessoal do rio pequeno ou do centro do mov humanista deixam de ser espacos de metareciclagem
+(22:01:08) felipefonseca: estamos fazendo mais um
+(22:01:25) felipefonseca: se pans focado em experimentacao midiatica e social e, vai, tecnologica
+(22:02:02) glerm: cerrrto
+(22:02:34) felipefonseca: por isso, talvez, usar o nome memelab
+(22:02:37) felipefonseca: metareciclagem media lab ;)
+(22:02:45) felipefonseca: memelab.org eh dominio registrado
+(22:02:48) felipefonseca: registro dominado
+(22:02:49) felipefonseca: ou sei lah
+(22:03:09) felipefonseca: mas enton
+(22:03:20) felipefonseca: continuo falando de metaoub ou sei lah o que na lista
+(22:03:21) felipefonseca: vou sair

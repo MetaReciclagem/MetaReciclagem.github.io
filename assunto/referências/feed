@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - referências</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/249/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>OqueEstamosLendo</title>
+ <link>http://rede.metareciclagem.org/wiki/OqueEstamosLendo</link>
+ <description>&lt;p&gt;&amp;ldquo;Acho que s&amp;oacute; devemos ler a esp&amp;eacute;cie de livros que nos ferem e trespassam. Se o livro que estamos lendo n&amp;atilde;o nos acorda com uma pancada na cabe&amp;ccedil;a, por que o estamos lendo? Porque nos faz felizes, como voc&amp;ecirc; escreve?&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/OqueEstamosLendo&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/OqueEstamosLendo#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/leituras">leituras</category>
+ <category domain="http://rede.metareciclagem.org/assunto/refer%C3%AAncias">referências</category>
+ <pubDate>Thu, 26 Jun 2008 11:23:34 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1365 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>DemocratizacaoInovacao</title>
+ <link>http://rede.metareciclagem.org/wiki/DemocratizacaoInovacao</link>
+ <description>&lt;p&gt;Resumo&lt;br /&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/DemocratizacaoInovacao&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/DemocratizacaoInovacao#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/refer%C3%AAncias">referências</category>
+ <pubDate>Tue, 17 Jun 2008 19:10:03 +0000</pubDate>
+ <dc:creator>dmartins</dc:creator>
+ <guid isPermaLink="false">1287 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>BibliotecasVirtuais</title>
+ <link>http://rede.metareciclagem.org/wiki/BibliotecasVirtuais</link>
+ <description>&lt;p&gt;&amp;nbsp;* projeto gutemberg - &lt;a href=&quot;http://www.gutenberg.org/&quot; title=&quot;http://www.gutenberg.org/&quot; rel=&quot;nofollow&quot;&gt;http://www.gutenberg.org/&lt;/a&gt;&lt;br /&gt;Site de grande conceitua&amp;ccedil;&amp;atilde;o internacional para download de livros digitais (e-books) com busca por autor e por assunto.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&amp;nbsp;* coletivo sabotagem - &lt;a href=&quot;http://www.inventati.org/sabotagem/&quot; title=&quot;http://www.inventati.org/sabotagem/&quot; rel=&quot;nofollow&quot;&gt;http://www.inventati.org/sabotagem/&lt;/a&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/BibliotecasVirtuais&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/BibliotecasVirtuais#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/material">material</category>
+ <category domain="http://rede.metareciclagem.org/assunto/refer%C3%AAncias">referências</category>
+ <pubDate>Mon, 16 Jun 2008 22:43:03 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1255 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Referencias</title>
+ <link>http://rede.metareciclagem.org/wiki/Referencias</link>
+ <description>&lt;p&gt;&lt;a href=&quot;/search/node/Material&quot; title=&quot;Search this site for content like &amp;quot;Material&amp;quot;&quot; class=&quot;freelink freelink-search notfound freelink-internal&quot; rel=&quot;nofollow&quot;&gt;Material&lt;/a&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;/wiki/Acessibilidade&quot; title=&quot;&quot; class=&quot;freelink freelink-nodetitle freelink-internal&quot; rel=&quot;nofollow&quot;&gt;Acessibilidade&lt;/a&gt;&lt;/li&gt;&lt;li&gt;BibliotecasVirtuais&lt;/li&gt;&lt;li&gt;DemocratizacaoInovacao&lt;/li&gt;&lt;li&gt;EducacaoHolismo&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Referencias#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/material">material</category>
+ <category domain="http://rede.metareciclagem.org/assunto/refer%C3%AAncias">referências</category>
+ <pubDate>Mon, 16 Jun 2008 22:42:10 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1254 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

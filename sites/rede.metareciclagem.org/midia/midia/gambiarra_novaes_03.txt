@@ -1,0 +1,161 @@
+gambiarra com novaes, parte 3. decidi não fazer mais a transcrição completa, só pinçar alguns trechos.
+
+ale: agora, como quebrar essa barreira cultural, e como aproxiumar o hardware do usuário para que ele possa tambem dominar esse universo de linguagem que tá por trás. pra mim a estética do codigo pode ser linda, posso abrir e entender, se for bem feito, eu posso ter o gozo de compreensao daquele objeto tecnico que vai muito alem da interface que ele foerece. a paritr do momento que ele tah aberto e eu posso contribuir, eu to contribuindo com essa cultura. o codigo deixa de ser um obj tecnicoi, pass a ser cultural. a questao eh como lidar com essa barreira cultural que existe.
+
+9s a proposta nao eh 'todo mundo virar hacker'. eu nao quero virar hacker, quero fazer outra coisa. mas entender a tecnica como parte do humano, po, eh ensinar nos colegios, escolas. ele fala de ensinar no colegio, como uma linguagem. entender que pode ser ensinado como eh ensinada a fisica, matematica. aih com essa base o cara vai fazer outra coisa. botar a tecnica de volta na cultura eh ensinart no colegio. desde metareciclagerm, tocar, abrir, gestual, do texto que eu vou falar... como eu vou botar obj tec perigosos na mao da crianca, como eu vou explicar objetos tecnicos dificeis, como vai ser isso. a gente caminha pra isso, dai vem a brincadeirta paulo freire e simondon. quando faz mimosa, metareciclagem, quando faz software livre, ce tambem tahg num processo de ensino-aprendizagem, por isso eh paulo freire tb. tem uma coisa que acompanha tanto o gestual, tanto o material dos elemtnos quanto a instalaco do soft, todo o processo. elemenbtois da plaquinha, eh fundamental entender. aih depois juntando ce aprende como ... fazer manute4ncao do computador, dar esrtetica pra ele,. sabvendop como funciona, abre ele, o computador do ananias, aranha, na poarede, neh? o eixo, essas paradas todas. mimosa, ne? mimosa eh legal pensar que dah dignidade, dar um nome pro bichynho, dar um nome pra coisa, isso que o simondon fala, tratar com carinho eh fundamental. dar nome pra ela, eh isso que dah humanidade, e nao tratar como escravo. entendeu, "funciona". claro, ce tem que dar um tapa as vezes, mas nesse sentido, de ter uma coisa mais afertiva, sensival, iuntuitiv. resgatar nossa intuicao com os obj tecnicos, por exemplo. isso tudo tem que ser ensinado!
+
+ale a culktura precisa de mais tecnica... embasamento mais tecnico
+
+9s educacao. a educacao precisa de mais fudamentos tecnicos, entender a tecnicidade. entender o que eh proprio da tecnica. por exemplo, o que eh tv digital interativa. o que seriua isso? descobrir o que eh proprio da interatividade via tv, e nao reproduzir uma interatividade que soh eh possivel na internet. aih foi ver que tv interativa nos estados unidos eh coimprar pizza em frente a televisao, todo mundo com contgrole remoto. "interativa"/ ou entao aquela que escolhe a camera do big brother. aquela coisa de brincar com os nomes. o que eh tv livre? eh uma a pesssoa que escolhe os conteudos licenciados aparentemente sob cvonceito livre, e com isso projeta num festival e chama isso de tv livre, ou tv livre é... entendeu? aí vem essa briga dos... o que é próprio, o que é particuilar? pensar tanto no ponto de vista dos valores, da linguagem como é apropriada pela cultura, mas pensar também o que é próprio de cada coisa, da tecnicidade, da técnica, do motor a vapor, do motor a gás. ele nao polui, mas como ele funciona? coimo ele se relaciona com o carro? a manutencao do motor a gas é a mesma da gasolina? o que é próprio? entender essas tecnicidades é que é educaçao ténica.
+
+ale agora, voce diria que a ghambiarra é meio que uma iuntuicao desse entendimento tecnico, antes dele mesmo existir?
+
+9s nao, esse entendimento técnico é intuiç!ao. gambiarra é total intuicao, é total indeterminacao, é total desobediencia, é cultura nersse sentido também.
+
+ale mas a gambiarra pode acontecer tamberm sem o conhecimento...
+
+9s nao, a gambiarra é conhecimento. gambiarra é prática, mas tem abstração. o cara pensou que ele pode pegar e rebbobinar uma fita com caneta bic. senao ele nao teria feito.
+
+ff chat, o glerm quer que faca uma pergunta pro ale
+
+ale tem como fazer uma antropologia do codeiro? po, cara... eu acho que na verdade se a gente pensar na antrop0ologia como uma maneira de voce se inserir numa cultura diferente da sua, a gente tem que ter uma antropologia do codeiro, pras pessoas que tao interessadas em se aproximar. e isso pode ser inclusive muito interessante, porque a maioria dos codeiros do linux tao limitados, tem um pensamente que eh estritamente tecnico que limita a criatividade de solucoes que eles podem desenvolver tambem. a partir do momento que voce tem outras percepcoes, sei lah, de vez em quando pode rolar frutracao por exemplo do cara sugerir um lance que te dah uma ideia que nao dah em nada. mas ao mesmo pode surgir... pode aumentar o potencial criativo atravers dessa dioveridade. quando voce pega uma pessoa que nao tem embasamento teorico, nao aprendeu a linguagem logica por tras do desenvolvimento de algoritmos, as limitacoes de bibliotecas.,... essa pessoa vai ter um approach, um jeito de lidfar com a coisa que tah muito mais pra gambiarra do que pro conhecimento tecnologogico que as pessoas empregam ai. talvez isso possa levar a solucoes mais criativas. pode levar tambem a... sei la. eu comecei a programar bem a partyir do momento que comecei a ensinar outras pessoas a programar. eu jah programava, tinha minha concepcao. mas a partir do momento que eu tenho que me explicar pra outras pessoas, tentar fazer cpo,m qie elas entendam o que tah acontecendo na minha cabeca, ficou muito mais claro pra mim o que tah acontecendo ali... essa convivencia da diversidade eh essencial justamente pra que essa cultura tecnica se assimile pro resto da galera ai.,
+
+9s galera tah no papo mutcho louco. unicamp eh caixa preta. mimosinha minha querida... bom, a historia da gambiarra e do conheciumento. a gambiarra eh a indeterminacao da parada. a gambiarra é a prova cabal de que o objeto técnico nao encerrta a sua existencia na utilidade prevista pra ele, e que ele guarda com ele potencias, indeterminacoes. a gambiarra é a exploracao dessa potencia. o legal é entender que voce explora essa potencia, mas que voce também é essa potencia no sentido de que voce é um criador dessa [parada. a gambiarra é o exemplo de que a técnica é cultura. consegue ser. e isso é válido pra todos os objetos. nao pra precariedade, pro improviso. mas justamente pra mostrar que quanto mais gambiarra for possivel, mais a cultura é técnica, mais a técnica tá dentro da cuiltura, mais o humano tá próximo. mais voce tem uma relacao nao de escravidao com a coisa, mas uma relacao de maestro.
+
+9s (chat) "gambiarra nao involuntaria. é cotidiana. é um modo de fazer." e aí galera... como é que é? "tenta respirar pensando em respirar." isso mesmo. pode ser. nao se trata de pensar em gambiarra só como processo consciente, mas também de intuição, isso que a gente tá falando.
+
+ale ...
+
+ff... queria tentar posicionar uma coisa. levando em conta que tem cada vez mais, ou pelo menos a gente tá tomando cada vez mais consciencia de movbimentos, grupos, projetos, pessoas, que tem essa intencao da gambiarra, essa questao de desconstruir o obj tecnico, desconstruir ideias pre-concebidas, desconstruir paradigmas... pensando na possibilidade de isso ser uma parte de um sistema que tá aí, mas que isso pode pautar o desenvoilvimento tecnológico, ou seja, por causa de toda essa movimentação a gente acabar influenciando o poder de decisao do processo de planejamento e desenvolvimento doi obj tecnologico... pensnado na possibiulidade de já existirem objetos pensados com essa questao da imprevisibilidade. ou seja, um objeto técnico produzido com isso. como é que fica essa relação com, sei lá, imaginar que uma corporação vai encampar essa idéia, vai lançar um objeto técnico com essa imprevisibilidade, mas às vezes vai lançar essa imprevisibilidade controlada, vai dizer "até aqui tá aberto, a partir daqui é fechado". a nokia já tá usando softweare livre no tablet, quase tudo é aberto, mas tem uma parte do software que é fechada. eles lançam uma imprevisibilidade, tem som, microfone, wifi, faz o que quiser, conecta no celular e tal, mas nessa parte aqui ces nao tocam. e até que ponto isso nao acaba até desmobilizando a gente. quer dizer, toda a questão de resistência a gente acaba dizendo ah, os caras tao entrando no jogo, ajudando o software livre. como é que a gente pode garantir que o caráter de inovação, dfe contra-cultura, resistencia, seja lá como chame, nao vai ser apropriado, nao vai ser desmobilizado a partir do momento em que essas idéias passem a influenciar o próprio processo de desenvolvimento.
+
+9s acho que volta na questao do dispositivo e do automatismo. só é possível as empresas que tem interesse de lucro manterem essa relacao porque tá tao culturalmente estabelecido esse tal desse automatismo que, velho, vender a parada abertya nao quer dizer que as pessoas vao usar de maneira aberta. eh possivel vender a parada com oevoluida, agragar valor a marca sendo soiftware livre e tal, e ao mesmo tempo voce nao ter ninguem sabendo codar. eh uma maneira de controlar também. aquela coisa de incorporar conceitos. nao conceitos, marcas, palavras, a linguiagem, pra fazer o trocadilho.
+
+9s vou pegar o texto do dispositivo e do automatismo, que acho que vai bem nisso aí. cade a galera do chat? "o robo nao foi treinado pra resistir. foi treinado pra obedecer", exatamente. foi treinado como escravo. "o robo nao existe, soh existe a linguagem". olha só, vou pegar o automatismo e o... papo fora da casinha. vou falar do midiativismo, pra fazer o XXX com radio, essa historia da comunicacao independente, de ativismo e tal. vou ler um pouquinho sobre radio livre.
+"o felix guattari nao fala da radio alice como uma ferramenta de comunicacao, mas como um dispositivo capaz de provocar ou acelerar um processo de desestruturacao do sistema midiatico, resultando desse movimento de reapropriacao da palavra que se exprime nos anos sessenta e setenta˙spobretudo na europa, italia e franca. eh... aquilo que interessava erntao sobretudo era o comeco de um processo de proliferacao dos agentes de enunciacao destinados a fazer explodir o modelo de mass media. um empreendimento de desestruturacao do sistema nervoso do poder que teria assim comecado. e esse processo seguiria entao sob milhares de fdormas, abrindo vias e podendo conduzir a catastrofe e ao panico. quando felix morreu, nos anos noventa, a febre da WWW comecava a ter importancia. e nos anos seguintes essa febre transformou o sistema de comuinicacaio global com a introducao do tipo rizomatico que recoloca a questao do modelo centralizador das midias. o que nos interessa, hoje no movimento de radios que comecou nos 70 é a antecipacao de uma tendenciua pos-0midiatica que vislumbra no horizonte. uma sociabilidade na qual os fluxos de comunicacao nao sao mais dirigidos do alto para um puyblico passivel, mas funcionam como uma malha bem fechada de trocas rizomativas entre emissores que se encontram sobre um mesmo plano". nesse caso, por exemplo, to lendo um texto na internet e tem a galera aqui falando em radio livre: "to deixando a caixa de som na janela do ap", eh isso ai. usando de maneiras nao previstas com seu publico. "felix sempre se situou do ponto de vista da rede, mesmo quando a palavra nao tinha o sentido que tem hoje pra nos, mesmo quando nao existia a www. ele jah entendia essa coisa de rede. porque ele falava desse rizoma como uma realidade tecno-nomadica de rede, o caos democratico". esse texto tah publicado, viu, no tvlivre.org. é o "radios livres e a emergencia de uma sensbilidade pos-midiatica". mas olha só: "o meio é um instrumento capaz de potencializazr uma faculdade humana, capaz de funcionar como extensao do corpo e de sua potencia. contudo, as mass media modernas potenciualizaram a inteligencia humana para obter o efeito paradoxal de despossuir inteligencia. elas p[otencializaram a imagfinacao para barrar a imaginacao concreta. elas submeteram a potencia ao poder. e a exploracao da potencia mental pelo poder se manifesta hoje pela demencia da massa." acabou a bateria.
+
+esse foi um pedacinho do texto do franco berardi, o biffo, falando sobre o guattari. isso pra voltar na historia de que nisso tudo que a gente ta fazendo nao é  o conteudo que interessa, mas o modo que a gente tah fazendo, a construcao, a ruptyura, esse... desse automatismo previsto por esse regime de relacao com a televisao, com a tecnica.
+
+voltando aqui a bateria.
+
+entao ta, e pensar também o radio, por que rádio? por causa da história da potencia da voz, da oralidade. é muito iuncrivel o que o audiovisual causa como XXX da imagem e tal. vou pegar entao mais uns pedacinhos aqui. "até aqui o problema que se coloca à praticva da..." entao. oral, documental, paradoxo. dando uma lidinha aqui pra poder...
+
+como é que é, galera? pergfunta ai, diz ai qual é a pergunta.
+
+ff qual é a diferença entre máquina e ferramenta, entre técnica e tecnologia
+
+9s tecnica e tecnologia, logia tá no logos, pensar a técnica. tecnollogia é já uma coisa fora do humano, autonomo.
+
+ff e a maquina?
+
+92 a questao da maquina e da ferramenta. a maquina e objeto técnico, nesse sentido aqui,. é a mesma coisa. quando se fala obj técnico, tá falando da maquina. o estudo que o simondon propoe da maquina é um estudo minucioso pra buscar isso tudo: desde como ela foi concebvida até a organizacaO dos elementos, os conjuntos dos elementos. "só o povao pode definir tecnologia", é isso mermo. dentro do humano possuído, vou voltar nisso aqui. mas entao, é... acho que pega assim, ele queria entender o que? a tecnicidade, o que que é próprio dessa máquina, particular dessa máquina. como? entendendo a tecnicidade, nos elementos dela, nos conjuentos de elementos e na relacao que os elementos e os cvonjuntos de elementos tem. o procvesso de abstracao pra construcao dessa maquina é que vai ajudar a pensdar isso tudo. e aí vem a questao do objeto ser aberto, a questao das funcionalidades reciprocas, uma serie de tecnicidades que nao vao aparecer se nao tiver essa coisa apropriada pela cultura, se ficar nesse automatismo, nesse progresso indefinido. nao vai se pensar na tecnidcidade, a tecnica vai ficar associada ao consumo nesse sentido, e nao a cultura.
+
+(chat)
+
+radio livre nao é midia, morte à midia.
+
+nao há propriedade em objetos. ? acho que... há. a tomada de consciencia dos objetos tecnicos é entender a propriedade deles no sentido da funcionalidade, como que funciona, como que...
+
+ff queria aqui... apropriacao, desapropriacao, reapropriacao
+
+9s re, re, re, re, re... lugar de poder, né? quando se fala em reciclagem já vem a idéia do lixo, porque a gente vai tentar reutilizar.
+
+45%
+
+ff acho que reciclagem é um termoi que a gente nao usaria hoje, com toda essa estrada... acho que reciclagem tem a coisa de voltar pro ciclo, voltar pro mesmo processo. que na real é uma coisa que... remanufatura é outra coisa, que "re-significar é outra coisa. a história de reciclagem tem um significado bastante definido, é o aluminio, que vai pro fim do proesso produtivo e volta pro começo, reaproveita e volta pra mesma coisa. e tem a historia de propor a idéia de apropriação.
+
+ale entao, apropriacao nao é justamente essa apropriacao cultural, que no fundo seria uma apropriacao linguistica? que a unica apropriacao que existe mesmo é a cultural.
+
+9s o que eu discordei da história é o "re", de reapropriaçao. é como se os objetos técnicos, tivesse dado, como se nao fosse possivel nunca usar uma caneta pra rebobinar uma fita cassete. quando se fala em re-significar, seria isso, num certo sentido: dar um novo significado pra caneta na relacao com a fita cassete. entao isso talvez fosse resignificar. agora na hora de apropriar, o próprio, a gente tava até falando aí do despossuido. no reapropriar parece que tá dado, toda essa existencia tá dada. e aí fica um lugar de poder que a gente tá sempre resp[ondendo. a perspectiva de ATAQUE(?) não é ficar respondendo, nao ficar no re-re-re. é pegar e afirmar as paradas. nao porque nao tem que responder. tem que responder quando as coisas estao colocadas. ai tem que negar. mas no caso do digital, da tecnica e da cultura, ha um eespaco muito maior para a cultura apropriar-se disso tudo e afirmar as coisas,. nao negar a tecnologia, mas pelo contrario, afirmar a tecnica como humana, e com isso apropriar-se. e nao reapropriar. reapropriar é isso, quase reutiuliuzar. a fabrica de computadpres do min do planejamento tem essa funcao, que é reutilizar. é acesso, e tal. 
+
+o apropriar é isso, é entender que a técnica é apropriada, ela é cultura. eu fico brigando com a historia do poder, coloca sempre um locus de poder que tem que responder, nao criar.
+
+ff ariel que nao tah no chat, mas tah no MSN, falando: porra, tecnologia é estudar como fazer o tijolo. tecnica eh mandar o tijolo na paredde e ele ficar lá. ciencia eh estudar quem é o tijolo nao se dissolve no ar. porque ele assenta melhor de um lado do que na quina, etc. e teologia é pensar no que acontece com o tijolo depois que ele vira areia.
+
+ff: lucio pergunta: o que vem depois do choque elétrico?
+
+9s / chat: tá chato, palestrinha... também acho.
+
+do texto:
+
+"Até aqui o problema que se coloca à prática de comunicação independente foi de (démêler) a riqueza das mídias tecnológicas do funcionamento social que sua subserviência (?) ao poder tomou lugar. Mas uma tal (détricolage) é possível? Podemos pensar que o agenciamento maquínico constituído por um médium possa funcionar segundo uma finalidade e uma modalidade semióticas diferentes daquelas que foram incorporadas ao curso de sua história social? "
+
+é a pergunta que ce fazia, ff: se a gente usar o linux, que a galera pega, se apropria. é possível que a galera se aproprie de mídia pra fazer uma coiusa quie nao esteja prevista pelo poder. a gente vai conseguir fazer isso sem estar manipulado por isso?
+
+ff ou até que nivel de manipulacao é aceitável, em que nivel a gente se perde, a gente consegue lidar? e uma pergunta antiga, até que ponto a gente tá hackeando ou sendo hackeado.
+
+9s "É necessário refletir aqui sobre o conceito de dispositivo, para distinguir os dispositivos dos automatismos." A maneira como esse progresso técnico, a mídia, o windows, é tudo automatismo. É entender essa parada do dispositivo, mas o quanto a gente nao reproduz o automatismo em vez de criar mesmo. Quanto esse dispositivo que a gente acha que é não é apropriado pelo poder automatico.... a nocao da manipulacao é dificil dizer o quanto voce eh manipulado. Na verdade, ela pressupoe que voce nao saiba isso. 
+
+ale talvez voce saiba
+
+9s que tá sendo, mas uma característica é que vc nunca sabe o quanto. ou voce queria ser menos ou mais mainipulado. 
+
+9s a questao do contexto, de mutacao do imaginario. um reagenciamento proliferado de um dispositivo que tava funcioanndoa até entao e agora o dispositivo modifica a relacao por exemplo, entre emissor e receptor. isso caracterizaria uma radio livre. nao o conteudo livre, licenciado, mas uma forma outra de relacao entre emissor e receptor, que a gente dfala de rede mesh, da teoria de radio do Brecht.
+
+(chat)
+
+9s le ai
+
+ale, traduzindo em italiano: "o princípio da individuação é respeitado... e julgado vulnerável mas parece que até agora a filosofia moderna não fez nada além de repropor o próprio problema" não sei se fez sentido... 
+
+9s esse texto aqui fala sobre individuacao, eu nao falei de individuacao, do simondon. a individuacao seria esse processo de abstracao e concretizacao do objeto tecnico. esse texto que o ale tava lendo era do deleuze.
+
+ale é um processo de interpretar o objeto técnico. voce viu ele existindo ali, voce monta uma imagem mental dele, isso é individuar?
+
+9s nao, nao é isso. é outa coisa, o processo de concretizaçãop dele. é o conjunto, sujeito e objeto, romper com essa coisa, que o deleuze vai entender muito bem. romper com essa coisa. individuação é o processo de caminhar junto: abstracao, tecnicidade, indeterminacao, a funcionalidade precvista, a estetica.
+
+ale entao eh o momento de criacao da parada
+
+9s a individuacao é o processo de criacao e concretizacao. desde o processo de abstracao até a concretizacao.
+
+...
+
+9s individuacao pra mim é o processo de abstracao da parada, de romper com a ideia de ter uma utilidade prevista
+
+SILENCIO
+
+ale fala...
+
+9s, vou pegar aqui... "tem a separacao cultura e tecnica? de exemplos" "qual a acao pra transformar o automatico em dispositivo?" tamo dizendo que tem uma separacao, que é a coisa do estrangeiro. pega a xenofobia... a máquina é um estrangeiro na cultura, não tem estética, tem utilidade. é nisso que ela tá separada.
+
+ale de sensibilidade entao, né?
+
+9s transformar automatismo em dispositivo? é desobedecer, desobedecer a maneira como tá pensada. a arte, até. precisa fazer isso pra dizer que... 
+
+9s falar entao de radio, legislação, que vai acompanhar... 
+
+o aspecto socializante da desobediencia é fundame4ntal, que aí tem a coisa de fazer as coisas de outra maneira. aí ce compartilha isso, desobedecem juntos e cria a possibilidade de, sei lá. 
+
+"caixa preta é um mito?" se ela fosse um mito...
+
+ff ela é um mito, mas um mito que não interessa pra gente. é um mito que a gente quer quebrar pra colocar outros mitos no lugar. mas a caixa preta, existe o mito da caixa preta.
+
+ale com certeza, é a promessa do XXX. da irreprodutibilidade. a partir do momento que voce fecha, voce tah garantindo a escassez do objetoi, as pessoas vao ser incapazes de compreender como isso é decomposto. elas nao conseguem pegar os pedacos e entender. nao consegue montar de volta. é um mito da iundustria que garante o lucro, inclusive. que garante que só voce com o conhecim,ento de colocar essa coisa junto vai poder vende-la.
+
+9s a caixa preta... do sagrado, eu entendo mais assim
+
+ff e o que muda na historia da tecnica quando impressora 3D for acessivel? viu esse barato de poder fazer objetos em 3D, replicantes, o reprap. é uma impressora 3D que tem um kit de polimeros, e faz quyalquer tipo de objetos, entra um modleo 3D e ela faz uma xicara, qualquer coisa com um modelo baixado de algum lugar. e uma das coisas que ela pode fazer é reproduzir a si própria. mas na relação da pessoa com a máqina, com a técnica, tecnologia. essa história do cara poder criar qualque objeto...
+
+ale eu nao sei se só esse dispositivo garante que as pessoas vao conseguir usar ele pra criar...
+
+ale falando sobre método dos diálogos, irc, mensdagem por voz.
+
+ale felipe tem essa mania de matar as coisas.
+
+9s fazer só o paralelo, lem,brando de metareciclagem, pensar a reciclagem. essa coisa do... parece que tá falando só de técnica, mas quando fala de técnica também tá falando da natureza. ttécnica e cultura nao tem sep[aracao assim como a natureza tambem nao tem separacao da cultura. e por isso voltar na questao da reciclagem, pra nao tratar como lixo, como uma coisa... que a reciclagem amarra essas duas paradas, a ecológica, dentro da natureza, colocar a natureza numa lógica humana; e ao mesmo tempo a técnica também, a reciclagem de computadores... a questao da reciclagem não é trabalhar com o lixo, é trabalhar com o humano, é resgatar o humano, tudo aquilo que a gente joga fora. que não é material. a gebnte joga fora as relacoes humanas, as relacoes de trabalho, entendeu? isso que a gente joga fora. quando vai na reciclagem, resgata relacoes de trabalho, relacoes humanas.
+
+ff e nem so simbolicamente
+
+92 nao é simbólico, é prático!
+
+ff jogar alguma coisa no lixo tá jogando todo o conhecimento embarcado no lixo, desperdicio
+
+9s conhecimento, trabalho, huimano
+
+9s daí pensar reciclagem sob essa ótica, e tirar essa coisa do lixo, do...
+
+ale reciclagem computadores e 
+
+9s quando ele perde a utilidade ele deixa de existir, ele morre. onde é o cemitério da parada? é onde ele agride o humano, metais pesados, mal armazenado. além de ser descartado, ele continua nocivo. mais nocivo ainda, mal armazenado. tem a dimensao ecologica, a dimensao ecosofica. simondo escreveu especificamente sobre reciclagem, mas eu ainda nao tive acesso a esse texto.
+
+9s diz o guattari "nao é possível entao pretender se opor a esse sistema todo apenas de fora a esse bloco produtivo-economico-subjetivo". pra voltar a questao de como as empresas se apropriam. pro guattar é tudo um unico bloco. produtivo-economico-subjeticvo. "nao é possivel se opor a esse bloco através de práticas sindicais e politicas tradicionais" pra pensar as novas formas de dominacao... "tornou-se igualmente imperativo encarar os efeitos do dominio da ecologia mental no seio da vida cotidiana individual, domestica, conjugal, de vizinhança e de criacao da etica pessoal. longe de buscar um consenso cretinizante e infantilizante, a questao sera no futuro de cultivar o dissenso e a producao singular da existencia".
+

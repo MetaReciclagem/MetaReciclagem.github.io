@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - experimentações</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/1152/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>LabLivre - EletrOrgânicos</title>
+ <link>http://rede.metareciclagem.org/conectaz/LabLivre-EletrOrganicos</link>
+ <description>&lt;div class=&quot;form-item&quot;&gt;
+ &lt;label&gt;Descrição: &lt;/label&gt;
+ Pesquisas desenvolvidas no SESC Sorocaba
+&lt;/div&gt;
+&lt;p&gt;&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Arial, Verdana, Helvetica, sans-serif; line-height: 1.5em; &quot;&gt;A proposta do &lt;/span&gt;&lt;strong style=&quot;color: rgb(64, 64, 64); font-family: Arial, Verdana, Helvetica, sans-serif; line-height: 1.5em; &quot;&gt;LabLivre - Experimenta&amp;ccedil;&amp;otilde;es EletrOrg&amp;acirc;nicas&lt;/strong&gt;&lt;span style=&quot;color: rgb(64, 64, 64); font-family: Arial, Verdana, Helvetica, sans-serif; line-height: 1.5em; &quot;&gt; &amp;eacute; pesquisar e desenvolver sistemas de computa&amp;ccedil;&amp;atilde;o f&amp;iacute;sica que conversem analoga e digitalmente com a flora e a fauna de determinado ecossistema.&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 1.3em; padding-left: 0px; outline-style: none; outline-width: initial; outline-color: initial; line-height: 1.5em; color: rgb(64, 64, 64); font-family: Arial, Verdana, Helvetica, sans-serif; &quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://farm9.staticflickr.com/8179/7922622816_34d6384cf3_n.jpg&quot; style=&quot;width: 320px; height: 240px; &quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-style: initial; border-color: initial; border-image: initial; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 1.3em; padding-left: 0px; outline-style: none; outline-width: initial; outline-color: initial; line-height: 1.5em; color: rgb(64, 64, 64); font-family: Arial, Verdana, Helvetica, sans-serif; &quot;&gt;A ideia &amp;eacute; amplificar nossa percep&amp;ccedil;&amp;atilde;o sob a natureza e aprimorar nossa rela&amp;ccedil;&amp;atilde;o com o meio ambiente utilizando sensoriamentos e recursos humanamente afetaveis como v&amp;iacute;deo e m&amp;uacute;sica, luz e som.&lt;/p&gt;
+&lt;div class=&quot;field field-type-text field-field-situacao-conectaz&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Situação desta ConecTAZ:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    funcionando        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+  &lt;h3 class=&quot;location-locations-header&quot;&gt;Localização&lt;/h3&gt;
+  &lt;div class=&quot;location-locations-wrapper&quot;&gt;
+          &lt;div class=&quot;location vcard&quot;&gt;
+  &lt;div class=&quot;adr&quot;&gt;
+          &lt;span class=&quot;fn&quot;&gt;Sesc Sorocaba&lt;/span&gt;
+                              &lt;div class=&quot;country-name&quot;&gt;Brazil&lt;/div&gt;
+                                      &lt;/div&gt;
+      &lt;div class=&quot;map-link&quot;&gt;
+      &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com.br?q=%2C+%2C+%2C+%2C+br+%28Sesc+Sorocaba%29&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/conectaz/LabLivre-EletrOrganicos#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/eletrorganicos">eletrorganicos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/experimentacoes">experimentações</category>
+ <category domain="http://rede.metareciclagem.org/assunto/hardware-livre-0">hardware livre</category>
+ <pubDate>Thu, 06 Sep 2012 04:02:06 +0000</pubDate>
+ <dc:creator>guimasan</dc:creator>
+ <guid isPermaLink="false">2121 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

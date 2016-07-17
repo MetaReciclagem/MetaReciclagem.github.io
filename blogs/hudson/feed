@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>blog de hudson</title>
+ <link>http://rede.metareciclagem.org/blogs/hudson</link>
+ <description>Apropriação tecnológica para a transformação social</description>
+ <language>pt-br</language>
+<item>
+ <title>Como realizar inclusão utilizando pc&#039;s antigos com sistema GNU/Linux </title>
+ <link>http://rede.metareciclagem.org/blog/25-08-10/Como-realizar-inclus%C3%A3o-utilizando-pcs-antigos-com-sistema-GNULinux</link>
+ <description>&lt;p&gt;&amp;nbsp;Transcrevendo a discuss&amp;atilde;o desta semana sobre este tema:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;MsoListParagraphCxSpFirst&quot;&gt;&lt;b&gt;Isaac Filho: &lt;/b&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoListParagraphCxSpMiddle&quot;&gt;Ent&amp;atilde;o gente e gent@, eu j&amp;aacute; havia me apresentado antes, mas creio que agora este &amp;eacute; meu primeiro e-mail importante pra lista :P&lt;/p&gt;
+&lt;p class=&quot;MsoListParagraphCxSpMiddle&quot;&gt;Ent&amp;atilde;o, vamos l&amp;aacute;...&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/25-08-10/Como-realizar-inclus%C3%A3o-utilizando-pcs-antigos-com-sistema-GNULinux&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/25-08-10/Como-realizar-inclus%C3%A3o-utilizando-pcs-antigos-com-sistema-GNULinux#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/gnu">gnu</category>
+ <category domain="http://rede.metareciclagem.org/tags/linux">linux</category>
+ <category domain="http://rede.metareciclagem.org/assunto/lixoeletronico">lixoeletronico</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metareciclagem">metareciclagem</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mustaz">mustaz</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <group domain="http://rede.metareciclagem.org/esporo/MetaSorocaba" xmlns="http://drupal.org/project/og">MetaSorocaba</group>
+ <group domain="http://rede.metareciclagem.org/esporo/Bailux" xmlns="http://drupal.org/project/og">Bailux</group>
+ <group domain="http://rede.metareciclagem.org/conectaz/Lixo-Eletr%C3%B4nico" xmlns="http://drupal.org/project/og">Lixo Eletrônico</group>
+ <pubDate>Wed, 25 Aug 2010 13:19:58 +0000</pubDate>
+ <dc:creator>hudson</dc:creator>
+ <guid isPermaLink="false">1948 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Iniciou a interação entre Metanave e Bailux via correio</title>
+ <link>http://rede.metareciclagem.org/blog/30-04-09/Iniciou-intera%C3%A7%C3%A3o-entre-Metanave-e-Bailux-correio</link>
+ <description>&lt;p&gt;Ol&amp;aacute; a &lt;a href=&quot;mailto:tod@s&quot; rel=&quot;nofollow&quot;&gt;tod@s&lt;/a&gt; metarec, novidades rolando por aqui. No fim de semana fui at&amp;eacute; o espa&amp;ccedil;o Metasorocaba para ver se conseguia pelo menos doa&amp;ccedil;&amp;atilde;o de um computador para deixar na garagem #metanave rodando linux para os meus filhos e seu amigos se familiarizando com o esquema metarec, mas infelizmente recebi novamente uma negativa de auxilio / ajuda neste sentido.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/30-04-09/Iniciou-intera%C3%A7%C3%A3o-entre-Metanave-e-Bailux-correio&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/30-04-09/Iniciou-intera%C3%A7%C3%A3o-entre-Metanave-e-Bailux-correio#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/bailux">bailux</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metanave">metanave</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metareciclagem">metareciclagem</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/MetaNave" xmlns="http://drupal.org/project/og">MetaNave</group>
+ <pubDate>Thu, 30 Apr 2009 20:58:57 +0000</pubDate>
+ <dc:creator>hudson</dc:creator>
+ <guid isPermaLink="false">1588 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Integração entre o coneTAZ Metanave e o esporo Bailux</title>
+ <link>http://rede.metareciclagem.org/blog/30-04-09/Integra%C3%A7%C3%A3o-entre-o-coneTAZ-Metanave-e-o-esporo-Bailux</link>
+ <description>&lt;p&gt;Este final de semana iniciaremos a nossa integra&amp;ccedil;&amp;atilde;o entre projetos de metareciclagem, e escolhemos o &amp;lt;a href=&amp;quot;&lt;a href=&quot;http://bailux.wordpress.com/&amp;quot;&amp;gt;Régis&amp;lt;/a&quot; rel=&quot;nofollow&quot;&gt;http://bailux.wordpress.com/&amp;quot;&amp;gt;R&amp;eacute;gis&amp;lt;/a&lt;/a&gt;&amp;gt; e a comunidade Bailux realizam o projeto na cidade de &amp;lt;strong&amp;gt;Arraial D&#039;Ajuda no sul da Bahia&amp;lt;/strong&amp;gt;; as intera&amp;ccedil;&amp;otilde;es ser&amp;atilde;o realizadas via internet, utilizando os Sabe Tudo (centros de Inclus&amp;atilde;o digital de Sorocaba), onde irei mostrar um pouco como se d&amp;aacute; a metodologia Metareciclagem, on&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/30-04-09/Integra%C3%A7%C3%A3o-entre-o-coneTAZ-Metanave-e-o-esporo-Bailux&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/30-04-09/Integra%C3%A7%C3%A3o-entre-o-coneTAZ-Metanave-e-o-esporo-Bailux#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/bailux">bailux</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metanave">metanave</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metareciclagem">metareciclagem</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/MetaNave" xmlns="http://drupal.org/project/og">MetaNave</group>
+ <pubDate>Thu, 30 Apr 2009 20:53:51 +0000</pubDate>
+ <dc:creator>hudson</dc:creator>
+ <guid isPermaLink="false">1587 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Nasce o conecTAZ &quot;MetaNave&quot;</title>
+ <link>http://rede.metareciclagem.org/blog/30-04-09/Nasce-o-conecTAZ-MetaNave</link>
+ <description>&lt;p&gt;O relato abaixo, &amp;eacute; do &amp;quot;nascimento&amp;quot; da garagem #metanave que ocorreu neste m&amp;ecirc;s:&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/30-04-09/Nasce-o-conecTAZ-MetaNave&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/30-04-09/Nasce-o-conecTAZ-MetaNave#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/metanave">metanave</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metareciclagem">metareciclagem</category>
+ <category domain="http://rede.metareciclagem.org/assunto/nave">nave</category>
+ <category domain="http://rede.metareciclagem.org/assunto/weblab">weblab</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/MetaNave" xmlns="http://drupal.org/project/og">MetaNave</group>
+ <pubDate>Thu, 30 Apr 2009 20:49:54 +0000</pubDate>
+ <dc:creator>hudson</dc:creator>
+ <guid isPermaLink="false">1586 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Nasce o conecTAZ metavae</title>
+ <link>http://rede.metareciclagem.org/blog/30-04-09/Nasce-o-conecTAZ-metavae</link>
+ <description>&lt;p&gt;O erelato do &amp;quot;nascimento&amp;quot; da garagem #metanave que ocorreu neste m&amp;ecirc;s:&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/30-04-09/Nasce-o-conecTAZ-metavae&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/30-04-09/Nasce-o-conecTAZ-metavae#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/metanave">metanave</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metareciclagem">metareciclagem</category>
+ <category domain="http://rede.metareciclagem.org/assunto/nave">nave</category>
+ <category domain="http://rede.metareciclagem.org/assunto/weblab">weblab</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/MetaNave" xmlns="http://drupal.org/project/og">MetaNave</group>
+ <pubDate>Thu, 30 Apr 2009 20:47:41 +0000</pubDate>
+ <dc:creator>hudson</dc:creator>
+ <guid isPermaLink="false">1585 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Metasorocaba é....</title>
+ <link>http://rede.metareciclagem.org/blog/27-01-09/Metasorocaba-%C3%A9</link>
+ <description>&lt;p&gt;Vou come&amp;ccedil;ar a contar um pouco como surgiu a id&amp;eacute;ia de imprementarmos o projeto MetaSorocaba.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/27-01-09/Metasorocaba-%C3%A9&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/27-01-09/Metasorocaba-%C3%A9#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/metanave">metanave</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metareciclagem">metareciclagem</category>
+ <category domain="http://rede.metareciclagem.org/tags/metasorocaba">metasorocaba</category>
+ <group domain="http://rede.metareciclagem.org/esporo/MetaSorocaba" xmlns="http://drupal.org/project/og">MetaSorocaba</group>
+ <pubDate>Tue, 27 Jan 2009 12:20:47 +0000</pubDate>
+ <dc:creator>hudson</dc:creator>
+ <guid isPermaLink="false">1520 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

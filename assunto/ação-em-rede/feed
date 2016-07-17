@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - ação em rede</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/388/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Ação em rede e aprendizados</title>
+ <link>http://rede.metareciclagem.org/blog/23-09-08/A%C3%A7%C3%A3o-em-rede-e-aprendizados</link>
+ <description>&lt;p&gt;Um dos elementos mais marcantes pra mim durante os treze meses do projeto Met&amp;aacute;:Fora foi a quantidade de coisas que eu aprendi pela conviv&amp;ecirc;ncia remota mas freq&amp;uuml;ente com aquelas mais de cem pessoas. Ainda mais em contraste com minhas p&amp;eacute;ssimas experi&amp;ecirc;ncias em duas diferentes faculdades particulares de S&amp;atilde;o Paulo, onde eu s&amp;oacute; aprendi a reconhecer e ignorar gente imbecil. O aprendizado que eu tinha com meus pares de rede era muito mais acelerado e criativo.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/23-09-08/A%C3%A7%C3%A3o-em-rede-e-aprendizados&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/23-09-08/A%C3%A7%C3%A3o-em-rede-e-aprendizados#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/a%C3%A7%C3%A3o-em-rede">ação em rede</category>
+ <category domain="http://rede.metareciclagem.org/tags/aprendizado">aprendizado</category>
+ <category domain="http://rede.metareciclagem.org/assunto/aprendizado-distribu%C3%ADdo">aprendizado distribuído</category>
+ <category domain="http://rede.metareciclagem.org/tags/educa-o">educação</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metalearning">metalearning</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/MetaLearning" xmlns="http://drupal.org/project/og">MetaLearning</group>
+ <pubDate>Tue, 23 Sep 2008 15:34:28 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1444 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

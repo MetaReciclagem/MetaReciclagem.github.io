@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - n800</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/624/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Preparando o sistema</title>
+ <link>http://rede.metareciclagem.org/wiki/Preparando-o-sistema</link>
+ <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;A id&amp;eacute;ia de desenvolvimento pro N800 &amp;eacute; compilar no PC&amp;nbsp;usando o scratchbox - que &amp;eacute; um emulador para diversas plataformas - e mandar pro bichinho. Eu instalei o sistema tanto no Ubuntu Intrepid (8.10) quanto no Jaunty (9.04) e funcionou 100%.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/Preparando-o-sistema&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Preparando-o-sistema#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/maemo">maemo</category>
+ <category domain="http://rede.metareciclagem.org/assunto/n800">n800</category>
+ <category domain="http://rede.metareciclagem.org/assunto/opencv">opencv</category>
+ <pubDate>Fri, 12 Jun 2009 20:53:10 +0000</pubDate>
+ <dc:creator>bruno</dc:creator>
+ <guid isPermaLink="false">1602 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Porque?</title>
+ <link>http://rede.metareciclagem.org/wiki/Porque</link>
+ <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Faz tempo que ando brincando com realidade aumentada em dispositivos port&amp;aacute;teis (&lt;a href=&quot;/search/node/www.geral.etc.br/invisibles&quot; title=&quot;Search this site for content like &amp;quot;www.geral.etc.br/invisibles&amp;quot;&quot; class=&quot;freelink freelink-search notfound freelink-internal&quot; rel=&quot;nofollow&quot;&gt;www.geral.etc.br/invisibles&lt;/a&gt;). Fiz com os celulares da Nokia que rodam S60, mas &amp;eacute; uma plataforma que tem alguns problemas.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/Porque&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Porque#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/maemo">maemo</category>
+ <category domain="http://rede.metareciclagem.org/assunto/n800">n800</category>
+ <category domain="http://rede.metareciclagem.org/assunto/opencv">opencv</category>
+ <category domain="http://rede.metareciclagem.org/assunto/realidade-aumentada">realidade aumentada</category>
+ <pubDate>Fri, 12 Jun 2009 20:00:42 +0000</pubDate>
+ <dc:creator>bruno</dc:creator>
+ <guid isPermaLink="false">1601 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>N800 Computer Vision</title>
+ <link>http://rede.metareciclagem.org/wiki/N800-Computer-Vision</link>
+ <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;/wiki/Porque&quot; title=&quot;&quot; class=&quot;freelink freelink-nodetitle freelink-internal&quot; rel=&quot;nofollow&quot;&gt;Porque?&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;/wiki/Preparando-o-sistema&quot; title=&quot;&quot; class=&quot;freelink freelink-nodetitle freelink-internal&quot; rel=&quot;nofollow&quot;&gt;Preparando o sistema&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;/search/node/Instalando%2Bo%2BOpenCV&quot; title=&quot;Search this site for content like &amp;quot;Instalando+o+OpenCV&amp;quot;&quot; class=&quot;freelink freelink-search notfound freelink-internal&quot; rel=&quot;nofollow&quot;&gt;Instalando+o+OpenCV&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;/search/node/Compilando%2Bos%2Bexemplos&quot; title=&quot;Search this site for content like &amp;quot;Compilando+os+exemplos&amp;quot;&quot; class=&quot;freelink freelink-search notfound freelink-internal&quot; rel=&quot;nofollow&quot;&gt;Compilando+os+exemplos&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;/blog/17-09-09/Links&quot; title=&quot;&quot; class=&quot;freelink freelink-nodetitle freelink-internal&quot; rel=&quot;nofollow&quot;&gt;Links&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/N800-Computer-Vision#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/debian">debian</category>
+ <category domain="http://rede.metareciclagem.org/assunto/maemo">maemo</category>
+ <category domain="http://rede.metareciclagem.org/assunto/n800">n800</category>
+ <category domain="http://rede.metareciclagem.org/assunto/opencv">opencv</category>
+ <category domain="http://rede.metareciclagem.org/assunto/tecnologia">tecnologia</category>
+ <pubDate>Fri, 12 Jun 2009 19:50:11 +0000</pubDate>
+ <dc:creator>bruno</dc:creator>
+ <guid isPermaLink="false">1600 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Começando com o n800</title>
+ <link>http://rede.metareciclagem.org/wiki/Come%C3%A7ando-com-o-n800</link>
+ <description>&lt;p&gt;Recebendo e come&amp;ccedil;ando a usar o nokia n800.&lt;/p&gt;
+&lt;p&gt;&lt;img width=&quot;500&quot; height=&quot;375&quot; alt=&quot;&quot; src=&quot;/midia/u2/aberta.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width=&quot;500&quot; height=&quot;413&quot; alt=&quot;&quot; src=&quot;/midia/u2/fechada.jpg&quot; /&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/Come%C3%A7ando-com-o-n800&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/wiki/Come%C3%A7ando-com-o-n800#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/itiner%C3%A2ncias">itinerâncias</category>
+ <category domain="http://rede.metareciclagem.org/assunto/maemo">maemo</category>
+ <category domain="http://rede.metareciclagem.org/tags/mobile">mobile</category>
+ <category domain="http://rede.metareciclagem.org/assunto/n800">n800</category>
+ <category domain="http://rede.metareciclagem.org/tags/software-livre">software livre</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Itiner%C3%A2ncias" xmlns="http://drupal.org/project/og">Itinerâncias</group>
+ <pubDate>Thu, 07 May 2009 20:45:37 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1594 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,240 @@
+Conversation with #metareciclagem at Ter 02 Mar 2010 12:58:18 BRT on efeefe@irc.freenode.org (irc)
+(17:04:19) fescur [~fescur@187.36.42.9] entrou na sala.
+(17:04:25) fescur: oi galera
+(17:05:37) efeefe: oi fe
+(17:05:57) tatirp [~bd6459f5@gateway/web/freenode/x-dptycfehsevdnaqp] entrou na sala.
+(17:06:10) fescur: j? t? rolando discuss?o?
+(17:06:25) tatirp: oi, fe acabei de entrar nesse segundo
+(17:06:30) fescur: oi tati
+(17:06:40) Yaso [~bb5208d9@gateway/web/freenode/x-vpnxvdqqzkwtsqzh] entrou na sala.
+(17:06:54) Yaso: oios!
+(17:07:02) efeefe: alou yaso, tati
+(17:07:10) fescur: oie
+(17:07:28) efeefe: tati, tu conhece o mirggi?
+(17:07:54) tatirp: oi, efe (agora com @) - acho que nao
+(17:08:18) efeefe: eh um cliente de irc pro symbian
+(17:08:33) efeefe: meio sacal pra escrever, mas rola pra acompanhar chats quando nao pode estar online ;)
+(17:08:48) tatirp: hm... isso eh bom
+(17:09:21) tatirp: o meu problema nao eh escrever. eh a falta de preocupacao estetica das "ferramentas"
+(17:09:35) tatirp: muitas me entristecem
+(17:09:58) tatirp: como eu testo essaih
+(17:10:03) tatirp: ?
+(17:10:06) fescur: efe, tu mandou pra lista as telas de sexta?
+(17:10:33) tatirp: oi, yaso!
+(17:10:33) efeefe: mandei nao, fe
+(17:10:49) efeefe: tentei publicar, mas nao foram todas. o meu browser tava meio que se estranhando com uploads.
+(17:10:56) barraponto mudou seu apelido para barraponto[AWAY]
+(17:11:35) efeefe: aqui, oh
+(17:11:46) efeefe: ah, saco
+(17:11:52) efeefe: clipboard nao fa rodando direito
+(17:12:04) efeefe: tatirp: procura mirggi no teu celular e instala
+(17:12:37) efeefe: http://rede.metareciclagem.org/evento/Listagens-e-agregador
+(17:12:47) efeefe: vejam se funciona esse link. nao consegui colar, tive que digitar
+(17:13:05) tatirp: ok, efe, vou testar
+(17:13:39) fescur: abriu, mas as telas tu nao anexou lah, ne?
+(17:14:06) Yaso: oI TATI!
+(17:14:09) efeefe: dah um reload
+(17:14:13) Yaso: minha conexao ta ruinzona, demoooora
+(17:14:21) efeefe: soh consegui anexar duas telas
+(17:14:26) Yaso: ateh pra chegar as mensagens
+(17:14:59) fescur: buenas, jah vou adiantando que estou devendo DUAS das telas que fiquei de finalizar pra hoje
+(17:15:12) fescur: toh com a pressao meio baixa e fiquei de repouso o dia todo :-(
+(17:15:29) fescur: efe, te enviei so a de teaser de blogues, tem coisa ali pra discutir
+(17:15:47) fescur: fora isso...estudando ambas as faltantes, to com umas duvidas antes de seguir layout. te prometo elas pra amanha, ok?
+(17:16:04) fescur: mas queria ver as minhas duvidas pra seguir no layout delas.
+(17:16:15) efeefe: manda ver
+(17:16:18) fescur: nao sei o que fazemos, se discutimos primeiro as telas de sexta
+(17:16:20) tatirp: dia lah
+(17:16:22) efeefe: eu vou encaminhar teu email com todas as telas pra infralogica
+(17:16:25) tatirp: ops, diga
+(17:16:29) fescur: ou se falamos nessas (sobre minhas duvidas)
+(17:17:36) efeefe: na real, nao sei. acho que a yaso e a tati nao viram as telas de sexta, ne?
+(17:17:53) fescur: pois, acho que nao
+(17:17:57) fescur: estou anexando as que faltam la
+(17:18:02) tatirp: nao vi as telas, soh o log
+(17:18:02) efeefe: mandei pra lista
+(17:18:26) fescur: bom, igual, anexei todas lah
+(17:18:31) fescur: podemos falar nelas
+(17:18:57) efeefe: ok
+(17:19:01) fescur: mas depois quero ver contigo a de adicao de conteudo e a de wiki. nao tinha me dado conta que sao bem mais complexas
+(17:19:11) efeefe: yaso, tati, comentarios sobre as telas de sexta?
+(17:19:19) efeefe: fescur: sim, sao
+(17:19:23) efeefe: tem um monte de campos
+(17:19:28) fescur: eh
+(17:19:34) efeefe: que hoje sao meio bizarros, tudo igual, nao da pra ter ideia do que eh o que
+(17:19:45) fescur: e outra coisa, o que eh aquilo que aparece quando eu coloco o mouse em cima, aquele editar?
+(17:19:48) tatirp:  efe, elas tao abrindo aqui...
+(17:20:10) efeefe: fescur: onde?
+(17:20:27) fescur: sim, tah uma confusao, queria ver contigo pra enxugarmos
+(17:20:37) barraponto[AWAY] mudou seu apelido para barraponto
+(17:20:47) fescur: tem o editar normal da pagina, pra quem eh admin (editar, rastrear, revisoes, etc)
+(17:21:04) fescur: mas quando eu coloco o mouse em cima, aparece um editar tb, com a mesma funcao
+(17:21:07) fescur: um layer
+(17:21:15) fescur: isso vai seguir?
+(17:21:20) efeefe: acho que nao
+(17:21:23) fescur: eu acho meio chato
+(17:21:31) efeefe: isso eh o modulo de admin que a chuva pos lah
+(17:21:33) fescur: sendo que tem a mesma funcao daquela aba
+(17:21:38) efeefe: soh quem eh admin do site ve isso
+(17:21:46) fescur: eu sei, mas eu como admin nao curti, hehehe
+(17:22:02) efeefe: enquanto elas veem as telas de sexta, um comentario rapido sobre essa tela de teaser de blogue
+(17:22:08) fescur: hum
+(17:22:09) efeefe: pode ser?
+(17:22:13) fescur: deve
+(17:22:18) efeefe: achei meio pequenim
+(17:22:35) efeefe: acho que pro agregador funciona. pra blogue me pareceu discretinha demais
+(17:22:52) efeefe: to encaminhando pra yaso e pra tati tambem
+(17:23:04) fescur: botei la na infralogica tb
+(17:23:18) fescur: tah, mas exatamente qual eh a funcao? talvez eu nao tenha entendido
+(17:23:23) efeefe: no blogue acho que a ideia eh ter teasers com mais conteudo, o corte fica maior.
+(17:23:26) fescur: o post eh pra aparecer INTEIRO ali?
+(17:23:34) efeefe: nao, mas um teaser maior
+(17:23:47) fescur: mas uma coisa eh o blog metarec, esse ainda nao mexemos
+(17:24:06) fescur: essa pagina faz parte do agregador de feeds, so que eh so a categoria blogues, correto?
+(17:24:16) efeefe: ah, heh
+(17:24:25) efeefe: entao, acho que pode ser
+(17:24:27) Yaso: po, achei do caralho o trampo
+(17:24:28) efeefe: tava pensando no blog metarec
+(17:24:42) fescur: isso, eu ainda nao fiz a do blog, saca?
+(17:24:45) Yaso: So tenho consideracoes sobre design gráfico mesmo...
+(17:24:46) tatirp: eu ahco que essa lista em forma de linhas sombreadas alternadamente eh boa
+(17:24:53) fescur: massa, yaso - manda todas as tuas observacoes
+(17:25:19) efeefe: http://rede.metareciclagem.org/blog
+(17:25:32) efeefe: mas vou rever agora pensando em agregador
+(17:25:44) Yaso: o contraste do fundo cinza com a fonte cinza llaaaaaaa do topinho, onde tem a breadcrumb
+(17:26:20) fescur: efeefe: tu queria que eu tivesse feito essa pagina do blog entao? sorry, vou botar aqui na lista
+(17:26:29) fescur: yaso: sim, o que tem? muito fraco?
+(17:26:31) Yaso: eu diminuiria o cinza de trás no geral, ta tirando luminosidade da tela..
+(17:26:37) Yaso: ta pouco o contraste
+(17:26:40) fescur: hum...saquei
+(17:26:58) efeefe: fescur: tranquilis
+(17:27:09) tatirp: eu tb acho que as minhas questoes tem mais a ver com o visual do que com a estrutura (que tah mais facil nessas propostas da fe)
+(17:27:14) Yaso: o cinza eu acho meio escurao. Tipo, eu to num notezinho de 13, perto de uma janelona, quase nao vejo nada por causa do reflexho, a tela escurecida
+(17:28:21) fescur: saquei
+(17:28:26) Yaso: tb trocaria os selecionados pra vermelho e os não selecionados pra preto, no caso da paginacao
+(17:29:04) fescur: yaso: mas os nao selecionados estao em vermelho (meio laranja na verdade) porque sao links
+(17:29:33) fescur: eu vou dar uma trabalhada melhor na saturacao dessas cores ainda, tem razao, ta meio apagado
+(17:30:05) Yaso: (embolei tudo aqui)
+(17:30:08) fescur: tatirp e yaso, essas dicas eu to anotando aqui, mas se puderem mandar separado na lista seria legal tb...ler o log todo procurando elas depois eh ruim...
+(17:30:20) Yaso: entao, os nao selecionados eu colocaria como preto
+(17:30:33) Yaso: E soh os selecionados em vermelho.
+(17:30:39) tatirp: ok, fer - pra mim, isso funciona melhor tb
+(17:30:58) Yaso: poxa, vou fazer isso entao
+(17:31:04) Yaso: mandar pra lista
+(17:31:15) Yaso: a conexao aqui ta moh ruinzinha
+(17:31:15) fescur: yaso: mas os numeros nao selecionados sao links, e seguindo a logica, links sao laranjas no site
+(17:31:16) efeefe: acho legal conversar aqui e depois tambem mandar pra lista ;)
+(17:31:25) fescur: sim, sim
+(17:31:30) Yaso: humm.. Entendi
+(17:32:11) tatirp: pra mim, incomoda menos as cores e mais as formas
+(17:32:25) fescur: por isso deixei o numero selecionado um pouco mais em negrito e maior...
+(17:32:35) fescur: fale das formas, tatirp
+(17:32:50) tatirp: eu ainda acho que estao um pouco "rigidas", sem a linha de grade e os cantos dos quadrados arredondado  melhora bastante
+(17:33:23) tatirp: mas acho pode ter menos a "tabela" subliminar
+(17:33:32) tatirp: nao sei se dah pra entender
+(17:33:35) fescur: tatirp: mas ai nao teremos divisao quase entre as "caixas" de conteudo
+(17:33:45) fescur: que tela especifica tu ta falando?
+(17:34:43) tatirp: acho que nas listas isso faz sentido, mas as outras (tipo painel e perfil) pode ser ainda mais organico
+(17:34:52) tatirp: e nao falo do "miolo"
+(17:35:31) efeefe: tatirp: acho que tem um limite de organicidade, que eh o fato de a gente ter um sistema por tras, e precisar estruturar as infos na tela de uma forma que se relacione com esse sistema
+(17:35:33) tatirp: to pensando nisso qdo vejo tudo: a faixa de cima, de baixo, com o menu lateral junto com o miolo
+(17:35:43) tatirp: eu entendo efe
+(17:36:36) tatirp: eh aquela minha vontade de ter "a estrutura de rede, mas com cara de site"
+(17:37:21) fescur: eu acho que nessa nossa primeira tentativa de design, devemos ter um site o mais simples poss?vel, porque temos muito trabalho de organizacao da informacao em si, que pra mim eh prioridade
+(17:37:28) fescur: mais que o design grafico em si, entende?
+(17:37:39) tatirp: pode ser fe...
+(17:37:50) tatirp: jah vou pensar num edital pro ano que vem ;)
+(17:38:10) fescur: tem muita coisa ruim no site em termos de usabilidade, a minha ideia e a gente trabalhar isso primeiro, enxugar coisas, reorganizar de forma mais clara, etc.
+(17:38:18) fescur: o site nao vai parar, muito menos o design
+(17:38:28) fescur: mas nesse estagio, acho que nao da pra inventar muito ainda
+(17:39:04) tatirp: blz, vamo em frente
+(17:39:14) efeefe: tatirp: tem aquela conversa que a gente teve lah em arraial... nao necessariamente essa cara do site precisa ser a unica. com o tempo, a gente pode ter varias portas de entrada que proponham diferentes formas de navegar na mesma base de dados + pessoas. 
+(17:39:45) efeefe: sempre pensei em reforcar o uso dos perfis de usuario pra chamar o dalton e ele brincar com os sociogramas e lances de visualizacao de informacao em cima disso.
+(17:39:59) tatirp: eu sei efe, mas sabe aquela coisa de vc olhar prum site e pensar:
+(17:40:03) efeefe: mas pra isso a gente precisa comecar facilitando pras pessoas adicionarem informacao no perfil
+(17:42:07) tatirp: esse cara acabou de descobrir o "flash". hj em dia eu navego na rede, olho as coisas e penso - ah... tah, esse aih eh da "turma do software livre"
+(17:43:13) efeefe: hehehe
+(17:43:29) tatirp: nos dois casos, o problema eh - a ferramenta tah sobrepondo a criacao
+(17:43:58) tatirp: nao eh o caso da fe, evidente
+(17:44:05) fescur: ;-)
+(17:44:11) fescur: enganei bem hein
+(17:44:31) tatirp: talvez o nosso caso seja agora: o que vai ser a prioridade
+(17:44:39) tatirp: (falsarias unidas!)
+(17:45:11) tatirp: ;)
+(17:46:17) VJ_VARGA [~varga@187.40.107.3] entrou na sala.
+(17:46:28) VJ_VARGA: T? acabando, n??
+(17:46:31) fescur: buenas. a minha prioridade, como eu falei, eh essa organizada e sintetizada nos modulos do site
+(17:46:41) VJ_VARGA: so deu p/ entrar agora
+(17:46:45) fescur: oi varga, acho que sim...eu tenho que sair as 18:00
+(17:46:54) fescur: efe, tens tempo amanha pela manha?
+(17:47:00) fescur: (pra ver essas minhas duvidas)
+(17:47:01) VJ_VARGA: de tarde eh sempre o pior horario p/ mim
+(17:47:11) efeefe: fescur: "manha" eh uma palavra que eu nao uso muito
+(17:47:16) efeefe: mas podemos tentar sim
+(17:47:27) fescur: dez??
+(17:47:36) efeefe: ok
+(17:47:37) fescur: (as 11 eu tenho exame da carteira de motora)
+(17:47:41) Yaso: aqui?
+(17:47:42) efeefe: exame?
+(17:47:49) efeefe: aqui, sim
+(17:48:01) fescur: mas pode ser depois do almoco...so pra aproveitar o dia pra seguir nos layouts
+(17:48:08) fescur: hoje atrasou tudo :-(
+(17:48:31) fescur: sim, exame m?dico pra fazer a prova aquela
+(17:48:35) fescur: da renovacao
+(17:49:25) efeefe: ah, saco
+(17:49:42) tatirp: voltando lah pro tamanho do teaser do, acho que do agregador tem que ser minimo (pela qtde de info) e o do blog poder ser maior mesmo...
+(17:49:45) fescur: eh, bosta
+(17:50:03) efeefe: podemos fazer as 10 entao. aih a gente entra nos forms?
+(17:50:05) efeefe: agora tah muito tarde?
+(17:50:10) fescur: isso efe
+(17:50:12) tatirp: (delay sem sentido)
+(17:50:15) fescur: acho que sim, tenho muuuuuuuuuuuuitas duvidas
+(17:50:24) fescur: e tenho que sair as 18
+(17:50:42) fescur: quem conseguir participar, sera bem vindo
+(17:50:47) Yaso: tb
+(17:50:54) fescur: nao sao bem duvidas, mas decisoes a serem tomadas, saca?
+(17:51:05) efeefe: bleza
+(17:51:09) fescur: "isso fica? isso faz sentido? isso nao deveria estar nao sei onde?"
+(17:51:11) efeefe: eu aviso lah na lista entao
+(17:51:11) fescur: coisas assim.
+(17:51:15) fescur: isso
+(17:51:35) efeefe: enquanto isso, ces viram o textinho que eu mandei na lista infralogica?
+(17:51:46) efeefe: eh pra contextualizar a proposta de desenvolvimento
+(17:51:47) tatirp: efe, to lendo agora
+(17:51:51) fescur: tatirp: mas tu entendeu, que aquele agregador ali eh de outros blogs, nao eh o blog metarec, ne?
+(17:52:34) tatirp: entendi, fe - eh q qdo efe falou que era pequeno eu nao achei, mas olhando melhor, faz sentido
+(17:52:39) efeefe: fescur: todo o lance dos agregadores vai precisar ser repensado.
+(17:53:32) fescur: efeefe: por?
+(17:53:51) efeefe: porque o jeito como eh feito hoje, no sistema, nao dah muita flexibilidade
+(17:54:00) efeefe: ele usa o agregador padrao do drupal, que eh bem limitado
+(17:54:20) efeefe: eu quero usar outro sistema, o feeds, que permite maior integracao com os grupos, com perfil de usuarix e com o sistema de notificacoes
+(17:54:39) fescur: ai...tah
+(17:54:44) tatirp: efe, mas vc fala do jeito de agregar ou de visualizar?
+(17:54:58) efeefe: principalmente agregar
+(17:55:14) efeefe: mas ai tambem vamos poder pirar em mais possibilidades de exibicao
+(17:55:22) efeefe: juntar feeds dx usuarix no perfil, por exemplo
+(17:55:36) efeefe: ou filtragens mais dinamicas na exibicao do agregador
+(17:56:06) fescur: hum, ok
+(17:56:58) tatirp: isso realmente vai flexibilizar o uso, pq hj ele eh quase uma grande biblioteca com livros empilhados
+(17:57:22) efeefe: sim
+(17:57:25) efeefe: a ideia eh essa
+(17:57:26) efeefe: ;)
+(17:57:32) efeefe: bom, quase seis horas
+(17:57:35) fescur: blz
+(17:57:37) efeefe: amanha as 10 a gente continua entonces?
+(17:57:42) fescur: galera, amanha as 10 pra quem pode
+(17:57:43) tatirp: aih chega uma hora q eu falo... ai fecha a porta desse quartinho aih
+(17:57:59) fescur: tatirp, falando em quartinho, segunda t? ai
+(17:58:04) fescur: depois te mando msg
+(17:58:12) tatirp: blz, fe - toh te esperando!
+(17:58:34) fescur: legal, dai combinamos como fazemos!
+(17:59:11) tatirp: sim, sim!
+(17:59:14) efeefe: roquenrou
+(17:59:17) efeefe: mandei email na lsita
+(17:59:26) fescur: pessoas queridas, vou indo entao, nos falamos amanha!!!
+(17:59:31) fescur: bjs a todos
+(18:00:07) efeefe: obrigado a todxs pela presenca
+(18:00:23) fescur saiu da sala (quit: Quit: Java user signed off).
+(18:00:24) efeefe: yaso, se puderes mandar tuas observacoes na lista pra documentar, agradeco
+(18:00:26) tatirp: [clap, clap - desliga-se o microfone]
+(18:00:30) efeefe: senao avisa que eu pego do log aqui

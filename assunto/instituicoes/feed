@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - instituicoes</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/336/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>InterfacesInstitucionais</title>
+ <link>http://rede.metareciclagem.org/wiki/InterfacesInstitucionais</link>
+ <description>&lt;p&gt;== Interfaceamentos Institucionais == &lt;br /&gt;&amp;nbsp;&lt;br /&gt;Este broto do rizometarec &amp;eacute; dedicado a discutir e desenvolver interfaces institucionais para a realiza&amp;ccedil;&amp;atilde;o de MetaReciclagens, com particular aten&amp;ccedil;&amp;atilde;o para os perigos disso. &lt;br /&gt;&amp;nbsp;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/InterfacesInstitucionais&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/InterfacesInstitucionais#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/estrutura">estrutura</category>
+ <category domain="http://rede.metareciclagem.org/assunto/instituicoes">instituicoes</category>
+ <category domain="http://rede.metareciclagem.org/assunto/interface">interface</category>
+ <pubDate>Wed, 18 Jun 2008 22:03:33 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">1317 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

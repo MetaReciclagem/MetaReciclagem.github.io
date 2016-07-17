@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - projeto inicial</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/705/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Mutirão Projeto Inicial</title>
+ <link>http://rede.metareciclagem.org/wiki/MutiraoProjetoInicial</link>
+ <description>&lt;p&gt;A proposta inicial do Mutir&amp;atilde;o da Gambiarra idealizada por Felipe Fonseca consistiu no desenvolvimento de uma plataforma online para a coleta, organiza&amp;ccedil;&amp;atilde;o e an&amp;aacute;lise de documenta&amp;ccedil;&amp;atilde;o gerada nos mais de cinco anos de atividade da rede &lt;a rel=&quot;nofollow&quot; href=&quot;http://mutirao.metareciclagem.org/freelinking/MetaReciclagem&quot; rel=&quot;nofollow&quot;&gt;MetaReciclagem&lt;/a&gt;. Tinha tamb&amp;eacute;m por objetivos a forma&amp;ccedil;&amp;atilde;o de um grupo editorial e a elabora&amp;ccedil;&amp;atilde;o de uma metodologia aberta de edi&amp;ccedil;&amp;atilde;o colaborativa online.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/MutiraoProjetoInicial&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/MutiraoProjetoInicial#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/mutir%C3%A3o-da-gambiarra">mutirão da gambiarra</category>
+ <category domain="http://rede.metareciclagem.org/assunto/projeto-inicial">projeto inicial</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Fri, 04 Sep 2009 11:09:19 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">1716 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

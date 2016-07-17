@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - poesia digital</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/737/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>MutiraoPosDigitais</title>
+ <link>http://rede.metareciclagem.org/wiki/MutiraoPosDigitais</link>
+ <description>&lt;p&gt;Coletando po&amp;eacute;ticas p&amp;oacute;s-digitais:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;http://organismo.art.br/blog/?p=2707&quot; title=&quot;http://organismo.art.br/blog/?p=2707&quot; rel=&quot;nofollow&quot;&gt;http://organismo.art.br/blog/?p=2707&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://soundcloud.com/ribeiro/cassandra&quot; title=&quot;http://soundcloud.com/ribeiro/cassandra&quot; rel=&quot;nofollow&quot;&gt;http://soundcloud.com/ribeiro/cassandra&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://article.gmane.org/gmane.politics.organizations.metareciclagem/24210&quot; title=&quot;http://article.gmane.org/gmane.politics.organizations.metareciclagem/24210&quot; rel=&quot;nofollow&quot;&gt;http://article.gmane.org/gmane.politics.organizations.metareciclagem/24210&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://thread.gmane.org/gmane.politics.organizations.metareciclagem/23803&quot; title=&quot;http://thread.gmane.org/gmane.politics.organizations.metareciclagem/23803&quot; rel=&quot;nofollow&quot;&gt;http://thread.gmane.org/gmane.politics.organizations.metareciclagem/23803&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://organismo.art.br/blog/?p=2828&quot; title=&quot;http://organismo.art.br/blog/?p=2828&quot; rel=&quot;nofollow&quot;&gt;http://organismo.art.br/blog/?p=2828&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/MutiraoPosDigitais#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/mutir%C3%A3o-da-gambiarra">mutirão da gambiarra</category>
+ <category domain="http://rede.metareciclagem.org/assunto/poesia-digital">poesia digital</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Wed, 02 Sep 2009 16:31:53 +0000</pubDate>
+ <dc:creator>o2</dc:creator>
+ <guid isPermaLink="false">1712 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

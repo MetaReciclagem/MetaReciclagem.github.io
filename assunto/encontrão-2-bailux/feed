@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - encontrão 2; bailux</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/623/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>EncontrãoTransdimensionalBailux_Transporte</title>
+ <link>http://rede.metareciclagem.org/wiki/Encontr%C3%A3oTransdimensionalBailuxTransporte</link>
+ <description>&lt;p&gt;&amp;nbsp;&lt;b&gt;Transporte&lt;/b&gt;&lt;/p&gt;
+&lt;p class=&quot;western&quot;&gt;Segundo or&amp;ccedil;amento de passagem a&amp;eacute;rea.&lt;/p&gt;
+&lt;p class=&quot;western&quot;&gt;Faltam transportes locais e outras alternativas mais baratas/vi&amp;aacute;vies. Quem d&amp;aacute; menos? &lt;/p&gt;
+&lt;p class=&quot;western&quot;&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Encontr%C3%A3oTransdimensionalBailuxTransporte#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/encontr%C3%A3o-2-bailux">encontrão 2; bailux</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/midia/passagens_aereas_orçamento_2.pdf" length="69164" type="application/pdf" />
+ <group domain="http://rede.metareciclagem.org/conectaz/Encontr%C3%A3o-Transdimensional-de-MetaReciclagem-Bailux-Party" xmlns="http://drupal.org/project/og">Encontrão Transdimensional de MetaReciclagem - Bailux Party</group>
+ <pubDate>Mon, 04 May 2009 10:41:38 +0000</pubDate>
+ <dc:creator>tatirprado</dc:creator>
+ <guid isPermaLink="false">1593 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

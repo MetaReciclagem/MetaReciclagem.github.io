@@ -1,0 +1,271 @@
+Conversation with #metareciclagem at Ter 05 Jun 2007 18:33:10 BRT on felipefonseca@irc.freenode.org (irc)
+(18:38:20) fff: tamo no ar!
+(18:47:18) t2ia [n=teiacama@200.254.53.150] entrou na sala.
+(18:50:08) fff: tá baixo né?
+(18:50:32) t2ia: t?...
+(18:51:08) fff: tá
+(18:51:15) fff: eh que nao tamo conversando ainda
+(18:51:20) fff: o mic tah jogado ali num canto
+(18:52:54) fff: daqui a pouco a gente comeca
+(18:59:10) bailux: na escuta---ondas medias e longas
+(19:03:15) t2ia: ei jeff
+(19:03:38) t2ia: n?o mas vamos pesquisar!
+(19:03:52) t2ia: hahahah sei, jef!
+(19:04:17) t2ia: n?o tem um jeito d? gente interagir com ?udio?
+(19:06:03) fff: acho que tem nao
+(19:06:04) fff: eh complicado
+(19:10:30) ruiz [n=ruiz@200.164.174.54] entrou na sala.
+(19:10:49) ruiz: atencao
+(19:10:52) ruiz: retransmitindo
+(19:10:55) ruiz: em fm
+(19:10:56) ruiz: 88,5 mhz
+(19:11:04) ruiz: no sudeste potiguar
+(19:11:12) ruiz: 40 watss de potencia
+(19:11:18) ruiz: e nordeste paraibano
+(19:11:21) ruiz: para o streaming nao
+(19:14:01) ruiz: fala que tah retransmitindo
+(19:14:04) ruiz: em FM!
+(19:19:50) fff: pegou um cliente?
+(19:19:53) fff: ops
+(19:19:54) fff: foi mal
+(19:19:56) otaviosavietto [n=otaviosa@c925b8d1.virtua.com.br] entrou na sala.
+(19:19:58) fff: era pra eiabel
+(19:20:01) fff: tao ouvindo?
+(19:20:20) otaviosavietto: abraco pro Ruiz!
+(19:20:50) bailux: abs geral---saindo daqui a pouco...
+(19:21:29) ruiz: eia
+(19:21:43) ruiz: ouvindo e retransmitinsdo
+(19:21:47) otaviosavietto: antropofagia!
+(19:23:11) fff: eh nois
+(19:23:18) fff: se tiverem questoes, coloquem por aqui
+(19:23:41) ruiz: tah saturando um pouco o grave do marcus
+(19:23:44) ruiz: tem controle de grave?
+(19:23:53) ruiz: vale baixar um puquinho o grave e um teco do medio
+(19:24:19) ruiz: nao fala meu nome nem que eh pipa na retransmissao
+(19:24:28) ruiz: fala que eh paraiba :)
+(19:25:13) ruiz: melhorou o audio
+(19:27:20) fff: beleza
+(19:27:28) fff: eh que ele tah meio deitado
+(19:27:31) fff: putz, foi mal
+(19:28:53) vqregati [n=vqregati@c951a9b7.virtua.com.br] entrou na sala.
+(19:29:15) vqregati: boa noite
+(19:29:23) ruiz: boa
+(19:29:27) vqregati: galera do irc conhece a proposta do boto?
+(19:29:44) ruiz: botar o que vitor?
+(19:29:59) ruiz: deu uma saturadinha de novo no fnail do discurso na voz do marcus
+(19:30:13) fff: perae
+(19:30:16) vqregati: leo germani chegou pra engrossar o caldo
+(19:30:43) vqregati: ruiz, o boto eh esse aqui: http://xemele.cultura.gov.br/documentador/wikka.php?wakka=RoboAgregadorXemele
+(19:32:32) felipe_santos [n=felipe@cm-net-poa-C8B02D19.dynamic.brdterra.com.br] entrou na sala.
+(19:33:36) ruiz: brutametragem pra cima do habib
+(19:35:49) ruiz: eh soh baixar o plugin do firefox pra baixar os filmes do youtube e faz torrent
+(19:35:55) ruiz: heheheh
+(19:35:57) fff: he
+(19:36:50) ruiz: torrent eh a outra plataforma
+(19:36:53) ruiz: fala pro gualberto
+(19:36:58) fff: http://en.wikipedia.org/wiki/Ted_Nelson
+(19:37:01) ruiz: e tem tambem mais e mais e mais e mais e mais e mais
+(19:37:01) fff: http://transcopyright.org/
+(19:37:06) fff: eh
+(19:37:10) fff: mas nao eh uma coisa estruturada
+(19:37:40) fff: ninguem fez um esquema exatamente com esse foco
+(19:38:09) glerm [n=livre@200.103.250.33] entrou na sala.
+(19:38:52) glerm: ta engolindo o microfone
+(19:39:00) fff: ainda?
+(19:39:27) vqregati: http://pt.wikipedia.org/wiki/BitTorrent
+(19:39:32) glerm: blz agora
+(19:39:34) fff: avena e bailux, opa eu ae!
+(19:39:47) ruiz: o overmundo fez torrent
+(19:40:58) fff: alah
+(19:40:59) fff: recorde
+(19:41:00) fff: Current Listeners:11Peak Listeners:14
+(19:41:14) vqregati: ae
+(19:41:14) fff: e mais 16 aqui
+(19:41:15) fff: haha
+(19:42:13) otaviosavietto saiu da sala (quit: Read error: 110 (Connection timed out)).
+(19:44:49) ruiz: ahahahaha!!!!
+(19:44:53) bailux saiu da sala (quit: Read error: 110 (Connection timed out)).
+(19:44:57) ruiz: negroponte!
+(19:45:05) ruiz: ler negroponte!
+(19:45:09) vqregati: http://pt.wikipedia.org/wiki/Diego_Vel%C3%A1zquez
+(19:45:14) dpadua [i=c9223b9f@gateway/web/cgi-irc/ircatwork.com/x-701357e6beacd69d] entrou na sala.
+(19:45:23) ruiz: hahaha
+(19:45:35) fff: avena: OPA EU!!!!
+(19:45:37) dpadua: fala meu povo cocrante
+(19:45:45) fff: digita ai, avena: /op fff
+(19:45:48) dpadua: ligado no gambiarra
+(19:46:37) fff: eh noise
+(19:46:38) fff: mandem questoes
+(19:46:41) fff: comentarios
+(19:46:45) fff: xingamentos
+(19:49:25) andreasaraiva [n=andrea@200.233.74.32] entrou na sala.
+(19:50:10) dpadua: quem é essa moça que tá falando?
+(19:50:25) vqregati: milena
+(19:50:27) vqregati: vj
+(19:50:42) andreasaraiva: opa...direto de Fortaleza...ligada no papo...que tá bem legal...
+(19:50:58) fff: Current Listeners:18
+(19:52:22) dpadua: a plataforma computacional como um todo é tosca - tudo no computador leva à limitação da liberdade criativa sobre os objetos digitais
+(19:52:32) dpadua: essa é a praga da industrialização e mercantilização do trabalho experimental dos godfathers da internet
+(19:53:24) ruiz: o pessoal aqui do norderste tah ligando pra radio
+(19:53:35) ruiz: e, em especial, um comandante da aeronautica
+(19:53:39) dpadua: só o conhecimento livre, a tecno-arte-mito-midio-logia LIVRE pode levar ao desenvolvimento de uma rede onde eu posso editar todas as propriedades de uma barra de titulo de uma janela por exemplo
+(19:53:48) ruiz: que esta sofrendo interferencia da radio e nos ligou
+(19:54:22) ruiz: nos pergunta o que objetica a conversa
+(19:54:36) ruiz: fala que desenvolvedor de software tem uma nocao estetica impercitivel para muitas pessoas
+(19:54:57) fff: derruba!!!
+(19:55:16) fff: aumenta a potencia da radio e derruba o comandante
+(19:55:21) glerm: ninguem ta preocupado em transformar uma calculadora num bloco de rabisco, porque todo mundo quer fazer cinema e videogames 3D.
+(19:55:50) dpadua: fala que desenvolvedor é o escriba desse "novo mundo"... literatura hipertextual apoiada por digito-criaturas heheheh
+(19:56:29) dpadua: exatamente, glerm
+(19:56:48) glerm: o desenvolvedor é só mais um violero
+(19:56:56) dpadua: software de código aberto e livre
+(19:57:02) ruiz: codigo aberto eh o nome que o raymond dah
+(19:57:08) celia [n=celia@189.13.91.139] entrou na sala.
+(19:57:20) celia mudou seu apelido para [celia]
+(19:57:37) dpadua: galera, pega no meu código e remixa
+(19:57:40) ruiz: o stallman criou o free software!
+(19:57:46) ruiz: a traducao eh livre deus meu
+(19:57:54) ruiz: porque nao eh livre igual cerveja, eh igual liberdade!
+(19:57:56) ruiz: rapaz!
+(19:58:09) [celia]: noite
+(19:58:19) dpadua: é. open source não é o "shared source" da M$
+(19:58:37) glerm: se fazer acender um segmento de um display fosse tão divertido quanto fazer um dó maior, seria um começo... o problema é que fala-se em "software" ou "hardware" e pensa-se em computador, que é só um produto, um design
+(19:58:40) dpadua: agora, ficar discutindo tradução e nomenclatura me dá vontade de tomar cerveja com o ruiz lá em pipa :D
+(19:59:06) dpadua: exato, glerm tha man
+(19:59:30) dpadua: manter-se no jargão da indústria é continuar pensando como mercado
+(19:59:47) dpadua: hack yourself, galera
+(20:00:02) glerm: não existe o computador, existe a linguagem computacional que é uma "linguagem"... como se fosse a ligagem dos surdos mudos, a linguagem dos quadrinhos ou o mirandês
+(20:00:15) fff: vou replicar voces aqui
+(20:00:36) dpadua: exatamente. a gente escreve com eletricidade, meu povo.
+(20:01:00) glerm: ta ali a linguagem c tambem
+(20:01:03) glerm: ta ali o assembler
+(20:01:32) glerm: arranca a cmos da sua placa mãe e tenta reinventar a calculadora
+(20:01:52) dpadua: não só o código (que na real é pura eletricidade moldada), mas as estruturas físicas que canalizam a eletricidade, tudo isso pode ser RE-CONHECIDO/REPENSADO, quando pensamos a partir do conhecimento livre
+(20:02:32) dpadua: podemos enterrar o mercado e recriar o mundo da escrita digital!!
+(20:04:21) dpadua: pensar é causar, FF. pensais outra coisa, pois sois LIVRES.
+(20:04:27) fff: hehe
+(20:04:31) fff: fala soh pra mim nao
+(20:04:33) fff: fala pro mundo
+(20:04:40) vqregati: http://aurelio.net/web/miguxeitor.html
+(20:04:42) fff: je suis un livre
+(20:05:31) fff: open your book
+(20:05:38) fff: ouvrir votre livre
+(20:05:51) fff: livros sao livres?
+(20:07:13) dpadua: diz aí que a criatividade é a carrasca dos especialismos
+(20:08:06) fff: poore data
+(20:08:10) fff: pure tah aqui 
+(20:08:20) dpadua: purê dada.
+(20:08:30) fff: pure dada
+(20:08:35) ruiz: finaliza com uma musica da marli!
+(20:09:12) fff: boua
+(20:09:42) fff: bertulina?
+(20:10:01) dpadua: o problema da banalização da técnica é quando ela não necessariamente evolui o paradigma ético vigente
+(20:10:12) dpadua: uma coisa é o google facilitar a vida de todo mundo pra se comunicar
+(20:10:47) dpadua: outra coisa é isso não mudar o paradigma de concentração de riqueza a partir dos meiso de produção dominados pelo google
+(20:10:55) glerm: pd é só uma abstração visual de algoritmos, tem a vantagem de despertar o interesse por circuitos e por linguagens de programação, como os software funcionam etc. poderia ser linguagem c, python et. ou poderia ser um giz de cera, uma fita k7 desmagnetizada com um imã. uma possibilidade de fazer o que voce faria com as mãos
+(20:10:58) dpadua: eu quero hackear o google. e aí? fudeu né?
+(20:11:30) fff: do your own google
+(20:11:33) glerm: tinta oléo ou acrílica?
+(20:11:47) dpadua: enquanto eu vivo, alguém ganha dinheiro com a minha expressão.
+(20:12:07) dpadua: acrilica, bru
+(20:13:03) dpadua: algumas pessoas não gostam de escovar bits porque vivemos no REINO DA PREGUIÇA
+(20:13:12) glerm: tanto faz
+(20:13:27) glerm: só parem de comprar laptops de 7000 reais
+(20:13:35) glerm: que isso é fetiche
+(20:14:32) glerm: acho que o problema é esse
+(20:14:42) glerm: a adoração do "computador"
+(20:14:45) glerm: como fetiche
+(20:15:20) l [n=l@c951a9b7.virtua.com.br] entrou na sala.
+(20:15:26) ruiz: mas eh o fim desse usuario aparelho, carelho!!!
+(20:17:16) dpadua: linguagem é mato
+(20:17:24) dpadua: eu quero mesmo é cultivar sentimentos
+(20:17:28) dpadua: tchau proces
+(20:17:33) fff: vai beber
+(20:17:39) dpadua: opa. plataforma agregadora.
+(20:17:53) glerm: esse povo só fala de computador, internet, software blabla
+(20:17:54) dpadua: não começou no metáfora não. mas foi catalisado no metáfora.
+(20:18:01) fff: eh, sei lah
+(20:18:02) glerm: não rola outro papo não?
+(20:18:02) dpadua: pois é. pior, só falta de INTERNET.
+(20:18:25) fff: só falta de falar
+(20:18:34) fff: só fama de lata
+(20:18:49) dpadua: só fumo de alta
+(20:19:45) fff: latamus famosos
+(20:19:47) ruiz: vou parar a retransmissao
+(20:19:51) glerm: se o seu computador custa o preço de um carro usado, algo ta errado
+(20:19:51) ruiz: o capitao da aeronautica ligou reclamando
+(20:19:51) dpadua: pô que mals
+(20:19:52) fff: perai
+(20:19:53) glerm: o resto é só abrir a tal da caixa
+(20:20:00) fff: que o leo vai voltar pro assunto
+(20:20:06) vqregati mudou seu apelido para uira
+(20:20:10) fff: seja lah qual for
+(20:20:18) uira: oi pessoal
+(20:20:20) uira: ops
+(20:20:42) fff: tiramo o microfone do uira, relax
+(20:20:42) uira: agora sim
+(20:20:49) dpadua: huahauahuahaua
+(20:22:28) uira: andreasaraiva: por aí?
+(20:22:42) dpadua: falou, galera, vou terminar um trampo aqui
+(20:22:53) andreasaraiva: opa...tô acompanhando o papo, uirá
+(20:22:55) fff: vah lah
+(20:23:01) dpadua: viva o xemele e viva o software-hardware e viva o pega-no-meu-code
+(20:23:02) fff: e o remix?
+(20:23:05) dpadua: fui
+(20:23:17) dpadua: o remix tá nas entrelinhas
+(20:23:21) dpadua: fuieeeemm
+(20:23:25) dpadua saiu da sala.
+(20:25:00) fff: caiu ai, galera?
+(20:25:03) fff: voltou
+(20:36:03) glerm: isso FF - hoje as pessoas na europa usam PD com 'arduinos" pra aprender eletronica fazendo "ars eletronica" mas gastam milhares de euros em sensores e gadgets pra fazer suas "instalações"
+(20:36:04) uira saiu da sala.
+(20:38:04) glerm: a mim me interessa só que se faça uma recapitução da descoberta da eletronica e da linguagem computacional como algo que no inicio sempre é artesanal... parece ser a unica maneira deste processo invitavel de "digitalização" tornar-se natural. tão natural quanto batucar um tambor, pichar um muro, dançar...
+(20:38:52) glerm: ja terminei
+(20:38:55) fff:  belez
+(20:40:43) fff: http://www.mongrel.org.uk/?q=netmonster
+(20:43:27) fff: http://netmonster.mongrel.org.uk/
+(20:44:05) andreasaraiva: "inclusão digital" é coisa de proctologista?
+(20:45:28) fff: isso
+(20:45:43) glerm: é nicho pra onguero
+(20:45:45) l: ahahhahah
+(20:55:48) l saiu da sala (quit: "BitchX: the official sponsor of the 2002 Olympic Winter Games").
+(21:00:08) glerm: mia tátil
+(21:00:09) glerm: midia tátil
+(21:00:14) fff: eh
+(21:00:19) fff: midia tati
+(21:00:24) fff: tati tah ei ruiz?
+(21:02:11) glerm: po
+(21:02:15) glerm: toca galactica
+(21:06:40) fff: galactica
+(21:07:12) glerm: toca galactica
+(21:07:33) fff: cade o linque
+(21:08:38) glerm: uma divina exprosão
+(21:08:48) glerm: craro
+(21:09:05) andreasaraiva: quem é essa figura?
+(21:09:19) glerm: marli
+(21:10:31) glerm: u foguete para uma nova demissão
+(21:11:34) cabelotaina [n=Administ@201-92-11-77.dsl.telesp.net.br] entrou na sala.
+(21:12:54) glerm: cabo?
+(21:13:05) glerm: caô
+(21:13:11) glerm: etc
+(21:13:28) glerm: como diria a marli:
+(21:13:40) glerm: " um foguete para ma nova demissãoooo..."
+(21:13:58) cabelotaina: mais mais
+(21:14:04) andreasaraiva: caiu?
+(21:14:47) fff: cabou
+(21:14:49) fff: cabou
+(21:14:50) fff: cabou
+(21:14:53) fff: marli matou o papo
+(21:14:57) fff: e chegou a hora de beber
+(21:14:59) fff: entao
+(21:15:03) fff: todo mundo ae
+(21:15:10) fff: agora eh beber em minha homenagem
+(21:15:13) fff: to saindo
+(21:15:30) fff: ainda nessa semana publico log e o audio do stream no estudiolivre
+(21:15:36) fff: e aviso na lista metareciclagem
+(21:15:39) fff: colem: 
+(21:15:43) fff: http://lista.metareciclagem.org
+(21:15:47) fff: http://estudiolivre.org
+(21:15:49) cabelotaina: to co meu suco de maracuja na mão
+(21:15:52) fff: eita
+(21:16:01) fff: foi mal mano, chegou tarde ;)

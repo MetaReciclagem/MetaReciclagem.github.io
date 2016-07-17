@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - fora do grid</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/1395/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Auto geração</title>
+ <link>http://rede.metareciclagem.org/wiki/Auto-geracao</link>
+ <description>&lt;p&gt;A algum tempo vi o seguinte aerogerador, desta vez apareceu uma versao passo a passo bem interessante, tem fotos e pra quem quiser experimentar segue o link.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.portal-energia.com/aerogerador-de-1000w/&quot; title=&quot;http://www.portal-energia.com/aerogerador-de-1000w/&quot; rel=&quot;nofollow&quot;&gt;http://www.portal-energia.com/aerogerador-de-1000w/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Auto-geracao#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/auto-geracao">auto geração</category>
+ <category domain="http://rede.metareciclagem.org/assunto/energia-alternativa">energia alternativa</category>
+ <category domain="http://rede.metareciclagem.org/assunto/fora-do-grid">fora do grid</category>
+ <category domain="http://rede.metareciclagem.org/assunto/gride">off gride</category>
+ <group domain="http://rede.metareciclagem.org/esporo/MetaMontes" xmlns="http://drupal.org/project/og">MetaMontes</group>
+ <pubDate>Mon, 02 Dec 2013 11:20:07 +0000</pubDate>
+ <dc:creator>Josenetomg</dc:creator>
+ <guid isPermaLink="false">2353 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

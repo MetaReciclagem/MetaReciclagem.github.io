@@ -1,0 +1,612 @@
+Conversation with #metareciclagem at 2006-05-08 10:18:38 on felipefonseca@irc.freenode.net (irc)
+(10:32:25) marc [n=marc@200-158-153-52.dsl.telesp.net.br] entrou na sala.
+(10:32:49) marc: hi
+(10:33:12) marc: mbraz
+(10:33:23) drica [n=dri@201.19.49.55] entrou na sala.
+(10:33:27) drica: dia
+(10:33:38) marc: diabao
+(10:33:43) felipefonseca: nanana
+(10:33:47) felipefonseca: diabao aqui
+(10:33:52) felipefonseca: solzinho na janela
+(10:33:53) felipefonseca: wifi
+(10:33:55) felipefonseca: e maresia
+(10:34:30) marc: ceu escuro em sampa ... segundona .. mas vqv
+(10:35:00) marc: cadeh o povo ?
+(10:35:22) felipefonseca: o povo nao existe
+(10:35:49) ruiz: eu sou o povo, voce eh o povo, juntos soh tomamos no povo
+(10:37:09) marc: to vendo drica e ruiz conectados, gente do povo...
+(10:37:21) felipefonseca: opeia nois, ruiz
+(10:39:47) machado [n=minc23@201.29.204.67] entrou na sala.
+(10:39:49) marc: fff, tava continuando aquele texto, com uma linguagem bem simples sobre desconstrucao da tecnologia
+(10:39:57) felipefonseca: e cade?
+(10:40:00) felipefonseca: cola no wiki
+(10:40:19) machado: buenos dias 
+(10:40:41) felipefonseca: http://xango.metareciclagem.org/wiki/index.php/ReferenciaTecnologia
+(10:40:45) felipefonseca: fala, matchado
+(10:40:52) drica: dia machado
+(10:41:03) ruiz: como opeia
+(10:41:08) ruiz: fala crianca
+(10:41:27) #metareciclagem: Modo (+o drica ) por ruiz
+(10:41:34) #metareciclagem: Modo (+o felipefonseca ) por ruiz
+(10:41:41) #metareciclagem: Modo (+o marc ) por ruiz
+(10:41:45) felipefonseca: urra
+(10:41:50) felipefonseca: nois eh pop
+(10:41:50) ruiz: melhor nao colocar o machado de operador
+(10:41:54) felipefonseca: tambem acho
+(10:41:57) felipefonseca: ele eh barulhento
+(10:41:59) machado: ia dizer isso agorinha...
+(10:42:00) ruiz: hahahahahaha
+(10:42:04) drica: ahahaha
+(10:42:06) felipefonseca: capaz de querer mudar o title pra SURUBA!!!!
+(10:42:08) felipefonseca!i=felipe@201-42-49-75.dsl.telesp.net.br: felipefonseca mudou o tópico para: SURUBA!!!!
+(10:42:09) machado: nem s? isso 
+(10:42:11) felipefonseca: falei
+(10:42:25) machado: mas se quiser posso roubar OP e j? rola uma oficina de IRC....
+(10:42:31) machado: hehhhehe
+(10:42:33) #metareciclagem: Modo (+o machado ) por ruiz
+(10:42:36) felipefonseca: raquer eh fogo
+(10:42:39) ruiz: se eh pra isso vale
+(10:42:42) machado: raquel !
+(10:42:49) machado: ent?o...
+(10:42:56) machado: vamos ao metareciclagem ?
+(10:43:04) ruiz: to fazendo conteudo casabrasil, o negocio tem diretrizes mil :)
+(10:43:15) ruiz: vc viu o filme novo que saiu, metareciclagem?
+(10:43:16) felipefonseca: metareciclagem
+(10:43:23) felipefonseca: o filme
+(10:43:25) felipefonseca: tah pra sair
+(10:43:28) ruiz: ah, ontem fui na padaria e comprei um real e cinquenta de metareciclagem
+(10:43:36) kr4m3r [n=kram3r@201.38.218.84] entrou na sala.
+(10:43:36) kr4m3r: opa
+(10:43:37) machado: t? achando que vcs t?o caretando o sistema...
+(10:43:38) felipefonseca: quantos gramas deu?
+(10:43:41) machado: ECA !!! 
+(10:43:51) machado: anal-nias ?
+(10:43:54) felipefonseca: sujou
+(10:43:56) ruiz: deu poquinho, tah meio caro ainda
+(10:44:03) #metareciclagem: Modo (+o kr4m3r ) por ruiz
+(10:44:14) drica: eita
+(10:44:15) ***kr4m3r triste... nem querem eu aqui :~
+(10:44:19) ruiz!n=ruiz@200.164.174.50: ruiz mudou o tópico para: eu quereo 50 g de metareciclagem
+(10:44:54) marc: putz, agora tem que logar na wiki por causa dos feladaputa, neh? nem lembro ...
+(10:45:16) felipefonseca: ae
+(10:45:19) felipefonseca: tamo encaretando?
+(10:45:27) kr4m3r: sobre o que a reuniao FF?
+(10:45:28) felipefonseca: fala mais, machado
+(10:45:30) ruiz: tamo eh enfrescando
+(10:45:31) felipefonseca: sobre reagrupar
+(10:45:39) felipefonseca: que metareciclagem tinha uma reuniao mensal aqui em sampa
+(10:45:41) ruiz: eh sobre desagrupar, nao eh?
+(10:45:42) felipefonseca: quando metareciclagem era sampa
+(10:45:50) felipefonseca: sobre fragmentar e ir cadum prum lado
+(10:46:08) t [n=tati@200.164.174.50] entrou na sala.
+(10:46:12) drica: jah tamocada umnumlad ;)
+(10:46:22) #metareciclagem: Modo (+o t ) por ruiz
+(10:46:26) drica: eita jah estamos  cada um num lado ;)
+(10:46:32) felipefonseca: por isso
+(10:46:35) felipefonseca: agora eh reagrupar
+(10:46:38) machado: acho que as oficinas do minc n?o s?o metarecicleiras faz tempo...
+(10:46:40) felipefonseca: voltar a ter alguma coisa em comum
+(10:46:42) felipefonseca: e eu nem fumo free
+(10:46:52) felipefonseca: as oficinas do minc nao sao metarecicleiras
+(10:46:54) felipefonseca: faz tempo
+(10:46:59) felipefonseca: talvez soh a de teresina tenha sido
+(10:47:01) felipefonseca: mas na real, todas sao
+(10:47:09) kr4m3r: ok, sobre o meta q eu conheci pelo site (2004) na epoca eu ja realizava uns trampos de meta quando me juntei com o meta bsb a coisa realmente parou! todos diziam que ia ajudar porem ninguem nunca compareceu a nenhum dos encontros (4 marcados) para montagem do telecentro do guara - df 
+(10:47:11) ruiz: eh, essa historia de uma vez por semana reuniao em sao paulo tambem eh meio coco... tava pensando, po a glaera se reune em sampa e dai eh uma nacional... beleza, que tem uma galera, mas podia era influenciar com isso outras, pessoais ou nao
+(10:47:33) ruiz: eu acho que tem que tambem tirar essa ideia de montar telecentro com meta
+(10:47:41) ruiz: eh montar metaprodutos (comecou!)
+(10:48:00) ruiz: o que falei ontem na lista do EL
+(10:48:20) kr4m3r: ruiz, na epoca meta pra mim eram os telecentros, fax, e outra bugingangas
+(10:48:34) kr4m3r: hoje eh muita coisa pensada e poucas realizadas (executadas)
+(10:48:34) drica: meta era o IP,n é?
+(10:48:35) machado: esse papo ficar no p? da galera pra mudar de nome ? palha?ada
+(10:48:40) ruiz: pegar uma semana de oficina corrida cheia de outras coisas rolando pra fazer oficina de montar telecentro com conceitos pincelados de meta
+(10:48:42) felipefonseca: ruiz
+(10:48:48) ruiz: kramer: pode crer fax
+(10:48:51) ruiz: bugicgangas
+(10:48:54) ruiz: ip foi foda
+(10:48:54) felipefonseca: casa metareciclada eh linbda
+(10:48:56) drica: tamocom um espaço aqui em BH tb, mas nada de telecentro
+(10:49:00) machado: virou telecentros
+(10:49:04) ruiz: aqui em casa eh legal tambem, a gente colocou fotos no gallery ontem
+(10:49:09) machado: na verdade a culpa ? toda tua FF 
+(10:49:36) ruiz: acho que mudar o nome tambem nao
+(10:49:41) ruiz: acho que podia dar oficina de meta mesmo
+(10:49:43) felipefonseca: machado: nao quero que mude de nome
+(10:49:47) machado: vc tinha que "colar na mat?ria" do povo...
+(10:49:48) xwindow [n=wagner@201.29.204.67] entrou na sala.
+(10:49:50) felipefonseca: quero eh que vire metarec de verdade
+(10:49:51) ruiz: alias, eu tava pensando serio:
+(10:49:58) ***xwindow = Wagner
+(10:50:07) felipefonseca: jah que tamo lah
+(10:50:09) felipefonseca: jah que tah invadido
+(10:50:13) ruiz: o decio pignatari queria mudar o nome da arte por produssumo. sou a favor de trocar por metareciclagem
+(10:50:16) ruiz: tem mais a ver
+(10:50:16) felipefonseca: a culpa eh minha
+(10:50:20) felipefonseca: eu tenho que colar na materia
+(10:50:24) felipefonseca: eu tenho que assmir a responsa
+(10:50:31) felipefonseca: metareciclagem eh arte :)
+(10:50:40) machado: felipefonseca - hehehehehe
+(10:50:54) ruiz: eh melhor: arte virou metareciclagem
+(10:51:03) Você mudou seu apelido para fff
+(10:51:14) fff: felipefonseca desapareceu
+(10:51:23) ruiz mudou seu apelido para rrr
+(10:51:36) rrr: e fez um clone
+(10:51:38) machado: felipefonseca - a oficina de meta ? altamente careta hj em dia, ? altamente funional e os pontos amam, mas os conceitos de metareciclagem se perderam dentro da m?quina
+(10:51:42) machado: h;)
+(10:51:46) fff: a parada eh a seguinte
+(10:51:53) marc: pitacando, salve... mas nao corre o risco de virar um clubinho se ficar totalmente aberto, sem fundamentos? :-}
+(10:51:59) fff: dentro dos pontos de cultura, to querendo assumir a parada
+(10:52:00) machado: n?o t? te culpando 
+(10:52:01) rrr: entao nao eh mais oficina de meta, eh oficcina de manutencao de hardware com uns doidoes
+(10:52:10) machado: mas de cutucando """
+(10:52:12) machado: hehehhehehe
+(10:52:13) fff: temos eh que batalhar pelos fundamentos
+(10:52:14) rrr: dentro dos pontos de cultura tinha que deixar o willle assumir a parada
+(10:52:22) fff: quem eh wille?
+(10:52:24) machado: ponto pro RRR 
+(10:52:30) drica: o willeeh foda
+(10:52:33) rrr: da casa curta-se , em aracaju
+(10:52:40) rrr: o wille eh foda
+(10:52:49) drica: ha um ano o cara usavawindows
+(10:52:54) rrr: eh ponto, escreve no EL, fez mimosa duas vezes, instala e edita cinelerra
+(10:53:02) drica: hj em dia el ensia a exportar video com ffmpg na lista do EL
+(10:53:05) marc: caraca
+(10:53:07) fff: chama ele pra lista metarec
+(10:53:11) rrr: eh meio newba em rede
+(10:53:15) drica: ele eh muito bacana
+(10:53:24) rrr: meio loco tambem
+(10:53:25) fff: tem que deixar cada vez mais pros pontos
+(10:53:32) rrr: um juba introspectivo
+(10:53:33) drica: tá no pre coletivo do cmi de aracaju
+(10:53:41) rrr: pode crer
+(10:53:42) machado: newba em rede mas tech multimidia
+(10:53:50) rrr: aracaju eh uma cidade que tah pronta pra bombar, ainda nao saca direito como
+(10:53:50) machado: tech em rede tem de kilo !
+(10:54:05) drica: aracaju expulsou o Mac Donalds!
+(10:54:05) rrr: talvez um centro de meta na casa curtase
+(10:54:22) #metareciclagem: Modo (+o xwindow ) por machado
+(10:54:28) rrr: a galera lah eh foda, faz varias coisas, mas meio que nao bota fe, porque a cidade eh pequena e tals
+(10:54:30) drica: Aracaju rulez!
+(10:54:37) rrr: :)
+(10:54:39) machado: xwindow=wagner=tech recife=brother
+(10:54:47) rrr: sei nao, sei nao... :)
+(10:54:50) kr4m3r: na boa, o que cada um esta fazendo hoje com meta? tanto faz arte, telecentro, agenda pra dar pro saulo, servidores pindurados em tabuas de compensado, alianca de noivado como fez o ff....
+(10:55:24) fff: :)
+(10:55:32) fff: tem um pouco disso
+(10:55:36) fff: que que cadum faz?
+(10:55:40) fff: parar e olhar
+(10:55:43) rrr: daqui rola mimosa, casa, moveis, jardim, sertao (pouco), salvador, aracaju, cachoeira (falei tambem por bugarini e tininha e balbs)
+(10:55:45) fff: depois tentar definir o que eh metareciclagem
+(10:55:54) rrr: jah tah definido!
+(10:55:59) rrr: reapropriacao tecnologica!
+(10:56:06) machado: tb acho !
+(10:56:08) rrr: precisa eh relembrar essa galera o que eh tecnologia
+(10:56:17) rrr: igual ao loco do uira, de tecnologias...
+(10:56:26) kr4m3r: serio mesmo, eu e o Cleiton pixies (do gesac) tamo ca ideia maluca na cabeca de ja conseguir um espaco em recife totalmente loco (falta ver o que eh pra correr atras do machado)
+(10:56:27) machado: tem que parar de pagar de telecento montado e computador pintado !
+(10:56:28) rrr: como eh? eh uma soh, eh reapropriacao do conceito de tecnologia
+(10:56:40) rrr: garfo pra fazer pente, pente pra fazer sapato, sapato pra fazer porta copos
+(10:56:49) fff: machado
+(10:56:52) fff: tem email pra voce
+(10:57:00) fff: tem que parar de telecentro eh computador pintado
+(10:57:04) kr4m3r: garraffa de refrigerante como cinzeiro!!!
+(10:57:06) fff: tem que entender que metareciclagem nao eh tecnologia
+(10:57:09) fff: eh educacao
+(10:57:19) rrr: eh reeducacao
+(10:57:19) fff: ces viram as fotos da casa do ruiz?
+(10:57:23) rrr: hahaha
+(10:57:25) fff: manda o link ae, nodread
+(10:57:26) kr4m3r: hehehhe
+(10:57:36) rrr: metareciclagem.org/gallery/casamaluca
+(10:57:48) kr4m3r: ruiz tirou dread virou chumbeta vagaba
+(10:57:53) machado: fff: ???? t? cheirando cola ?
+(10:58:10) fff: machado: preciso nao
+(10:58:10) rrr: upgrade!salvador foi metareciclagem de espacos
+(10:58:17) fff: foi
+(10:58:18) drica: e o link q o paje mandou sobre aquecimnto solar com material reciclado? ces viram?
+(10:58:27) fff: nao li
+(10:58:28) rrr: vi nao!
+(10:58:32) rrr: eu to cheirando cola!!!!
+(10:58:35) drica: fodasso
+(10:58:40) fff: eu nao leio, sabe?
+(10:58:41) machado: fff: num t? entendendo nada...
+(10:58:42) fff: nao gosto
+(10:58:44) fff: hahaa
+(10:58:54) fff: machado: o que tu nao tah entendendo?
+(10:58:55) rrr: remanda ai... perdi na mesma leva esse e o link do eletroencefalograma reciclado
+(10:59:00) rrr: esse eu queria saber mesmo!
+(10:59:05) fff: o eletroencefalograma eu vi
+(10:59:39) rrr: sobre as janelas da casa: entra agua que soh a porra durante a chuva, mas isso eh problema mesmo? entra bastante vento, uma das unicas casas da cidade que nao precisa de ventilador.
+(11:00:01) rrr: mas eh igual softwarelivre... tah meio que com uns buracos pra agua, mas jah serve pra fechar a porta :)
+(11:00:19) rrr: e foi feita com madeira de construcao as janelas (madeira eh o mais caro da construcao)
+(11:00:24) machado: acho q a apropria??o tecnol?gica e meio ambiente s?o b?sicos
+(11:00:33) rrr: e o banco e ods bancos e bancadas
+(11:00:35) t: pensar de novo em tecnologia, meio-ambiente, apropriação, reciclagem..
+(11:00:45) rrr: talvez apropriacao tecnologica para manutencao do meio ambiente
+(11:00:47) fff: machado, nao usa acentuacao, que zoa aqui
+(11:00:52) machado: aki tb 
+(11:00:57) machado: sorry
+(11:00:58) rrr: hahaha
+(11:00:59) fff: e estranhamente a acentuacao da tati funciona
+(11:01:09) kr4m3r: porcausa do charset
+(11:01:10) fff: meninas sao raqueres
+(11:01:11) rrr: a da tati aqui tambem
+(11:01:16) t: tecnologia é indistringiível da mágica
+(11:01:20) drica: http://www.ebanataw.com.br/4430/clubes/spsantana/p20041127.htm
+(11:01:23) fff: eh
+(11:01:26) rrr: meu teclado nao tem nem acento, nao consigo fazer o s fdps funcioonarem no X
+(11:01:29) fff: tecnomagia
+(11:01:29) kr4m3r: vcs naum tem o charset correto
+(11:01:30) fff: ah
+(11:01:31) fff: ese linkj
+(11:01:33) fff: aqui nao entrou
+(11:02:07) rrr: caralha, drica!!!!
+(11:02:11) kr4m3r: quem ta usando aplicativos gtk tem que alterar no profile a opcao do charset
+(11:02:18) rrr: eh a proxima inovacao da rua do cajueiro!
+(11:02:21) rrr: terras livres!!!
+(11:02:34) fff: agora entrou
+(11:02:35) fff: vouverei
+(11:02:38) rrr: a agua da pia da cozinha aqui tambem vai pro jardim
+(11:02:54) t: muito bom drica!
+(11:03:01) fff: mas ae
+(11:03:06) fff: pra avisar
+(11:03:11) rrr: eh bom rever os amigos!
+(11:03:18) fff: eu to preparando um curso online de metareciclagem pras casas brasil
+(11:03:33) machado: olha o cara
+(11:03:35) fff: vai sair com licenca livre, ai duas horas depois de lancado jah vai estar no nosso moodle
+(11:03:51) fff: eh minha maneira de ver a metareciclagem
+(11:04:02) fff: machado:  conta pra eles nao, mas jah tava pronto :)
+(11:04:14) fff: minha maneira de ver a metareciclagem
+(11:04:28) fff: sujeita a contestacoes
+(11:05:00) fff: e tem mais novidades
+(11:05:07) fff: mas ainda nao conto )
+(11:05:28) kr4m3r: fff prefiro assim!! quando tiver pronto mostra
+(11:05:30) rrr: entao, to fazendo o curso de auditorio do mesmo moodle (ah esse governo...)
+(11:05:31) kr4m3r: ;)
+(11:05:50) rrr: poderiamos misturar a historia,.... vou dar uma embarcada nele pra enveredar por metatudo
+(11:05:57) fff: aih os vegetarianos vao lancar o meatreciclagem
+(11:05:59) machado: n?o adianta t? correr, vc ? o cara que t? mais perto dos oficineiros...
+(11:06:08) fff: para de acento, porra
+(11:06:13) machado: hahaahaha
+(11:06:16) rrr: :)
+(11:06:21) fff: machado: ta falando comigo
+(11:06:21) fff: ?
+(11:06:30) fff: eu quero esses oficineiros mais perto mesmo
+(11:06:37) fff: parar de fingir que nao sou metarecicleiro
+(11:06:40) rrr: perciso aprender a metareciclar chais
+(11:06:43) rrr: fumar arueira
+(11:06:51) kr4m3r: hiaeuhiaeuheaiuheaiuhae
+(11:06:51) rrr: ouvi falar que a resina dah um baratinho
+(11:06:55) kr4m3r: heaiuheaiuheaiueahuiaeh
+(11:06:57) machado: fff entao...vc tem que se metareciclar em centro-avante
+(11:07:02) rrr: hash tupiniquim
+(11:07:07) rrr: hmmm.
+(11:07:11) rrr: metarecihash
+(11:07:19) kr4m3r: esse whois eh meeru...
+(11:07:47) rrr: e nem eh contra o codigo penal, o que poderia virar fonte de sustentabilidade
+(11:08:08) rrr: "monte um esporo: consiga umas pecas jah usadas (pneus velhos, tabuas, pecas de computadores) e plante uma arueira
+(11:08:14) rrr: um lance pra auto sustento
+(11:08:21) uira [n=livre@201.52.55.45] entrou na sala.
+(11:08:25) fff: o dpadua tah preparando site novo
+(11:08:29) fff: putz, chegou o uira
+(11:08:29) rrr: vou tentar com um cara aqui de pipa que eh sopcio de uma ong pra criancas soropositivas na paraiba
+(11:08:33) machado: vou embora...uira chegou !!
+(11:08:34) fff: dispersa, cambada!
+(11:08:43) uira: aê!
+(11:08:45) rrr: eh que em cada local que tenha um lab seja tambem provedor de internet a radio pra cidadae
+(11:08:56) fff: demorou
+(11:08:58) fff: alias
+(11:08:59) rrr: garante o cara e ajuda na distribuicao da rede informacional dessa merda desse lugar
+(11:09:06) t: e tem que sair um site com os pontos e os equipamentos que eles dispõem...
+(11:09:10) fff: demorou pra alguem documentar como faz um transmissa
+(11:09:13) fff: e jogar no wiki
+(11:09:30) fff: t: inventario distribuido, tem que sair. mas eh mais foda.
+(11:09:31) rrr: transmissa de radio ou tv?
+(11:09:35) rrr: ah, de web?
+(11:09:36) fff: transmissa de radio
+(11:09:40) fff: nem
+(11:09:42) fff: radio mesmo
+(11:09:47) rrr: de radio deve jah ter coisa
+(11:09:48) t: pq felipe?
+(11:09:55) xwindow: cara esse lance do aquecedor solar ? interessante :)
+(11:09:58) xwindow: ooops
+(11:10:13) fff: t: a gente jah testou alguns sisteminhas pra gerenciar inventario, mas sao bem fracos
+(11:10:15) xwindow: do aquecedor de agua "metareciclado" :)
+(11:10:26) t: um wiki simplizinho em que podemos listar o que temos..?
+(11:10:29) fff: uma possibilidade eh a gente se aliar ao excambo
+(11:10:30) kr4m3r: um grandde problema eh o valor das conexoes em cidades do nordeste por exemplo
+(11:10:34) fff: excambo.ourproject.org
+(11:10:39) rrr: http://www.pt.org.br/radio/radiodif.htm
+(11:10:39) kr4m3r: um adsl de 265 eh uuuuuuuuuuuuuito caro
+(11:10:50) xwindow: kr4m3r, cable :)
+(11:10:55) t: mais doifícil é mesmo o transporte..
+(11:10:56) kr4m3r: eh mais caro ainda
+(11:10:57) xwindow: 150k sai por menos de R$ 50,00
+(11:10:58) uira: fff: sabe qual sistema excambo usa?
+(11:11:02) kr4m3r: cable eh mais caro ainda
+(11:11:02) rrr: eu pago 100 reais por 68 kb
+(11:11:09) xwindow: eu pago 80 por 650k ;)
+(11:11:19) xwindow: kr4m3r, nops
+(11:11:25) xwindow: kr4m3r, cabo+ baixou os pre?os
+(11:11:29) xwindow: www.megarapido.com.br
+(11:11:30) t: queria doar minhas 4 impressoras para o palm
+(11:11:40) kr4m3r: xwindow mais saca soh, 256k eh saco pra essa galera utilizar, todos os sites hoje em dia tem muitas imagens
+(11:12:01) fff: mandem links no scuttle
+(11:12:13) fff: uira: excambo tah desenvolvendo o proprio sistema
+(11:12:23) fff: eu to na lista dos caras, soh ouvindo, se pans
+(11:12:32) xwindow: kr4m3r, ai que t?: 300k de velox+telefone > 100/Mes
+(11:12:48) xwindow: kr4m3r 650k cable = 80,00/Mes
+(11:12:57) xwindow: e ai? que ? melhor?
+(11:13:06) t: eu gostei do site, mas me perdi em muita info do projeto e acabei sem nem ver o conteúdo.. acho que seria bacana unir forças 
+(11:13:12) t: excambo, tô falando
+(11:13:21) rrr: entao, tambem curti o excambo
+(11:13:22) xwindow: sem acentos please ;)
+(11:13:24) rrr: ele gera rss?
+(11:13:35) drica mudou seu apelido para drica_away
+(11:13:43) kr4m3r: xwindow mais eu to falando em lugares que realmente precisam, esse megarapido ai ta legalzinho
+(11:13:45) kr4m3r: mais ainda ta caro
+(11:13:51) rrr: poderiamos colocar um secao metareciclagem, ou melhor, informatica raizera, ou hardware,
+(11:13:58) uira: fff: tomém tô, mas num vi falar nada de sistema ainda
+(11:14:02) rrr mudou seu apelido para ti1
+(11:14:04) fff: acho que nao
+(11:14:05) kr4m3r: por 90 reais nas grandes capitais vc desfruta de 4mb 
+(11:14:06) fff: ops
+(11:14:08) fff: acho que nao gera rss
+(11:14:09) ti1: hy guys i am plenty of money!!!
+(11:14:09) xwindow: kr4m3r, mas ? mais barato que o monopolio telemar
+(11:14:18) ti1 mudou seu apelido para austi1
+(11:14:30) xwindow: se rolar patrocinio da pra pegar um link grande em um lugar e distribuir via radio para outros
+(11:14:33) fff: austi1: ou entao a gente se integra totalmente ao excambo
+(11:14:46) fff: trata nossas doacoes como excambo
+(11:14:47) austi1: como assim?
+(11:14:55) xwindow: tipo, perto da minha casa por exemplo, tem 3 colegios p?blicos
+(11:14:57) uira: fff: eh issaê!!!
+(11:15:00) austi1: troca por conhecimento do cara!!!
+(11:15:06) fff: nao precisa criar secao metarec lah dentro
+(11:15:08) marc: poh, tive lah em Sorocaba com o hudson(tah na lista) e algarrra e apoiam uma ong que quer ser esporo sen conexao ...
+(11:15:11) xwindow: imagina se eu pudesse distribuir net para eles :)
+(11:15:14) fff: troca por conhecimento ou o que fot
+(11:15:27) uira: fff: aham. e doação deica de ser doação pra virar troca
+(11:15:30) uira: q lindo...
+(11:15:30) austi1 mudou seu apelido para uir1
+(11:15:32) fff: voltando no papo sustentabilidade
+(11:15:35) marc: pediram gesac, mas demora pra carai ...
+(11:15:36) uir1 mudou seu apelido para uirah
+(11:15:38) fff: ces viram o tupi?
+(11:15:39) fff: http://xango.metareciclagem.org/wiki/index.php/CentroMetaReciclagemSampa_-_Coletando
+(11:15:45) xwindow: botasse um telecentro em cada um, com ltsp e passando net via radio para eles
+(11:15:46) uirah: hahaha deixa eu tirar uma foto de voces!
+(11:15:55) fff: uira: isso
+(11:16:04) fff: uira: "doacao" eh meio babaca
+(11:16:06) xwindow: uira, .!.
+(11:16:11) kr4m3r: xwindow, e em pipa? maceio, aracaju, arapiraca, sao luiz do quitunde, prazer da graca com eh que ficam? todos tem adsl e o com esse preco absurdo
+(11:16:14) uira: fff: eh...
+(11:16:21) fff: tem aquele sentido de o cara eh bonzinho e estah se sacrificando pelos outros
+(11:16:22) uira mudou seu apelido para uuu
+(11:16:23) fff: cristao demais
+(11:16:29) uirah: xwindow: bootex
+(11:16:37) marc: sorocaba ainda faz ritual de santo daime , hehe, alguem curte ??
+(11:16:52) uuu: fff: pois eh, por isso q eh massa ser 'troca', pq acaba com essa historia cristã
+(11:16:52) xwindow: kr4m3r, ai era so articular nesses lugares tamb?m :)
+(11:16:54) fff: nao sao os unicos
+(11:17:08) #metareciclagem: Modo (+o uuu ) por fff
+(11:17:19) uirah mudou seu apelido para uira
+(11:17:46) uira: sao muitos!!!! a infra no pais eh ridicula
+(11:18:07) uira: apoiando a galera a fazer pra gerar sustentabilidade mantendo um projeto de meta, meta mesmo, seria fodaco
+(11:18:22) uira: forcaria a telemar liberar esses gigas que tem jah enterrados de fibra otica
+(11:18:34) uira: forcaria diminuir preco...
+(11:18:43) t: sem o google non-sense please...
+(11:18:48) ***kr4m3r pegar um cafezinho... alguem quer?
+(11:18:49) marc: nem precisa, libera o fust ...
+(11:18:58) uira: eu quero.
+(11:20:39) uuu: fff: manda a nota dessa história pra galera do excambo
+(11:20:50) uira: uuu: quer tc comigo?
+(11:20:56) uira: ;)
+(11:21:11) uira: *smack*
+(11:21:31) marc: ........ barulho do vento ...
+(11:21:45) t: a gente tinha eh que lancar um satelite!
+(11:21:51) uira: ff: acrescentei por lah a sustentabilidade. conversando com o cara eu monto um projetinho e se pum testamos jah na paraiba. e vemos como replicar. cachoeira na bahia quer replicar
+(11:22:03) fff: uuu: vou mandar
+(11:22:07) t: com uma rifa entre amigos, jah calculei, dah!
+(11:22:15) uira: acredito que dah pra gente tentar alguns com locais que tem gesac, como taina por exemplo..
+(11:22:21) uira: sei lah, campinas tem banda
+(11:22:26) fff: rifa eh bom
+(11:22:29) uira: gesac pelo nordeste norte centrooeste
+(11:22:33) fff: campinas eh esquema
+(11:22:36) fff: taina eh metarecicleira
+(11:22:42) uuu: fff: acho q isso vira... e acaba virando aquele esquemão.
+(11:22:43) fff: cade o jeff pra fazer o linque?
+(11:22:58) t: concordo com o uuu troca eh positivo
+(11:23:12) uira: o link eh TC, mexican... banto
+(11:23:18) fff: sim
+(11:23:28) uira: soltar na lista que tah montando o projetinho no wiki
+(11:23:30) fff: mas banto tah mais em sampa que em camp
+(11:23:33) uira: e soltar na mao do tc
+(11:23:33) fff: sim
+(11:23:38) fff: faz isso?
+(11:23:39) uira: e passr copia pro perna em belem
+(11:23:48) uira: a onda estah a nosso favor, eh so remar forte!
+(11:23:55) uira: faco
+(11:25:06) uira: ---mais vento---
+(11:25:15) uira: vou passar remedio no meu peh
+(11:25:20) t: eu tô na lista rede mocambos, lá estão todos acho..
+(11:26:55) fff: perna tah no gas, pelo que parece
+(11:26:59) fff: mas nao respondeu mais os emails
+(11:27:11) fff: ces fazem o link com os mocambos?
+(11:28:31) t: mas servir conexao seria forma de auto-sustento? pelo gesac não dá..
+(11:28:44) uira: com aparaiba seria, porque lah ia pegar telemar
+(11:28:47) uira: gesac nao pode cobrart
+(11:29:01) uira mudou seu apelido para helio_costa
+(11:29:15) helio_costa: ok, ok, ok, conexa, radio e tv pra todo mundo... me passem seus rgs e cpofs...
+(11:29:20) helio_costa mudou seu apelido para gi1
+(11:29:27) gi1: drao....
+(11:29:42) kr4m3r: aff
+(11:29:50) gi1: ou nao....
+(11:30:03) t: vcs sabem o critério de se conseguir um link para provedor pela telemar?
+(11:30:07) t: hahah
+(11:30:19) gi1: acho que tem que ser brother... do helio costa
+(11:30:43) gi1: o cara aqui de pipa (agora o ministro mora em pipa) falou qhe e brother, trabalhava lah, conhece os esquemas
+(11:30:55) gi1: metarec tambem eh aprofundar e escancarar os esquemas... :)
+(11:31:02) fff: sim
+(11:31:07) fff: bom
+(11:31:19) fff: pauta pras proximas reunioes:
+(11:31:23) machado mudou seu apelido para celio
+(11:31:32) gi1: celio, deita!
+(11:31:38) t: ministerio da ciencia e tecnologia banca projetos. sera que ele nao se interessaria por uma satelite de comunicacao??
+(11:31:39) celio mudou seu apelido para celio_turino
+(11:31:44) gi1: ff, tahj virando paulista demais!
+(11:31:57) gi1: celio, rolando!!!
+(11:32:04) t: chega de dar dinheiro precas corporacoes idiotas
+(11:32:14) celio_turino: t? careca de rolar !
+(11:32:18) xwindow: t, a corte ? mais em cima...
+(11:32:40) gi1: celio, tive pensando... acho que o claudio vai fazer merda... poderia mandar ele embora por favor?
+(11:32:47) celio_turino mudou seu apelido para juca_chaves
+(11:33:01) gi1 mudou seu apelido para hugo_chaves
+(11:33:08) juca_chaves mudou seu apelido para palhasso_carekin
+(11:33:09) fff: 1) sistema de inventario distribuido
+(11:33:09) fff: 2) site / home
+(11:33:09) fff: 3) metareciclagemsampa (pra quem quer participar)
+(11:33:09) fff: 4) experimentacao midiatica e memelab
+(11:33:11) fff: algo mais?
+(11:33:15) palhasso_carekin mudou seu apelido para palhassu_carekin
+(11:33:15) palhassu_carekin saiu da sala (Chutado por kr4m3r (Niq flood (3 nicks in 28secs of 30secs))).
+(11:33:18) Você mudou seu apelido para c1
+(11:33:45) Você mudou seu apelido para claudio
+(11:34:13) Você mudou seu apelido para f
+(11:34:14) hugo_chaves mudou seu apelido para saulo
+(11:34:14) f: enton
+(11:34:14) palhassu_carekin [n=minc23@201.29.204.67] entrou na sala.
+(11:34:17) f: algo mais?
+(11:34:20) saulo: claudio, dinheiro?
+(11:34:23) palhassu_carekin: hahahaha
+(11:34:25) f: claudio jah foi
+(11:34:27) f: pra viena
+(11:34:33) saulo: corno
+(11:34:35) palhassu_carekin mudou seu apelido para iara_ama_o_vitor
+(11:34:43) iara_ama_o_vitor: PAREM
+(11:34:45) saulo mudou seu apelido para jah
+(11:34:50) jah: amor
+(11:34:52) t: caraca a unica forma de retomar o nome metareciclagem eh fazer uma a-fundacao chamada metareciclagem!
+(11:35:13) jah: oh, negocio, vamos comecar uam reuniao de montar instituicao agora?
+(11:35:18) jah: alguem chama o caio?
+(11:35:42) t: adoro jah!
+(11:35:48) jah: jah nao se adora, jah estah em seu coracao! amor
+(11:35:52) f: fundacao metareciclagem?
+(11:35:53) jah: **alegria
+(11:35:57) jah: yap
+(11:35:59) f: fundacao tem que doar alguma coisa
+(11:36:02) jah: sinto ser o caminho
+(11:36:09) f: eu tenho um opala e uma guitarra, serve?
+(11:36:16) jah: e olha que e jah q estah falando
+(11:36:20) f: tem que ser imovel
+(11:36:23) jah: eu tenho um iboook
+(11:36:31) f: soh tirar o cabo do distribuidor do opala que ele vira um imovel
+(11:37:01) t: :))
+(11:37:04) jah: mesmo com cabo jah o eh
+(11:37:12) jah: jah o eh
+(11:37:12) kr4m3r mudou seu apelido para renata_piaQuerLu
+(11:37:14) marc: i_mst
+(11:37:18) jah: sinto que esse opala tem poder
+(11:37:29) f: se tem
+(11:37:29) renata_piaQuerLu: alguem quer ir hoje a tarde na daslu comigo? ps. levem seus cartoes de credito
+(11:37:32) jah: renata, precisas ser mais legal com todos
+(11:37:34) f: eita porra
+(11:37:39) f: tenho que comer
+(11:37:45) f: acabar issaqui
+(11:37:45) jah: bobagem
+(11:37:52) jah: hoije eh dia de alimentar o espirito
+(11:37:54) f: 1) sistema de inventario distribuido
+(11:37:54) f: 2) site / home
+(11:37:54) f: 3) metareciclagemsampa (pra quem quer participar)
+(11:37:54) f: 4) experimentacao midiatica e memelab
+(11:37:54) f: 5) institucionalizar?
+(11:37:54) renata_piaQuerLu mudou seu apelido para kram3r
+(11:38:12) jah: 6) metacentrosdistribuidoresdenet
+(11:38:19) kram3r mudou seu apelido para kr4m3e
+(11:38:22) kr4m3e mudou seu apelido para kr4m3r
+(11:38:25) t: não é institucionalizar é hackear os hackadores.. :)
+(11:38:39) jah: jah sai com o marketing fetio, ano?
+(11:38:41) jah: nao?
+(11:38:44) jah: jah
+(11:38:48) f: 1) sistema de inventario distribuido
+(11:38:48) f: 2) site / home
+(11:38:48) f: 3) metareciclagemsampa (pra quem quer participar)
+(11:38:48) f: 4) experimentacao midiatica e memelab
+(11:38:48) f: 5) institucionalizar?
+(11:38:48) f: 6) metacentrodistrivuidoresdenet
+(11:38:49) marc: boa, meta para o povo e nao meta no no povo )haha)
+(11:38:57) f: PMR
+(11:39:02) f: partido da metareciclagem
+(11:39:04) jah: meu deus, essa conversa tem poder
+(11:39:10) jah: partindo a metareciclagem
+(11:39:14) t: partido, outro caminho certeiro!
+(11:39:20) marc: P_metarec
+(11:39:31) jah: na real, caminho certeiro eh banco
+(11:39:37) jah: tati, passa o link do fran denovo?
+(11:39:44) jah: sou mais que a favor
+(11:39:48) t: http://www.spacebank.org
+(11:40:00) f: spacebank
+(11:40:00) jah: banco pra fornecer recursos para tentativas autonomas
+(11:40:02) f: chama o pr
+(11:40:06) jah: pois eh
+(11:40:12) jah: q ele manja de investimentos
+(11:40:34) jah: abrimos um corpo, banquinho de esquina, pra emprestimo para atividades autonomas em experimentacao em midia e tecnologia
+(11:40:37) jah: olha que bem definido
+(11:40:43) jah: e solta shares na bolsa
+(11:40:46) jah: gringa e brazuca
+(11:40:58) jah: e converte a grana que for ganhar, jah em estatuto, em projetos
+(11:41:11) jah: ganhar na bolsa e ganhar com retorno de invstimentos
+(11:41:19) marc: banco do povo, financia dinherim... serah que eh esquema PT?
+(11:41:29) jah: por exemplo, conseguimos grana com a gringa para incentivar outro projeto que estamos apoioando com infra e logistica e seila
+(11:41:40) jah: eh pior, porque a gente nao vai ter partido!
+(11:41:48) jah: ao inves de partido, governo e banco, vai ser soh banco
+(11:41:51) f: fala com o yunus
+(11:41:55) jah: seria um banco real pra maluco
+(11:41:58) f: do micocrédito
+(11:41:59) marc: grana dos gringos=rio pequeno ?
+(11:42:03) f: banco irreal
+(11:42:09) f: várias granas de gringo
+(11:42:14) f: rio pequeno já queimou
+(11:42:35) jah: tudo jah queimou, lembram dos lucros dos bancos no ano passado?
+(11:42:47) marc: mas tah indo com a molecada ...
+(11:42:53) jah: pra combater as multinacionais do petroleo, multinacionais da bagunca
+(11:43:15) jah: e uma instituicao que gere o banco... sem fins lucrativos. tipo a do bradesco...
+(11:43:25) jah: caralha, os caras sacaram o esquema muiiiiiiito tempo antes de nos
+(11:44:36) f: hehe
+(11:44:38) f: foda
+(11:44:42) f: ae
+(11:44:45) f: vou correr
+(11:44:50) f: sintam-se em casa
+(11:44:52) f: e voltem sempre
+(11:45:03) f: ficou isso
+(11:45:12) f: pras proximas
+(11:45:13) f: 1) sistema de inventario distribuido
+(11:45:13) f: 2) site / home
+(11:45:13) f: 3) metareciclagemsampa (pra quem quer participar)
+(11:45:13) f: 4) experimentacao midiatica e memelab
+(11:45:13) f: 5) institucionalizar?
+(11:45:13) f: 6) metacentrosdistribuidoresdenet
+(11:45:15) t: divirta-se
+(11:45:19) jah: ff:
+(11:45:20) marc: e muito ++
+(11:45:26) f: divirtomoi
+(11:45:28) jah: se me mandarem email ruiz@metareciclagem.org
+(11:45:29) f: fala jah
+(11:45:31) jah: eu vejo com o mutt?
+(11:45:33) f: nem
+(11:45:36) f: nao existe mais
+(11:45:40) jah: tah bem
+(11:45:43) f: apt-get upgrade nos matou
+(11:45:49) f: mas posso criar um .forward
+(11:45:50) jah: hehehe
+(11:45:52) f: pro gmail?
+(11:45:56) jah: manda ver
+(11:45:58) f: quem mais quer email metareciclagem.oirg?
+(11:46:43) jah: o que o dpadua tah fazendo jah tem dev no ar?
+(11:48:17) #metareciclagem: Modo (+o iara_ama_o_vitor ) por jah
+(11:48:40) jah mudou seu apelido para r
+(11:48:56) marc: ahh, fff, botei textim simplim lah no wiki ... essa mania de educadouro ...:}
+(11:49:05) f: nao tem dev nao
+(11:49:10) f: soh screenshot
+(11:49:17) f: marc: legal, vou ver

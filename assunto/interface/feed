@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - interface</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/335/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Cara nova</title>
+ <link>http://rede.metareciclagem.org/blog/02-09-10/Cara-nova</link>
+ <description>&lt;p&gt;J&amp;aacute; fazia algum tempo que os planos de melhorar o site da MetaReciclagem estavam patinando. Como estamos planejando retomar em breve as conversas sobre MicroReciclagem e vamos precisar implementar algumas ferramentas novas por aqui, resolvi dar uma acelerada nas coisas hoje. O sistema e um monte de m&amp;oacute;dulos estavam indecentemente desatualizados, incluindo algumas atualiza&amp;ccedil;&amp;otilde;es cr&amp;iacute;ticas de seguran&amp;ccedil;a.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/02-09-10/Cara-nova&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/02-09-10/Cara-nova#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/interface">interface</category>
+ <category domain="http://rede.metareciclagem.org/tags/site">site</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Fri, 03 Sep 2010 02:09:51 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1951 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>A cara da infralógica</title>
+ <link>http://rede.metareciclagem.org/blog/17-03-10/cara-da-infral%C3%B3gica</link>
+ <description>&lt;p&gt;Alo metarecs. N&amp;atilde;o sei se todo mundo sabe, mas existe um grupo de pessoas trabalhando no site da MetaReciclagem. Existem alguns caminhos paralelos de deenvolvimento, mas agora estamos concentrando na interface e layout. Passamos algumas semanas elaborando uma proposta de interface, e agora &amp;eacute; a hora de ouvir as opini&amp;otilde;es e feedback das pessoas. Por favor, d&amp;ecirc;em uma olhada &lt;a href=&quot;http://rede.metareciclagem.org/wiki/PropostaInterFace&quot; rel=&quot;nofollow&quot;&gt;nessa p&amp;aacute;gina&lt;/a&gt;, que cont&amp;eacute;m uma introdu&amp;ccedil;&amp;atilde;o alguns estudos iniciais e a proposta atual de interface.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/17-03-10/cara-da-infral%C3%B3gica&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/17-03-10/cara-da-infral%C3%B3gica#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/interface">interface</category>
+ <category domain="http://rede.metareciclagem.org/assunto/layout">layout</category>
+ <category domain="http://rede.metareciclagem.org/assunto/rede">rede</category>
+ <category domain="http://rede.metareciclagem.org/tags/site">site</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Wed, 17 Mar 2010 00:43:00 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1887 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>PropostaInterFace</title>
+ <link>http://rede.metareciclagem.org/wiki/PropostaInterFace</link>
+ <description>&lt;p&gt;Organizando uma consulta a aliadxs sobre a proposta de nova interface para o site da MetaReciclagem. Se poss&amp;iacute;vel, sigam esta ordem:&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/PropostaInterFace&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/PropostaInterFace#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/ai">ai</category>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/interface">interface</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/projeto_infralogica_metareciclagem_1.pdf" length="46006" type="application/pdf" />
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Mon, 08 Mar 2010 21:20:21 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1880 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Tela adicionar conteúdo</title>
+ <link>http://rede.metareciclagem.org/wiki/Tela-adicionar-conteudo</link>
+ <description>&lt;p&gt;Reuni&amp;atilde;o no canal #metareciclagem do freenode&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Presentes:&lt;/strong&gt; efeefe, fernanda, wundo&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Assuntos:&lt;/strong&gt; esclarecimentos sobre as diferen&amp;ccedil;as das telas de adicionar conte&amp;uacute;do para as diferentes roles de usu&amp;aacute;rixs. Sugest&amp;otilde;es de como resolver algumas das informa&amp;ccedil;&amp;otilde;es necess&amp;aacute;rias. Efeefe e Wundo conversaram sobre como identificar e comunicar-se com usu&amp;aacute;rixs que n&amp;atilde;o receberam senhas. Efeefe reabilitou a visualiza&amp;ccedil;&amp;atilde;o de &lt;a href=&quot;/map/node&quot; rel=&quot;nofollow&quot;&gt;mapas de conte&amp;uacute;do&lt;/a&gt;.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/Tela-adicionar-conteudo&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Tela-adicionar-conteudo#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/interface">interface</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/reuniao_030310.txt" length="9238" type="text/plain" />
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Wed, 03 Mar 2010 22:42:15 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1875 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Telas e design</title>
+ <link>http://rede.metareciclagem.org/wiki/Telas-e-design</link>
+ <description>&lt;p&gt;Reuni&amp;atilde;o no canal #metareciclagem do freenode.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Presentes:&lt;/strong&gt; efeefe, fernanda, tatiprado, yaso, varga&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Assuntos:&lt;/strong&gt; coletando feedback sobre as telas j&amp;aacute; desenhadas, acertando alguns detalhes das pr&amp;oacute;ximas.&lt;/p&gt;
+&lt;p&gt;Log em anexo.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Telas-e-design#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/interface">interface</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/reuniao_020310.txt" length="15418" type="text/plain" />
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Wed, 03 Mar 2010 22:38:27 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1874 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Listagens e agregador</title>
+ <link>http://rede.metareciclagem.org/wiki/Listagens-e-agregador</link>
+ <description>&lt;p&gt;&amp;nbsp;Reuni&amp;atilde;o por chat enfre &lt;a href=&quot;/pessoa/felipefonseca&quot; rel=&quot;nofollow&quot;&gt;efeefe&lt;/a&gt; e &lt;a href=&quot;/pessoa/Fernanda&quot; rel=&quot;nofollow&quot;&gt;Fernanda&lt;/a&gt;. Conversamos sobre as novas telas que ela fez. Acertamos alguns detalhes. Ela ficou de entregar, antes da pr&amp;oacute;xima reuni&amp;atilde;o com todo mundo, mais tr&amp;ecirc;s telas: lista de teasers de blog, p&amp;aacute;gina individual de wiki ou blog e p&amp;aacute;gina de adicionar conte&amp;uacute;do.&lt;/p&gt;
+&lt;p&gt;Log &lt;a href=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/log_26021010_0.txt &quot; rel=&quot;nofollow&quot;&gt;em anexo&lt;/a&gt;.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Listagens-e-agregador#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/ai">ai</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/interface">interface</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/log_26021010_0.txt" length="15275" type="text/plain" />
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Sat, 27 Feb 2010 21:55:02 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1868 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Andando - interface e sistema</title>
+ <link>http://rede.metareciclagem.org/blog/27-02-10/Andando-interface-e-sistema</link>
+ <description>&lt;p&gt;Como eu comentei &lt;a href=&quot;http://rede.metareciclagem.org/blog/19-02-10/Infral%C3%B3gica-chute-inicial&quot; rel=&quot;nofollow&quot;&gt;antes&lt;/a&gt;, j&amp;aacute; estamos movendo os motores do desenvolvimento do &lt;a href=&quot;http://rede.metareciclagem.org&quot; rel=&quot;nofollow&quot;&gt;site da MetaReciclagem&lt;/a&gt;. Ainda estamos na fase de criar uma base comum, planejando e arrumando alguns bugs do sistema. A &lt;a href=&quot;http://rede.metareciclagem.org/pessoa/Fernanda&quot; rel=&quot;nofollow&quot;&gt;Fernanda&lt;/a&gt; continua desenrolando uma proposta de interface, acho que na semana que vem a gente j&amp;aacute; pode apresentar pra rede e conversar a respeito.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/27-02-10/Andando-interface-e-sistema&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/27-02-10/Andando-interface-e-sistema#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/interface">interface</category>
+ <category domain="http://rede.metareciclagem.org/assunto/scuttle">scuttle</category>
+ <category domain="http://rede.metareciclagem.org/assunto/sistema">sistema</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Sat, 27 Feb 2010 16:20:17 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1866 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Infralógica - detalhando - 10/02/10</title>
+ <link>http://rede.metareciclagem.org/wiki/Infralogica-detalhando-100210</link>
+ <description>&lt;p&gt;Reuni&amp;atilde;o para acertar alguns detalhes e acertar o ritmo de desenvolvimento da Infral&amp;oacute;gica.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Presentes:&lt;/strong&gt; efeefe, Fernanda&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Assuntos:&lt;/strong&gt; repassamos cada um dos menus, definimos algumas coisas para cada um deles:&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/Infralogica-detalhando-100210&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Infralogica-detalhando-100210#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/dashboard">dashboard</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/interface">interface</category>
+ <category domain="http://rede.metareciclagem.org/assunto/irc">irc</category>
+ <category domain="http://rede.metareciclagem.org/assunto/reuni%C3%B5es">reuniões</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/irc_infralogica_100210.txt" length="15723" type="text/plain" />
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Wed, 10 Feb 2010 19:48:57 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1854 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Encontro IRC - Interface Infralógica - Dashboard</title>
+ <link>http://rede.metareciclagem.org/wiki/Encontro-IRC-Interface-Infralogica-Dashboard</link>
+ <description>&lt;p&gt;Primeira reuni&amp;atilde;o online de brainstorm para a interface da infral&amp;oacute;gica.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Presentes:&lt;/strong&gt; efeefe, fernanda, tati prado, yaso, varga, wundo&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/Encontro-IRC-Interface-Infralogica-Dashboard&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Encontro-IRC-Interface-Infralogica-Dashboard#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/ai">ai</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/interface">interface</category>
+ <category domain="http://rede.metareciclagem.org/assunto/irc">irc</category>
+ <category domain="http://rede.metareciclagem.org/assunto/reuni%C3%B5es">reuniões</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/irc_infralogica_090210.txt" length="37980" type="text/plain" />
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Wed, 10 Feb 2010 16:33:41 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1853 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Novas Interfaces</title>
+ <link>http://rede.metareciclagem.org/conectaz/Novas-Interfaces</link>
+ <description>&lt;div class=&quot;form-item&quot;&gt;
+ &lt;label&gt;Descrição: &lt;/label&gt;
+ Papos sobre novas maneiras de interagir com sistemas binários.
+&lt;/div&gt;
+&lt;p&gt;O objetivo dessa ConecTAZ &amp;eacute; discutir, pesquisar e desenvolver novas interfaces de intera&amp;ccedil;&amp;atilde;o entre homens e computadores. Lista de discuss&amp;atilde;o em: &lt;a href=&quot;http://groups.google.com.br/group/novasinterfaces&quot; title=&quot;http://groups.google.com.br/group/novasinterfaces&quot; rel=&quot;nofollow&quot;&gt;http://groups.google.com.br/group/novasinterfaces&lt;/a&gt;&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-situacao-conectaz&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Situação desta ConecTAZ:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    em planejamento        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/conectaz/Novas-Interfaces#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/hci">hci</category>
+ <category domain="http://rede.metareciclagem.org/assunto/interface">interface</category>
+ <category domain="http://rede.metareciclagem.org/assunto/multimidia">multimidia</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ubicomp">ubicomp</category>
+ <pubDate>Fri, 21 Nov 2008 18:26:42 +0000</pubDate>
+ <dc:creator>pixel</dc:creator>
+ <guid isPermaLink="false">1480 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

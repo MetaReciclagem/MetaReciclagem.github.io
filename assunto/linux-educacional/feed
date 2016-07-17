@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - linux educacional</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/462/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>HomeFenix</title>
+ <link>http://rede.metareciclagem.org/wiki/HomeFenix</link>
+ <description>&lt;p&gt;Nesses laborat&amp;oacute;rios de inform&amp;aacute;tica em escolas ou telecentros tem aquela coisa chata de voc&amp;ecirc; se autenticar no usu&amp;aacute;rio e ta tudo uma zona, que outra ou outras pessoas deixaram ap&amp;oacute;s o uso. Papel de parede alterado, arquivos .exe e sei l&amp;aacute; o que em todos os lugares, barra de tarefa l&amp;aacute; acol&amp;aacute; e &amp;iacute;cones aleat&amp;oacute;rios. A forma de resolver isso &amp;eacute; criando uma conta para cada pessoa e elas fazem o que quiser na sua conta. Isso para m&amp;aacute;quinas de uso coletivo e garantindo a individualidade e privacidade da pessoa.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/HomeFenix&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/HomeFenix#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/gambis">gambis</category>
+ <category domain="http://rede.metareciclagem.org/assunto/linux-educacional">linux educacional</category>
+ <category domain="http://rede.metareciclagem.org/assunto/pesquisa">pesquisa</category>
+ <category domain="http://rede.metareciclagem.org/assunto/tecnologia">tecnologia</category>
+ <pubDate>Mon, 01 Dec 2008 14:14:28 +0000</pubDate>
+ <dc:creator>Banto Palmarino</dc:creator>
+ <guid isPermaLink="false">1496 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

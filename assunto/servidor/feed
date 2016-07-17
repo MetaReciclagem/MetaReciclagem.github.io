@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - servidor</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/396/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Alguma instabilidade</title>
+ <link>http://rede.metareciclagem.org/blog/03-10-08/Alguma-instabilidade</link>
+ <description>&lt;p&gt;O servidor ficou meio capenga hoje &amp;agrave; tarde. Fiz umas modifica&amp;ccedil;&amp;otilde;es nas configura&amp;ccedil;&amp;otilde;es do lighttpd e segui a sugest&amp;atilde;o do &lt;a href=&quot;http://lourenzo.blog.br/&quot; rel=&quot;nofollow&quot;&gt;Lourenzo&lt;/a&gt; de remover os m&amp;oacute;dulos n&amp;atilde;o habilitados do drupal. Ainda vou dar uma geral nas views pra ver se tem alguma sobrando.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/03-10-08/Alguma-instabilidade#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/lighttpd">lighttpd</category>
+ <category domain="http://rede.metareciclagem.org/assunto/servidor">servidor</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Fri, 03 Oct 2008 21:26:09 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1450 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - economia da cultura</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/1013/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Modelos de negócios baseados em conhecimento livre</title>
+ <link>http://rede.metareciclagem.org/blog/30-05-11/Modelos-de-negocios-baseados-em-conhecimento-livre</link>
+ <description>&lt;p&gt;&lt;a href=&quot;http://twitter.com/openp2pdesign&quot; rel=&quot;nofollow&quot;&gt;Massimo Menichinelli&lt;/a&gt;, do &lt;a href=&quot;http://www.openp2pdesign.org&quot; rel=&quot;nofollow&quot;&gt;openp2pdesign&lt;/a&gt;, desenvolveu nos &amp;uacute;ltimos meses um estudo sobre &lt;em&gt;modelos de neg&amp;oacute;cios para hardware aberto, artesanato fa&amp;ccedil;a-voc&amp;ecirc;-mesmo e fablabs&lt;/em&gt; para o projeto &lt;a href=&quot;http://www.youcoop.org/en/goteo/p/1/goteo-social-network-for-distributed-financing-and-creative-credits/&quot; rel=&quot;nofollow&quot;&gt;Goteo&lt;/a&gt;, sob encomenda do &lt;a href=&quot;http://www.platoniq.net/&quot; rel=&quot;nofollow&quot;&gt;Platoniq&lt;/a&gt;. O resultado foi uma s&amp;eacute;rie de artigos que ele publicou em ingl&amp;ecirc;s no openp2pdesign e deve aparecer em castelhano no site&amp;nbsp;&lt;a href=&quot;http://www.youcoop.org&quot; rel=&quot;nofollow&quot;&gt;youcoop&lt;/a&gt;. Uma leitura excelente, sugerindo diversas de maneiras de organizar e bancar a produ&amp;ccedil;&amp;atilde;o colaborativa.&lt;/p&gt;
+&lt;p&gt;O &lt;a href=&quot;http://www.openp2pdesign.org/2011/open-design/business-models-for-open-hardware/&quot; rel=&quot;nofollow&quot;&gt;primeiro artigo&lt;/a&gt; versa sobre &lt;em&gt;hardware aberto&lt;/em&gt;, tratando de suas caracter&amp;iacute;sticas espec&amp;iacute;ficas, contando o case do &lt;a href=&quot;http://arduino.cc&quot; rel=&quot;nofollow&quot;&gt;Arduino&lt;/a&gt;, falando sobre os Hackerspaces como espa&amp;ccedil;os para inova&amp;ccedil;&amp;atilde;o e troca de conhecimento, e falando sobre modelos de microcr&amp;eacute;dito e crowdsourcing para financiar a inova&amp;ccedil;&amp;atilde;o.&lt;/p&gt;
+&lt;p&gt;O &lt;a href=&quot;http://www.openp2pdesign.org/2011/fabbing/business-models-for-fab-labs/&quot; rel=&quot;nofollow&quot;&gt;segundo artigo&lt;/a&gt; retoma um pouco da hist&amp;oacute;ria e das implica&amp;ccedil;&amp;otilde;es do desenvolvimento dos &lt;em&gt;&lt;a href=&quot;http://fab.cba.mit.edu/&quot; rel=&quot;nofollow&quot;&gt;fablabs&lt;/a&gt;&lt;/em&gt; (&amp;quot;laborat&amp;oacute;rios de fabrica&amp;ccedil;&amp;atilde;o digital&amp;quot;, sobre os quais eu tamb&amp;eacute;m comentei ontem no &lt;a href=&quot;http://blog.redelabs.org/blog/revolucao-digital-ja-chegou-e-depois&quot; rel=&quot;nofollow&quot;&gt;blog redelabs&lt;/a&gt;), e como eles podem apontar para novas maneiras de gerar inova&amp;ccedil;&amp;atilde;o, fabricar coisas e comercializ&amp;aacute;-las. Esses dois primeiros textos t&amp;ecirc;m como maior m&amp;eacute;rito a organiza&amp;ccedil;&amp;atilde;o de informa&amp;ccedil;&amp;otilde;es que de certa forma j&amp;aacute; est&amp;atilde;o latentes nas redes ligadas ao conhecimento livre.&lt;/p&gt;
+&lt;p&gt;J&amp;aacute; o &lt;a href=&quot;http://www.openp2pdesign.org/2011/open-design/business-models-for-diy-craft/&quot; rel=&quot;nofollow&quot;&gt;terceiro artigo&lt;/a&gt;, focado no artesanato fa&amp;ccedil;a-voc&amp;ecirc;-mesmo (DIY), explora caminhos de inova&amp;ccedil;&amp;atilde;o livre em &amp;aacute;reas que geralmente n&amp;atilde;o fazem parte do nosso repert&amp;oacute;rio. S&amp;atilde;o &amp;aacute;reas em que existe pouca preocupa&amp;ccedil;&amp;atilde;o com propriedade intelectual. O exemplo &amp;oacute;bvio &amp;eacute; o artesanato tradicional, que tem muito a ganhar com a circula&amp;ccedil;&amp;atilde;o livre de ideias. Mas para mim o exemplo mais surpreendente (tamb&amp;eacute;m presente no estudo do FCForum sobre o qual comentei &lt;a href=&quot;http://rede.metareciclagem.org/blog/16-05-11/Criatividade-sustentavel-na-era-digital&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;) &amp;eacute; a ind&amp;uacute;stria da moda. De fato, &amp;eacute; um mercado em que o remix &amp;eacute; amplamente aceito. Menichinelli aponta um v&amp;iacute;deo de &lt;a href=&quot;http://www.ted.com/talks/johanna_blakley_lessons_from_fashion_s_free_culture.html&quot; rel=&quot;nofollow&quot;&gt;Johanna Blakley no TED&lt;/a&gt;&amp;nbsp;sobre isso. Depois fala sobre plataformas focadas na &lt;a href=&quot;http://pt.wikipedia.org/wiki/A_Cauda_Longa&quot; rel=&quot;nofollow&quot;&gt;cauda longa&lt;/a&gt; da produ&amp;ccedil;&amp;atilde;o artesanal, como o &lt;a href=&quot;http://etsy.com&quot; rel=&quot;nofollow&quot;&gt;Etsy&lt;/a&gt;. Tamb&amp;eacute;m fala de outras iniciativas que prop&amp;otilde;em novas leituras do mercado da moda: microcr&amp;eacute;dito, laborat&amp;oacute;rios (&amp;quot;sewing cafes&amp;quot;) e compartilhamento de moldes.&lt;/p&gt;
+&lt;p&gt;O mais interessante dos artigos de Menichinelli &amp;eacute; que eles n&amp;atilde;o tentam sugerir uma solu&amp;ccedil;&amp;atilde;o definitiva: trazem dezenas de casos que funcionaram sob recortes espec&amp;iacute;ficos e em contextos espec&amp;iacute;ficos. Uma excelente inspira&amp;ccedil;&amp;atilde;o para quem est&amp;aacute; pesquisando caminhos colaborativos de viabiliza&amp;ccedil;&amp;atilde;o de projetos (como &amp;eacute; o caso aqui no &lt;a href=&quot;http://rede.metareciclagem.org/conectaz/MetaRecursos&quot; rel=&quot;nofollow&quot;&gt;grupo Metarecursos&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/30-05-11/Modelos-de-negocios-baseados-em-conhecimento-livre#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/economia-criativa">economia criativa</category>
+ <category domain="http://rede.metareciclagem.org/assunto/economia-da-cultura">economia da cultura</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metarecursos">metarecursos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/p2p">p2p</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/MetaRecursos" xmlns="http://drupal.org/project/og">MetaRecursos</group>
+ <pubDate>Mon, 30 May 2011 21:44:44 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2042 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Redada - Barcelona - 02 de março</title>
+ <link>http://rede.metareciclagem.org/blog/01-03-11/Redada-Barcelona-02-de-marco</link>
+ <description>&lt;p&gt;
+&lt;/p&gt;
+&lt;div&gt;
+&lt;p&gt;Repassando o an&amp;uacute;ncio que&amp;nbsp;&lt;a href=&quot;http://www.raquelrenno.com/&quot; rel=&quot;nofollow&quot;&gt;Raquel Renn&amp;oacute;&lt;/a&gt;&amp;nbsp;mandou na&amp;nbsp;&lt;a href=&quot;http://groups.google.com/group/redelabs?pli=1&quot; rel=&quot;nofollow&quot;&gt;lista RedeLabs&lt;/a&gt;: debate amanh&amp;atilde; (02 de mar&amp;ccedil;o) &amp;agrave;s 19hs de Barcelona (15hs de Bras&amp;iacute;lia).&amp;nbsp;&lt;a href=&quot;http://www.cccb.org/es/noticia-sigue_en_directo_redada_barcelona-36289&quot; rel=&quot;nofollow&quot;&gt;Estrimado ao vivo&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;div&gt;&lt;span&gt;&lt;b&gt;&lt;span&gt;#Redada 1 Barcelona&lt;/span&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;&lt;span&gt;Modelos de negocios para la cultura en red y licencias libres&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;&lt;span&gt;&lt;br /&gt;
+&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;Mi&amp;eacute;rcoles 2, 19:00h&lt;/b&gt;&amp;nbsp;en&amp;nbsp;&lt;a target=&quot;_blank&quot; href=&quot;http://www.cccb.org/&quot; rel=&quot;nofollow&quot;&gt;Centro de Cultura Contempor&amp;aacute;nea de Barcelona, Aula 1&lt;/a&gt;&amp;nbsp;| Montalegre, 5. 08001 Barcelona&lt;/div&gt;
+&lt;div&gt;&lt;span&gt;&lt;br /&gt;
+&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span&gt;Tras cuatro encuentros&amp;nbsp;&lt;/span&gt;&lt;span&gt;&lt;b&gt;#redada&lt;/b&gt;&lt;/span&gt;&lt;span&gt;&amp;nbsp;en Madrid, este mi&amp;eacute;rcoles se celebrar&amp;aacute; en Barcelona el primer encuentro gracias a la colaboraci&amp;oacute;n del colectivo&amp;nbsp;&lt;/span&gt;&lt;span&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://www.zzzinc.net/&quot; rel=&quot;nofollow&quot;&gt;ZZZINC&lt;/a&gt;&lt;/span&gt;&lt;span&gt;. Este encuentro estar&amp;aacute; dedicado a&amp;nbsp;&lt;b&gt;analizar y profundizar en los diferentes modelos de negocio de negocio&lt;/b&gt;&amp;nbsp;que&amp;nbsp;&lt;b&gt;usan&lt;/b&gt;&amp;nbsp;Internet como plataforma natural y en los usos de las licencias libres.&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;
+&lt;div&gt;
+&lt;p align=&quot;&quot;&gt;Presenta:&amp;nbsp;&lt;b&gt;Jos&amp;eacute; Luis de Vicente&lt;/b&gt;, comisario e investigador cultural y miembro del colectivo&amp;nbsp;&lt;a target=&quot;_blank&quot; href=&quot;http://www.zzzinc.net/&quot; rel=&quot;nofollow&quot;&gt;ZZZINC&lt;/a&gt;&lt;/p&gt;
+&lt;p align=&quot;&quot;&gt;Modera:&amp;nbsp;&lt;b&gt;Eva Soria&lt;/b&gt;,&amp;nbsp;&lt;i&gt;Jurist Doctor&lt;/i&gt;, experta en propiedad intelectual y derecho internacional. &amp;nbsp;Coordinadora de Arts Visuals i &amp;Agrave;rea de Creaci&amp;oacute; del Institut Ramon Llull&lt;/p&gt;
+&lt;p align=&quot;&quot;&gt;Participantes confirmados:&lt;/p&gt;
+&lt;p align=&quot;&quot;&gt;-&lt;b&gt;&amp;nbsp;Ignasi Labastida&lt;/b&gt;, l&amp;iacute;der de&amp;nbsp;&lt;a target=&quot;_blank&quot; href=&quot;http://es.creativecommons.org/&quot; rel=&quot;nofollow&quot;&gt;Creative Commons Espa&amp;ntilde;a&lt;/a&gt;&amp;nbsp;&lt;br /&gt;
+- &lt;b&gt;Jaume Ripoll Vaquer,&lt;/b&gt;&amp;nbsp;director de la plataforma de distribuci&amp;oacute;n de cine en l&amp;iacute;nea&amp;nbsp;&lt;a target=&quot;_blank&quot; href=&quot;http://www.filmin.es/&quot; rel=&quot;nofollow&quot;&gt;Filmin&lt;/a&gt;&amp;nbsp;&lt;br /&gt;
+-&amp;nbsp;&lt;b&gt;Simona Levi&lt;/b&gt;, impulsora del&amp;nbsp;&lt;a target=&quot;_blank&quot; href=&quot;http://fcforum.net/&quot; rel=&quot;nofollow&quot;&gt;Free Culture Forum&lt;/a&gt;&amp;nbsp;y fundadora de&lt;a target=&quot;_blank&quot; href=&quot;http://la-ex.net/&quot; rel=&quot;nofollow&quot;&gt;&amp;nbsp;La Ex&lt;/a&gt;&lt;br /&gt;
+-&amp;nbsp;&lt;b&gt;Daniel Granados&lt;/b&gt;, m&amp;uacute;sico y responsable de&amp;nbsp;&lt;a target=&quot;_blank&quot; href=&quot;http://www.produccionesdoradas.com/&quot; rel=&quot;nofollow&quot;&gt;Producciones Doradas&lt;/a&gt;, sello independiente que edita bajo licencias libres.&lt;br /&gt;
+-&amp;nbsp;&lt;b&gt;Cesc Gay&lt;/b&gt;,&lt;a target=&quot;_blank&quot; href=&quot;http://www.imdb.es/name/nm0310747/&quot; rel=&quot;nofollow&quot;&gt;&amp;nbsp;director de cine&lt;/a&gt;&amp;nbsp;y guionista&lt;br /&gt;
+-&amp;nbsp;&lt;b&gt;Tom&amp;aacute;s Aragay&lt;/b&gt;,&amp;nbsp;&lt;a target=&quot;_blank&quot; href=&quot;http://www.imdb.com/name/nm0032720/&quot; rel=&quot;nofollow&quot;&gt;dramaturgo&lt;/a&gt;&amp;nbsp;y actor.&amp;nbsp;&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;Entrada Libre hasta conmpletar aforo.&amp;nbsp;&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;Nota: Habr&amp;aacute;&amp;nbsp;&lt;a target=&quot;_blank&quot; href=&quot;http://www.cccb.org/es/noticia-sigue_en_directo_redada_barcelona-36289&quot; rel=&quot;nofollow&quot;&gt;streaming en directo&lt;/a&gt;&amp;nbsp;y grabaci&amp;oacute;n en v&amp;iacute;deo.&lt;/b&gt;&lt;/div&gt;
+&lt;/blockquote&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;&amp;nbsp;PS.:&lt;/strong&gt; o v&amp;iacute;deo do debate est&amp;aacute; dispon&amp;iacute;vel &lt;a href=&quot;http://www.ustream.tv/recorded/13043960&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/01-03-11/Redada-Barcelona-02-de-marco#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/cultura-em-rede">cultura em rede</category>
+ <category domain="http://rede.metareciclagem.org/assunto/economia-criativa">economia criativa</category>
+ <category domain="http://rede.metareciclagem.org/assunto/economia-da-cultura">economia da cultura</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metarecursos">metarecursos</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/MetaRecursos" xmlns="http://drupal.org/project/og">MetaRecursos</group>
+ <pubDate>Wed, 02 Mar 2011 00:36:54 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2027 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

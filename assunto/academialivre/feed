@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - academialivre</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/1199/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>WSL - Workshop de Software Livre no FISL</title>
+ <link>http://rede.metareciclagem.org/blog/01-03-13/WSL-Workshop-de-Software-Livre-no-FISL</link>
+ <description>&lt;p&gt;Repercutindo por aqui... foi estendido o prazo para envio de trabalhos do Workshop de Software Livre, evento &amp;quot;cient&amp;iacute;fico&amp;quot; que vai acontecer durante o FISL. Eu vou enviar um trabalho, e acho que seria uma boa oportunidade para fazer uma reuni&amp;atilde;o do grupo AcademiaLivre da MetaReciclagem. Bora?&lt;/p&gt;
+&lt;p&gt;Mais info &lt;a href=&quot;http://softwarelivre.org/wsl&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;. Envio abaixo tamb&amp;eacute;m a descri&amp;ccedil;&amp;atilde;o e chamada de trabalhos.&lt;/p&gt;
+&lt;h2&gt;Apresenta&amp;ccedil;&amp;atilde;o&lt;/h2&gt;
+&lt;p&gt;Para al&amp;eacute;m das pioneiras comunidades de compartilhamento de software criadas em torno do Unix e da comunidade de hackers do Emacs, o desenvolvimento de Software Livre e de fonte aberta (FOSS) tem crescido exponencialmente, seguindo a populariza&amp;ccedil;&amp;atilde;o e ampla dissemina&amp;ccedil;&amp;atilde;o do uso de computadores pessoais e da Internet. N&amp;atilde;o apenas as comunidades FOSS se expandiram globalmente, mas tamb&amp;eacute;m o corpo de literatura a seu respeito, tornando-se extremamente relevante para cientistas e engenheiros da computa&amp;ccedil;&amp;atilde;o, bem como para pesquisadores das ci&amp;ecirc;ncias humanas. Na &amp;uacute;ltima d&amp;eacute;cada, a pesquisa em FOSS consolidou-se em torno de quest&amp;otilde;es como motiva&amp;ccedil;&amp;otilde;es individuais, pr&amp;aacute;ticas colaborativas, quest&amp;otilde;es de escala, governan&amp;ccedil;a e coordena&amp;ccedil;&amp;atilde;o de esfor&amp;ccedil;os de desenvolvimento, assim como em torno de problemas de economia pol&amp;iacute;tica envolvendo o estudo de modelos econ&amp;ocirc;micos e formas de mobiliza&amp;ccedil;&amp;atilde;o pol&amp;iacute;tica em torno do Software Livre.&lt;br /&gt;
+	&lt;br /&gt;
+	Nosso principal objetivo nesse workshop &amp;eacute; avaliar o estado da arte da pesquisa interdisciplinar, explorando aspectos t&amp;eacute;cnicos, legais, socioecon&amp;ocirc;micos e culturais do FOSS. Deteremo-nos sobre os t&amp;oacute;picos de pesquisa mencionados, discutindo contribui&amp;ccedil;&amp;otilde;es recentes &amp;agrave; literatura. Convidamos pesquisadores de qualquer disciplina acad&amp;ecirc;mica nos t&amp;oacute;picos seguintes e assemelhados a submeterem seus artigos:&lt;br /&gt;
+	&lt;br /&gt;
+	- Licenciamento e aspectos legais relacionados, disputas de direito autoral, patentes de software, adequa&amp;ccedil;&amp;atilde;o &amp;agrave; GPL, propriedade individual ou coletiva de c&amp;oacute;digo;&lt;br /&gt;
+	&lt;br /&gt;
+	- Engenharia de Software Livre, desenvolvimento de metodologias, m&amp;eacute;tricas de c&amp;oacute;digo-fonte e avalia&amp;ccedil;&amp;atilde;o da qualidade de software;&lt;br /&gt;
+	&lt;br /&gt;
+	- Estudos culturais, sociais e econ&amp;ocirc;micos envolvendo abordagens qualitativas e quantitativas de comunidades ativistas e de desenvolvimento;&lt;br /&gt;
+	&lt;br /&gt;
+	- Estudos de caso: an&amp;aacute;lise aprofundada de casos de implementa&amp;ccedil;&amp;atilde;o, migra&amp;ccedil;&amp;atilde;o, sucesso ou fracasso de projetos de FOSS em v&amp;aacute;rias partes do mundo;&lt;br /&gt;
+	&lt;br /&gt;
+	- Expans&amp;atilde;o e transforma&amp;ccedil;&amp;atilde;o do Software Livre em curso: para al&amp;eacute;m do desenvolvimento de software e em dire&amp;ccedil;&amp;atilde;o &amp;agrave; Cultura Livre, Hardware Aberto, Open Access, jornalismo online independente e projetos colaborativos baseados na Internet.&lt;br /&gt;
+	Sobre o FISL e o &lt;span class=&quot;il&quot;&gt;WSL&lt;/span&gt;&lt;br /&gt;
+	&lt;br /&gt;
+	O Workshop Internacional de Software Livre (&lt;span class=&quot;il&quot;&gt;WSL&lt;/span&gt;) &amp;eacute; um evento cient&amp;iacute;fico que acontece no &amp;acirc;mbito do F&amp;oacute;rum Internacional Software Livre (FISL). Desde 2000, o FISL &amp;eacute; organizado por ativistas do software livre em Porto Alegre, Brasil, e representa uma das maiores e mais importantes confer&amp;ecirc;ncias de FOSS do mundo.&lt;br /&gt;
+	&lt;br /&gt;
+	O &lt;span class=&quot;il&quot;&gt;WSL&lt;/span&gt; aceita papers advindos de diferentes tradi&amp;ccedil;&amp;otilde;es disciplinares, oferecendo oportunidade para professores, pesquisadores, estudantes e outros profissionais de apresentarem e discutirem pesquisas originais desenvolvidas em centros de pesquisas, empresas e universidades que usam, disseminam e/ou refletem criticamente sobre FOSS em seus aspectos t&amp;eacute;cnicos, legais, socioecon&amp;ocirc;micos e culturais.&lt;br /&gt;
+	Informa&amp;ccedil;&amp;otilde;es para os Autores&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;- Os papers devem ser escritos em Ingl&amp;ecirc;s, Portugu&amp;ecirc;s ou Espanhol&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;- Os papers devem conter no m&amp;aacute;ximo 20 p&amp;aacute;ginas impressas, incluindo resumo, figuras e refer&amp;ecirc;ncias&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;- As submiss&amp;otilde;es devem ser feitas em PDF (utilizando o template da SBC: &lt;a href=&quot;http://tux.gseis.ucla.edu/template_SBC/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://tux.gseis.ucla.edu/template_SBC/&lt;/a&gt;)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;- Os papers devem ser enviados por email a luisfelipe/*/arroba/*/&lt;a href=&quot;http://ucla.edu&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;ucla.edu&lt;/a&gt;&lt;br /&gt;
+	&lt;br /&gt;
+	Os papers ser&amp;atilde;o avaliados por pareceristas acad&amp;ecirc;micos com experi&amp;ecirc;ncia de pesquisa em FOSS, considerando seu conte&amp;uacute;do t&amp;eacute;cnico e relev&amp;acirc;ncia para o workshop. Todos os papers aceitos ser&amp;atilde;o publicados nos anais do &lt;span class=&quot;il&quot;&gt;WSL&lt;/span&gt; e estar&amp;atilde;o dispon&amp;iacute;veis em um reposit&amp;oacute;rio aberto contido na p&amp;aacute;gina da comunidade &lt;span class=&quot;il&quot;&gt;WSL&lt;/span&gt; (&lt;a href=&quot;http://softwarelivre.org/wsl&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://softwarelivre.org/&lt;span class=&quot;il&quot;&gt;wsl&lt;/span&gt;&lt;/a&gt;) sob a licen&amp;ccedil;a Creative Commons Attribution 3.0 unported (CC-BY-3.0).&lt;br /&gt;
+	&lt;br /&gt;
+	Para os papers redigidos em co-autoria, os autores dever&amp;atilde;o definir um apresentador para o &lt;span class=&quot;il&quot;&gt;WSL&lt;/span&gt;. O apresentador receber&amp;aacute; um c&amp;oacute;digo promocional para registrar-se gratuitamente no FISL. Despesas de hospedagem e acomoda&amp;ccedil;&amp;atilde;o n&amp;atilde;o ser&amp;atilde;o pagas pelo FISL ou pelo &lt;span class=&quot;il&quot;&gt;WSL&lt;/span&gt;.&lt;br /&gt;
+	Datas Importantes&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;- Prazo para submiss&amp;atilde;o dos textos:&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;strike&gt;Dia 20 de fevereiro de 2013&lt;/strike&gt; 15 de mar&amp;ccedil;o de 2013&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;- Divulga&amp;ccedil;&amp;atilde;o dos papers aceitos:&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp; &amp;nbsp;Dia 29 de abril de 2013&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;- F&amp;oacute;rum Internacional Software Livre (FISL), Porto Alegre, Brasil&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp; &amp;nbsp;De 3 a 6 de julho de 2013&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;- Workshop Software Livre (&lt;span class=&quot;il&quot;&gt;WSL&lt;/span&gt;), Porto Alegre, Brasil&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp; &amp;nbsp;De 4 a 5 de julho de 2013&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;Comit&amp;ecirc; Organizador&lt;/h2&gt;
+&lt;p&gt;Coordenador Geral&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Carlos D. Santos (Universidade de Brasilia, Brazil)&lt;br /&gt;
+	Coordenador de Programa&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Luis Felipe R. Murillo (University of California, Los Angeles, USA)&lt;br /&gt;
+	Coordenador de Publica&amp;ccedil;&amp;otilde;es e Organiza&amp;ccedil;&amp;atilde;o Local&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp; Paulo Meirelles (Universidade de Sao Paulo, Brazil)&lt;br /&gt;
+	Coordenadores de Publicidade&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Imed Hammouda (Tampere University of Technology, Finland)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Gregorio Robles (Universidad Rey Juan Carlos, Spain)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Rafael Evangelista (Universidade Estadual de Campinas, Brazil)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Veronica Xhardez (Flacso/CONICET - SoLAr, Argentina)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Yuri Takhteyev &amp;nbsp;(University of Toronto, Canada)&lt;/p&gt;
+&lt;h2&gt;Comit&amp;ecirc; de Programa&lt;/h2&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp; Ana Cristina Matte (Universidade Federal de Minas Gerais, Brazil)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Andre Leme Fleury (Universidade de Sao Paulo)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Anthony Wasserman (Carnegie Mellon University, USA)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Antonio Terceiro (Universidade Federal da Bahia, Brazil)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;C&amp;eacute;lia Ralha (Universidade de Brasilia, Brazil)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Christiana Freitas (Universidade de Brasilia, Brazil)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Christopher Kelty (University of California, Los Angeles, USA)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Daniel Batista (Universidade de Sao Paulo, Brazil)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Fabio Kon (Universidade de Sao Paulo, Brazil)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Gabriella Coleman (McGill University, Canada)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Islena Garcia (Universidade Estadual de Campinas, Brazil)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Jelena Karanovic (New York University, USA)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Lilly Nguyen (University of California, Los Angeles, USA)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Masayuki Hatta (Surugadai University, Japan)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Tim Davies (University of Southampton, UK)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Stefan Koch (Bogazici University, Turkey)&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/01-03-13/WSL-Workshop-de-Software-Livre-no-FISL#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/academialivre">academialivre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/eventos">eventos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/fisl">fisl</category>
+ <category domain="http://rede.metareciclagem.org/assunto/porto-alegre">porto alegre</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/AcademiaLivre" xmlns="http://drupal.org/project/og">AcademiaLivre</group>
+ <pubDate>Fri, 01 Mar 2013 04:52:43 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2213 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Academia Livre</title>
+ <link>http://rede.metareciclagem.org/blog/30-11-12/Academia-Livre</link>
+ <description>&lt;p&gt;Voltando a dar um pouco de aten&amp;ccedil;&amp;atilde;o a este site... criei um grupo chamado &amp;quot;&lt;a href=&quot;http://rede.metareciclagem.org/conectaz/AcademiaLivre&quot; rel=&quot;nofollow&quot;&gt;Academia Livre&lt;/a&gt;&amp;quot; para reunir pessoas interessadas em pesquisa estruturada ligada aos universos metarecicleiros...&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/30-11-12/Academia-Livre#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/academialivre">academialivre</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/AcademiaLivre" xmlns="http://drupal.org/project/og">AcademiaLivre</group>
+ <pubDate>Fri, 30 Nov 2012 18:34:15 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2157 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>AcademiaLivre</title>
+ <link>http://rede.metareciclagem.org/conectaz/AcademiaLivre</link>
+ <description>&lt;div class=&quot;form-item&quot;&gt;
+ &lt;label&gt;Descrição: &lt;/label&gt;
+ Grupo de pesquisa ligado à rede MetaReciclagem
+&lt;/div&gt;
+&lt;p&gt;Tentando construir interfaces entre o cotidiano da MetaReciclagem e a pesquisa acad&amp;ecirc;mica.&lt;/p&gt;
+&lt;p&gt;Hernani Dimantas comentou:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;efe, interfaces &amp;eacute; um termo bem amplo. eu gosto dele por significar muitas coisas que, por um lado aponta para as ferramentas. interfaces gr&amp;aacute;ficas, de &amp;aacute;udio, de v&amp;iacute;deo. E, por outro, a proposta do MetaReciclagem s&amp;atilde;o interfaces m&amp;uacute;ltiplas. Rede de afetos, apropria&amp;ccedil;&amp;otilde;es. Esp&amp;oacute;ros e conectazes. Enfim, tecnologia social.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Eu acho que avan&amp;ccedil;amos muito nesse debate nos &amp;uacute;ltimos 10 anos. Tem muita MetaReciclagem trafegando pelos acad&amp;ecirc;micos. MetaReciclagem &amp;eacute; tema de TCC, mestrados e doutorados.&amp;nbsp;N&amp;atilde;o &amp;eacute; sobre construir interfaces. &amp;Eacute; sobre agregar projetos acad&amp;ecirc;micos , art&amp;iacute;sticos e sei l&amp;aacute; o que mais podemos pensar. ;)&lt;/em&gt;&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-situacao-conectaz&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Situação desta ConecTAZ:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    funcionando        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/conectaz/AcademiaLivre#comments</comments>
+ <category domain="http://rede.metareciclagem.org/tags/academia">academia</category>
+ <category domain="http://rede.metareciclagem.org/assunto/academialivre">academialivre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/pesquisa">pesquisa</category>
+ <category domain="http://rede.metareciclagem.org/assunto/universidade">universidade</category>
+ <pubDate>Fri, 30 Nov 2012 18:28:43 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2156 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

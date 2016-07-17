@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - governo</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/981/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>HackDay Usina do Gasômetro</title>
+ <link>http://rede.metareciclagem.org/blog/19-03-13/HackDay-Usina-do-Gasometro</link>
+ <description>&lt;p&gt;MateHackers saindo da caixa e expondo o trabalho em &amp;aacute;rea p&amp;uacute;blica de Porto Alegre.&lt;/p&gt;
+&lt;p&gt;Documentado em: &lt;a href=&quot;http://www.matehackers.org/doku.php?id=hackday_usina_130316&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;hackday_usina_130316&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/19-03-13/HackDay-Usina-do-Gasometro&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/19-03-13/HackDay-Usina-do-Gasometro#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/gabinete-digital">gabinete digital</category>
+ <category domain="http://rede.metareciclagem.org/assunto/gasometro">gasometro</category>
+ <category domain="http://rede.metareciclagem.org/assunto/governo">governo</category>
+ <category domain="http://rede.metareciclagem.org/assunto/hackday">hackday</category>
+ <category domain="http://rede.metareciclagem.org/assunto/matehackers">matehackers</category>
+ <category domain="http://rede.metareciclagem.org/assunto/porto-alegre">porto alegre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/usina">usina</category>
+ <group domain="http://rede.metareciclagem.org/grupo/Matehackers" xmlns="http://drupal.org/project/og">Matehackers</group>
+ <pubDate>Tue, 19 Mar 2013 14:50:52 +0000</pubDate>
+ <dc:creator>iuriguilherme</dc:creator>
+ <guid isPermaLink="false">2223 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>ReuniaoIrcMomentosFuturos</title>
+ <link>http://rede.metareciclagem.org/wiki/ReuniaoIrcMomentosFuturos</link>
+ <description>&lt;p&gt;Reuni&amp;atilde;o online em 01/02/2011 falando sobre possibilidades de articula&amp;ccedil;&amp;atilde;o para a rede MetaReciclagem no presente e futuro. Falamos sobre formatos poss&amp;iacute;veis de viabiliza&amp;ccedil;&amp;atilde;o de a&amp;ccedil;&amp;otilde;es, escala local, inova&amp;ccedil;&amp;atilde;o, sustentabilidade e mais um monte de coisas. A &amp;iacute;ntegra da conversa est&amp;aacute; dispon&amp;iacute;vel no log &lt;a href=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/20110201_irc_reuniao.html &quot; rel=&quot;nofollow&quot;&gt;em anexo&lt;/a&gt;.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/ReuniaoIrcMomentosFuturos#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/criatividade">criatividade</category>
+ <category domain="http://rede.metareciclagem.org/assunto/economia-colaborativa">economia colaborativa</category>
+ <category domain="http://rede.metareciclagem.org/assunto/futuro">futuro</category>
+ <category domain="http://rede.metareciclagem.org/assunto/governo">governo</category>
+ <category domain="http://rede.metareciclagem.org/assunto/inova%C3%A7%C3%A3o">inovação</category>
+ <category domain="http://rede.metareciclagem.org/assunto/irc">irc</category>
+ <category domain="http://rede.metareciclagem.org/assunto/reuni%C3%A3o">reunião</category>
+ <category domain="http://rede.metareciclagem.org/assunto/tecnologia">tecnologia</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/20110201_irc_reuniao.html" length="127459" type="text/html" />
+ <pubDate>Wed, 02 Feb 2011 00:40:18 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2001 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

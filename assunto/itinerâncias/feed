@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - itinerâncias</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/255/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Começando com o n800</title>
+ <link>http://rede.metareciclagem.org/wiki/Come%C3%A7ando-com-o-n800</link>
+ <description>&lt;p&gt;Recebendo e come&amp;ccedil;ando a usar o nokia n800.&lt;/p&gt;
+&lt;p&gt;&lt;img width=&quot;500&quot; height=&quot;375&quot; alt=&quot;&quot; src=&quot;/midia/u2/aberta.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img width=&quot;500&quot; height=&quot;413&quot; alt=&quot;&quot; src=&quot;/midia/u2/fechada.jpg&quot; /&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/Come%C3%A7ando-com-o-n800&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/wiki/Come%C3%A7ando-com-o-n800#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/itiner%C3%A2ncias">itinerâncias</category>
+ <category domain="http://rede.metareciclagem.org/assunto/maemo">maemo</category>
+ <category domain="http://rede.metareciclagem.org/tags/mobile">mobile</category>
+ <category domain="http://rede.metareciclagem.org/assunto/n800">n800</category>
+ <category domain="http://rede.metareciclagem.org/tags/software-livre">software livre</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Itiner%C3%A2ncias" xmlns="http://drupal.org/project/og">Itinerâncias</group>
+ <pubDate>Thu, 07 May 2009 20:45:37 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1594 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Alix3d3</title>
+ <link>http://rede.metareciclagem.org/wiki/Alix3d3</link>
+ <description>&lt;p&gt;Realizando testes com a &lt;a href=&quot;http://pcengines.ch/alix3d3.htm&quot; rel=&quot;nofollow&quot;&gt;Alixd3d&lt;/a&gt;. &amp;Eacute;&amp;nbsp;um &amp;quot;sistema em um chip&amp;quot; (SOC), com processador AMD&amp;nbsp;Geode de 500Mhz, 256Mb de RAM, portas VGA, 2xUSB, serial, rede e &amp;aacute;udio integradas. Ela roda com corrente cont&amp;iacute;nua de 7.5V a 20V.&lt;/p&gt;
+&lt;h1&gt;1. Recebendo o pacote&lt;/h1&gt;
+&lt;p&gt;&lt;img alt=&quot;pacote&quot; src=&quot;http://farm4.static.flickr.com/3339/3472420464_03b6462d06.jpg?v=0&quot; /&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/Alix3d3&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Alix3d3#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/embedded">embedded</category>
+ <category domain="http://rede.metareciclagem.org/assunto/itiner%C3%A2ncias">itinerâncias</category>
+ <category domain="http://rede.metareciclagem.org/tags/mobile">mobile</category>
+ <category domain="http://rede.metareciclagem.org/assunto/oraculismo">oraculismo</category>
+ <category domain="http://rede.metareciclagem.org/tags/software-livre">software livre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/zasf">zasf</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/ZASF" xmlns="http://drupal.org/project/og">ZASF</group>
+ <group domain="http://rede.metareciclagem.org/conectaz/Itiner%C3%A2ncias" xmlns="http://drupal.org/project/og">Itinerâncias</group>
+ <group domain="http://rede.metareciclagem.org/conectaz/Rede-Mexe" xmlns="http://drupal.org/project/og">Rede Mexe</group>
+ <pubDate>Sat, 25 Apr 2009 01:05:57 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1583 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Rodando o Maemo 2007 HE no tablet 770</title>
+ <link>http://rede.metareciclagem.org/blog/21-04-09/Rodando-o-Maemo-2007-HE-no-tablet-770</link>
+ <description>&lt;p&gt;EStou brincando com poss&amp;iacute;veis dispositivos para controlar a interface do sistema do &lt;a href=&quot;/wiki/MetaMovel&quot; rel=&quot;nofollow&quot;&gt;metam&amp;oacute;vel&lt;/a&gt;. H&amp;aacute; uns anos eu tive um tablet 770 da nokia, que roda o &lt;a href=&quot;http://maemo.org&quot; rel=&quot;nofollow&quot;&gt;maemo&lt;/a&gt;, um OS&amp;nbsp;livre baseado no debian. Na &amp;eacute;poca vendi pro Dalton, mas ele me emprestou de volta agora (bom neg&amp;oacute;cio, n&amp;eacute;n&amp;atilde;o? ;). O sistema operacional que eu rodava na &amp;eacute;poca t&amp;aacute; uma zona, ent&amp;atilde;o comecei por a&amp;iacute;. Relato mais completo no &lt;a href=&quot;/wiki/MaemoOS2007HE&quot; rel=&quot;nofollow&quot;&gt;wiki&lt;/a&gt;.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/21-04-09/Rodando-o-Maemo-2007-HE-no-tablet-770#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/770">770</category>
+ <category domain="http://rede.metareciclagem.org/assunto/itiner%C3%A2ncias">itinerâncias</category>
+ <category domain="http://rede.metareciclagem.org/assunto/maemo">maemo</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metamovel">metamovel</category>
+ <category domain="http://rede.metareciclagem.org/tags/mobile">mobile</category>
+ <category domain="http://rede.metareciclagem.org/assunto/tablet">tablet</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Itiner%C3%A2ncias" xmlns="http://drupal.org/project/og">Itinerâncias</group>
+ <pubDate>Tue, 21 Apr 2009 00:52:15 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1579 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>M3</title>
+ <link>http://rede.metareciclagem.org/blog/17-04-09/M3</link>
+ <description>&lt;p&gt;Ressuscitando por aqui o projeto do &lt;a href=&quot;http://rede.metareciclagem.org/wiki/MetaMovel&quot; rel=&quot;nofollow&quot;&gt;metam&amp;oacute;vel&lt;/a&gt;. Interessadxs, colem na conectaz &lt;a href=&quot;http://rede.metareciclagem.org/conectaz/Itiner%C3%A2ncias&quot; rel=&quot;nofollow&quot;&gt;Itiner&amp;acirc;ncias&lt;/a&gt;.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/17-04-09/M3#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/itiner%C3%A2ncias">itinerâncias</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metamovel">metamovel</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Itiner%C3%A2ncias" xmlns="http://drupal.org/project/og">Itinerâncias</group>
+ <pubDate>Fri, 17 Apr 2009 01:02:34 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1571 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Itinerâncias</title>
+ <link>http://rede.metareciclagem.org/conectaz/Itiner%C3%A2ncias</link>
+ <description>&lt;div class=&quot;form-item&quot;&gt;
+ &lt;label&gt;Descrição: &lt;/label&gt;
+ Pesquisa e ações relacionadas mobilidade, transporte e portabilidade
+&lt;/div&gt;
+&lt;p&gt;Itiner&amp;acirc;ncias &amp;eacute; uma pesquisa continuada sobre mobiidade, transporte, a&amp;ccedil;&amp;atilde;o social, est&amp;eacute;tica e tecnologia.&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-situacao-conectaz&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Situação desta ConecTAZ:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    em planejamento        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/conectaz/Itiner%C3%A2ncias#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/itiner%C3%A2ncias">itinerâncias</category>
+ <pubDate>Tue, 26 Aug 2008 18:31:35 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1407 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>MetaMovel</title>
+ <link>http://rede.metareciclagem.org/wiki/MetaMovel</link>
+ <description>&lt;p&gt;Metam&amp;oacute;vel (ou &lt;em&gt;mmm, 3m, m3 - metam&amp;iacute;diam&amp;oacute;vel, metamadmax&lt;/em&gt;) vai ser uma m&amp;aacute;quina livre para transporte e informa&amp;ccedil;&amp;atilde;o.&lt;/p&gt;
+&lt;p&gt;Muitos links aqui:&amp;nbsp;&lt;a href=&quot;http://metareciclagem.ourproject.org/link/tags.php/metamovel&quot; rel=&quot;nofollow&quot;&gt;http://metareciclagem.ourproject.org/link/tags.php/metamovel&lt;/a&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/MetaMovel&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/MetaMovel#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/itiner%C3%A2ncias">itinerâncias</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metamovel">metamovel</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Itiner%C3%A2ncias" xmlns="http://drupal.org/project/og">Itinerâncias</group>
+ <pubDate>Fri, 20 Jun 2008 13:44:35 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1348 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>EstradaDigital</title>
+ <link>http://rede.metareciclagem.org/wiki/EstradaDigital</link>
+ <description>&lt;p&gt;&lt;em&gt;Mais um rascunho de Eduardo Mota:&lt;/em&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/EstradaDigital&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/EstradaDigital#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/itiner%C3%A2ncias">itinerâncias</category>
+ <category domain="http://rede.metareciclagem.org/assunto/pesquisa">pesquisa</category>
+ <pubDate>Tue, 17 Jun 2008 19:26:53 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1296 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>CarroDigital</title>
+ <link>http://rede.metareciclagem.org/wiki/CarroDigital</link>
+ <description>&lt;p&gt;&lt;a href=&quot;/wiki/Pesquisa&quot; title=&quot;&quot; class=&quot;freelink freelink-nodetitle freelink-internal&quot; rel=&quot;nofollow&quot;&gt;Pesquisa&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;nota do efeefe: essa p&amp;aacute;gina foi criada pelo Eduardo Mota, mas acho que ele n&amp;atilde;o t&amp;aacute; cadastrado nesse site&lt;br type=&quot;_moz&quot; /&gt;&lt;/em&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/CarroDigital&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/CarroDigital#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/itiner%C3%A2ncias">itinerâncias</category>
+ <pubDate>Mon, 16 Jun 2008 23:40:46 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1269 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

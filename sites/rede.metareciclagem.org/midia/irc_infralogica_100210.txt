@@ -1,0 +1,295 @@
+Conversation with #metareciclagem at Qua 10 Fev 2010 14:21:31 BRST on efeefe@irc.freenode.org (irc)
+(14:21:46) efeefe: alou
+(14:21:51) fescur: oie
+(14:21:58) efeefe: desculpa o atraso
+(14:22:30) fescur: tranquilo
+(14:23:26) efeefe: to publicando o log da reuniao de ontem
+(14:23:33) fescur: certo
+(14:29:45) efeefe: entonces
+(14:30:03) efeefe: vamo comecar por onde?
+(14:30:58) fescur: acho que pelos passos, o que fazer na tela, os widgets
+(14:31:28) efeefe: widgets
+(14:31:40) efeefe: definir alguns de exemplo
+(14:32:06) fescur: sim, acho que aqueles do log j? t? bom
+(14:32:21) fescur: porque ir?o surgir outros, o neg?cio ? mostrar a id?ia mesmo
+(14:32:31) fescur: tamb?m peguei algumas dicas que foram falando no meio
+(14:32:40) efeefe: legal
+(14:32:43) fescur: tipo colocar os numeros no proprio sub menu
+(14:33:24) fescur: acho que posso ir fazendo essa tela, dai partir para um exemplo de outra
+(14:33:27) fescur: esporo
+(14:33:48) efeefe: legal
+(14:33:57) efeefe: ou alguma de listagem de teasers
+(14:34:04) efeefe: acho que esporo na real eh bem parecida com essa
+(14:34:08) fescur: e quanto a visu?
+(14:34:10) efeefe: acho que a gente podia partir pra alguma diferente
+(14:34:12) fescur: (sim, acho que ?)
+(14:34:15) efeefe: oh, publiquei aqui
+(14:34:15) efeefe: http://rede.metareciclagem.org/evento/Encontro-IRC-Interface-Infralógica-Dashboard
+(14:34:18) fescur: talvez a gente pode fazer a propria home ent?o
+(14:34:26) efeefe: talvez
+(14:34:43) fescur: ou tu acha muito cedo?
+(14:35:22) efeefe: acho que a gente podia trabalhar nas mais simples primeiro ;)
+(14:35:37) efeefe: mas isso tambem eh legal de decidir agora
+(14:35:42) efeefe: quais telas a gente precisa desenhar
+(14:36:55) efeefe: acho que dashboard, grupo (esporo ou conectaz), listagem corrida (blog, agregador, ultimas alteracoes de wiki, etc), perfil de usuario, pagina individual de conteudo (wiki, blog, etc - com comentarios)
+(14:37:10) efeefe: e a pagina inicial
+(14:37:16) fescur: esses seriam os templates principais mesmo
+(14:37:26) efeefe: me liguei tambem que a gente precisa prever espaco pros logos do minc
+(14:37:35) fescur: ah, isso ? bom avisar
+(14:37:59) efeefe: eh, recebi isso do ike. vou te mandar.
+(14:38:20) fescur: (esse log nosso tb salva e me manda)
+(14:38:40) fescur: acho que podemos deixar por agora essas p?ginas, mas vamos ver a ordem ent?o
+(14:38:50) efeefe: sim, mando outra ata no site e te mando o link
+(14:39:16) efeefe: acho que listagem corrida e pagina individual de conteudo seriam as proximas
+(14:39:29) efeefe: mas antes a gente podia dar uma refinada nos links em cada lance
+(14:39:50) fescur: acho que isso, essa p?gina que eu fiz tem que ser mais refinada principalmente em conteudo
+(14:39:58) fescur: mas os widgets j? ajudam
+(14:40:52) efeefe: sim
+(14:41:10) fescur: entao, tem que figurar logo do minc?
+(14:41:21) fescur: coisa de rodape, ou tem que ser mais visivel?
+(14:41:22) fescur: ah!
+(14:41:24) fescur: importante.
+(14:41:37) fescur: o design, vamos fazer liquido, como foi discutido ontem?
+(14:41:40) efeefe: nao sei
+(14:42:05) fescur: isso ? importante, seria legal decidir agora
+(14:42:10) efeefe: nao vejo muita vantagem em ocupar 1300px de largura
+(14:42:19) fescur: o lance ? que cabe mais "caixas"
+(14:42:23) fescur: mas por exemplo,
+(14:42:26) fescur: o lastfm era liquido
+(14:42:30) fescur: e agora n?o ? mais
+(14:42:34) fescur: talvez tivesse algum rolo
+(14:42:40) fescur: como o wundo falou, ? mais complicado
+(14:43:14) efeefe: te mandei o email sobre padroao de identidade
+(14:43:20) fescur: ok
+(14:43:26) efeefe: cabe mais caixas, mas nem sei
+(14:43:52) fescur: ah, entendi, tem que aparecer o logo
+(14:43:55) efeefe: eu to meio acostumado com esse padrao de quase 1000px
+(14:44:03) fescur: ali?s, Ike n?o me perguntou nada de dados de nota
+(14:44:06) efeefe: tem que aparecer, mas pode ser tudo embaixo
+(14:44:13) efeefe: ele nao te mandou os dados pra nota?
+(14:44:25) fescur: eu tb sou tranquila com isso, mas s? estou botando na roda porque o pessoal levantou a quest?o
+(14:44:31) fescur: eu prefiro fixo, ? menos problema...
+(14:44:33) efeefe: mandei pra um monte de gente o email, tavlvez ele esteja esquecendo algum
+(14:44:39) fescur: mas sei l?, n?o ? impossivel
+(14:44:50) fescur: n?o, ele n?o mandou nenhum email pra mim
+(14:44:50) efeefe: vamo colocar a questao na lista?
+(14:45:02) fescur: por mim, tudo bem
+(14:45:23) fescur: eu n?o sou bato p?, acho que ? uma quest?o de escolha pura e simples
+(14:45:41) fescur: n?o entendi o que a yaso quis dizer ontem com "nao separo layout de interface"
+(14:45:46) fescur: tu entendeu?
+(14:45:47) efeefe: tambem nao
+(14:46:29) efeefe: entao, quero dar uma olhada nos menus
+(14:46:37) fescur: hum, fale
+(14:46:46) efeefe: acho que o rodape pode tirar o menu e por soh os logos 
+(14:47:00) fescur: hum.......
+(14:47:07) efeefe: que achas?
+(14:47:21) fescur: eu queria fazer aquele neg?cio de "o footer ? o novo header"
+(14:47:30) fescur: saca? um footer com infos pertinentes
+(14:47:36) fescur: e uma delas, ? a navega??o do site.
+(14:47:43) fescur: quest?o de como se navega num site
+(14:47:46) fescur: eu expliquei ontem
+(14:47:48) efeefe: saquei
+(14:47:50) fescur: numa p?gina muito longa
+(14:47:53) efeefe: mas e os logos?
+(14:48:01) efeefe: (na real os logos podem aparecer soh na home tambem)
+(14:48:06) fescur: se houver informa??o la embaixo, n?o preciso scrollear pra cima
+(14:48:15) efeefe: sim, faz sentido
+(14:48:21) fescur: os logos podem ficar la sempre, vai ser um include
+(14:48:23) efeefe: tem paginas que sao longas mesmo
+(14:48:35) efeefe: mas te digo que eu nao costumo usar muito menus lah embaixo
+(14:48:39) efeefe: aperto o home do teclado e jah era
+(14:48:39) fescur: exato, pra isso servem os footers
+(14:48:46) fescur: mas tu n?o ? todo mundo
+(14:48:57) fescur: temos que fazer os site o mais confortavel para todos os tipos de usuarios
+(14:49:04) fescur: obvio que vai ter coisa que neguim nunca vai usar.
+(14:49:10) fescur: mas tem gente que vai
+(14:49:32) fescur: n?o posso fazer um site pensando em como a fernanda gosta de navegar apenas
+(14:49:51) fescur: ent?o tem certas coisas que eu gosto de fazer, que j? s?o meio padr?o...
+(14:49:57) efeefe: ok, me convenceu por enquanto ;)
+(14:50:14) fescur: d? uma olhada no site que fiz aqui
+(14:50:15) fescur: http://www.cartolaconteudo.com.br/
+(14:50:17) fescur: veja o footer
+(14:50:21) fescur: ai, o site t? curto
+(14:50:25) fescur: mas eles tem materias longas
+(14:50:43) fescur: o footer tem informa??o pertinente, e o usuario n?o precisa subir, clica dali
+(14:50:56) fescur: eu sou a favor do footer, ele s? agrega e n?o faz mal
+(14:51:11) efeefe: legal o footer
+(14:51:44) efeefe: roquenrou
+(14:51:54) efeefe: mas nao necessariamente precisa ser igual
+(14:51:58) efeefe: gostei da solucao ali
+(14:53:10) fescur: sim, n?o vai ser igual
+(14:53:18) fescur: mas eu quis mostrar a fun??o dele
+(14:53:31) fescur: eu sou a favor de repetir o menu, na verdade essa era a quest?o
+(14:53:38) efeefe: ok
+(14:54:07) fescur: t?, defendido o footer, vamos adiante
+(14:54:13) fescur: menus, o que tu queria ver?
+(14:54:55) efeefe: os linques
+(14:55:05) efeefe: alias
+(14:55:12) efeefe: nos widgets, tu acha que precisa um "editar" em cada um?
+(14:55:33) efeefe: ou na real a gente deixa soh um link "configurar dashboard" ali no menu amarelo e pronto?
+(14:55:37) fescur: acho que nao
+(14:55:53) fescur: acho que resolve, porque na verdade nao vai ter muito que editar
+(14:56:51) efeefe: acho que na pagina de deashboard, os links no amarelo seriam outros
+(14:56:59) efeefe: configurar painel
+(14:57:09) fescur: tu jah viu no netvibes, o que aparece quando o cara clica no edit do box?
+(14:57:15) efeefe: nao lembro
+(14:57:20) efeefe: acho que cada box eh diferente, nao?
+(14:57:26) fescur: ele pode escolher quantas atualizacoes ele quer ver,por exemplo
+(14:57:47) fescur: escolhe se quer listinha, ou mais detalhes
+(14:57:47) efeefe: saquei
+(14:57:49) fescur: essas coisas
+(14:57:56) fescur: a forma de visualizar a informacao
+(14:58:01) efeefe: mas isso pode ser na pagina de config um dropdown do lado de cada widget
+(14:58:06) fescur: mas podemos deixar de fora e adicionar depois
+(14:58:09) fescur: mas e isso
+(14:58:11) fescur: justamente
+(14:58:16) fescur: tem um "editar"
+(14:58:28) fescur: e quando clica, abre um dropdown
+(14:58:39) fescur: o usuario nao precisa ir pra uma pagina de config, ja faz ali
+(14:58:42) fescur: so isso
+(14:58:57) efeefe: saquei
+(14:59:04) efeefe: bom, pode ser tambem
+(14:59:27) fescur: mas isso tb e detalhe. podemos deixar de fora, pra iniciar simples
+(14:59:42) efeefe: legal
+(14:59:49) efeefe: nao sei que outros links vao ali em cima, na real
+(14:59:57) fescur: em cima onde?
+(15:00:05) fescur: na caixa de login?
+(15:00:24) efeefe: tambem nao ;)
+(15:00:28) efeefe: mas tava falando do menu amarelinho
+(15:01:01) fescur: ah sim
+(15:01:06) efeefe: acho que a caixa de login pode ter links pro dashboard, perfil e sair
+(15:01:25) efeefe: acho que tem mais uma coisa importante, que eh configuracao de subscriptions
+(15:01:31) efeefe: que tipo de informacao o cabra recebe por email
+(15:01:34) fescur: ok. achei que ali o usuario podia escolher la no perfil dele o quer ele ia querer ali
+(15:01:38) efeefe: mas isso pode ser dentro de editar perfil
+(15:01:49) fescur: isso imagino que ficaria em configuracoes do perfil, nao?
+(15:01:55) efeefe: sim, tem a ver
+(15:01:56) fescur: ou da conta, sei la como chamaremos
+(15:02:37) efeefe: nao sei se me encanta isso do usuario escolher os links desse menuzim
+(15:02:47) efeefe: acho que podiam ser os links de relacao dele com o site
+(15:02:59) efeefe: perfil, dashboard, sua conta, sair
+(15:03:11) efeefe: acho que perfil leva o cara pro perfil dele
+(15:03:16) fescur: ok entao
+(15:03:21) efeefe: sua conta leva pra configuracoes da conta
+(15:03:24) efeefe: minha conta
+(15:03:25) efeefe: sua conta
+(15:03:26) efeefe: conta
+(15:03:27) efeefe: sei lah
+(15:03:30) efeefe: eh diferente do perfil
+(15:03:33) fescur: configuracoes
+(15:03:33) efeefe: perfil eh a face publica
+(15:03:39) efeefe: configuracoes, pode ser
+(15:04:10) fescur: hum, o facebook tem "conta" e dai  um submenu ali
+(15:04:20) fescur: config da conta, config de privacidade, etc
+(15:04:28) efeefe: a gente nao tem tantas configs assim
+(15:04:38) efeefe: configuracoes acho que resolve
+(15:04:42) fescur: entao vamos deixar so config por enquanto
+(15:05:07) efeefe: ok
+(15:05:26) efeefe: entao ali em cima: dashboard (tem nome melhor em portugues?), perfil, configs, sair
+(15:05:34) efeefe: nao sei se esse sair nao fica perdido ali
+(15:05:40) efeefe: melhor um icone com X?
+(15:05:41) fescur: putz, painel de controle....
+(15:05:58) fescur: o "X" pra mim ? fechar, e n?o logout...
+(15:06:22) efeefe: nao eh de controle, neh
+(15:06:24) efeefe: eh de acesso
+(15:06:25) efeefe: atalhos
+(15:06:28) efeefe: painel, talvez
+(15:06:29) efeefe: sem controle
+(15:06:32) efeefe: painel sem controle
+(15:06:41) fescur: painel caotico
+(15:06:51) fescur: painel entao
+(15:07:05) fescur: "meu painel"? ;-P
+(15:07:20) fescur: nao, ne
+(15:08:00) efeefe: painel, perfil, conta, sair
+(15:08:06) fescur: ok
+(15:10:10) fescur: que mais?
+(15:10:45) efeefe: deixa ver
+(15:11:09) efeefe: pensando no que mais precisa ter ali
+(15:11:19) efeefe: o menu da esquerda acho que tah ok
+(15:11:28) efeefe: mas acho que a proxima tela podia ser a de perfil de cada usuarix
+(15:11:38) efeefe: pra ter continuidade
+(15:11:53) efeefe: agora ali no meio
+(15:12:26) efeefe: se eu to no meu proprio dashboard, serah que preciso ver meu nome, foto, link, etc?
+(15:12:38) efeefe: e o "voce tem" na real podia ser mais um widget, neh?
+(15:13:04) efeefe: acho que a foto, etc. sao necessarixs na pagina de perfil, mas nao no dashboard
+(15:14:06) fescur: boa
+(15:14:19) fescur: aquele "vc tem" a yaso deu a ideia de tirar,
+(15:14:26) fescur: e colocarmos no sub-menu o numero
+(15:14:29) fescur: achei interessante
+(15:14:43) fescur: contribuicoes (6), esporos (3), etc
+(15:15:22) efeefe: to ligado, mas serah que esse numero eh relevante pro proprio usuario?
+(15:15:34) efeefe: acho legal ver que o dalton tem X posts, mas eu mesmo?
+(15:15:41) efeefe: tambem acho mais importante no perfil do que no dashboard
+(15:16:00) fescur: eu acho...estatisticas da tua participacao, sei la...
+(15:16:09) efeefe: o que acho que pode ser interessante eh quando um post que eu mandei recebeu X comentarios, ou uma pagina de wiki que eu editei foi editada mais Y vezes depois de mim
+(15:16:12) efeefe: manja?
+(15:16:15) efeefe: que aih sao novidades e tal
+(15:16:26) fescur: mas ai isso estaria nos widgets
+(15:16:38) efeefe: sim, tambem
+(15:17:01) efeefe: mas entao
+(15:17:06) efeefe: o que fica desse menu no topo da area de conteudo?
+(15:17:14) fescur: dai nada
+(15:17:18) efeefe: talvez uma explicacao simples do que eh o dashboard?
+(15:17:30) efeefe: porque tambem tem isso, nao sei ateh que ponto a foto e link sao uteis ali
+(15:17:32) fescur: mas uma vez que tu sabe o que eh o dashboard, depois nao precisa mais, ne
+(15:17:39) fescur: (acho que nao tb)
+(15:17:43) efeefe: pois eh
+(15:17:47) fescur: essa pagina ta mais pra perfil que pra painel
+(15:17:51) efeefe: heheh
+(15:17:53) efeefe: tah misturado
+(15:17:56) fescur: isso
+(15:18:02) fescur: eu falei que precisava de insights
+(15:18:09) fescur: ;-P
+(15:18:10) efeefe: por isso acho que a gente pensa no perfil em seguida, pra esclarecer essas misturas
+(15:18:15) efeefe: sim, tamo conversando
+(15:18:19) fescur: acho uma boa ideia
+(15:18:42) efeefe: aih acho que o dashboard pode ter soh os widgets, e um link pra configura-los
+(15:18:52) fescur: entao ficamos assim: vou fazer a pagina de perfil, ajustar a de painel com os widgets, dai a gente discute as duas
+(15:19:24) fescur: com as alteracoes que a gente ja discutiu por aqui
+(15:19:27) efeefe: ok
+(15:20:13) fescur: acho que estarei ai na primeira semana de marco, ja falei isso ne?
+(15:20:20) efeefe: sim
+(15:20:23) efeefe: aqui em ubatuba?
+(15:20:23) efeefe: ;)
+(15:20:23) fescur: to com um pe atras com essa pesquisa
+(15:20:26) fescur: hahaha
+(15:20:32) fescur: em sao paulo, em sao paulo
+(15:20:46) efeefe: saquei
+(15:20:54) efeefe: se eu estiver lah a gente senta
+(15:20:54) fescur: nada ta andando, e o tempo ta curtissimo pro campo jah
+(15:21:02) efeefe: eh fogo
+(15:21:15) fescur: sim, ja aviso se der o azar de estares la, fazemos uma reuniao
+(15:21:15) efeefe: mas se quiser fugir e vir pra uba, be our guest
+(15:21:18) efeefe: o wundo vem pra cah hoje
+(15:21:20) efeefe: ;)
+(15:21:26) fescur: bah, mas sem tempo...
+(15:21:36) fescur: de repente extendo um final de semana
+(15:21:49) fescur: extendo? e com x??
+(15:21:52) fescur: bah...
+(15:21:54) efeefe: nao sendo feriado eh tranquilo
+(15:21:56) efeefe: acho que com s
+(15:21:56) efeefe: ;)
+(15:22:13) fescur: sim, nao vou prai em feriados. mas a gente combina dai
+(15:22:16) efeefe: quando viajas?
+(15:22:24) efeefe: pro carna, digo
+(15:22:24) fescur: sabado de madrugada
+(15:22:35) efeefe: bele
+(15:22:40) efeefe: ainda conversamos essa semana?
+(15:22:48) efeefe: era legal a gente tentar fechar dashboard + perfil
+(15:22:50) efeefe: se puderes
+(15:22:52) fescur: pode ser, na sexta?
+(15:23:00) efeefe: legal
+(15:23:03) fescur: sim, vou tentar
+(15:23:10) fescur: vamos marcar sexta no final do dia, pode ser?
+(15:23:15) efeefe: pode
+(15:23:15) fescur: assim tenho quinta e sexta
+(15:23:17) efeefe: que horas?
+(15:23:23) fescur: e a gente discute sobre o que for feito
+(15:23:27) fescur: que horas fica melhor?
+(15:23:36) efeefe: tu que sabe
+(15:23:52) fescur: umas 17, 18?
+(15:24:42) efeefe: 17, pode ser
+(15:24:55) efeefe: hoje eu mando esse log aqui no site, aviso na lista, etc.
+(15:25:05) fescur: certo, combinado entao
+(15:25:09) efeefe: roquenrou
+(15:25:10) efeefe: valeu

@@ -1,0 +1,337 @@
+Conversation with #metareciclagem at Qui 27 Ago 2009 16:14:05 BRT on efeefe@irc.freenode.org (irc)
+(16:14:37) efeefe: alous
+(16:14:51) tatirp: oi
+(16:14:58) scur: oi
+(16:15:46) wundo_ [n=wundo@drupal.org/user/25523/view] entrou na sala.
+(16:16:02) wundo_: agora sim
+(16:16:04) wundo_: :P
+(16:16:07) efeefe: wunderbvar
+(16:16:19) efeefe: perai que venho em dois minutos
+(16:16:24) wundo_: por que tem dois eu aqui?
+(16:16:25) VJ_VARGA: oieee
+(16:16:26) efeefe: vou ali trazer os caes de volta
+(16:16:26) wundo saiu da sala (quit: Read error: 104 (Connection reset by peer)).
+(16:16:27) wundo_ mudou o seu nome para wundo
+(16:16:31) efeefe: wundo: crise de identidade
+(16:16:32) efeefe: duplicidade
+(16:16:33) wundo: ahh bom
+(16:16:36) wundo: :P
+(16:16:52) wundo: eu quase esqueci da reuniao
+(16:17:01) VJ_VARGA: hahahaha
+(16:17:09) wundo: fiquei no canal on até as 4:08
+(16:17:11) wundo: hehehehe
+(16:17:19) wundo: ai eu vi que tava sem iogurte
+(16:17:23) wundo: e tava saidno pra comprar
+(16:17:28) wundo: já tava no carro quando eu lembrei
+(16:17:43) tatirp: o bom é q vc lembrou
+(16:17:56) wundo: o ruim é que eu lembrei antes de comprar iogurte :(
+(16:17:59) VJ_VARGA: wundo depois eu queria tirar uma duvidas c/ vc sobre o drupal
+(16:18:03) tatirp: rsrsrs
+(16:18:22) wundo: só tem Guaraná e Soda Guaraná e Café aqui
+(16:18:27) VJ_VARGA: tem como mudar o criar conta por cadastre-se?
+(16:18:28) wundo: a geladeira tá vazia vazia
+(16:18:37) wundo: VJ_VARGA: tem sim
+(16:18:45) VJ_VARGA: e colocar mais campos no formulario de criar conta?
+(16:18:59) efeefe: VJ_VARGA: por que mais campos?
+(16:19:01) VJ_VARGA: como faz?
+(16:19:29) efeefe: VJ_VARGA: por que?
+(16:19:35) VJ_VARGA: ? que o cliente queria que al?m do e-mail e nome de usuarioa tive telefone e endere?o
+(16:19:45) efeefe: alias VJ_VARGA, tu que colocou o campo de busca?
+(16:19:46) VJ_VARGA: isso ? uma duvida pessoal
+(16:19:48) efeefe: nao usa acento
+(16:20:07) VJ_VARGA: sempre esqueco do acento
+(16:20:15) efeefe: acho que eh em admin/user/profile
+(16:20:19) VJ_VARGA: n?o fui eu nao
+(16:20:23) efeefe: cria novos campos e pede pra ele ser obrigatorio
+(16:20:32) VJ_VARGA: blz
+(16:20:34) efeefe: eles, obrigatoris
+(16:20:36) efeefe: ok
+(16:20:46) efeefe: padua nao tah online
+(16:20:47) efeefe: nem uira
+(16:20:55) efeefe: comecamos nos mesmo?
+(16:21:01) tatirp: padua disse que vinha...
+(16:21:21) tatirp: vamos comecando
+(16:21:36) efeefe: perguntei pro duende se o padua tah perto dele
+(16:21:36) wundo: VJ_VARGA: dá pra colocar mais campos sim
+(16:24:11) scur: eu to aqui esperando os feedbacks de vcs
+(16:24:32) wundo: scur: feedback de que?
+(16:25:10) efeefe: eita porra
+(16:25:19) scur: ue
+(16:25:27) scur: do documento que eu mandei no inicio da semana...
+(16:25:32) tatirp: da lista que a fe mandou
+(16:26:41) wundo: scur: é fer?
+(16:27:01) efeefe: http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/090824-specs.odt
+(16:27:05) VJ_VARGA: scur eh a pimentinha =p
+(16:27:34) efeefe: eu tenho algumas observacoes e detalhamentos a propor no lance de agregacao
+(16:27:34) scur: :-) eu mesma
+(16:27:45) scur: borala
+(16:27:45) efeefe: de resto, queria conseguir visualizar mais as estruturas
+(16:27:53) scur: certo
+(16:28:08) efeefe: o organograma tah legal, mas imagino ele mais organico...grama
+(16:28:09) efeefe: ruim essa
+(16:28:12) scur: mas voces entenderam que eu botei la TUDO que a gente ja falou ate agora?
+(16:28:18) efeefe: sim, entendi
+(16:28:31) tatirp: sim
+(16:28:37) scur: eh, aquele organograma de organograma nao tem nada
+(16:29:04) efeefe: tem sim
+(16:29:12) scur: wundo, o que tu achou das specs?
+(16:29:31) efeefe: mas na real em ultima instancia se o site der certo a gente precisa tratar de um organograma em termos mais gerais
+(16:29:41) efeefe: ou que na real se limite as ferramentas
+(16:29:46) efeefe: porque idealmente o conteudo eh caotico
+(16:29:58) scur: exatamente e esse o meu problema
+(16:30:07) scur: pra fazer a AI do site ;-)
+(16:30:13) efeefe: e aih vira o conto do borges lah, que os caras queriam mapear o mundo e se deram conta que o unico mapa representativo do mundo eh o proprio mundo
+(16:30:23) tatirp: fer, e como a gente pode ajudar?
+(16:30:25) efeefe: acho que pra AI, podes te concentrar no site como ferramenta
+(16:30:27) efeefe: manja?
+(16:30:28) efeefe: sf.net
+(16:30:35) efeefe: ferramenta de gestao de projetos
+(16:30:45) efeefe: e se pans friendfeed
+(16:30:49) efeefe: (dois benchmarks)
+(16:30:55) scur: hum, ok
+(16:31:09) efeefe: faz sentido isso?
+(16:31:27) scur: faz sim
+(16:31:29) efeefe: wundo: viu o doc da fer?
+(16:31:31) wundo: scur: curti
+(16:31:33) wundo: efeefe: vi
+(16:31:42) wundo: a questao é que eu nao sabia que a fer era a scur
+(16:31:47) efeefe: num plano ideal, o wiki nao precisa de ai na interface
+(16:31:56) scur: esse e o proximo passo, visualizar as estruturas, se todos estiverem de acordo com as specs
+(16:32:03) VJ_VARGA: ficou da hora o arquivo da fer
+(16:32:11) scur: sim, no momento eu deixei wiki e blog de fora
+(16:32:30) scur: valeu, VJ_VARGA
+(16:32:48) scur: quero concentrar no perfil, nos grupos e nesses cruzamentos de informacoes
+(16:32:50) efeefe: eu to de acordo, soh vou querer aprofundar mais o lance de tratamento de material agregado
+(16:32:55) efeefe: como coloquei lah
+(16:33:05) efeefe: 2) Usuárix lista no seu perfil pessoal tags com as quais se identifica (se quiser também pode ver uma tagcloud só com as tags pessoais de todo mundo). A partir das tags do próprio perfil (ou da tagcloud de tags pessoais, ou das tags de qualquer outro perfil) começa a navegar em perfis pessoais através das tags. Em cada perfil pessoal, pode ver uma listagem de tudo que aquela pessoa mandou no site ou na lista.
+(16:33:12) wundo: uma coisa que veio na minha cabeça
+(16:33:13) efeefe: (desculpem pelo tamanho)
+(16:33:24) scur: eu vi isso efeefe
+(16:33:34) scur: isso de certa forma jah esta no doc que eu fiz
+(16:33:39) wundo: atualmente o efeefe manda um salve pra lista quando tem esporo novo que ele aprovou no site.
+(16:33:42) wundo: por que o site nao manda pra lista?
+(16:33:49) wundo: mais do que isso
+(16:33:51) efeefe: wundo: o lance era ter uma mediacao de alguem
+(16:33:53) wundo: por que o site não me manda um email falando
+(16:33:56) efeefe: mas acho que faz sentido mandar pra lista
+(16:34:07) wundo: wundo surgiu um esporo a 10 km da sua casa.
+(16:34:13) wundo: efeefe: ué, coloca moderação
+(16:34:20) wundo: e dpeois que um moderador aprovar
+(16:34:22) wundo: manda um email
+(16:34:22) efeefe: wundo: legal
+(16:34:28) scur: gostei
+(16:34:31) dpadua [i=bd090517@gateway/web/freenode/x-qxoukzoyxlzsdunn] entrou na sala.
+(16:34:41) dpadua: ei meu povão cocrante
+(16:34:48) wundo: dpadua: fala sapão
+(16:34:56) VJ_VARGA: chegou o nosso docinho de coco
+(16:34:58) VJ_VARGA: hehehehe
+(16:35:00) scur: e na real, volto a dizer, de certa forma isso ta lah no doc tb...o lance agora eh esse, ESPECIFICAR examente as SPECs
+(16:35:04) dpadua: heheheheheeh
+(16:35:07) scur: dpadua: oie
+(16:35:19) dpadua: olha só, gente, eu infelizmente não poderei ficar aqui..
+(16:35:21) wundo: scur: é que lá não tá tao explicito né?
+(16:35:25) dpadua: quero pedir mil desculpas
+(16:35:32) scur: wundo: nao
+(16:35:39) scur: mas me ajudem...
+(16:35:42) dpadua: estou matando todas as tretas do blog do planalto hoje, daí fudeu
+(16:35:47) tatirp: oi, dpadua
+(16:35:52) tatirp: tchau, dpadua
+(16:35:55) dpadua: efeefe, parabéns atrasado, seu narigudo
+(16:35:58) tatirp: ;)
+(16:36:01) dpadua: também te amo, tati
+(16:36:02) VJ_VARGA: hahahahaa
+(16:36:03) dpadua: hehehehe
+(16:36:05) scur: dpadua: tchau!
+(16:36:08) wundo: verdade verdade
+(16:36:09) dpadua: depois eu frago o papo docês
+(16:36:10) dpadua: beijos
+(16:36:11) dpadua: fui
+(16:36:12) wundo: PARABENS efeefe
+(16:36:24) dpadua saiu da sala (quit: Client Quit).
+(16:37:08) efeefe: valeus
+(16:37:10) efeefe: entao
+(16:37:15) efeefe: como a gente anda a partir de agora?
+(16:37:21) efeefe: wundo, noticias do lourenzo?
+(16:37:39) wundo: efeefe: tá a 5 metros de mim
+(16:37:48) wundo: correndo com um mte de coisa atrasada
+(16:37:55) wundo: antes da reuniao eu pedi pra ele
+(16:38:04) wundo: commitar a migração.
+(16:38:05) scur: eu vou evoluir nessas estruturas, anotei essas novas ideias e vou procurar visualizar isso mesmo tambem. alguem tem mais sugestao de spec alem dessas?
+(16:38:23) efeefe: wundo: traduz
+(16:38:40) wundo: eu pedi pra ele terminar as coisas e colocar no ar (git)
+(16:38:51) efeefe: scur: ok. mas que achas de aproveitar e alinhar esse comeco com a lista metareciclagem?
+(16:38:52) wundo: se ele ele nao fizer até amanhã
+(16:38:54) efeefe: posso ajudar com isso
+(16:38:55) wundo: eu corto o pipi dele.
+(16:39:11) efeefe: wundo: isso significa a migracao feita ou soh uma replicacao no github?
+(16:39:34) wundo: falta ele garantir que tá tudo estável
+(16:39:37) wundo: e colocar no github
+(16:39:40) wundo: nessa ordem
+(16:39:42) scur: efeefe: por mim, pode largar lah na lista
+(16:39:55) wundo: eu nem vi a migração ainda
+(16:44:03) scur: alou, estao ai?
+(16:44:07) VJ_VARGA: t? sim
+(16:44:10) wundo: estamos
+(16:44:18) scur: que silencio
+(16:44:40) wundo: fazendo um off
+(16:44:45) wundo: quando que vai ser o arrial mesmo?
+(16:44:54) scur: bom...entao...ficamos assim...
+(16:45:01) scur: dia 10/09
+(16:45:03) tatirp: wundo: 11 a 13 de setembro
+(16:45:08) scur: 11???
+(16:45:11) tatirp: galera chegando dia 10
+(16:45:28) wundo: talvez eu consiga ir no findi
+(16:45:37) wundo: talvez sexta, sabado e domingo
+(16:45:41) wundo saiu da sala.
+(16:45:43) scur: massa! eu to chegando na quarta
+(16:45:47) wundo [n=wundo@drupal.org/user/25523/view] entrou na sala.
+(16:45:52) efeefe: entao
+(16:45:52) tatirp: eu tb chego na quarta
+(16:45:54) VJ_VARGA: amanha eu compro minha passagem
+(16:45:54) efeefe: encaminhando
+(16:45:56) wundo saiu da sala.
+(16:46:03) VJ_VARGA: hj tava fazendo as cotacoes
+(16:46:14) efeefe: vou alinhar a conversa ateh agora e specs iniciais com a lista
+(16:46:28) efeefe: scur: vai rolar prototipo em papel na reuniao durante o encontrao?
+(16:46:33) VJ_VARGA: vou de busao p/ la
+(16:46:41) efeefe: wundo: semana que vem jah temos o site em drupal6?
+(16:46:42) scur: efeefe: gostaria muito que a gente fizesse isso
+(16:46:57) wundo [n=wundo@drupal.org/user/25523/view] entrou na sala.
+(16:47:00) wundo: CTRL+W na janela errado
+(16:47:02) wundo: eu to aqui?
+(16:47:05) scur: na verdade esse prototipo em papel seria para fazermos testes
+(16:47:07) wundo: digo, tão me lendo?
+(16:47:08) scur: wundo:ta
+(16:47:19) wundo: meu colloquy pirou
+(16:47:38) efeefe: to
+(16:47:44) scur: efeefe: tipo assim, vamos inventar tres usos de caso
+(16:47:56) VJ_VARGA: wundo te mandei uma msg em pvt. recebeu?
+(16:48:13) tatirp: fala, fer
+(16:48:16) scur: e damos algumas tarefas para as pessoas fazerem, em cima das coisas que queremos ver funcionando no site
+(16:48:18) efeefe: a tati fez um belo doc enquanto criava a conectaz metarecursos. vou mandar na lista infralogica.
+(16:49:47) scur: eu j? n?o vi esse doc?
+(16:49:47) tatirp: fer, mas vc quer testar os recursos do site ou mapear as necessidades das pessoas?
+(16:50:01) scur: quero testar os recursos do site
+(16:50:19) VJ_VARGA: um teste de usabilidade?
+(16:50:25) scur: na verdade podemos at? fazer as duas coisas, nada nos impede
+(16:50:34) scur: VJ_VARGA: exatamente
+(16:50:52) efeefe: vou mandar a parte do doc que interessa na infralogica
+(16:52:30) efeefe: wundo: quando?
+(16:52:52) wundo: quando quem?
+(16:53:04) efeefe: d6
+(16:53:06) wundo: a migração é antes de segunda, idealmente amanhã
+(16:53:14) scur: gente, o regis nao para de mandar mandar msgs pelo twitter sobre algo que ele fez com minhas fotos...acho que ele ta com virus
+(16:53:15) wundo: botando minhão no fogo por isso
+(16:54:01) VJ_VARGA: eh virus
+(16:54:10) efeefe: scur: cada vez que ele clica naquilo vai pra todo mundoi
+(16:54:14) efeefe: nao eh exatamente virus
+(16:54:23) scur: mas ele nao aprendeu ainda???
+(16:54:24) VJ_VARGA: a teia, aline e um monte de gente ja caiu nessa
+(16:54:45) VJ_VARGA: eh um worm, um trojan?
+(16:54:53) efeefe: acho que não aprendeu
+(16:54:55) efeefe: nem a alyne
+(16:55:05) efeefe: eh um exploit do twitter
+(16:55:06) efeefe: facil
+(16:55:15) scur: putz
+(16:56:24) efeefe: uma pagina com codigo malicioso
+(16:57:31) scur: bom...e por aqui...que mais podemos falar? o que acham da ideia do teste de usabilidade?
+(16:57:36) efeefe: gosto
+(16:57:49) scur: podemos tambem fazer uma pesquisa rapida, perguntando para diferentes pessoas o que elas gostariam de ver no site
+(16:57:51) tatirp: como vc pensa em fazer isso, fer?
+(16:58:03) scur: prototipo de papel, tati
+(16:58:06) VJ_VARGA: eu acho otimo o teste de usabilidade, mas tem que ser feito por pessoas que nao sejam da infralogica
+(16:58:20) scur: sim, VJ_VARGA
+(16:58:22) tatirp: to perguntando pq muito se que quer fazer no encontrao
+(16:58:44) tatirp: e na cparty nao havia concentracao suficiente pra isso
+(16:58:48) scur: pensei em pegar pessoas tipo o paulo, o proprio regis, gente bem de fora desse esquema
+(16:58:58) scur: tatirp: eh vero
+(16:59:03) tatirp: e o que a gente queria fazer: cadastrar usuarios nem rolou
+(16:59:04) scur: tempo sera um problema
+(16:59:15) tatirp: e isso era muito mais simples do que o teste de usabilidade
+(16:59:25) scur: eu queria ter uma tarde pra isso.
+(16:59:39) tatirp: pois eh
+(16:59:41) scur: dai eu preciso de alguem pra registrar, um pra ser o computador e outro pra ser o mediador
+(16:59:47) scur: tres testes, so
+(16:59:50) scur: meia hora cada um
+(16:59:54) efeefe: acho legal
+(17:00:01) scur: eh pa pum
+(17:00:02) efeefe: e na real a principio a gente nao vai ter tanta dispersao dessa vez
+(17:00:08) tatirp: tb acho legal
+(17:00:14) tatirp: efeefe: nao?
+(17:00:21) tatirp: todo mundo quer dar oficina
+(17:00:24) scur: se a gente chegar com tudo pronto, e so fazer, nao tem enrolacao
+(17:00:26) tatirp: propor conversas mil
+(17:00:40) scur: acho que tem mais gente querendo dar oficina que gente indo nas oficinas, rsrsrs
+(17:00:44) tatirp: mas eu vejo pouca gente dizendo: quero aprender isso, ouvir fulano
+(17:00:57) tatirp: scur: eh exatamente isso
+(17:01:05) scur: alias, me deram uma oficina pra dar, eu nem pedi
+(17:01:13) VJ_VARGA: hahahahaha
+(17:01:46) tatirp: scur: qual?
+(17:01:48) efeefe: hahaha
+(17:01:50) efeefe: relaxa
+(17:01:52) scur: xhtml/css
+(17:01:57) efeefe: dar oficina eh fogo de palha
+(17:02:01) scur: pro guris do bailux
+(17:02:02) efeefe: na hora, rolam conversas, e isso vale
+(17:02:13) VJ_VARGA: eu to preparando algumas coisas p brincar com video, mas se n?o rolar to de boa
+(17:02:19) scur: por isso estou indo mais cedo ate...porque durante o encontrao nao vai ter como
+(17:02:23) VJ_VARGA: e pouco tempo para tanta oficina
+(17:02:36) tatirp: eu tb to indo mais cedo pra ajudar a carmem com a producao
+(17:03:01) VJ_VARGA: eu posso ir mais cedo tb
+(17:03:01) tatirp: ela tah enlouquecendo, coitada
+(17:03:05) scur: na verdade precisamos organizar um programa, neh
+(17:03:13) scur: eu chego na quarta jah
+(17:03:28) efeefe: soh entao, definicoes de hoje: vamos abrir a conversa specs na lista; fer vai andar mais com isso; eu vou compartilhar na infralogica as observacoes da tati; wundo diz que antes de segunda jah estamos com o drupal6 rodando. 
+(17:03:29) tatirp: eu tb chego na quarta
+(17:03:30) efeefe: algo mais?
+(17:03:55) scur: sim, coloca os testes de usabilidade que queremos fazer ai
+(17:03:55) VJ_VARGA: acho que n?o
+(17:03:58) wundo: wundo talvez vá no arraial
+(17:04:21) tatirp: wundo: vc tah onde?
+(17:04:32) efeefe: wundo: BORA!!!!
+(17:04:47) wundo: tatirp: barao geraldo - campinas - sao paulo
+(17:05:06) tatirp: wundo: tem galera que vai sair de carro daqui de sp
+(17:05:14) wundo: efeefe: o foda
+(17:05:18) wundo: é que se eu for pro nordeste
+(17:05:24) wundo: e não passar em salvador
+(17:05:27) wundo: minha mae me deserda
+(17:05:45) tatirp: sua mae nao precisa saber
+(17:06:10) tatirp: wundo: ainda mais assim, indo de galera
+(17:06:18) VJ_VARGA: de arraial eu vou p/ s?o lu?s
+(17:06:26) efeefe: porto seguro eh quase espirito santo
+(17:06:29) efeefe: eh longe de salvador
+(17:06:32) wundo: tatirp: ela descobre
+(17:06:34) scur: e eu, vou pra morro de sao paulo
+(17:06:39) wundo: efeefe: mas não é tão longe de vitoria da conquista
+(17:06:42) scur: que eh perto de salvador
+(17:06:45) tatirp: maes reclamam, fazem drama, mas demora a nos querer longe pra valer
+(17:06:57) scur: vai ser um perrenguinho
+(17:07:48) wundo: falando em mae tá me ligando
+(17:07:52) efeefe: nada mais pra gente falar de infralogica então?
+(17:07:54) wundo: hehehe
+(17:08:12) scur: efeefe: vais largar aquele doc na lista, te prepara pra enxurrada de opinioes que vai vir
+(17:08:14) scur: :-)
+(17:08:25) VJ_VARGA: efeefe o lances dos campos pro formulario eu j? consegui fazer aqui
+(17:08:40) VJ_VARGA: agora como eu fa?o p/ mudar o criar conta por cadastre-se
+(17:08:49) VJ_VARGA: ?
+(17:09:38) VJ_VARGA: tem que alterar uma string?
+(17:10:53) efeefe: enxurrada eu consigo lidar
+(17:10:58) efeefe: VJ_VARGA: locales
+(17:11:24) efeefe: saindo daqui entao, galera. semana tah corrida.
+(17:11:37) scur: falou
+(17:11:40) scur: abraco pra todos
+(17:11:50) tatirp: segunda a gente tem outro encontro ou nao?
+(17:12:12) efeefe: podemos sim
+(17:12:23) efeefe: pra ver o que teve de retorno da conversa na lista
+(17:12:25) scur: por mim pode ser
+(17:12:28) efeefe: e saber se o site em drupal6 tah rolando
+(17:12:29) efeefe: ;)
+(17:12:29) tatirp: blz
+(17:12:42) tatirp: vai ta rolando, neh?
+(17:12:52) tatirp: ;)
+(17:12:56) scur: mas ai mais tarde, ne
+(17:13:04) scur: 18:00, 18:30?
+(17:13:09) tatirp: sim, pode ser mais tarde
+(17:13:16) efeefe: sim
+(17:13:23) efeefe: acertamos agenda na lista infra
+(17:13:27) efeefe: fui!

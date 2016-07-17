@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - derretimento</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/1108/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>distros derretidas</title>
+ <link>http://rede.metareciclagem.org/blog/25-11-11/distros-derretidas</link>
+ <description>&lt;p&gt;Derretendo com distros minimalistas e com editores de &amp;aacute;udio. Usar o Puppy Linux no pczinho rola, mas quero testar alguma outra voltada &amp;agrave; &amp;aacute;udio, v&amp;iacute;deo e derretimento musical.&lt;/p&gt;
+&lt;p&gt;O audacity roda fino, altas violadas gravadas.&lt;/p&gt;
+&lt;p&gt;Pensando aqui em instalar o Dyne-Bolic ou similares pra testar todo o poder dos 256 mb.&lt;/p&gt;
+&lt;p&gt;E l&amp;aacute; vamos rumo ao simples-pequeno-est&amp;uacute;dio-qualquerlugar.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/25-11-11/distros-derretidas#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/derretimento">derretimento</category>
+ <category domain="http://rede.metareciclagem.org/tags/linux">linux</category>
+ <category domain="http://rede.metareciclagem.org/assunto/Musica">Musica</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Dpaduando" xmlns="http://drupal.org/project/og">Dpaduando</group>
+ <pubDate>Fri, 25 Nov 2011 11:52:31 +0000</pubDate>
+ <dc:creator>mondegrass</dc:creator>
+ <guid isPermaLink="false">2083 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

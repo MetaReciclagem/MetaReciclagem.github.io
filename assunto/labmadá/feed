@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - labmadá</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/533/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>LabMadá</title>
+ <link>http://rede.metareciclagem.org/conectaz/LabMad%C3%A1</link>
+ <description>&lt;div class=&quot;form-item&quot;&gt;
+ &lt;label&gt;Descrição: &lt;/label&gt;
+ MetaLab da Vila Madalena - São Paulo - SP
+&lt;/div&gt;
+LabMadá
+
+Mini-encontros:
+
+- 6 de fevereiro, 19hrs.
+- 8 de março.
+
+Programação:
+
+- Cine Clube
+- RPG
+- Projeto FILE&lt;div class=&quot;field field-type-text field-field-situacao-conectaz&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Situação desta ConecTAZ:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    funcionando        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/conectaz/LabMad%C3%A1#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/labmad%C3%A1">labmadá</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metalab">metalab</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metareciclagem">metareciclagem</category>
+ <category domain="http://rede.metareciclagem.org/assunto/s-o-paulo">são paulo</category>
+ <category domain="http://rede.metareciclagem.org/assunto/vila-madalena">vila madalena</category>
+ <pubDate>Wed, 04 Feb 2009 19:43:57 +0000</pubDate>
+ <dc:creator>varga</dc:creator>
+ <guid isPermaLink="false">1531 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

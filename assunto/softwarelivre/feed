@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - softwarelivre</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/358/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Conteudos Educativos</title>
+ <link>http://rede.metareciclagem.org/wiki/Conteudos-Educativos</link>
+ <description>&lt;p&gt;&lt;em&gt;&lt;br /&gt;&lt;/em&gt;&amp;quot;N&amp;atilde;o s&amp;atilde;o as t&amp;eacute;cnicas, mas sim a conjuga&amp;ccedil;&amp;atilde;o de homens e ferramenta, que transforma uma sociedade&amp;quot;, Paulo Freire&lt;br /&gt;&lt;br /&gt;A seguir &amp;eacute; apresentado uma lista de programas (todos s&amp;atilde;o softwares livres) bem como dicas de como trabalhar conte&amp;uacute;dos educacionais num laborat&amp;oacute;rio de inform&amp;aacute;tica educativa -LIE.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/Conteudos-Educativos&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Conteudos-Educativos#comments</comments>
+ <category domain="http://rede.metareciclagem.org/tags/educa-o">educação</category>
+ <category domain="http://rede.metareciclagem.org/tags/linux">linux</category>
+ <category domain="http://rede.metareciclagem.org/assunto/material">material</category>
+ <category domain="http://rede.metareciclagem.org/assunto/softwarelivre">softwarelivre</category>
+ <pubDate>Tue, 17 Jun 2008 18:51:20 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1280 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

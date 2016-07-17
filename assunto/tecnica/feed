@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - tecnica</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/328/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Heterodesign</title>
+ <link>http://rede.metareciclagem.org/conectaz/Heterodesign</link>
+ <description>&lt;div class=&quot;form-item&quot;&gt;
+ &lt;label&gt;Descrição: &lt;/label&gt;
+ Ciclo de debates/oficinas com o tema gambiarra
+&lt;/div&gt;
+&lt;p&gt;Algo nos constitui. Somos tamb&amp;eacute;m aquilo que projetamos. Pensamento e desejos est&amp;atilde;o refletidos nos objetos - em particular, nos objetos tecnol&amp;oacute;gicos - que constru&amp;iacute;mos. Inacabados e muito longe ainda do que queremos, esses objetos est&amp;atilde;o sempre se alterando com a cultura de cada &amp;eacute;poca. Ao adaptar objetos tecnol&amp;oacute;gicos, criamos &lt;strong&gt;gambiarras&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/conectaz/Heterodesign&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-situacao-conectaz&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Situação desta ConecTAZ:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    em planejamento        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/conectaz/Heterodesign#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/arte">arte</category>
+ <category domain="http://rede.metareciclagem.org/assunto/debate">debate</category>
+ <category domain="http://rede.metareciclagem.org/assunto/design">design</category>
+ <category domain="http://rede.metareciclagem.org/assunto/gambiarra">gambiarra</category>
+ <category domain="http://rede.metareciclagem.org/assunto/oficina">oficina</category>
+ <category domain="http://rede.metareciclagem.org/assunto/tecnica">tecnica</category>
+ <pubDate>Tue, 05 Aug 2008 13:55:58 +0000</pubDate>
+ <dc:creator>mbraz</dc:creator>
+ <guid isPermaLink="false">1399 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

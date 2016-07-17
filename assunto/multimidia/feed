@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - multimidia</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/80/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Novas Interfaces</title>
+ <link>http://rede.metareciclagem.org/conectaz/Novas-Interfaces</link>
+ <description>&lt;div class=&quot;form-item&quot;&gt;
+ &lt;label&gt;Descrição: &lt;/label&gt;
+ Papos sobre novas maneiras de interagir com sistemas binários.
+&lt;/div&gt;
+&lt;p&gt;O objetivo dessa ConecTAZ &amp;eacute; discutir, pesquisar e desenvolver novas interfaces de intera&amp;ccedil;&amp;atilde;o entre homens e computadores. Lista de discuss&amp;atilde;o em: &lt;a href=&quot;http://groups.google.com.br/group/novasinterfaces&quot; title=&quot;http://groups.google.com.br/group/novasinterfaces&quot; rel=&quot;nofollow&quot;&gt;http://groups.google.com.br/group/novasinterfaces&lt;/a&gt;&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-situacao-conectaz&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Situação desta ConecTAZ:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    em planejamento        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/conectaz/Novas-Interfaces#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/hci">hci</category>
+ <category domain="http://rede.metareciclagem.org/assunto/interface">interface</category>
+ <category domain="http://rede.metareciclagem.org/assunto/multimidia">multimidia</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ubicomp">ubicomp</category>
+ <pubDate>Fri, 21 Nov 2008 18:26:42 +0000</pubDate>
+ <dc:creator>pixel</dc:creator>
+ <guid isPermaLink="false">1480 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>MetaProjetoExperimentos</title>
+ <link>http://rede.metareciclagem.org/wiki/MetaProjetoExperimentos</link>
+ <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Experi&amp;ecirc;ncias sendo realizadas pelo grupo de jovens oficinandos:&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/MetaProjetoExperimentos&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/MetaProjetoExperimentos#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/anime">anime</category>
+ <category domain="http://rede.metareciclagem.org/assunto/animefriends">animefriends</category>
+ <category domain="http://rede.metareciclagem.org/assunto/bijoterias">bijoterias</category>
+ <category domain="http://rede.metareciclagem.org/assunto/computadores">computadores</category>
+ <category domain="http://rede.metareciclagem.org/assunto/esporo">esporo</category>
+ <category domain="http://rede.metareciclagem.org/assunto/jovens">jovens</category>
+ <category domain="http://rede.metareciclagem.org/assunto/labmultimidia">labmultimidia</category>
+ <category domain="http://rede.metareciclagem.org/assunto/lamime">lamime</category>
+ <category domain="http://rede.metareciclagem.org/assunto/man">man</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mang-s">mangás</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mcce">mcce</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mei">mei</category>
+ <category domain="http://rede.metareciclagem.org/assunto/multimidia">multimidia</category>
+ <category domain="http://rede.metareciclagem.org/assunto/oficinas-metaprojeto-pefi">Oficinas Metaprojeto PEFI</category>
+ <category domain="http://rede.metareciclagem.org/assunto/pefi">pefi</category>
+ <category domain="http://rede.metareciclagem.org/assunto/projetos">projetos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/reciclagem">reciclagem</category>
+ <pubDate>Mon, 16 Jun 2008 15:27:18 +0000</pubDate>
+ <dc:creator>guimasan</dc:creator>
+ <guid isPermaLink="false">1240 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

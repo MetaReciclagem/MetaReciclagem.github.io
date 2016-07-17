@@ -1,0 +1,628 @@
+[18:17] == dasilvaorg [bd473938@gateway/web/freenode/ip.189.71.57.56] has joined #metareciclagem
+[18:17] <leptavar> recebi um convite do Lula para participar dessa conversa
+[18:17] <dasilvaorg> Opa Rapaziada,
+[18:17] <mbrazz> eu tambem... quanto mais luz melhor...
+[18:17] <teia> olás....
+[18:17] <dasilvaorg> como sempre, paraibano umbigocentrado
+[18:17] <dasilvaorg> esqueci que existe horário de verão
+[18:18] <teia> percebemos q estamos adiantados!
+[18:18] <leptavar> gostaria de somar
+[18:18] <dasilvaorg> Que horas são em Brasília afinal
+[18:18] <dasilvaorg> ahhh
+[18:18] <efe_efe> horario de verao eh soh no brasil de cah
+[18:18] <dasilvaorg> porque eu também nunca sei se horário de verão é uma hora antes ou depois daqui
+[18:18] <Paulo_Carvalho> salve
+[18:19] <dasilvaorg> me perdoem
+[18:19] <efe_efe> horario certo do #edor eh sem horario de verao
+[18:19] <efe_efe> a gente que viajou
+[18:19] <dasilvaorg> Valeu efe_efe
+[18:19] <efe_efe> 19h HLR
+[18:19] <efe_efe> hora local de recife
+[18:19] <dasilvaorg> efe_efe: brigado por me fazer sentir menos mal
+[18:19] <Paulo_Carvalho> aqui em sampa é 19h20
+[18:19] <teia> a gente tb curte chegar adiantado só pra preparar o cha :)
+[18:20] <efe_efe> sampa tem essa mania de achar que tah no futuro
+[18:20] <dasilvaorg> kkkkkkkkk
+[18:20] <efe_efe> eu soh ia colar pra dar um alo e ir embora
+[18:20] <dasilvaorg> essa foi ótima
+[18:20] <Paulo_Carvalho> rs
+[18:20] <efe_efe> deixa meu beijo pra todo mundo
+[18:20] <teia> pura ilusão de paulista
+[18:20] <efe_efe> boto feh no #edor
+[18:20] <mbrazz> leptavar, estas em Recife? benvindo ao bando
+[18:20] <efe_efe> tinha outra coisa rolando em abril tambem, mas nao lembro o que era
+[18:20] <Paulo_Carvalho> eu vou pra recife no carnaval
+[18:20] <Paulo_Carvalho> a esposa é daí
+[18:20] <dasilvaorg> É, leptavar tá em Recife?
+[18:20] <mbrazz> descobrimento do brasil... kkk
+[18:21] <dasilvaorg> Abril?
+[18:21] <dasilvaorg> Na verdade comecei a sugerir maio
+[18:21] <efe_efe> abril
+[18:21] <efe_efe> hah
+[18:21] <efe_efe> belez
+[18:21] <efe_efe> entao viajei
+[18:21] <efe_efe> vou ali fechar os olhos um pouco porque a noite foi curta
+[18:21] <dasilvaorg> mas quem vai fechar isso mesmo são as parcerias
+[18:21] <efe_efe> carinhos em todxs
+[18:21] <teia> bons sonhos f....
+[18:21] <dasilvaorg> Vai com fé efe_efe
+[18:21] <efe_efe> aguardo relatos na lista
+[18:22] <dasilvaorg> guardo o log pra gente
+[18:22] == efe_efe [c9576c70@gateway/web/freenode/ip.201.87.108.112] has quit [Quit: ffui]
+[18:22] <mbrazz> vamos nessa, ou aguardamos?
+[18:22] == r_evangelista [8f6a8c13@gateway/web/freenode/ip.143.106.140.19] has joined #metareciclagem
+[18:23] <dasilvaorg> mbrazz: Queria ver se a Meiry Coelho tá ligada nesse horário tb ou não
+[18:23] == leptavar [bd79f7b2@gateway/web/freenode/ip.189.121.247.178] has quit [Ping timeout: 265 seconds]
+[18:23] <dasilvaorg> O @lulaPCosta precisou dar no pé de úlima hora
+[18:23] <dasilvaorg> A Mulher dele tá concorrendo a um prêmio de jornalismo e ele tinha esquecido
+[18:23] == leptavar [bd79f7b2@gateway/web/freenode/ip.189.121.247.178] has joined #metareciclagem
+[18:23] <dasilvaorg> Mas combinamos algumas coisas
+[18:24] <mbrazz> twitta a Meiry
+[18:24] <teia> a meiry não ta on line.....
+[18:24] <dasilvaorg> e acertamos ontem algumas ideias pra reunião de hoje
+[18:24] <dasilvaorg> e aih ele me deixou na incumbência de representá-lo, pode?!!
+[18:24] <r_evangelista> caros, deixe-me me apresentar rapidão, foi @LulaPCosta que me deu um toque
+[18:24] <dasilvaorg> Vou ligar pra nega agora
+[18:24] <Paulo_Carvalho> Qual é a pauta?
+[18:25] <dasilvaorg> Paulo_Carvalho: A pauta é: Possibilidades e Recursos
+[18:25] <r_evangelista> sou Rafael Evangelista, interessado nos assuntos cultura livre e soft livre, pesquisador da Unicamp. tô aí pra o q precisarem
+[18:25] <leptavar> sim @lula fez deu essa ideia desde o forum de cultura digital
+[18:26] <dasilvaorg> Então, no briefing da Reunião tem o teu nome r_evangelista
+[18:26] <mbrazz> evangelista, li seus textos... sao otimos. ;) qual linha de pesquisa esta' envolvido diretamente?
+[18:26] <dasilvaorg> Vou jogar o briefing pra galera que já está aqui e repito Às 20hs
+[18:26] <dasilvaorg> ok?
+[18:26] <dasilvaorg> Bacana demais ter vc aqui r_evangelista
+[18:26] <Paulo_Carvalho> beleza
+[18:27] <dasilvaorg> Já que o r_evangelista  se apresentou
+[18:27] <dasilvaorg> vamos todos então antes do recado inicial?
+[18:28] <teia> vamos as apresentacoes
+[18:28] <r_evangelista> mbrazz, então, terminei no inicio do ano passado o doutorado. e me interessa em particular as idéias do grupo open (mais pragmático) do soft livre. atualmente to tentando ligar isso com a idéia de alguns futuristas/transhumanistas recentes
+[18:28] <r_evangelista> mas trabalho tb com divulgação científica e tal
+[18:29] <mbrazz> bacana
+[18:29] <dasilvaorg> Sou Orlando da-Silva, metarecicleirx, aprendiz de pesquisador, lidando com #tecnociencia, indo pro sertão da Paraíba  e botando fé junto com o @LulaPCosta nesse nosso encontro em Recife
+[18:30] <dasilvaorg> pela ordem alfabética aqui: leptavar ?!
+[18:30] <Paulo_Carvalho> eu fiz faculdade de teatro, mantenho um site que visa reunir e criar documentação do cinelerra e também já organizei alguns eventos multi-artísticos que visavam a troca de experiências entre os artistas
+[18:31] <Paulo_Carvalho> também sou bonequeiro rs
+[18:31] <dasilvaorg> O Paulo_Carvalho tá em conversas com a Stella de João Pessoa para no mesmo período tocar uma oficinal
+[18:32] <Paulo_Carvalho> é
+[18:32] <teia> sou teia metarecicleira tb com preferencias em audiovisual, interfaces organicas e afins.... além de adorar o nordeste, tb sei costurar....
+[18:32] == leptavar_ [bd79f7b2@gateway/web/freenode/ip.189.121.247.178] has joined #metareciclagem
+[18:32] <Paulo_Carvalho> acho que poderiamos organizar uma rede de artistas livres
+[18:32] == leptavar [bd79f7b2@gateway/web/freenode/ip.189.121.247.178] has quit [Ping timeout: 265 seconds]
+[18:34] <leptavar_> só pra confirmar, minhas mensagens estão chegando?
+[18:34] <leptavar_> acho que está flahando pra mim
+[18:34] <Paulo_Carvalho> só essa
+[18:34] <mbrazz> mbraz, metarecicleiro das antigas, transeducador comunitario, bisneto de guarani e trolleiro afetivo. Agora com a tag economiasolidaria num empreendimento
+[18:34] <Paulo_Carvalho> manda de novo
+[18:35] <teia> leptavar: eu to vendo suas mensagens, sim.....
+[18:35] <leptavar_> Tb sou pesquisador, conclui um mestrado na PUC-SP sobre os conflitos entre a cultura livre e a propriedade intelectual
+[18:35] <mbrazz> leptvar, assunto quente do momento!!
+[18:35] <leptavar_> até dezembro trabalhei no Instituto pólis, na ;area de desenvolvimento cultutal
+[18:35] <Paulo_Carvalho> pois é
+[18:35] <leptavar_> fazia, entre outras coisas, o cineclube pólis
+[18:36] <mbrazz> frequentei cineclube polis ...
+[18:36] <leptavar_> sim, me lembro de você em algumas sessões
+[18:36] <teia> podemos escrever sem acentos? só pra facilitar a leitura?
+[18:36] <dasilvaorg> vamo lah, sem acento
+[18:36] <Paulo_Carvalho> dá erro de caractere aí?
+[18:37] <mbrazz> sim
+[18:37] <dasilvaorg> massa leptavar_
+[18:37] <Paulo_Carvalho> entao ta
+[18:37] <dasilvaorg> to recebendo tuas mensagens normal
+[18:37] <dasilvaorg> Acho que todo mundo se apresentou entao
+[18:37] <teia> creio q sim, orlando.....
+[18:38] <dasilvaorg> Peco soh um pouco de paciencia
+[18:38] <dasilvaorg> se entre 20 e 20: 15 entrar mais alguem a gente deixar se apresentar e tal
+[18:38] <dasilvaorg> por conta dessa minha confusao de horario
+[18:38] <Paulo_Carvalho> ok
+[18:38] <teia> beleza.... sem grilos
+[18:39] <dasilvaorg> e também para as 20:15 eu repetir umas coisinhas iniciais e a gente tocar
+[18:39] <dasilvaorg> Vamo ateh as 21:30 entao? 20:30 local. BLZ?!
+[18:40] <leptavar_> vamos la
+[18:40] <dasilvaorg> Lah vou soltar a conversa inicial e anoto os pedidos de manifestacao e ordem por aqui
+[18:40] <teia> ok
+[18:40] <Paulo_Carvalho> certo
+[18:41] <mbrazz> administre, dasilva! ;D
+[18:41] <dasilvaorg> o textin vai com acento pq jah tava pronto
+[18:41] <dasilvaorg> Basicamente as primeiras articulações, além das conversas informais no ôxemetarec, foram contatos que o Lula fez em São Paulo durante o Fórum da Cultura Digital. Desse primeiro acerto ficou definido que o Lula tentaria conseguir com a SECTMA (Secretaria de Ciência Tecnologia e Meio Ambiente de Pernambuco ) o local (ou os locais)para o encontro. Eduardo Tavares da Unicamp e Rafael Evangelista ficaram de ajudar na produção. Eduardo apresentou Lula ao Álvaro Malaguti da RNP, que sinalizou com a possibilidade d
+[18:43] <dasilvaorg>  passagens. Precisamos entrar em contato com ele e verificar as condições e possibilidades.
+[18:44] <dasilvaorg> Estamos organizando as informacoes por aqui inicialmente: http://rede.metareciclagem.org/conectaz/Encontro-do-Recife
+[18:44] <dasilvaorg> Questionamentos, propostas, ideias, desejos
+[18:44] <dasilvaorg> passo a palavra!
+[18:45] <mbrazz> temos alguma proposta de formato? essa palavra causa algum desconforto?
+[18:45] <teia> pra mim, sem desconforto.....
+[18:46] <teia> creio q o formato ta se desenhando com as conversas, neh.....
+[18:46] <Paulo_Carvalho> não entendi o nome e tag
+[18:46] <dasilvaorg> ok
+[18:46] <dasilvaorg> vamos tentar responder entao
+[18:47] <dasilvaorg> mbrazz: a palavra nao causa desconforto nenhum pra mim, o formato inicial que eu e o Lula pensamos era uma mesa redonda na varanda do apartamento dele
+[18:47] <dasilvaorg> que eh uma gracinha, por sinal
+[18:47] <teia> brazileiro quer promover tb uma imersao .... talvez algumas oficinas.... não sei se eh isso, mesmo.... mas acho q vale a pena termos focos simultaneos
+[18:47] <mbrazz> isso sim eh conforto...
+[18:48] <dasilvaorg> mas aih depois resolvemos pensar na coisa de uma forma mais em rede, o que podemos acomodar e tal
+[18:48] <dasilvaorg> eh isso que a teia tah colocando: formato se desenhando com as conversas
+[18:48] <dasilvaorg> mas precisamos fechar uma definicao burocratica logo pra correr atras de apoio
+[18:49] <teia> acho massa a mesa redonda .... mas tb proponho atividades paralelas.... antenas, gravacoes, conversas
+[18:49] <dasilvaorg> Paulo_Carvalho: Que nome? e que tag?
+[18:49] <Paulo_Carvalho> acho bacana documentar o evento
+[18:49] <Paulo_Carvalho> Participantes(Para participar basta colocar o nome,  uma tag e vir fazer junto)
+[18:50] <Paulo_Carvalho> tag de twitter?
+[18:50] <dasilvaorg> Paulo_Carvalho: ahhhh, entendi teu questionamento agora
+[18:50] <dasilvaorg> Paulo_Carvalho: eh culpa minha
+[18:50] <mbrazz> com burocracia entao temos dois formatos se interfaceando... um que vai buscar recursos e outro que eh lll
+[18:50] <Paulo_Carvalho> é pra inventar o tema que quero discutir?
+[18:50] <mbrazz> livre, leve e louco ;)
+[18:51] == mondegrass [dgs@20158027031.user.veloxzone.com.br] has joined #metareciclagem
+[18:51] <teia> sempre tem o papel da burocracia.... um ilusorio outro palpavel1
+[18:51]  * mondegrass saudacoes!
+[18:51] <dasilvaorg> essen lance da tag e tem muito a ver com o oxemetarec: http://rede.metareciclagem.org/blog/29-11-10/MetaEncontro-em-Recife-oxe
+[18:51] <teia> mas voltando ao formato, creio q seria interessante ter simultaneidades.....
+[18:52] <dasilvaorg> mondegrass: teia [burocracia] isso, isso!
+[18:52] <dasilvaorg> oooop
+[18:52] <dasilvaorg> nao era mondegrass , era mbrazz
+[18:52] <dasilvaorg> mas, bem vindo mondegrass - Super Douglas
+[18:53] <dasilvaorg> teia: Simultaneidades, tah anotado pra eu recortar daqui e fazer a sintese do IRC
+[18:53] <mbrazz> dasilva: rimou ...
+[18:53] <teia> será desenvolvido um projeto pra desencadear as parcerias, neh?
+[18:53] <mondegrass> total
+[18:54] <Paulo_Carvalho> entendi
+[18:54] <dasilvaorg> Paulo_Carvalho: Eh uma forma de associar voce a algo que interessa conversar por lah
+[18:54] <dasilvaorg> Paulo_Carvalho: vamos ver assim?
+[18:54] <Paulo_Carvalho> to me sentindo velho, não uso twitter só orkut rs
+[18:54] <Paulo_Carvalho> embora até tenha uma conta
+[18:54] <teia> por isso a importancia das tagas, paulo... um caminho, uma referencia pra te levar onde vc quer!
+[18:54] <mbrazz> velho eh usar facebook... kkk
+[18:54] <dasilvaorg> teia: Sim. Estamos rascunhando o projeto la na wiki
+[18:55] <r_evangelista> que tamanho vcs estao pensando pra coisa toda. nao so pessoas, mas horas e tal
+[18:55] <r_evangelista> ?
+[18:55] <mondegrass> eu dei uma olhada
+[18:55] <Paulo_Carvalho> e local?
+[18:55] <dasilvaorg> Paulo_Carvalho: Nao esquenta, tag eh algo velho tambem, muda o nome pra rotulo
+[18:55] <mondegrass> o lance do sintetizador gringo
+[18:56] <dasilvaorg> Então r_evangelista o tamanho eh o tamanho dos recursos que a gente conseguir captar
+[18:56] <mbrazz> depois entao precisa colocar o link da wiki lah no site metarec
+[18:56] <dasilvaorg> Eu to sendo bem simplista
+[18:56] <mondegrass> tag é a fita crepe com o nome na vasilha de temperos.
+[18:56] <dasilvaorg> Na minha cabeca o que precisamos sao apenas passagens e hospedagens
+[18:57] <teia> tb acho orlando
+[18:57] <mondegrass> é vero
+[18:57] <teia> eh o q + pesa
+[18:57] <Paulo_Carvalho> pelo que eu sei recife tá cheio de indústrias de tecnologia, talvez pra estas empresas apoiar metareciclagem seja uma coisa boa
+[18:57] <teia> como eh o lance da hospedagem ai?
+[18:57] <dasilvaorg> mbrazz: a wiki eh no site metarec: http://rede.metareciclagem.org/conectaz/Encontro-do-Recife
+[18:58] <Paulo_Carvalho> sim
+[18:58] <mbrazz> ok
+[18:58] <dasilvaorg> teia: Hospedagem solidaria inicialmente e muita conversa pra chegar a alguma parceria pra isso
+[18:58] <mondegrass> dasilvaorg: eu cacei algum edital que fosse apropriado, tudo fechado.
+[18:58] <dasilvaorg> Eu vou tentar deixar algumas pessoas aqui na Paraiba. (2 horas de distancia apenas)
+[18:58] <teia> melhor assim....
+[18:58] <r_evangelista> dasilvaorg: então, mas era legal pensar ao contrario, nao? batalhar recursos mais ou menos para o tamanho q se quer. digo tambem pra ver como organizar mesmo
+[18:59] == ste_ [bb4023b1@gateway/web/freenode/ip.187.64.35.177] has joined #metareciclagem
+[18:59] <leptavar_> Acho que o mais caro é a passagem mesmo
+[18:59] <Paulo_Carvalho> eu concordo com o evangelista
+[18:59] <teia> eu tb procurei alguns editais e ta tudo fechado.....
+[18:59] <Paulo_Carvalho> até porque também existem editais fechados
+[18:59] <dasilvaorg> r_evangelista: Eh pra isso o IRC daqui hoje
+[18:59] <Paulo_Carvalho> já viram por exemplo a ashoka
+[18:59] <mbrazz> meio traumatizado por aqui com editais...
+[19:00] <dasilvaorg> r_evangelista: Se tua experiencia diz que o melhor eh isso, vamos ver por ai
+[19:00] <mondegrass> pensei na possibilidade de proseio com alguma cia aérea
+[19:00] <dasilvaorg> r_evangelista: Pra mim vc jah eh um dos organizadore, meu
+[19:00] <mondegrass> algo do tipo.
+[19:00] <dasilvaorg> r_evangelista: *organizadores
+[19:00] <Paulo_Carvalho> então
+[19:00] <Paulo_Carvalho> acho que temos que definir o que queremos
+[19:00] <Paulo_Carvalho> aí pensar em como conseguir
+[19:01] <Paulo_Carvalho> e até que pontos aceitamos apoio
+[19:01] <leptavar_> seá que alguma orgao de fomento a pesquisa, capes, cnpq poderia ajudar
+[19:01] <teia> Agenda do encotnro (pra parte burocra)
+[19:01] <Paulo_Carvalho> porque sempre se pede algo em troca
+[19:01] <mbrazz> tem o esquema de hostels
+[19:01] <leptavar_> RNP talvez tb
+[19:01] <dasilvaorg> mondegrass: to ligado em conversa com cias aereas
+[19:01] <r_evangelista> entao, sobre orgao de pesquisa. se dermos um formato q eles aceitam acho q da pra conseguir grana. e sempre da pra fazer formatos alternativos em paralelo
+[19:02] <teia> mbraz, eu prefiro hospedagem solidaria, uma rede no quintal de alguem
+[19:02] <dasilvaorg> Paulo_Carvalho: isso, acho que podemos fecha um nucleo de producao e partilhar um documento para fechar uma proposta ainda essa semana
+[19:02] <teia> isso, r_evangelista.... e o formato alternativo!
+[19:02] <teia> uma agenda de acoes.....
+[19:02] <dasilvaorg> r_evangelista: isso cara, eh exatamente por esse caminho das pedras que acho que podemos ir
+[19:03] <Paulo_Carvalho> o interessante de um evento grande é que ele renda ações efetivas e que tenham continuidade
+[19:03] <r_evangelista> entao acho q da pra pensar num nucleo duro, q justifique pŕincipalmente as passagens. e um paralelo em q essas pessoas tb contribuam
+[19:04] <mbrazz> pcarvalho: isso acho essencial, continuidade!
+[19:04] <teia> sim, essa contribuicao coletiva eh fudnamental.....
+[19:04] <dasilvaorg> Paulo_Carvalho: Evento Grande acho que nao dah pra ser pensado pra maio desse ano, Encontro em Recife sim
+[19:04] <dasilvaorg> Paulo_Carvalho: Nucleo duro eh otimo... hehe
+[19:05] <teia> vejo nosso Encontro (de maio) como encontrinho.... coisa pra gente mesmo se articular melhor
+[19:05] <dasilvaorg> Entao sobre o encontro em maio
+[19:05] <leptavar_> sim, pois maio ta ai
+[19:05] <Paulo_Carvalho> Sim, mas este encontro deve principalmente discutir como poderemos nos manter ativos no projeto
+[19:05] <Paulo_Carvalho> mesmo de longe
+[19:05] <mbrazz> teia, eh que jah hah articulacoes locais ocorrendo ...
+[19:06] <Paulo_Carvalho> criar uma "escola", ou oficinas itinerantes
+[19:06] <Paulo_Carvalho> de que forma atingiremos a comunidade
+[19:06] <dasilvaorg> Gente, o que hah eh muita vontade minha e do Lula de trazer umas pessoas pra cah e conversarmos e tocarmos coisas juntos
+[19:06] <Paulo_Carvalho> e também pode ser um núcleo de criação
+[19:06] <teia> entendo... ja rola acoes locais.... mas penso na contribuicao coletiva dessa articulacao pos-encontro
+[19:06] <mbrazz> meio no estilo subbmidialogia: potencializar, divulgar, ativar com sustancia...
+[19:06] <Paulo_Carvalho> tanto artístico como tecnológico
+[19:06] <ste_> tem um edital disso aberto pra joao pessoa, exatamente de oficinas itinerantes
+[19:07] <teia> massa! oficinas itinerantes!
+[19:07] <mondegrass> o que rola é esticar um telefone de lata e barbante entre os cantos, principalmente os que ja tem iniciativas
+[19:07] <dasilvaorg> Eita ste_ nem te vi entrando
+[19:07] <dasilvaorg> bem vinda
+[19:07] <ste_> o edital fecha em 4 de março acho
+[19:07] <teia> pode ser uma acao esse edital pras Oficinas
+[19:07] <mondegrass> ste_ :)
+[19:07] <Paulo_Carvalho> o bacana é unir os vários esporos em por exemplo criar softwares que ajudem a própria meta
+[19:08] <dasilvaorg> Entao chegou  a ste_
+[19:08] <dasilvaorg> Que eh quem tah pirando no Joao Pessoa no mapa das Midias Livres
+[19:08] <ste_> no meu horario nao de verao as sete foi agorinha..rs...
+[19:08] <teia> bem vinda, ste_
+[19:08] <Paulo_Carvalho> oi Stella
+[19:08] <dasilvaorg> ste_: Nao esquenta
+[19:08] <ste_> ola pra todos
+[19:08] <mbrazz> menina stella, aprochegue-se e apresente-se
+[19:08] <dasilvaorg>  eh que nos nao especificamos horario local
+[19:08] <dasilvaorg> tem horas que esquecemos que metarec eh rede internacional
+[19:09] <ste_> rs:)
+[19:09] <mbrazz> trandimensional
+[19:09] <mbrazz> trans, transe
+[19:09] <teia> boto fe intuitivamente nesse edital das Oficinas Itinerantes
+[19:09] <Paulo_Carvalho> bora esperar mais uns 15 min aí repetimos as apresentações
+[19:10] <ste_> entao esse lance de patrocinio publico eu so consigui pensar em empresas e talz pra recife ou no mais aranha usar contato com o gov de la pra chegar na sec de cultura
+[19:10] <dasilvaorg> ste_: mas combinamos de fazer recomeco as 19:15 local
+[19:10] <ste_> blz
+[19:10] <dasilvaorg> Paulo_Carvalho: isso, conforme combinamos, massa veio
+[19:11] <dasilvaorg> ste_: os apoios nao precisam ser pensados apenas publicos
+[19:11] <Paulo_Carvalho> também podemos buscar apoio na sec de educação
+[19:11] <ste_> sim, mas acho q apesar dos pesares os publicos cobram menos em troca
+[19:11] <Paulo_Carvalho> já pensaram em açoes com os professores
+[19:11] <Paulo_Carvalho> oficina com eles
+[19:11] <Paulo_Carvalho> assim eles viram multiplicadores
+[19:13] <teia> acho interessante as oficinas, mas creio q tem q ser num formato mais livre...
+[19:13] <leptavar_> que tipo de oficina?
+[19:14] <ste_> dei uma olhada no edital q ta aberto e eles exigem algumas coisas: que o responsavel seja o oficineiro, que especifique os publicos, priorizando oficinas com publico mais livre; e por fim que tenha disponibilidade o ano todo.
+[19:14] <teia> o ano todo?!.... qual seria a duracao dessa oficina?.....
+[19:14] <ste_> serao 100 projetos contemplados
+[19:15] <mbrazz> entao oficina para oficineiros ...
+[19:15] <Paulo_Carvalho> hum
+[19:15] <Paulo_Carvalho> como poderiam ser estas oficinas?
+[19:15] <dasilvaorg> ste_: Essa oficinas seriam perfeitas entao para o JAMPA Midias Livres
+[19:16] <mbrazz> hackeando esse edital... esperando o resultadoo e contatando direto as propostas...
+[19:16] <dasilvaorg> ste_: e aih o que poderiamos fazer era tentar fechar alguns oficineiros entre os interessados no #Edor
+[19:16] <Paulo_Carvalho> sabe seria legal se as oficias levassem computadores doados e ficasse uma semana em cada lugar
+[19:16] <dasilvaorg> ste_: o que diz?
+[19:16] <ste_> concordo
+[19:17] <ste_> mas acho que agente pode expandir sabe
+[19:17] <dasilvaorg> ste_: Claro
+[19:17] <Paulo_Carvalho> sim
+[19:17] <Paulo_Carvalho> acho que além dos computadores poderiam ter cursos multimídias
+[19:17] <dasilvaorg> Bem, 19:17 loca, vamos faze as apresentacoes iniciais entao?
+[19:17] <ste_> é a funjope que ta com edital aberto e ate 31 de dezembro era do chico cesar, acho q se apresentarmos pro cara um projeto massa pra recife ele pode facilitar contatos
+[19:17] <Paulo_Carvalho> mesmo artísticos
+[19:18] <teia> eu curto a ideias das oficinas pra integrar esse nucleo e a gente q ta chegando pra sacar como contrubuir nessa inteface
+[19:18] <Paulo_Carvalho> quase uma caravana do conhecimento
+[19:18] <ste_> http://xa.yimg.com/kq/groups/15942699/1347015300/name/edital%20funjope.PDF
+[19:18] <Paulo_Carvalho> tá quente aqui
+[19:18] <ste_> o edital
+[19:19] <teia> vou ler calmamente esse edital
+[19:20] <dasilvaorg> blz
+[19:20] <dasilvaorg> muito obrigado a todo mundo que tah aqui nessa forca
+[19:20] <teia> vcs saberiam identificar quais oficinas legais pra gente criar junto?
+[19:21] <mondegrass> oficinas pra estimular a criatividade, algo sensorial tambem
+[19:21] <ste_> acho que poderiamos trabalhar nessa associaçao de tecnologia e criatividade
+[19:21] <Paulo_Carvalho> dentro disto de oficina itinerante seria bacana também que levássemos arte livre pra ser exibida nos locais onde as oficinas ocorrerem
+[19:21] <r_evangelista> caros, acho q tem 2 propostas aqui
+[19:21] <dasilvaorg> Serah que a gente conseguiria listar agora alguns pontos a serem definidos e aprofundados par a proxima reuniao?
+[19:22] <r_evangelista> uma me parecer "pra dentro" e outra  "pra fora"
+[19:22] <teia> o q seria pra dentro?
+[19:22] <Paulo_Carvalho> continue r_evangelista
+[19:22] <mbrazz> e estamos falando de dois locais:  Recife e Joao Pessoa...
+[19:22] <r_evangelista> uma seria de um encontro mais de conversa, até menor. e outra seriam mais as oficinas, pra publico amplo e tal
+[19:22] <dasilvaorg> mbrazz: De dois eventos e um encontro
+[19:22] <Paulo_Carvalho> sim
+[19:23] <teia> saquei
+[19:23] <r_evangelista> eu acho q sao compativeis, mas seria legal ter isso claro e organizar por ai
+[19:23] <teia> isso... ate pra ter o projto alternativo!
+[19:23] <mondegrass> sim.
+[19:23] <r_evangelista> nos estamos falando de um encontro de quanto tempo? dois dias?
+[19:23] <teia> agenda e acoes do encontro + simultaneidades
+[19:24] <dasilvaorg> r_evangelista: o #EdoR sim, o Jampa nas Midias Livres = uma semana
+[19:24] <Paulo_Carvalho> acho que o encontro tem que ter palestras+debates+oficinas
+[19:24] <dasilvaorg> Quando o r_evangelista concluir, digo como vejo a situacao
+[19:24] <ste_> a ideia do Jampa é uma coisa mais solta e mais aberta, gente de outros movimentos e tals que aconteceriam depois do encontro de recife certo?
+[19:24] <r_evangelista> teia, eu so planejaria bem o simultaneo pra nao sobrepor
+[19:24] <teia> tem como fazer o EdoR proximo do Jampa?
+[19:25] <dasilvaorg> r_evangelista: concluiu?
+[19:25] <r_evangelista> eu acho uma semana meio puxado, pelo menos eu nao consigo ficar tanto tempo
+[19:25] <dasilvaorg> teia: tah programada pra dois dias da mesma semana
+[19:25] <Paulo_Carvalho> r_evangelista está aonde?
+[19:25] <r_evangelista> dasilvaorg: sim, sim, acho q eu q nao tava entendendo por completo
+[19:25] <teia> r_evangelista, sim.... esse simultaneo nao eh pra embolar o meio de campo!
+[19:25] <r_evangelista> em campinas
+[19:25] <dasilvaorg> Entao, explico como to vendo as coisas
+[19:26] <dasilvaorg> mais alguem quer falar algo antes?
+[19:26] <mbrazz> falo depois
+[19:26] <Paulo_Carvalho> diga
+[19:26] <mondegrass> manda brasa.
+[19:27] <Paulo_Carvalho> preciso busca a esposa no ponto, já volto
+[19:27] <dasilvaorg> to formulando aqui pra mandar de uma vez soh
+[19:27] <dasilvaorg> soh uns dois minutos
+[19:27] <teia> ok!
+[19:27] <ste_> ok
+[19:28] <mondegrass> certo
+[19:30] <dasilvaorg> soh mais um pouquinho
+[19:31] <dasilvaorg> 1. Temos um evento de Software Livre ocorrendo em João Pessoa neste período. O Ensol: http://www.ensol.org.br/. A ideia era hackea-lo com uma reuniao de metarecxs em algum dos horarios e contribuir para o evento. Ao mesmo tempo o Jamp nas Midias Livres https://we.riseup.net/jpmidiaslivres que a ste_ comecou a articular e ai pensei em colocar o #Edor no mesmo periodo pra aproveitar os fluxos
+[19:33] <ste_> na minha imaginaçao acamparia toda a galera no terraço da estaçao ciencia q vai rolar o ensol...mas querer nao é poder
+[19:33] <dasilvaorg> 2. Se fizermos um cronograma bacana, podemos pensar em apoio para oficinas no Jampa Midias Livres, desconferencia no ENSOL e mesa redonda no #Edor
+[19:34] <teia> cronograma e conteudo.... tem tudo pra rolar
+[19:34] <mbrazz> peloo link vi que o organizador do ensol eh_foi de Recife, Secretaria de Educação e Cultura da Cidade do Recife
+[19:34] <teia> ajudo com a criacao das oficinas....
+[19:34] <dasilvaorg> 3. Vamo?! Passo a palavra!
+[19:34] <ste_> ensol de 11 a 14 de maio
+[19:35] <dasilvaorg> mbrazz: eh o anauhac
+[19:35] <teia> no ensol, creio q podemos propor acoes locais
+[19:35] <teia> entrar na programacao, mesmo
+[19:35] <ste_> pro ensol tava pensando com o ronaldo.eli de colocar umas açoes na area de arte com uso de SL
+[19:35] <mbrazz> e jampamidiaslivres nao pode rolar dentro do evento ensol? e' isso?
+[19:36] <leptavar_> interessante
+[19:36] <dasilvaorg> mbrazz: a ste_ jah ta articulada com um monte de gente
+[19:36] <mbrazz> simultaneo e paralelo, otimizando recursos
+[19:36] <dasilvaorg> mbrazz: a ste_ que pode dizer, eu acho que rola!
+[19:36] <ste_> acho que se ajeitarmos rola sim
+[19:37] <dasilvaorg> Pois eh
+[19:37] <ste_> agente colocaria o jampa nas midias livres simultaneo e de la iriamos pro edor, certo?
+[19:38] <mbrazz> e o de recife coladinho... eh facil translado jpa para recife?
+[19:38] <ste_> mto
+[19:38] <ste_> sao 100km
+[19:38] <leptavar_> é perto
+[19:39] <dasilvaorg> ste_: Isso, foi assim que pensei
+[19:39] <mbrazz> entao vou me hospedar no meio do caminho... ;D
+[19:39] <dasilvaorg> eh muito perto mesmo
+[19:39] <dasilvaorg> Entao a gente fazia umas brincadeiras interessantes
+[19:39] <ste_> hospedagem cabe uma galera em casa,
+[19:39] <dasilvaorg> marcava uma presenca no ENSOL
+[19:40] <dasilvaorg> difundia a ideia de Jampa Nas Midias Livres
+[19:40] == bailux [bd68db3c@gateway/web/freenode/ip.189.104.219.60] has joined #metareciclagem
+[19:40] <dasilvaorg> E batia um papo bacana no #EdoR, Algum comentario?!
+[19:40] <ste_> otima ideia
+[19:40] <mbrazz> o/
+[19:40] <bailux> aloisx bandos
+[19:41] <bailux> \0/
+[19:41] <teia> agenda massa!
+[19:41] <bailux> #tamojuntos
+[19:41] <leptavar_> bom formato
+[19:41] <teia> legal ter essas possibilidades e articulacoes
+[19:42] <mondegrass> salve bailux !
+[19:42] <ste_> da ate pra tentar articular parte do patrocinio com o proprio ensol
+[19:42] <bailux> metarecsx
+[19:42] <r_evangelista> pois é, ste_, não rola não?
+[19:43] <r_evangelista> alguem tem contato la?
+[19:43] <mbrazz> stella sugeriu edor depois de ensol_jpamidlivres, e antes ? o que acham?
+[19:43] <ste_> eu e dasilvaorg estamos com eles
+[19:43] <dasilvaorg> Fala bailux - Tudo em cima Regis?!
+[19:43] <r_evangelista> como eles estao de grana?
+[19:43] <bailux> feliz
+[19:43] <bailux> (-:
+[19:44] <bailux> voltando de uma caminhada na praia
+[19:44] <dasilvaorg> ste_: Eu nao acho que a gente deveria tentar ver isso com o ENSOL
+[19:44] <dasilvaorg> dasilvaorg: Pelo que tenho visto da organizacao
+[19:44] <dasilvaorg> eh melhor levarmos pro ENSOL algo pronto
+[19:44] <r_evangelista> entao beleza
+[19:44] <Paulo_Carvalho> voltei
+[19:44] <Paulo_Carvalho> li tudo
+[19:44] <dasilvaorg> e nao contarmo com apoio
+[19:45] <dasilvaorg> O ENSOL eh o evento de um pequeno grupo em JPA
+[19:45] <Paulo_Carvalho> era legal criarmos um cronograma com o que já temos
+[19:45] <dasilvaorg> e mais especificamente do anauac
+[19:45] <Paulo_Carvalho> aí teríamos uma idéia de onde colocarmos todas as ações do evento
+[19:45] <teia> acho legal a gente formatar o q podemos oferecer....
+[19:45] <dasilvaorg> Na minah opiniao eh um evento pra ser hackeado e nao para contarmos com apoio
+[19:45] <Paulo_Carvalho> sim
+[19:45] <ste_> eles sao bem enquadradinhos neh...isso e a parte foda.
+[19:46] <Paulo_Carvalho> hum
+[19:46] <mondegrass> entendo
+[19:46] <dasilvaorg> ste_: Pois eh
+[19:46] <dasilvaorg> Agora
+[19:46] <Paulo_Carvalho> por hackear você nos encontrarmos no outro evento e fazermos o nosso lá?
+[19:46] <dasilvaorg> Se a gente fizer uma movimentacao legal no ENSOL desse ano
+[19:46] <Paulo_Carvalho> usando a extrutura do evento?
+[19:47] <dasilvaorg> aih no proximo podemos pensar em trampar os apoios juntos
+[19:47] <dasilvaorg> porque aih jah estaremos com credibilidade junto aos caras
+[19:47] <mbrazz> olha soh, ensol foi evento grande em 2010: do site, Em 2010 contou com 718 participantes vindos de 18 estados e 6 países e 46 palestrantes.
+[19:47] <ste_> acho que rola isso sim
+[19:47] <mondegrass> entendi perfeitamente, orlando. e concordo.
+[19:48] <dasilvaorg> Eh, a estrutura deles eh muito facil de usar
+[19:48] <ste_> agente faria algo simultaneo na propria estacao ciencia
+[19:48] <dasilvaorg> porque tem varios espacos abertos para desconferencia
+[19:48] <dasilvaorg> e eles nao tem com o que preencher entendeu?
+[19:48] <mbrazz> opa, hora de dar uma sistematizada nas propostas ateh aqui... ;)
+[19:48] <ste_> o lugar é enorme
+[19:48] <dasilvaorg> boa mbrazz
+[19:49] <dasilvaorg> Vamo?!
+[19:49] <teia> isso....
+[19:49] <ste_> blz
+[19:49] <dasilvaorg> Alias, ateh que horas combinamos em levar essa reuniao?
+[19:49] <Paulo_Carvalho> sim, mas apresentamos a proposta de ocupação?
+[19:50] <mbrazz> temos 23 pessoas cadastradas com tags no edor...
+[19:50] <dasilvaorg> Paulo_Carvalho: Isso eh simples Paulo. Tanto eu quanto a ste_ vamos estar na organizacao, neh ste_ ?
+[19:50] <ste_> isso
+[19:50] <mbrazz> e estamso em 9 aqui
+[19:50] <Paulo_Carvalho> entendi
+[19:50] <Paulo_Carvalho> então vamos pensar nisso
+[19:51] <dasilvaorg> Queria deixar o mbrazz tocar essa conversa agora, vai veio!
+[19:51] <Paulo_Carvalho> a área é aberta?
+[19:51] <dasilvaorg> mbrazz: entao?
+[19:51] <Paulo_Carvalho> qual a limitaçao fisica que teremos?
+[19:52] <mbrazz> paulo, segura um pouco aih, ok ? ;)
+[19:52] <Paulo_Carvalho> certo
+[19:52] <Paulo_Carvalho> desculpe
+[19:52] <dasilvaorg> Paulo_Carvalho: o que o site do ENSOL nao responder tiro tua duvida em PVT orlando(at)webnos.org
+[19:52] <mbrazz> 1- definir datas, locais
+[19:53] <mbrazz> 2- quais recursos, para traçar plano de orcamento para passagens e hospedagens (inclusive hospedagens solidarias)
+[19:53] <mbrazz> 3- ocupação do ensol eh uma proposta forte
+[19:54] <mbrazz> 4- temos 23 pesssoas cadastradas para sugerir palestras, oficinas, etc
+[19:54] <mbrazz> 5- edor antes ou depos do ensol-jpamidias livres?
+[19:55] <mbrazz> 6- mandar este papo para a lista metarec
+[19:55] <mbrazz> 7- ter uma proposta geral definindo quem participa em uma semana
+[19:55] <mbrazz> 8- levar isso para organizacao do ensol
+[19:55] <mbrazz> completem, pls?
+[19:56] <dasilvaorg> Ok
+[19:56] <dasilvaorg> Posso seguir? Alguem quer completar primeiro?
+[19:56] <ste_> vai la
+[19:56] <teia> segue
+[19:57] <dasilvaorg> blz, o papo foi combinado ateh 20:30 local soh pra lembrar
+[19:58] <dasilvaorg> Vamos item por item do mbrazz entao e vejo que completo e que falta
+[19:59] <mondegrass> manda
+[19:59] <dasilvaorg> 1. datas, locais = As datas sao durante a semana do ENSOL ou seja, 14 a 14 maio 2011
+[20:00] <dasilvaorg> so que nesse periodo vamos tirar x dias para oficinas do Jampa nas Midias Livres e 2 ou 1 dia para mesa redonda do #Edor
+[20:00] <teia> certo
+[20:00] <ste_> 11 a 14 de maio
+[20:01] <dasilvaorg> A ideia eh pegar a galera pra se reunir em um dia e ocupar  ENSOL com desconferencias, se mudar para o Jampa nas Midias Livres no seguinte e fechar no #Edor
+[20:01] <ste_> poderiam ser 2 e 2
+[20:02] <dasilvaorg> 2. Recursos, o que temos ateh agora e o sinal do
+[20:02] <mbrazz> melhor, por causa de deslocamentos ...
+[20:02] <mbrazz> 2 e 2
+[20:02] <dasilvaorg> perai, deixa eu pegar o nome do cara aqui
+[20:03] <dasilvaorg> recursos, inicialmente temos um sinal do Alvaro Malaguti, que foi apresentado ao @LulaPCosta pelo r_evangelista
+[20:03] <dasilvaorg> para passagens, precisamos definir o que muito mais podemos correr atras e para que
+[20:04] <ste_> passagens, alojamento, alimentacao, infra se for o caso e traslado
+[20:04] <dasilvaorg> hospedagens solidarias = Vou alugar uma casa em JPA durante o periodo especificamente para isso, tenho que definir criterios de quem ficara por la
+[20:05] <ste_> hospedagens solidarias= minha casa de 2 quartos vazios tambem disponivel
+[20:05] <dasilvaorg> 3. Ocupacao do ENSOL, jah Eh!! nem tem o que discutir, so definir qual o dia (dias) e horario
+[20:06] <ste_> podemos definir os dias de acordo com o edor se este sera antes ou depois da ocupacao
+[20:06] <dasilvaorg> 4. sobre as 23 pessoas no wiki, a maioria fui eu quem coloquei, vamos ver isso com mais carinho e outros olhos
+[20:07] <teia> tenho q sair agora, pego o log depois, bjs agradecidos
+[20:07] <ste_> bjos teia
+[20:07] <mbrazz> :*
+[20:07] <mondegrass> o/
+[20:07] <dasilvaorg> 5. Na minha opiniao, edor depois do ENSOL, Pq antes?! Propostas?!
+[20:07] == teia [~IceChat7@201.91.254.154] has quit [Quit: Give a man a fish and he will eat for a day. Teach him how to fish, and he will sit in a boat and drink beer all day]
+[20:07] <dasilvaorg> bjo teia Valeu!!
+[20:07] <ste_> acho que antes rolaria porque chegariamos mais "entrosados" pra ocupar
+[20:08] <r_evangelista> bj, teia
+[20:08] <dasilvaorg> ste_: Gostei! Vamos pensar nisso entao
+[20:08] <mbrazz> tambem acho, stella
+[20:08] <r_evangelista> tb vou ter q sair, posso dar uma ultma sugestao?
+[20:08] <dasilvaorg> fala r_evangelista
+[20:08] <r_evangelista> acho a pagian do edor um bom primeiro ponto de partida
+[20:09] <r_evangelista> a ideia seria crescer aquilo principalmente com uma argumentacao mais de pesquisa
+[20:09] <r_evangelista> ai da pra batalhar dinheiro em agencias de fomento
+[20:09] <r_evangelista> e, talvez (estou pensando agora), cgi.br
+[20:09] <r_evangelista> eh isso
+[20:10] <r_evangelista> pra fazer projetinho mesmo
+[20:10] <dasilvaorg> r_evangelista: eh esse tipo de visao que precisamos conversar mais frequentemente
+[20:11] <dasilvaorg> r_evangelista: para irmos estruturando em documentacao
+[20:11] <ste_> eh o jeito
+[20:11] <mondegrass> vero
+[20:11] <dasilvaorg> r_evangelista: jah tah na lista metarec?
+[20:11] <r_evangelista> na pratica nao muda nada, os papos sao os mesmo
+[20:11] <r_evangelista> to em algum email q nao me lembro qual
+[20:11] <r_evangelista> vou me reinscrever com o principal
+[20:12] <r_evangelista> beleza, camaradas? vou nessa. bom encontrar vcs, vai ser bacana isso
+[20:12] <dasilvaorg> r_evangelista: entao, vamos articular os encontros sempre pela lista, como esse
+[20:12] <bailux> vou para uma jantinha aqui...estou na sintonia dos #bandos
+[20:12] <dasilvaorg> e as conversas sempre na wiki
+[20:12] <dasilvaorg> valeu bailux !
+[20:13] <mondegrass> inté bailux!
+[20:13] <ste_> inté
+[20:13] <dasilvaorg> bailux: abraco. queremos vc no Jampa Midias Livres #Edor
+[20:13] <bailux> abs do bando
+[20:13] <dasilvaorg> voltando entao
+[20:13] <bailux> ja é
+[20:13] == bailux [bd68db3c@gateway/web/freenode/ip.189.104.219.60] has quit [Quit: Page closed]
+[20:14] <dasilvaorg> 5. Edor, antes do Ensol entao, vamos mudar essa data. E a data do Jampa nas Midias Livres?
+[20:14] <r_evangelista> falou, abraco!
+[20:15] <mbrazz> pergunta: quem estah slavando o log??
+[20:15] <mbrazz> salvando
+[20:15] <dasilvaorg> r_evangelista: Abraco, brigadao
+[20:15] <dasilvaorg> r_evangelista: tamo firme nessa entao?
+[20:15] <r_evangelista> tamo junto
+[20:15] <dasilvaorg> mbrazz: to ligado, podexa
+[20:15] <ste_> edor para 9 e 10, ensol 11 a 14 e jml 12 e 13
+[20:15] <dasilvaorg> r_evangelista: #tamojunto
+[20:16] <dasilvaorg> entao, ninguem vai ficar os 4 dias do ensol por la
+[20:16] == r_evangelista [8f6a8c13@gateway/web/freenode/ip.143.106.140.19] has quit [Quit: Page closed]
+[20:16] <ste_> sim
+[20:16] <ste_> jml num vai ser parasita?
+[20:16] <dasilvaorg> ste_: Vamos marcar o Edor nos dois primeiros dias e ocupamos o ENSOL nos dois ultimos dias
+[20:16] <ste_> pode ser
+[20:17] <dasilvaorg> ste_:
+[20:17] <mondegrass> eu acho massa, viu
+[20:17] <mbrazz> parasita??
+[20:17] <ste_> diga
+[20:17] <ste_> parasita no bom sentido
+[20:17] <dasilvaorg> Mas na verdade soh precisamos ocupar o ENSOL 1 dia
+[20:17] <dasilvaorg> Entao acho que o mais sensato seria
+[20:17] <dasilvaorg> 1 dia #Edor, 2 dia JPA Midias Livres, 1 dia ENSOL. O que me diz?
+[20:18] <ste_> ok
+[20:18] <dasilvaorg> VAmos pensar nisso
+[20:18] <dasilvaorg> deixa eu fechar os pontos do mbrazz
+[20:18] <ste_> acho que entendi errado entao
+[20:18] <ste_> achei q fariamos o JML no ensol como forma de ocupaçao
+[20:19] <mbrazz> isso
+[20:19] <dasilvaorg> ste_: Ahh, claro.
+[20:19] <ste_> clareado
+[20:19] <dasilvaorg> Entao seria 1 dia de #Edor e 3 dias de ENSOL
+[20:19] <mbrazz> porque a conversa paralela rola de qualquer jeito ...
+[20:19] <ste_> sugeri 2 e 2
+[20:19] <ste_> um dia pra locomoçao e talz
+[20:20] <dasilvaorg> massa, massa
+[20:20] <dasilvaorg> entendi
+[20:20] <dasilvaorg> entendi agora,
+[20:20] <mondegrass> massa mesmo
+[20:20] <dasilvaorg> desculpe a minha lentidan
+[20:20] <ste_> posso encaixar as culturais do JML pra esse segundo dia de locomoçao
+[20:20] == barraponto [~quassel@187.106.37.178] has joined #metareciclagem
+[20:20] <dasilvaorg> 2 dias em Recife e 2 dias em JPA, a galera do Jampa nas Midias Livres e #MetaReciclagem
+[20:21] <dasilvaorg> eh porque to pensando na agenda careta, sacou
+[20:21] <dasilvaorg> ?
+[20:21] <ste_> yep
+[20:21] <dasilvaorg> Mas vamos lah entao
+[20:21] <Paulo_Carvalho> o JML também será durante toda a semana?
+[20:21] <dasilvaorg> ste_: Me ajuda a colocar isso no wiki e no site do JPA midias livres, neh?!
+[20:22] <dasilvaorg> Paulo_Carvalho: Nao, nesse caso serao dois dias de ocupacao no ENSOL, neh isso ste_ ?:
+[20:22] <ste_> ajudo
+[20:22] <ste_> isso
+[20:22] <ste_> pensei assim?
+[20:22] <ste_> :
+[20:23] <dasilvaorg> 6. Papo pra lista, Sem pro. Fechou aqui eu comunico e posto o log.
+[20:23] <ste_> um dia de endor com mesa redonda
+[20:23] <ste_> outro pra locomoçao ai agitaria as culturais por aqui pra quem fosse chegando
+[20:23] <ste_> ai 2 dias de ensol=JML
+[20:25] <dasilvaorg> blz  ste_ !
+[20:25] <Paulo_Carvalho> 6 dias ao todo
+[20:26] <ste_> nao
+[20:26] <ste_> 4
+[20:26] <mondegrass> folks, precisarei sair. deixo ligado e leio o log.
+[20:26] <mondegrass> abracos!
+[20:26] <mbrazz> abss
+[20:26] <ste_> abç
+[20:26] <dasilvaorg> 7. Proposta Geral. Vamos marcar um irc pra definir essa proposta com bases nas ideias de hoje?
+[20:26] <dasilvaorg> abraco mondegrass !
+[20:26] <dasilvaorg> tamo fechando ja mesmo
+[20:26] <dasilvaorg> 4 minutos mais
+[20:26] <mbrazz> uma semana de intervalo?
+[20:27] <Paulo_Carvalho> tá
+[20:27] <ste_> isso
+[20:27] <dasilvaorg> 8. Proposta pra org do ENSOL - Eu e a ste_ formulamos algo comunicamos e levamos, certo?!
+[20:27] <ste_> check
+[20:27] <dasilvaorg> Uma semana, por mim ok?!
+[20:28] <Paulo_Carvalho> então quarta que vem?
+[20:28] <Paulo_Carvalho> que horas
+[20:28] <mbrazz> pra levar ao Ensol jah precisa ter fechado quem vai, ok?
+[20:28] <ste_> quarta que vem
+[20:28] <Paulo_Carvalho> lembrando do horário de verão
+[20:28] <ste_> sim sim
+[20:28] <ste_> as 19 de brasilia?
+[20:28] <dasilvaorg> Marcamos proxima reuniao para quarta 2 de fevereiro 19h horario de Brasilia - 18 local!
+[20:29] <mbrazz> ok, horario for me
+[20:29] <dasilvaorg> Obrigado a todo mundo pro ajudar a estar fazendo isso aqui possivel, a tag do bailus diz tudo #bando
+[20:29] <dasilvaorg> *bailux
+[20:30] <dasilvaorg> Ate quarta que vem e os entremeios a gente vai falando por e-mail e gtalk ateh lah
+[20:30] <dasilvaorg> Beijo em todx!
+[20:30] <ste_> ate
+[20:30] <leptavar_> valeu
+[20:30] <ste_> #tamojunto
+[20:30] <Paulo_Carvalho> inté
+[20:30] <mbrazz> for_all... bjuss

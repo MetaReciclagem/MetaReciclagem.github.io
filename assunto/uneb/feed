@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - uneb</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/817/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>JuntaDados</title>
+ <link>http://rede.metareciclagem.org/esporo/JuntaDados</link>
+ <description>&lt;div class=&quot;form-item&quot;&gt;
+ &lt;label&gt;Descrição: &lt;/label&gt;
+ Pesquisa de soluções para descarte fsustentável de componentes eletrônicos 
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-situacao-esporo&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Situação do Esporo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    em planejamento        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/esporo/JuntaDados#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto-1">apropriação de tecnologia</category>
+ <category domain="http://rede.metareciclagem.org/assunto/baea">baea</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ecologia">ecologia</category>
+ <category domain="http://rede.metareciclagem.org/assunto/tecnologia">tecnologia</category>
+ <category domain="http://rede.metareciclagem.org/assunto/uneb">uneb</category>
+ <pubDate>Thu, 07 Jan 2010 15:38:32 +0000</pubDate>
+ <dc:creator>goa</dc:creator>
+ <guid isPermaLink="false">1834 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

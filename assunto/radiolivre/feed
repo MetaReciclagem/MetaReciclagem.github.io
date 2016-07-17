@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - radiolivre</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/319/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>TransmissaMovel</title>
+ <link>http://rede.metareciclagem.org/wiki/TransmissaMovel</link>
+ <description>&lt;p&gt;[&amp;quot;MetaReciclagem&amp;quot;] &amp;gt; [&amp;quot;Pesquisa&amp;quot;] &amp;gt; [&amp;quot;TransmissaMovel&amp;quot;]&lt;br /&gt;&lt;br /&gt;Seria uma placa compacta para:&lt;br /&gt;&amp;nbsp;1. conectar na rede;&lt;br /&gt;&amp;nbsp;1. transformar o streaming (encriptado, claro) em sinal de r&amp;aacute;dio;&lt;br /&gt;&amp;nbsp;1. codificar FM e dar sa&amp;iacute;da direto para a antena;&lt;br /&gt;&lt;br /&gt;a rede, idealmente &amp;eacute; wifi&amp;nbsp; e a alimenta&amp;ccedil;&amp;atilde;o&lt;br /&gt;de tudo &amp;eacute; um coletor solar com bateria. A&amp;iacute;, ningu&amp;eacute;m mais vai conseguir&lt;br /&gt;pegar uma emissora livre, porque pode pindurar numa janela de pr&amp;eacute;dio, e&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/TransmissaMovel&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/TransmissaMovel#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/hardware">hardware</category>
+ <category domain="http://rede.metareciclagem.org/assunto/pesquisa">pesquisa</category>
+ <category domain="http://rede.metareciclagem.org/assunto/radiolivre">radiolivre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/wifi">wifi</category>
+ <category domain="http://rede.metareciclagem.org/assunto/wireless">wireless</category>
+ <pubDate>Thu, 26 Jun 2008 12:34:47 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1387 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

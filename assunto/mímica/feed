@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - mímica</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/372/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>MiMiCaPub</title>
+ <link>http://rede.metareciclagem.org/wiki/MiMiCaPub</link>
+ <description>&lt;p&gt;MiMiCa&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;logo_mimica.png&quot; src=&quot;http://colab.info/logo_mimica.png&quot; /&gt;&lt;a title=&quot;MiMiCa Español&quot; href=&quot;http://colab.info/wiki/index.php/MiMiCa_Espa%C3%B1ol&quot; rel=&quot;nofollow&quot;&gt;&lt;br /&gt;
+&lt;/a&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/MiMiCaPub&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/MiMiCaPub#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/fsm">fsm</category>
+ <category domain="http://rede.metareciclagem.org/assunto/m%C3%ADmica">mímica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/olido">olido</category>
+ <category domain="http://rede.metareciclagem.org/assunto/piolim">piolim</category>
+ <category domain="http://rede.metareciclagem.org/assunto/sampa">sampa</category>
+ <category domain="http://rede.metareciclagem.org/assunto/sp">sp</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/M%C3%ADMiCa" xmlns="http://drupal.org/project/og">MíMiCa</group>
+ <pubDate>Fri, 19 Sep 2008 23:01:01 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1437 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>MiMiCa</title>
+ <link>http://rede.metareciclagem.org/wiki/MiMiCa</link>
+ <description>&lt;pre&gt;
+MiMiCaPub
+
+O interessante do discurso de apropria&amp;ccedil;&amp;atilde;o &amp;eacute; quando grupos ou pessoas se tornam donos do criado
+e fazem parte da constante transforma&amp;ccedil;&amp;atilde;o do mesmo. Quando um trabalho coletivo beneficia somente
+um grupo, ou pessoas isoladas, perde-se o sentido real de todo o discurso.
+&lt;/pre&gt;
+&lt;h2&gt;O qu&amp;ecirc;&lt;/h2&gt;
+&lt;p&gt;Laborat&amp;oacute;rio paralelo ao F&amp;oacute;rum Social Mundial polic&amp;ecirc;ntrico.&lt;/p&gt;
+&lt;h2&gt;Quando&lt;/h2&gt;
+&lt;p&gt;De 23 a 29 de janeiro de 2006.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/MiMiCa&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/MiMiCa#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/fsm">fsm</category>
+ <category domain="http://rede.metareciclagem.org/assunto/m%C3%ADmica">mímica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/olido">olido</category>
+ <category domain="http://rede.metareciclagem.org/assunto/piolim">piolim</category>
+ <category domain="http://rede.metareciclagem.org/assunto/s-o-paulo">são paulo</category>
+ <category domain="http://rede.metareciclagem.org/assunto/sp">sp</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/M%C3%ADMiCa" xmlns="http://drupal.org/project/og">MíMiCa</group>
+ <pubDate>Fri, 19 Sep 2008 22:56:48 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1436 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - editorx</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/720/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>MutiraoComoEditar</title>
+ <link>http://rede.metareciclagem.org/wiki/MutiraoComoEditar</link>
+ <description>&lt;p&gt;O Editorx:&lt;/p&gt;
+&lt;p&gt;* Coleta conte&amp;uacute;do encontrado em outros sites com o tipo de conte&amp;uacute;do &amp;quot;fonte&amp;quot; &lt;/p&gt;
+&lt;p&gt;* Tagueia o conte&amp;uacute;do coletado, clicando na tab &amp;quot;Tags&amp;quot; na visualiza&amp;ccedil;&amp;atilde;o individual de Fontes&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/MutiraoComoEditar#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/editorx">editorx</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mutir%C3%A3o-da-gambiarra">mutirão da gambiarra</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Wed, 02 Sep 2009 14:30:37 +0000</pubDate>
+ <dc:creator>o2</dc:creator>
+ <guid isPermaLink="false">1710 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

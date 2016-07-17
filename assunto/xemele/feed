@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - xemele</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/306/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Drupal e mapas livres</title>
+ <link>http://rede.metareciclagem.org/blog/19-03-10/Drupal-e-mapas-livres</link>
+ <description>&lt;p&gt;Estou desenvolvendo um site para hospedar um mapeamento ecol&amp;oacute;gico e cultural de UbaTuba. J&amp;aacute; temos alguma experi&amp;ecirc;ncia com mapas no site da MetaReciclagem, onde usamos os m&amp;oacute;dulos &lt;a href=&quot;http://drupal.org/project/location&quot; rel=&quot;nofollow&quot;&gt;location&lt;/a&gt; e &lt;a href=&quot;http://drupal.org/project/gmaps&quot; rel=&quot;nofollow&quot;&gt;gmaps&lt;/a&gt; para situar grupos e conte&amp;uacute;do (por exemplo, &lt;a href=&quot;/map/node&quot; rel=&quot;nofollow&quot;&gt;nesse mapa&lt;/a&gt;).&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/19-03-10/Drupal-e-mapas-livres&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/19-03-10/Drupal-e-mapas-livres#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/geo">geo</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mapas">mapas</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metadev">metadev</category>
+ <category domain="http://rede.metareciclagem.org/assunto/xemele">xemele</category>
+ <group domain="http://rede.metareciclagem.org/esporo/UbaLab" xmlns="http://drupal.org/project/og">UbaLab</group>
+ <pubDate>Fri, 19 Mar 2010 17:20:14 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1890 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>DrupalOpenLayers</title>
+ <link>http://rede.metareciclagem.org/wiki/DrupalOpenLayers</link>
+ <description>&lt;p&gt;Documentando o processo de configura&amp;ccedil;&amp;atilde;o de um site em &lt;a href=&quot;http://drupal.org&quot; rel=&quot;nofollow&quot;&gt;drupal&lt;/a&gt; para mapeamento colaborativo.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Documentando o processo:&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/DrupalOpenLayers&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/DrupalOpenLayers#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/geo">geo</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metadev">metadev</category>
+ <category domain="http://rede.metareciclagem.org/assunto/xemele">xemele</category>
+ <group domain="http://rede.metareciclagem.org/esporo/UbaLab" xmlns="http://drupal.org/project/og">UbaLab</group>
+ <pubDate>Fri, 19 Mar 2010 17:13:28 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1889 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Jardins e a infralógica metarecicleira</title>
+ <link>http://rede.metareciclagem.org/blog/12-08-09/Jardins-e-infral%C3%B3gica-metarecicleira</link>
+ <description>&lt;p&gt;Mandei um post na &lt;a href=&quot;http://lista.metareciclagem.org&quot; rel=&quot;nofollow&quot;&gt;lista&lt;/a&gt; na thread que o mbraz come&amp;ccedil;ou sobre &lt;a href=&quot;http://thread.gmane.org/gmane.politics.organizations.metareciclagem/30726&quot; rel=&quot;nofollow&quot;&gt;Bauman&lt;/a&gt;, trazendo um pouco a conversa sobre jardinagem pro contexto da infral&amp;oacute;gica metarecicleira:&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/12-08-09/Jardins-e-infral%C3%B3gica-metarecicleira&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/12-08-09/Jardins-e-infral%C3%B3gica-metarecicleira#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/jardinagem">jardinagem</category>
+ <category domain="http://rede.metareciclagem.org/assunto/wiki">wiki</category>
+ <category domain="http://rede.metareciclagem.org/assunto/xemele">xemele</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Wed, 12 Aug 2009 17:42:21 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1634 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>PensandoComDpadua</title>
+ <link>http://rede.metareciclagem.org/wiki/PensandoComDpadua</link>
+ <description>&lt;p&gt;Daniel: viu minha resposta, mestre?&lt;br /&gt;&lt;br /&gt;me: estou redigindo uma outra pra ti...&lt;br /&gt;&lt;br /&gt;ce vai gostar...&lt;br /&gt;&lt;br /&gt;ce &amp;eacute; foda... ce me ganhou para a discuss&amp;atilde;o...&lt;br /&gt;&lt;br /&gt;coisa que eu vinha fugindo a um tempo...&lt;br /&gt;&lt;br /&gt;hehehehe&lt;br /&gt;&lt;br /&gt;Daniel: [grin]&lt;br /&gt;&lt;br /&gt;me: t&amp;ocirc; pirando que at&amp;eacute; interney apareceu na lista do meta...&lt;br /&gt;&lt;br /&gt;Daniel: sei l&amp;aacute;, acho que voc&amp;ecirc; &amp;eacute; especial demais na hist&amp;oacute;ria pra fugir. assim como outras pessoas.&lt;br /&gt;&lt;br /&gt;me: parece que virou novo p&amp;oacute;lo atrator de novo....&lt;br /&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/PensandoComDpadua&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/PensandoComDpadua#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/chat">chat</category>
+ <category domain="http://rede.metareciclagem.org/assunto/livenodes">livenodes</category>
+ <category domain="http://rede.metareciclagem.org/assunto/xemele">xemele</category>
+ <pubDate>Thu, 26 Jun 2008 11:32:33 +0000</pubDate>
+ <dc:creator>dmartins</dc:creator>
+ <guid isPermaLink="false">1368 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

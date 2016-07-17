@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - editais</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/594/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>MicroReciclagem</title>
+ <link>http://rede.metareciclagem.org/wiki/MicroReciclagem</link>
+ <description>&lt;p&gt;O&amp;nbsp;projeto MicroReciclagem consiste em um programa de apoio a microprojetos de MetaReciclagem em todo o Brasil (e al&amp;eacute;m), a partir de uma chamada aberta. Dez projetos ser&amp;atilde;o selecionados para apoio por um per&amp;iacute;odo inicial de dois meses. Cada projeto ter&amp;aacute; 1 interlocutorx selecionadx entre pessoas com hist&amp;oacute;rico de atua&amp;ccedil;&amp;atilde;o na rede MetaReciclagem.&lt;/p&gt;
+&lt;p&gt;Os projetos receber&amp;atilde;o aconselhamento e suporte do grupo emergente de interlocutorxs. O projeto&amp;nbsp;poder&amp;aacute; prever compra de equipamentos de baixo custo, participa&amp;ccedil;&amp;atilde;o em eventos, ajuda de custo, contrata&amp;ccedil;&amp;atilde;o de servi&amp;ccedil;os ou outras finalidades, debatidas com a rede de interlocu&amp;ccedil;&amp;atilde;o. A rede de interlocu&amp;ccedil;&amp;atilde;o tamb&amp;eacute;m determinar&amp;aacute; a contrapartida exigida (que sempre incluir&amp;aacute; no m&amp;iacute;nimo a publica&amp;ccedil;&amp;atilde;o de relatos no site da rede MetaReciclagem).&lt;/p&gt;
+&lt;p&gt;Ser&amp;atilde;o aplicados nos microprojetos o valor total de R$ 10.000,00 (R$ 1.000,00 por projeto) e reservado igual valor para um &lt;em&gt;fundo de reserva&lt;/em&gt; - que poder&amp;aacute; investir em ajuda de custo para interlocutorxs, eventual necessidade de equipamentos de maior custo, ou outras demandas que surjam ao longo do processo.&lt;/p&gt;
+&lt;p&gt;O programa MicroReciclagem ser&amp;aacute; desenvolvido em parceria da rede MetaReciclagem com a associa&amp;ccedil;&amp;atilde;o &lt;a href=&quot;http://www.agentecidadao.org.br&quot; rel=&quot;nofollow&quot;&gt;Agente Cidad&amp;atilde;o&lt;/a&gt; e o&amp;nbsp;&lt;a href=&quot;http://pub.descentro.org&quot; rel=&quot;nofollow&quot;&gt;DesCentro&lt;/a&gt;. Est&amp;aacute; sendo planejado por &lt;a href=&quot;/pessoa/efeefe&quot; rel=&quot;nofollow&quot;&gt;Felipe Fonseca&lt;/a&gt;, &lt;a href=&quot;/pessoa/tatianarprado&quot; rel=&quot;nofollow&quot;&gt;Tati Prado&lt;/a&gt;, &lt;a href=&quot;/pessoa/ricardoruiz&quot; rel=&quot;nofollow&quot;&gt;Ricardo Ruiz&lt;/a&gt;, &lt;a href=&quot;/pessoa/dmartins&quot; rel=&quot;nofollow&quot;&gt;Dalton Martins&lt;/a&gt; e Ike Moraes.&lt;/p&gt;
+&lt;h3&gt;Candidatxs ao conselho de interlocu&amp;ccedil;&amp;atilde;o&lt;/h3&gt;
+&lt;p&gt;Pessoas que podem ser indicadas como interlocutorxs de projetos&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;/pessoa/efeefe&quot; rel=&quot;nofollow&quot;&gt;efeefe&lt;/a&gt;&amp;nbsp;(Felipe Fonseca)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/pessoa/dmartins&quot; rel=&quot;nofollow&quot;&gt;dmartins&lt;/a&gt;&amp;nbsp;(Dalton Martins)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/pessoa/ricardoruiz&quot; rel=&quot;nofollow&quot;&gt;ricardoruiz&lt;/a&gt;&amp;nbsp;(Ricardo Ruiz)&lt;/li&gt;
+	&lt;li&gt;...&lt;/li&gt;&lt;/ul&gt;
+&lt;h2&gt;Pontos importantes a definir:&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;strike&gt;Formato legal do repasse de verba&lt;/strike&gt; - n&amp;atilde;o ser&amp;aacute; necess&amp;aacute;rio pelo valor.&lt;/li&gt;
+	&lt;li&gt;Texto da chamada - na p&amp;aacute;gina MicroChamada.&lt;/li&gt;
+	&lt;li&gt;Ambiente online para envio de propostas, conversas com a rede de apoio e decis&amp;atilde;o (integrado ao site da MetaReciclagem).
+		&lt;ul&gt;
+			&lt;li&gt;Sugest&amp;atilde;o: um CCK, com visualiza&amp;ccedil;&amp;atilde;o restrita a princ&amp;iacute;pio para uma role espec&amp;iacute;fica (workflow - post n&amp;atilde;o &amp;eacute; publicado, envia mensagem para role). Com anexos, coment&amp;aacute;rios e vota&amp;ccedil;&amp;atilde;o. Post precisa estar dentro de um grupo. Pode criar um grupo s&amp;oacute; pra ele, enviar em grupo existente, ou enviar no grupo &lt;a href=&quot;/conectaz/MicroReciclagem&quot; rel=&quot;nofollow&quot;&gt;MicroReciclagem&lt;/a&gt;. Ap&amp;oacute;s apreciado pelo grupo de interlocu&amp;ccedil;&amp;atilde;o, o post &amp;eacute; publicado.&lt;/li&gt;
+			&lt;li&gt;Mesmo os posts n&amp;atilde;o selecionados para apoio imediato ficar&amp;atilde;o dispon&amp;iacute;veis no site, com licen&amp;ccedil;a livre (talvez CC-BY-SA, algu&amp;eacute;m discorda?)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+	&lt;li&gt;Cronograma - come&amp;ccedil;a agora, e vai indo!&lt;/li&gt;&lt;/ul&gt;
+&lt;h2&gt;Outras sugest&amp;otilde;es:&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;strike&gt;Todas as propostas de projeto (mesmo as n&amp;atilde;o escolhidas) continuam dispon&amp;iacute;veis com licen&amp;ccedil;as livres no site da MetaReciclagem, e integrantes da rede podem continuar a colaborar com os projetos depois do programa.&lt;/strike&gt; - incorporado acima&lt;/li&gt;
+	&lt;li&gt;&lt;strike&gt;O&amp;nbsp;programa MicroReciclagem pode definir uma forma de receber mais recursos, na forma de doa&amp;ccedil;&amp;otilde;es pessoais ou organizacionais, que possibilitem que se distribuam mais bolsas, ou ent&amp;atilde;o que se organize um fundo para pr&amp;oacute;ximas edi&amp;ccedil;&amp;otilde;es do programa&lt;/strike&gt;. Vamos deixar isso org&amp;acirc;nico - cada projeto define caminhos alternativos de capta&amp;ccedil;&amp;atilde;o.&lt;/li&gt;
+	&lt;li&gt;&lt;strike&gt;&amp;Eacute; poss&amp;iacute;vel experimentar propostas que incluam diferentes integrantes/simpatizantes da Rede, em que a figura do &amp;quot;orientador&amp;quot; pode ser substitu&amp;iacute;da pelo &amp;quot;interlocutor&amp;quot;. Ou seja, aqueles que desejarem apresentar projetos tamb&amp;eacute;m indicam pessoas com as quais gostariam de dialogar para colocar suas ideias&amp;nbsp; &amp;quot;em pr&amp;aacute;tica&amp;quot;. A rede de apoio amplia as sugest&amp;otilde;es pra se chegar &amp;agrave; defini&amp;ccedil;&amp;atilde;o do interlocutor, cujo papel &amp;eacute; estimular e garantir a realiza&amp;ccedil;&amp;atilde;o do projeto.&lt;/strike&gt; J&amp;aacute; mudamos a nomenclatura e as responsabilidades dx interlocutorx.&lt;/li&gt;&lt;/ul&gt;
+&lt;h2&gt;Come&amp;ccedil;o da conversa:&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://rede.metareciclagem.org/evento/Reuni%C3%A3o-IRC&quot; rel=&quot;nofollow&quot;&gt;Reuni&amp;atilde;o no IRC&lt;/a&gt; em 23/07&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;/wiki/RecursosMidiaLivre&quot; rel=&quot;nofollow&quot;&gt;Defini&amp;ccedil;&amp;otilde;es gerais&lt;/a&gt; sobre os recursos do pr&amp;ecirc;mio de m&amp;iacute;dia livre&lt;/li&gt;&lt;/ul&gt;
+&lt;h2&gt;Implementando&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;Inscrevemos a MetaRecursos, trabalhando com tr&amp;ecirc;s eixos (infral&amp;oacute;gica, microreciclagem e um encontro), al&amp;eacute;m de uma publica&amp;ccedil;&amp;atilde;o ao fim do processo,&amp;nbsp;no edital Economia Viva do Minc (abril 2010). Projeto b&amp;aacute;sico &lt;a href=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/metarecursos_economiaviva.pdf &quot; rel=&quot;nofollow&quot;&gt;em anexo&lt;/a&gt;. &lt;em&gt;N&amp;atilde;o foi selecionado. Mas temos sinaliza&amp;ccedil;&amp;atilde;o de apoio para uma segunda edi&amp;ccedil;&amp;atilde;o do projeto no pr&amp;oacute;ximo ano.&lt;/em&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;h2&gt;Refer&amp;ecirc;ncias:&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.tandatanda.org/&quot; rel=&quot;nofollow&quot;&gt;Tandatanda&lt;/a&gt;, projeto de microfinanciamento de projetos art&amp;iacute;sticos&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://rede.acessasp.sp.gov.br/&quot; rel=&quot;nofollow&quot;&gt;Rede de Projetos&lt;/a&gt; do Acessa SP&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://pub.descentro.org/fundododoidao&quot; rel=&quot;nofollow&quot;&gt;Fundo do Doid&amp;atilde;o&lt;/a&gt;, do DesCentro&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.spacebank.org/&quot; rel=&quot;nofollow&quot;&gt;Spacebank&lt;/a&gt;, um e-banco de m&amp;iacute;dia t&amp;aacute;tica&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://pt.wikipedia.org/wiki/Microcr%C3%A9dito&quot; rel=&quot;nofollow&quot;&gt;Microcr&amp;eacute;dito&lt;/a&gt; na Wikipedia&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.kiva.org/&quot; rel=&quot;nofollow&quot;&gt;Kiva&lt;/a&gt;, empr&amp;eacute;stimos que salvam vidas&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.terrauna.org.br/interacoesflorestais/IF.html&quot; rel=&quot;nofollow&quot;&gt;Intera&amp;ccedil;&amp;otilde;es florestais&lt;/a&gt;, projeto do Terrauna que realizou um sub-edital&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.kickstarter.com/&quot; rel=&quot;nofollow&quot;&gt;Kickstart&lt;/a&gt;, plataforma para peer funding&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://lasindias.coop/hawala-descripcion-y-funcionalidades/&quot; rel=&quot;nofollow&quot;&gt;Hawala&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.dyndy.net/&quot; rel=&quot;nofollow&quot;&gt;DYNDY&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/MicroReciclagem#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/editais">editais</category>
+ <category domain="http://rede.metareciclagem.org/assunto/microreciclagem">microreciclagem</category>
+ <category domain="http://rede.metareciclagem.org/assunto/projetos">projetos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/recursos">recursos</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/metarecursos_economiaviva.pdf" length="125444" type="application/pdf" />
+ <pubDate>Sat, 12 Feb 2011 01:22:13 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1648 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>MetaRecursosEconomiaViva</title>
+ <link>http://rede.metareciclagem.org/wiki/MetaRecursosEconomiaViva</link>
+ <description>&lt;p&gt;MetaRecursos &amp;gt; MetaRecursosEconomiaViva&lt;/p&gt;
+&lt;p&gt;
+A MetaRecursos foi inscrita no edital de Economia Viva do Minist&amp;eacute;rio da Cultura (abril 2010).&amp;nbsp;Projeto&amp;nbsp;&lt;a href=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/metarecursos_economiaviva.pdf&quot; rel=&quot;nofollow&quot;&gt;em anexo&lt;/a&gt;.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/MetaRecursosEconomiaViva#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/editais">editais</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metarecursos">metarecursos</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/MetaRecursos" xmlns="http://drupal.org/project/og">MetaRecursos</group>
+ <pubDate>Thu, 10 Feb 2011 18:12:51 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2009 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Ubalab - Esporo de Cultura Digital!</title>
+ <link>http://rede.metareciclagem.org/blog/29-07-10/Ubalab-Esporo-de-Cultura-Digital</link>
+ <description>&lt;p&gt;O projeto UbaLab foi um dos premiados no edital de &lt;a href=&quot;http://www.cultura.gov.br/site/2010/03/10/edital-cultura-digital-2010/&quot; rel=&quot;nofollow&quot;&gt;Esporos de Cultura Digital&lt;/a&gt; do Minist&amp;eacute;rio da Cultura. O projeto enviado (&lt;a href=&quot;http://rede.metareciclagem.org/wiki/UbaLab&quot; rel=&quot;nofollow&quot;&gt;esse aqui&lt;/a&gt;) ganhou na categoria local. Vamos trabalhar em alguns eixos: mapeamento, MetaReciclagem, cultura digital e livre, interc&amp;acirc;mbio internacional. Se tudo der certo, tamb&amp;eacute;m queremos organizar um encontr&amp;atilde;o de MetaReciclagem.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/29-07-10/Ubalab-Esporo-de-Cultura-Digital&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/29-07-10/Ubalab-Esporo-de-Cultura-Digital#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/editais">editais</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metarecursos">metarecursos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ubalab">ubalab</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ubatuba">ubatuba</category>
+ <group domain="http://rede.metareciclagem.org/esporo/UbaLab" xmlns="http://drupal.org/project/og">UbaLab</group>
+ <pubDate>Thu, 29 Jul 2010 21:29:36 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1940 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Editais - Funarte / Minc</title>
+ <link>http://rede.metareciclagem.org/blog/20-04-10/Editais-Funarte-Minc</link>
+ <description>&lt;p&gt;A Funarte e o Minc publicaram mais &lt;a href=&quot;http://www.cultura.gov.br/site/2010/04/20/editais-2010-da-funarteminc/&quot; rel=&quot;nofollow&quot;&gt;uma s&amp;eacute;rie de editais&lt;/a&gt;, estes mais voltados para produ&amp;ccedil;&amp;atilde;o art&amp;iacute;stica.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/20-04-10/Editais-Funarte-Minc#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/editais">editais</category>
+ <category domain="http://rede.metareciclagem.org/assunto/funarte">funarte</category>
+ <category domain="http://rede.metareciclagem.org/assunto/minc">minc</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/MetaRecursos" xmlns="http://drupal.org/project/og">MetaRecursos</group>
+ <pubDate>Tue, 20 Apr 2010 19:36:53 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1906 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>MetaTuxaua</title>
+ <link>http://rede.metareciclagem.org/wiki/MetaTuxaua</link>
+ <description>&lt;p&gt;Projetos metarecicleiros enviados para o pr&amp;ecirc;mio Tux&amp;aacute;ua 2010.&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Lelex, C&amp;oacute;digos da Vida (em anexo &lt;a href=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/tuxaua_lelex_1.pdf &quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;).&lt;/li&gt;
+&lt;/ul&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/MetaTuxaua#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/editais">editais</category>
+ <category domain="http://rede.metareciclagem.org/assunto/pontos-de-cultura">pontos de cultura</category>
+ <category domain="http://rede.metareciclagem.org/assunto/projetos">projetos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/tuxaua">tuxaua</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/MetaRecursos" xmlns="http://drupal.org/project/og">MetaRecursos</group>
+ <pubDate>Mon, 19 Apr 2010 18:44:29 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1903 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Projetos de abril</title>
+ <link>http://rede.metareciclagem.org/blog/15-04-10/Projetos-de-abril</link>
+ <description>&lt;p&gt;Esse &amp;eacute; um m&amp;ecirc;s lotado de editais do &lt;a href=&quot;http://www.cultura.gov.br/site/categoria/editais-ministerio-da-cultura/&quot; rel=&quot;nofollow&quot;&gt;Minist&amp;eacute;rio da Cultura&lt;/a&gt;, e pra aproveitar o embalo a gente articulou diferentes equipes de trabalho e parcerias para alguns desses editais.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/15-04-10/Projetos-de-abril&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/15-04-10/Projetos-de-abril#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/editais">editais</category>
+ <category domain="http://rede.metareciclagem.org/assunto/encontr%C3%A3o">encontrão</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metarecursos">metarecursos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/microreciclagem">microreciclagem</category>
+ <category domain="http://rede.metareciclagem.org/assunto/projetos">projetos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ubatuba">ubatuba</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/MicroReciclagem" xmlns="http://drupal.org/project/og">MicroReciclagem</group>
+ <pubDate>Thu, 15 Apr 2010 16:10:20 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1900 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>UbaLab</title>
+ <link>http://rede.metareciclagem.org/wiki/UbaLab</link>
+ <description>&lt;p&gt;Proposta para o desenvolvimento de um Esporo de MetaReciclagem em Ubatuba. Desenvolvido pela Associa&amp;ccedil;&amp;atilde;o Gaivota e inscrito no edital de Cultura Digital do Minist&amp;eacute;rio da Cultura (abril 2010). Proposta enviada,&amp;nbsp;&lt;a href=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/ubalab_culturadigital.pdf &quot; rel=&quot;nofollow&quot;&gt;em anexo&lt;/a&gt;.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/UbaLab#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/editais">editais</category>
+ <category domain="http://rede.metareciclagem.org/assunto-0">esporos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/projetos">projetos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/tropical">tropical</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ubatuba">ubatuba</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/ubalab_culturadigital.pdf" length="103426" type="application/pdf" />
+ <group domain="http://rede.metareciclagem.org/esporo/UbaLab" xmlns="http://drupal.org/project/og">UbaLab</group>
+ <pubDate>Thu, 15 Apr 2010 13:53:09 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1899 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>EncontraoTropical</title>
+ <link>http://rede.metareciclagem.org/wiki/EncontraoTropical</link>
+ <description>&lt;p&gt;Proposta de realiza&amp;ccedil;&amp;atilde;o do Encontr&amp;atilde;o Tropical de MetaReciclagem em Ubatuba/SP. O projeto foi desenvolvido em parceria com o Agente Cidad&amp;atilde;o e inscrito no edital Aret&amp;eacute;s do Minist&amp;eacute;rio da Cultura (abril 2010). Projeto b&amp;aacute;sico &lt;a href=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/encontraotropical.pdf &quot; rel=&quot;nofollow&quot;&gt;em anexo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Atualizando:&lt;/strong&gt; o projeto n&amp;atilde;o foi selecionado. Mas ainda vamos tentar de outras formas.&amp;nbsp;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/EncontraoTropical&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/EncontraoTropical#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/editais">editais</category>
+ <category domain="http://rede.metareciclagem.org/assunto/encontr%C3%A3o">encontrão</category>
+ <category domain="http://rede.metareciclagem.org/assunto/projetos">projetos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/tropical">tropical</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ubatuba">ubatuba</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/encontraotropical.pdf" length="500351" type="application/pdf" />
+ <group domain="http://rede.metareciclagem.org/esporo/agente-cidad%C3%A3o" xmlns="http://drupal.org/project/og">Agente Cidadão</group>
+ <group domain="http://rede.metareciclagem.org/esporo/UbaLab" xmlns="http://drupal.org/project/og">UbaLab</group>
+ <group domain="http://rede.metareciclagem.org/conectaz/MetaRecursos" xmlns="http://drupal.org/project/og">MetaRecursos</group>
+ <pubDate>Thu, 15 Apr 2010 13:48:56 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1898 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Reunião MetaRecursos / Economia Viva</title>
+ <link>http://rede.metareciclagem.org/wiki/Reuniao-MetaRecursos-Economia-Viva</link>
+ <description>&lt;p&gt;Reuni&amp;atilde;o no canal #metareciclagem do freenode.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Presentes:&lt;/strong&gt; efeefe, Orlando, Douglas, Regi.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Assuntos:&lt;/strong&gt; conversamos sobre possibilidades de participa&amp;ccedil;&amp;atilde;o da MetaReciclagem no edital de Economia Viva do Minc. Propusemos o desenvolvimento de dois projetos: um para estabelecer uma rede de projetos de MetaReciclagem nos moldes da MicroReciclagem; outro para estudar alternativas desustentabilidade em dois ou tr&amp;ecirc;s projetos de MetaReciclagem.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/Reuniao-MetaRecursos-Economia-Viva&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Reuniao-MetaRecursos-Economia-Viva#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/editais">editais</category>
+ <category domain="http://rede.metareciclagem.org/assunto/irc">irc</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metarecursos">metarecursos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/microreciclagem">microreciclagem</category>
+ <category domain="http://rede.metareciclagem.org/assunto/reuni%C3%A3o">reunião</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/2010-03-19.101410-0300BRT.txt" length="25104" type="text/plain" />
+ <group domain="http://rede.metareciclagem.org/conectaz/MetaRecursos" xmlns="http://drupal.org/project/og">MetaRecursos</group>
+ <pubDate>Fri, 19 Mar 2010 15:19:44 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1888 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Editais Minc 2010</title>
+ <link>http://rede.metareciclagem.org/wiki/Editais-Minc-2010</link>
+ <description>&lt;p&gt;Reuni&amp;atilde;o no canal #metareciclagem do freenode, falando sobre quais projetos de MetaReciclagem podem entrar nos editais.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Presentes:&lt;/strong&gt; efeefe, dmartins, maira, barraponto, andressa, avena, yaso, orlando, silia.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/Editais-Minc-2010&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Editais-Minc-2010#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/editais">editais</category>
+ <category domain="http://rede.metareciclagem.org/assunto/irc">irc</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metarecursos">metarecursos</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/2010-03-15.171434-0300BRT.txt" length="17543" type="text/plain" />
+ <group domain="http://rede.metareciclagem.org/conectaz/MetaRecursos" xmlns="http://drupal.org/project/og">MetaRecursos</group>
+ <pubDate>Tue, 16 Mar 2010 17:02:32 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1886 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

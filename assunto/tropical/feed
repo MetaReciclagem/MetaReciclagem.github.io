@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - tropical</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/849/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>UbaLab</title>
+ <link>http://rede.metareciclagem.org/wiki/UbaLab</link>
+ <description>&lt;p&gt;Proposta para o desenvolvimento de um Esporo de MetaReciclagem em Ubatuba. Desenvolvido pela Associa&amp;ccedil;&amp;atilde;o Gaivota e inscrito no edital de Cultura Digital do Minist&amp;eacute;rio da Cultura (abril 2010). Proposta enviada,&amp;nbsp;&lt;a href=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/ubalab_culturadigital.pdf &quot; rel=&quot;nofollow&quot;&gt;em anexo&lt;/a&gt;.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/UbaLab#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/editais">editais</category>
+ <category domain="http://rede.metareciclagem.org/assunto-0">esporos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/projetos">projetos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/tropical">tropical</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ubatuba">ubatuba</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/ubalab_culturadigital.pdf" length="103426" type="application/pdf" />
+ <group domain="http://rede.metareciclagem.org/esporo/UbaLab" xmlns="http://drupal.org/project/og">UbaLab</group>
+ <pubDate>Thu, 15 Apr 2010 13:53:09 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1899 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>EncontraoTropical</title>
+ <link>http://rede.metareciclagem.org/wiki/EncontraoTropical</link>
+ <description>&lt;p&gt;Proposta de realiza&amp;ccedil;&amp;atilde;o do Encontr&amp;atilde;o Tropical de MetaReciclagem em Ubatuba/SP. O projeto foi desenvolvido em parceria com o Agente Cidad&amp;atilde;o e inscrito no edital Aret&amp;eacute;s do Minist&amp;eacute;rio da Cultura (abril 2010). Projeto b&amp;aacute;sico &lt;a href=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/encontraotropical.pdf &quot; rel=&quot;nofollow&quot;&gt;em anexo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Atualizando:&lt;/strong&gt; o projeto n&amp;atilde;o foi selecionado. Mas ainda vamos tentar de outras formas.&amp;nbsp;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/EncontraoTropical&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/EncontraoTropical#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/editais">editais</category>
+ <category domain="http://rede.metareciclagem.org/assunto/encontr%C3%A3o">encontrão</category>
+ <category domain="http://rede.metareciclagem.org/assunto/projetos">projetos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/tropical">tropical</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ubatuba">ubatuba</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/encontraotropical.pdf" length="500351" type="application/pdf" />
+ <group domain="http://rede.metareciclagem.org/esporo/agente-cidad%C3%A3o" xmlns="http://drupal.org/project/og">Agente Cidadão</group>
+ <group domain="http://rede.metareciclagem.org/esporo/UbaLab" xmlns="http://drupal.org/project/og">UbaLab</group>
+ <group domain="http://rede.metareciclagem.org/conectaz/MetaRecursos" xmlns="http://drupal.org/project/og">MetaRecursos</group>
+ <pubDate>Thu, 15 Apr 2010 13:48:56 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1898 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

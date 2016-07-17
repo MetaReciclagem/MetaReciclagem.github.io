@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - linguagem comum</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/806/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>InclusaoDigitalOrlando</title>
+ <link>http://rede.metareciclagem.org/wiki/InclusaoDigitalOrlando</link>
+ <description>&lt;p&gt;O texto&amp;nbsp; a seguir est&amp;aacute; sendo pensado / construido&amp;nbsp; no sentido de um link / marco de  linguagem e significa&amp;ccedil;&amp;otilde;es para partilhar no assunto &lt;strong&gt;Inclus&amp;atilde;o Digital&lt;/strong&gt; [a id&amp;eacute;ia &amp;eacute; contru&amp;ccedil;&amp;atilde;o /revis&amp;atilde;o progressiva e&amp;nbsp; cont&amp;iacute;nua e perp&amp;eacute;tua, pelo menos enquanto esta expres&amp;atilde;o -&lt;em&gt; inclus&amp;atilde;o digital -&lt;/em&gt;&amp;nbsp; ainda fizer sentido em certas dimens&amp;otilde;es]&lt;/p&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;De in&amp;iacute;cio, &amp;nbsp; linguagem e comunica&amp;ccedil;&amp;atilde;o&lt;/strong&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/InclusaoDigitalOrlando&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/InclusaoDigitalOrlando#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/inclus-o-digital">inclusão digital</category>
+ <category domain="http://rede.metareciclagem.org/assunto/linguagem-comum">linguagem comum</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/adversos" xmlns="http://drupal.org/project/og">(ad)versos</group>
+ <pubDate>Thu, 17 Dec 2009 00:50:19 +0000</pubDate>
+ <dc:creator>o2</dc:creator>
+ <guid isPermaLink="false">1819 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - artesanal</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/1212/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Arduinos artesanais e impressão de PCB</title>
+ <link>http://rede.metareciclagem.org/blog/15-01-13/Arduinos-artesanais-e-impressao-de-PCB</link>
+ <description>&lt;p&gt;&lt;strong&gt;O que:&lt;/strong&gt; N&amp;atilde;o tenho certeza, mas parece um maluco imprimindo metal em uma placa encontrada no lixo, eu diria que &amp;eacute; um computador na forma mais pura. Toda documenta&amp;ccedil;&amp;atilde;o do processo e esquema das placas &amp;eacute; aberto e livre. Eu diria que &amp;eacute; caso de pol&amp;iacute;cia.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pra que:&lt;/strong&gt; N&amp;atilde;o sei. N&amp;atilde;o interessa. N&amp;atilde;o faz sentido isto, computadores est&amp;atilde;o a pre&amp;ccedil;os acess&amp;iacute;veis e todo mundo pode pagar em 12 vezes sem juros. Pra que catar placas no lixo, imprimir os contatos &amp;agrave; m&amp;atilde;o e produzir artesanalmente um computador que n&amp;atilde;o serve nem pra acessar o face? &amp;Eacute; absurdo questionar a validade de um absurdo.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Documenta&amp;ccedil;&amp;atilde;o e fotos:&lt;/strong&gt; Agora sim a parte boa:&lt;/p&gt;
+&lt;p&gt;Primeira vers&amp;atilde;o alpha:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://matehackers.org/doku.php?id=curumin&quot; title=&quot;http://matehackers.org/doku.php?id=curumin&quot; rel=&quot;nofollow&quot;&gt;http://matehackers.org/doku.php?id=curumin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Depois virou projeto oficial do Matehackers e produziu esta placa:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://matehackers.org/doku.php?id=mateduino&quot; title=&quot;http://matehackers.org/doku.php?id=mateduino&quot; rel=&quot;nofollow&quot;&gt;http://matehackers.org/doku.php?id=mateduino&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Que virou projeto mais ambicioso e gerou uma placa para ser produzida industrialmente, com hardware aberto e livre:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://matehackers.org/doku.php?id=mateduino_nibiru&quot; title=&quot;http://matehackers.org/doku.php?id=mateduino_nibiru&quot; rel=&quot;nofollow&quot;&gt;http://matehackers.org/doku.php?id=mateduino_nibiru&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;...e o projeto atualmente parado da impressora que imprime estas placas:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://matehackers.org/doku.php?id=impressora_pcb&quot; title=&quot;http://matehackers.org/doku.php?id=impressora_pcb&quot; rel=&quot;nofollow&quot;&gt;http://matehackers.org/doku.php?id=impressora_pcb&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/15-01-13/Arduinos-artesanais-e-impressao-de-PCB#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/arduino">arduino</category>
+ <category domain="http://rede.metareciclagem.org/assunto/arduino-do-zero">arduino do zero</category>
+ <category domain="http://rede.metareciclagem.org/assunto/arduino-scratch">arduino from scratch</category>
+ <category domain="http://rede.metareciclagem.org/assunto/artesanal">artesanal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/diy">diy</category>
+ <category domain="http://rede.metareciclagem.org/assunto/fa%C3%A7-voc%C3%AA-mesmo">faça você mesmo</category>
+ <category domain="http://rede.metareciclagem.org/assunto/impressao-PCB">impressão PCB</category>
+ <category domain="http://rede.metareciclagem.org/assunto/pcb">pcb</category>
+ <group domain="http://rede.metareciclagem.org/grupo/Bunker360" xmlns="http://drupal.org/project/og">Bunker360</group>
+ <group domain="http://rede.metareciclagem.org/grupo/Matehackers" xmlns="http://drupal.org/project/og">Matehackers</group>
+ <pubDate>Tue, 15 Jan 2013 22:37:09 +0000</pubDate>
+ <dc:creator>iuriguilherme</dc:creator>
+ <guid isPermaLink="false">2196 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

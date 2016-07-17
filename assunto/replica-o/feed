@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - replicação</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/19/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>ProcessoReplicacao</title>
+ <link>http://rede.metareciclagem.org/wiki/ProcessoReplicacao</link>
+ <description>&lt;p&gt;[&amp;quot;MetaReciclagem&amp;quot;] &amp;gt; [&amp;quot;Pesquisa&amp;quot;]&lt;br /&gt;&lt;br /&gt;MetaReciclagem e o modelo p&amp;uacute;blico-privado de inova&amp;ccedil;&amp;atilde;o&lt;br /&gt;&lt;br /&gt;Processo de Replica&amp;ccedil;&amp;atilde;o&lt;br /&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/ProcessoReplicacao&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/ProcessoReplicacao#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/metodologia">metodologia</category>
+ <category domain="http://rede.metareciclagem.org/assunto/replica-o">replicação</category>
+ <pubDate>Thu, 26 Jun 2008 11:54:15 +0000</pubDate>
+ <dc:creator>dmartins</dc:creator>
+ <guid isPermaLink="false">1374 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Replicando</title>
+ <link>http://rede.metareciclagem.org/livro/Replicando</link>
+ <description>&lt;p&gt;h&lt;br /&gt;=&amp;nbsp; Replicando&amp;nbsp; =&lt;br /&gt;&lt;br /&gt;Bom, j&amp;aacute; que estamos jogando, quais s&amp;atilde;o as regras da MetaReciclagem? Ou, melhor dizendo, como fa&amp;ccedil;o para MetaReciclar??&lt;br /&gt;&lt;br /&gt;Vamos por etapas e vamos refletindo a respeito de cada uma delas dentro da cidade onde vivemos, do bairro onde estamos, dos relacionamentos com o governo local, da comunidade em que pertencemos.&lt;br /&gt;&lt;br /&gt;Um jeito f&amp;aacute;cil de pensarmos em MetaReciclagem &amp;eacute; a partir de algumas perguntas mais frequentes:&lt;br /&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/livro/Replicando&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/livro/Replicando#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/livro-branco">livro branco</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metodologia">metodologia</category>
+ <category domain="http://rede.metareciclagem.org/assunto/replica-o">replicação</category>
+ <pubDate>Fri, 20 Jun 2008 12:52:29 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1337 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Replicacao</title>
+ <link>http://rede.metareciclagem.org/wiki/Replicacao</link>
+ <description>&lt;p class=&quot;line862&quot;&gt;InicioWiki &amp;gt; MetodologiaMetaReciclagem&lt;/p&gt;&lt;p class=&quot;line862&quot;&gt;&lt;strong&gt;Ver tamb&amp;eacute;m:&lt;/strong&gt; ProcessoReplicacao&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/Replicacao&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Replicacao#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto-0">esporos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metodologia">metodologia</category>
+ <category domain="http://rede.metareciclagem.org/assunto/replica-o">replicação</category>
+ <pubDate>Mon, 16 Jun 2008 14:17:37 +0000</pubDate>
+ <dc:creator>dmartins</dc:creator>
+ <guid isPermaLink="false">1231 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - Caruara</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/1246/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Escrevendo códigos e caminhos (29/09/2013)</title>
+ <link>http://rede.metareciclagem.org/blog/29-04-13/Escrevendo-codigos-e-caminhos-29092013</link>
+ <description>&lt;p&gt;No segundo dia, 29 de setembro de 2012, todos os participantes chegaram no hor&amp;aacute;rio combinado (14hs) e mostraram-se interessados em continuar as atividades iniciadas no dia anterior. Verificamos incid&amp;ecirc;ncia de esp&amp;eacute;cies de algas nas margens do Canal e no mangue localizado ao lado do Parcel, entretanto n&amp;atilde;o encontraram esp&amp;eacute;cies no local. Ainda assim comentaram sobre possibilidades de encontrar esp&amp;eacute;cies que pudessem tripular o prot&amp;oacute;tipo e &amp;ldquo;mostrar a qualidade da &amp;aacute;gua&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Os participantes tamb&amp;eacute;m colaboraram no desenvolvimento do sistema (hardware e software) que seria utilizado para o controle do drone. Para isso utilizaram Ardu&amp;iacute;no com um m&amp;oacute;dulo de controle, que posteriormente foi vedado em recipiente pl&amp;aacute;stico com tampa e cola quente para n&amp;atilde;o entrar em contato com a &amp;aacute;gua. Esse sistema tornaria poss&amp;iacute;vel guiar o drone via chamada telef&amp;ocirc;nica por um aparelho de telefone celular com Android, que ativaria o motor e a h&amp;eacute;lice no sentido desejado para a navega&amp;ccedil;&amp;atilde;o.&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://farm9.staticflickr.com/8180/8051983965_7d163b67d3.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Todos interagiram na montagem dos circuitos eletr&amp;ocirc;nicos, assim como a escrita de linhas de comandos para o controle do drone. Mostraram interesse em em aprender sobre a linguagem de programa&amp;ccedil;&amp;atilde;o, e questionaram sobre onde poderiam comprar um Ardu&amp;iacute;no, e se o valor era acess&amp;iacute;vel.&lt;/p&gt;
+&lt;p&gt;Pouco antes do final das atividades (18hs), um dos participantes relatou que uma b&amp;oacute;ia da Petrobras havia sido recentemente &amp;quot;depositada&amp;quot; na outra margem do canal de Bertioga, mas n&amp;atilde;o soube informar a data exata. Tratava-se de uma grande estrutura met&amp;aacute;lica, que afirmaram ser &amp;quot;utilizada ao redor de plataformas de petr&amp;oacute;leo&amp;quot;. Outro participante, que presta servi&amp;ccedil;os de marinheiro em um barco particular na marina localizada no canal de Bertioga, se disp&amp;ocirc;s a fazer uma fotografia da b&amp;oacute;ia na manh&amp;atilde; seguinte, durante seu per&amp;iacute;odo de trabalho, para compartilhar durante a atividade.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/29-04-13/Escrevendo-codigos-e-caminhos-29092013#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/Caruara">Caruara</category>
+ <category domain="http://rede.metareciclagem.org/assunto/derivalab">derivalab</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metareciclagem">metareciclagem</category>
+ <category domain="http://rede.metareciclagem.org/assunto/oceanos">oceanos</category>
+ <group domain="http://rede.metareciclagem.org/grupo/derivalab" xmlns="http://drupal.org/project/og">deriva//lab</group>
+ <pubDate>Mon, 29 Apr 2013 11:51:43 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">2226 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Começando um lab: os relatos do primeiro dia (28/09/2012)</title>
+ <link>http://rede.metareciclagem.org/blog/29-04-13/Comecando-um-lab-os-relatos-do-primeiro-dia-28092012</link>
+ <description>&lt;p&gt;Durante as apresenta&amp;ccedil;&amp;otilde;es iniciais, em 28 de setembro de 2012, realizamos uma breve contextualiza&amp;ccedil;&amp;atilde;o sobre a hist&amp;oacute;ria da ind&amp;uacute;stria do petr&amp;oacute;leo no mundo, os aspectos e impactos atrelados ao pr&amp;eacute;-sal na Bacia de Santos, o vazamento no Golfo do M&amp;eacute;xico ocorrido em 2010 e a exibimos o v&amp;iacute;deo mostrando os drones do Protei. Dissemos que nesses tr&amp;ecirc;s dias, o objetivo era construir um prot&amp;oacute;tipo inicial, ou seja, um exemplar-teste com pouco acabamento para compreender as limita&amp;ccedil;&amp;otilde;es e possibilidades encontradas durante o desenvolvimento, que poderiam ser aprimoradas ou descartadas em futuras tentativas.&lt;/p&gt;
+&lt;p&gt;Tamb&amp;eacute;m foi apresentada a proposta do movimento DIYBio, que utiliza a apropria&amp;ccedil;&amp;atilde;o cr&amp;iacute;tica de tecnologias para aplica&amp;ccedil;&amp;otilde;es biol&amp;oacute;gicas e as disponibilizam sob licen&amp;ccedil;as livres. A ideia era agregar o desenvolvimento de um drone similar ao do v&amp;iacute;deo do Protei com pr&amp;aacute;ticas DIYBio, utilizando o conhecimento ecol&amp;oacute;gico local para identificar poss&amp;iacute;veis organismos biondicadores ou biomarcadores, como algas por exemplo, que poderiam tripul&amp;aacute;-lo. o drone. Esses indiv&amp;iacute;duos poderiam ser analisados posteriormente mostrando poss&amp;iacute;veis tra&amp;ccedil;os de polui&amp;ccedil;&amp;atilde;o e qualidade da &amp;aacute;gua de um trecho ou percurso do canal de Bertioga. Batizamos o ve&amp;iacute;culo n&amp;atilde;o tripulado de &amp;quot;M&amp;atilde;e d&amp;#39;&amp;Aacute;gua&amp;quot;, em refer&amp;ecirc;ncia a Iara, entidade que habita em corpos d&amp;#39; &amp;aacute;gua doce.&lt;/p&gt;
+&lt;p&gt;Apresentamos o croqui inicial, e os materiais adotados: tubos e joelhos de PVC para a estrutura, garrafas pets para a flutua&amp;ccedil;&amp;atilde;o, cola quente para veda&amp;ccedil;&amp;atilde;o, e massa ep&amp;oacute;xi para a fixa&amp;ccedil;&amp;atilde;o das extremidades. Mas, tamb&amp;eacute;m refor&amp;ccedil;amos que esses materiais continham itens considerados t&amp;oacute;xicos e provenientes do petr&amp;oacute;leo. Assim para outros experimentos seria ideal pesquisar estruturas sustent&amp;aacute;veis e menos impactantes.&lt;/p&gt;
+&lt;p&gt;Os participantes sugeriram a possibilidade de utilizarem estruturas similares as do drone para confeccionarem de b&amp;oacute;ias, que poderiam ser dispostas em pontos diferentes do Canal de Bertioga e do rio Iriri-Macuco para o monitoramento da qualidade da &amp;aacute;gua. Pois relataram que ao longo dos anos, houve um aumento de polui&amp;ccedil;&amp;atilde;o consider&amp;aacute;vel e percept&amp;iacute;vel visualmente nesses corpos d&amp;#39;&amp;aacute;guas. Tamb&amp;eacute;m sugeriram bambu e folhas de bananeira tran&amp;ccedil;adas para a confec&amp;ccedil;&amp;atilde;o de drones &amp;ldquo;livres de petr&amp;oacute;leo&amp;rdquo;. A sugest&amp;atilde;o das b&amp;oacute;ias se assemelha &amp;agrave; iniciativas experimentais envolvendo plataformas marinhas desenvolvidas por MARIN e Asap Island.&lt;/p&gt;
+&lt;p class=&quot;rtecenter&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://farm9.staticflickr.com/8459/8036324190_735416ab9b.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Todos os participantes colaboraram na confec&amp;ccedil;&amp;atilde;o, em atividades diversas: serrando tubos de PVC, alargando as bocas das garrafas pets no fog&amp;atilde;o, preparando a massa ep&amp;oacute;xi e na montagem final. As mulheres mostraram muita habilidade, realizando as atividades com &amp;oacute;timo acabamento. Ao final da tarde foram realizados com sucesso os testes de navega&amp;ccedil;&amp;atilde;o no canal de Bertioga. Como o prot&amp;oacute;tipo ainda n&amp;atilde;o possu&amp;iacute;a controle por meio dos sensores foi amarrado um barbante em sua estrutura para conduzi-lo. Com o t&amp;eacute;rmino das atividades foi poss&amp;iacute;vel notar uma significativa mudan&amp;ccedil;a de comportamento dos participantes em rela&amp;ccedil;&amp;atilde;o aos colaboradores. Estavam mais pr&amp;oacute;ximos, interagindo sem hierarquias, e sugerindo possibilidades para o pr&amp;oacute;ximo dia :)&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/29-04-13/Comecando-um-lab-os-relatos-do-primeiro-dia-28092012#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/Caruara">Caruara</category>
+ <category domain="http://rede.metareciclagem.org/assunto/derivalab">derivalab</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metareciclagem">metareciclagem</category>
+ <category domain="http://rede.metareciclagem.org/assunto/oceanos">oceanos</category>
+ <group domain="http://rede.metareciclagem.org/grupo/derivalab" xmlns="http://drupal.org/project/og">deriva//lab</group>
+ <pubDate>Mon, 29 Apr 2013 11:43:29 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">2225 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Registros audiovisuais</title>
+ <link>http://rede.metareciclagem.org/blog/16-03-13/Registros-audiovisuais</link>
+ <description>&lt;p&gt;Maira Begalli e Milena Ramires visitaram a &amp;aacute;rea continental de Santos e o bairro do Caruara, no m&amp;ecirc;s de junho de 2012 e &lt;a href=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/deriva_lab_junho2012_0.zip&quot; rel=&quot;nofollow&quot;&gt;fizeram algumas imagens&lt;/a&gt; do Ponto de Cultura Projeto Parcel, onde aconteceram as primeiras a&amp;ccedil;&amp;otilde;es do deriva//lab.&lt;/p&gt;
+&lt;p&gt;No m&amp;ecirc;s de agosto, elas voltaram l&amp;aacute; e fizeram alguns registros de&lt;a href=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/cubatao_deriva_lab_ago2012.zip&quot; rel=&quot;nofollow&quot;&gt; Cubat&amp;atilde;o (durante o percursso at&amp;eacute; o Caruara)&lt;/a&gt;, uma regi&amp;atilde;o com in&amp;uacute;meros conflitos ambientais e &lt;a href=&quot;http://pt.wikipedia.org/wiki/Cubat%C3%A3o&quot; rel=&quot;nofollow&quot;&gt;um hist&amp;oacute;rico meio macabro&lt;/a&gt;. Tamb&amp;eacute;m foram feitas mais imagens do bairro do Caruara (&lt;a href=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/caruara_deriva_lab_ago2012.zip&quot; rel=&quot;nofollow&quot;&gt;1&lt;/a&gt;,&lt;a href=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/caruara2_derivalab_agos2012.zip&quot; rel=&quot;nofollow&quot;&gt; 2&lt;/a&gt;), mostrando alguns com&amp;eacute;rcios, ruas, igrejas, foram de coleta de lixo (e tamb&amp;eacute;m de lixo eletr&amp;ocirc;nico).&lt;/p&gt;
+&lt;p&gt;Felipe Cabral fez o registro audiovisual das atividades inicais, realizadas no Caruara, em setembro. Os arquivos (foto e v&amp;iacute;deo)&lt;a href=&quot;https://www.dropbox.com/sh/pergif0ii9g8ry8/jVZouwKdLa&quot; rel=&quot;nofollow&quot;&gt; est&amp;atilde;o dispon&amp;iacute;veis aqui para quem quiser remixar e usar, citando a fonte&lt;/a&gt; ;)&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+	Felipe Fonseca foi convidado para organizar uma atividade durante o &lt;a href=&quot;http://www.pixelache.ac/&quot; rel=&quot;nofollow&quot;&gt;Pixelache&lt;/a&gt;, e enviou para lista #metarec uma chamada para o envio de relatos que compartilhassem a perspectiva &lt;a href=&quot;http://www.pixelache.ac/festival-2013/facing-north-facing-south-introduction/&quot; rel=&quot;nofollow&quot;&gt;Norte X Sul do mundo -&amp;nbsp; a tem&amp;aacute;tica do festival em 2013&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Alguns colaboradores&amp;nbsp;&lt;a href=&quot;http://http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/deriva_bricolabs.pdf&quot; rel=&quot;nofollow&quot;&gt; do deriva//lab&lt;/a&gt; elaboraram um roteiro colaborativo de um curta metragem, no formato de ensaio audiovisual sobre a quest&amp;atilde;o do petr&amp;oacute;leo em Santos. &lt;a href=&quot;http://piratepad.net/y5VSduiDFa&quot; rel=&quot;nofollow&quot;&gt;O pad com o rabisco inicial encontra-se aqui&lt;/a&gt;. &lt;a href=&quot;http://rede.metareciclagem.org/wiki/Ensaio-sobre-o-petroleo-Santos-Brasil&quot; rel=&quot;nofollow&quot;&gt;O v&amp;iacute;deo exibido durante o festival est&amp;aacute; dispon&amp;iacute;vel aqui.&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/16-03-13/Registros-audiovisuais#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/audiovisual">audiovisual</category>
+ <category domain="http://rede.metareciclagem.org/assunto/Caruara">Caruara</category>
+ <category domain="http://rede.metareciclagem.org/assunto/derivalab">derivalab</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metareciclagem">metareciclagem</category>
+ <category domain="http://rede.metareciclagem.org/assunto/santos">santos</category>
+ <group domain="http://rede.metareciclagem.org/grupo/derivalab" xmlns="http://drupal.org/project/og">deriva//lab</group>
+ <pubDate>Sat, 16 Mar 2013 16:15:22 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">2222 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

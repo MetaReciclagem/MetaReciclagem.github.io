@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - editoração</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/904/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Plataformas</title>
+ <link>http://rede.metareciclagem.org/blog/13-08-10/Plataformas</link>
+ <description>&lt;p&gt;Al&amp;ocirc; mutirantes!&lt;/p&gt;
+&lt;p&gt;Eu criei a p&amp;aacute;gina de wiki PlataformasPublicacao para documentar umas pesquisas que quero come&amp;ccedil;ar a fazer, sobre diferentes maneiras de publicar e distribuir material.&lt;/p&gt;
+&lt;p&gt;Daqui a algumas semanas, provavelmente depois da blogagem de inverno, precisamos conversar sobre os rumos do Mutir&amp;atilde;o e planos futuros. Vamos?&lt;/p&gt;
+&lt;p&gt;BTW, quem est&amp;aacute; recebendo avisos autom&amp;aacute;ticos dos posts aqui? Est&amp;aacute; funcionando direito?&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/13-08-10/Plataformas#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/ebook">ebook</category>
+ <category domain="http://rede.metareciclagem.org/assunto/editora%C3%A7%C3%A3o">editoração</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mutgamb">mutgamb</category>
+ <category domain="http://rede.metareciclagem.org/assunto/publica%C3%A7%C3%B5es">publicações</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Fri, 13 Aug 2010 21:16:56 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1943 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

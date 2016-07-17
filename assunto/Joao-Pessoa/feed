@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - João Pessoa</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/951/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Jampa nas mídias livres</title>
+ <link>http://rede.metareciclagem.org/conectaz/Jampa-nas-midias-livres</link>
+ <description>&lt;div class=&quot;form-item&quot;&gt;
+ &lt;label&gt;Descrição: &lt;/label&gt;
+ projeto de encontro e discussão de diferentes formas de interação e comunicação
+&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;Projeto que visa o encontro entre diversos grupos sociais, de milit&amp;acirc;ncia ou n&amp;atilde;o, na busca de identidades e reconhecimento de afetos e similaridades.&lt;/p&gt;
+&lt;p&gt;Meio de intera&amp;ccedil;&amp;atilde;o: discuss&amp;atilde;o sobre os meios de comunica&amp;ccedil;&amp;atilde;o, a&amp;ccedil;&amp;atilde;o e intera&amp;ccedil;&amp;atilde;o dessas pessoas atrav&amp;eacute;s ou n&amp;atilde;o de convencionalidades. Identifica&amp;ccedil;&amp;atilde;o de tra&amp;ccedil;os comuns e desenvolvimento de a&amp;ccedil;&amp;otilde;es colaborativas entre os diferentes movimentos.&lt;/p&gt;
+&lt;p&gt;Incentivo ao uso de m&amp;iacute;dias independentes e a&amp;ccedil;&amp;otilde;es subversivas e conjuntas.&lt;/p&gt;
+&lt;p&gt;Cidade: Jo&amp;atilde;o Pessoa, Para&amp;iacute;ba&lt;/p&gt;
+&lt;p&gt;Data: 13 e 14 de maio de 2011.&lt;/p&gt;
+&lt;p&gt;Local: Esta&amp;ccedil;&amp;atilde;o Ci&amp;ecirc;ncia - praia do cabo branco.&lt;/p&gt;
+&lt;p&gt;Encontro irm&amp;atilde;o do #EdoR&lt;/p&gt;
+&lt;p&gt;Grupos envolvidos: MST, quilombolas, GLBT, artistas plasticos, musicos, movimento negro e movimento hiphop.&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-situacao-conectaz&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Situação desta ConecTAZ:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    funcionando        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/conectaz/Jampa-nas-midias-livres#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/EdoR-0">#EdoR</category>
+ <category domain="http://rede.metareciclagem.org/assunto/JampaML">#JampaML</category>
+ <category domain="http://rede.metareciclagem.org/assunto/a%C3%A7%C3%A3o-coletiva">ação coletiva</category>
+ <category domain="http://rede.metareciclagem.org/assunto/arte-e-m%C3%ADdia">arte e mídia</category>
+ <category domain="http://rede.metareciclagem.org/assunto/encontro">encontro</category>
+ <category domain="http://rede.metareciclagem.org/assunto/Joao-Pessoa">João Pessoa</category>
+ <pubDate>Fri, 28 Jan 2011 01:00:31 +0000</pubDate>
+ <dc:creator>stellamsd</dc:creator>
+ <guid isPermaLink="false">1999 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>V ENSOL </title>
+ <link>http://rede.metareciclagem.org/wiki/V-ENSOL</link>
+ <description>&lt;p&gt;S&amp;aacute;bado 20 nov. 2010 - 3&amp;ordf; Reuni&amp;atilde;o p Organiza&amp;ccedil;&amp;atilde;o do V ENSOL&lt;/p&gt;
+&lt;p&gt;Cheguei um pouco atrasado nesta reuni&amp;atilde;o mas acho que ainda deu para pegar algumas conversas importantes. Por enquanto n&amp;atilde;o deu pra ter uma id&amp;eacute;ia de como vou poder colaborar com &amp;quot;m&amp;atilde;o na massa&amp;quot; para o evento, al&amp;eacute;m daquela no&amp;ccedil;&amp;atilde;o b&amp;aacute;sica claro que &amp;eacute; a de carregar peso e&amp;nbsp; ficar correndo pra l&amp;aacute; e pra c&amp;aacute; nos dias.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/V-ENSOL&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/V-ENSOL#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/encontro">encontro</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ENSOL">ENSOL</category>
+ <category domain="http://rede.metareciclagem.org/assunto/Joao-Pessoa">João Pessoa</category>
+ <category domain="http://rede.metareciclagem.org/assunto/Paraiba">Paraíba</category>
+ <category domain="http://rede.metareciclagem.org/tags/software-livre">software livre</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/adversos" xmlns="http://drupal.org/project/og">(ad)versos</group>
+ <pubDate>Tue, 23 Nov 2010 19:13:47 +0000</pubDate>
+ <dc:creator>o2</dc:creator>
+ <guid isPermaLink="false">1971 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

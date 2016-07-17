@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - biotecnologia</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/587/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Biotecnologia</title>
+ <link>http://rede.metareciclagem.org/wiki/Biotecnologia</link>
+ <description>&lt;p&gt;Biotecnologia &amp;eacute; tecnologia baseada na biologia, especialmente quando usada na agricultura, ci&amp;ecirc;ncia dos alimentos e medicina. A Conven&amp;ccedil;&amp;atilde;o sobre Diversidade Biol&amp;oacute;gica da ONU possui uma das muitas defini&amp;ccedil;&amp;otilde;es de biotecnologia: &amp;ldquo;Biotecnologia define-se pelo uso de conhecimentos sobre os processos biol&amp;oacute;gicos e sobre as propriedades dos seres vivos, com o fim de resolver problemas e criar produtos de utilidade.&amp;rdquo;&lt;br /&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/Biotecnologia&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Biotecnologia#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/biotecnologia">biotecnologia</category>
+ <category domain="http://rede.metareciclagem.org/tags/ci-ncia">Ciência</category>
+ <group domain="http://rede.metareciclagem.org/esporo/Casa-Maluca-Rio-Grande-do-Norte-2005-2009" xmlns="http://drupal.org/project/og">Casa Maluca - Rio Grande do Norte (2005-2009)</group>
+ <pubDate>Sun, 15 Mar 2009 12:50:41 +0000</pubDate>
+ <dc:creator>t</dc:creator>
+ <guid isPermaLink="false">1552 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

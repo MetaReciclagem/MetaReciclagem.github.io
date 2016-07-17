@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem blogs</title>
+ <link>http://rede.metareciclagem.org/blog</link>
+ <description>Apropriação tecnológica para a transformação social</description>
+ <language>pt-br</language>
+<item>
+ <title>Servindo arquivos com ipfs</title>
+ <link>http://rede.metareciclagem.org/blog/21-01-16/Servindo-arquivos-com-ipfs</link>
+ <description>&lt;p&gt;breve tutorial sobre como servir arquivos com ipfs (&lt;a href=&quot;https://en.wikipedia.org/wiki/InterPlanetary_File_System&quot; rel=&quot;nofollow&quot;&gt;InterPlanetary File System&lt;/a&gt;), protocolo que a meu ver tem potencial para substituir em um futuro pr&amp;oacute;ximo o http&lt;/p&gt;
+&lt;p&gt;de forma parcial e resumida, o ipfs &amp;eacute; uma mistura de git com torrent, ent&amp;atilde;o vou assumir certa familiariedade com o uso de termina aqui...&lt;/p&gt;
+&lt;p&gt;o primeiro passo &amp;eacute; instalar: &lt;a href=&quot;https://ipfs.io/docs/install/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;https://ipfs.io/docs/install/&lt;/a&gt;&lt;br /&gt;
+	&lt;br /&gt;
+	ent&amp;atilde;o, no terminal,&amp;nbsp; abre uma pasta de arquivos e digita:&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ipfs init&lt;/strong&gt;&lt;/p&gt;
+&lt;div&gt;&lt;strong&gt;ipfs daemon&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;br /&gt;
+	basicamente isto prepara nossa pasta trabalhar com o ipfs e nos conecta a uma rede (edit&amp;aacute;vel) de &lt;em&gt;peers&lt;/em&gt; confi&amp;aacute;veis&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;depois, abre outro terminal (ou coloca este processo em background) a&amp;iacute; na mesma pasta, utilize o comando abaixo para incuir todos arquivos que voc&amp;ecirc; quer compartilhar:&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;ipfs add -r .&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;este comando vai gerar um hash (identificador &amp;uacute;nico) pra cada arquivo e um para pasta toda. se voc&amp;ecirc; passar este hash para outra pessoa, ela pode baixar os arquivos simplesmente com:&lt;br /&gt;
+	&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;ipfs get [hash]&lt;/strong&gt;&lt;br /&gt;
+	&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;e automaticamente virar um seed daquele conte&amp;uacute;do, tornando poss&amp;iacute;vel distribuir sites de forma descentralizada. por enquanto, funciona apenas para sites est&amp;aacute;ticos, mas j&amp;aacute; h&amp;aacute; muita discuss&amp;atilde;o de como trabalhar scripts e consultas &amp;agrave; banco de dados em servidores por APIs, por exemplo...&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;seria poss&amp;iacute;vel acessar tamb&amp;eacute;m via http aquele conte&amp;uacute;do:&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://ipfs.io/ipfs/%5Bhash%5D&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;ipfs.io/ipfs/[hash]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;o IPNS &amp;eacute; interessante e complementar, mas j&amp;aacute; &amp;eacute; outro assunto. obviamente &amp;eacute; poss&amp;iacute;vel compartilhar apenas um arquivo ao inv&amp;eacute;s da pasta, bem como realizar outras coisa com o software, mas o intuito aqui &amp;eacute; apenas divulg&amp;aacute;-lo em pt-br (parece n&amp;atilde;o ter sido notado ainda no Brasil) e incentivar mais pessoas a pesquisarem e se envolverem...&lt;/p&gt;
+&lt;p&gt;outro projeto interessante do mesmo desenvolvedor que ir&amp;aacute; sair em breve &amp;eacute; o &lt;a href=&quot;http://filecoin.io/&quot; rel=&quot;nofollow&quot;&gt;Filecoin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;aqui tem &lt;a href=&quot;https://www.youtube.com/watch?v=erB7i6Uc4DM&quot; rel=&quot;nofollow&quot;&gt;um v&amp;iacute;deo&lt;/a&gt; onde ele explica (em ingl&amp;ecirc;s) um pouco dos projetos&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/21-01-16/Servindo-arquivos-com-ipfs#comments</comments>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Thu, 21 Jan 2016 03:47:16 +0000</pubDate>
+ <dc:creator>adrianobf</dc:creator>
+ <guid isPermaLink="false">2478 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>A culpa é de quem, hein?</title>
+ <link>http://rede.metareciclagem.org/blog/21-11-15/A-culpa-e-de-quem-hein</link>
+ <description>&lt;p&gt;&lt;span&gt;Me lembrei de anos atr&amp;aacute;s, quando estava no cinema, vendo as &lt;/span&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=863wrDZaNG8&quot; rel=&quot;nofollow&quot;&gt;primeiras cenas de &amp;quot;A Culpa de Voltaire&amp;quot;&lt;/a&gt;&lt;span&gt; e ter pensado: ta&amp;iacute;, a Metareciclagem &amp;eacute; como a Fran&amp;ccedil;a. Parece querer reivindicar para si a inven&amp;ccedil;&amp;atilde;o da liberdade.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;Apesar de tudo isso acontecer no s&amp;eacute;culo XXI, h&amp;aacute; um certo anacronismo e n&amp;atilde;o linearidade nas mem&amp;oacute;rias e acontecimentos. O filme ganhou o pr&amp;ecirc;mio em Veneza no in&amp;iacute;cio, na d&amp;eacute;cada seguinte fez parte das salas de exibi&amp;ccedil;&amp;atilde;o no Brasil e a lista metarec ainda funcionava como um espa&amp;ccedil;o de conversa, mas eu j&amp;aacute; pensava &amp;#39;bem&amp;#39; antes de come&amp;ccedil;ar ou participar de alguma delas e por isso guardei essa interpreta&amp;ccedil;&amp;atilde;o comigo. Estamos mais perto da terceira d&amp;eacute;cada, esse site milagrosamente resiste e o assunto requer aten&amp;ccedil;&amp;atilde;o, mais do que nunca.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;O filme trata da vida de um imigrante tunisiano e come&amp;ccedil;a com di&amp;aacute;logos ensaiados para a entrevista do visto de perman&amp;ecirc;ncia no pa&amp;iacute;s da liberdade, igualdade e fraternidade. N&amp;atilde;o vou dizer como termina, &amp;eacute; claro. Mas isso &amp;eacute; claro tamb&amp;eacute;m, com a sutileza que a arte permite e a vida, nem sempre.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;Diz-se que Voltaire teria nascido em 21 de novembro. Viveu muito pros padr&amp;otilde;es do s&amp;eacute;culo XVIII. Defendeu as liberdades civis, se insurgiu &amp;ndash; atrav&amp;eacute;s de sua obra &amp;ndash; contra o poder do governo e igreja ao mesmo tempo em que aconselhava monarcas. Pol&amp;ecirc;mica e contradi&amp;ccedil;&amp;atilde;o o rondavam, como &amp;eacute; peculiar aos humanos, especialmente os que se atrevem.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;Nenhum intuito de exaltar Voltaire. At&amp;eacute; porque, depois de mais de dois s&amp;eacute;culos, &amp;eacute; evidente que suas ideias requerem revis&amp;atilde;o e cr&amp;iacute;tica. Reler cartas &amp;eacute; sempre uma experi&amp;ecirc;ncia singular. Mas trata-se de um personagem e tanto, que d&amp;aacute; nome ao filme e aparece mesmo sem dar as caras.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;J&amp;aacute; sobre a Tun&amp;iacute;sia, pouco sei. O diretor do filme &amp;eacute; de l&amp;aacute; e vive na Fran&amp;ccedil;a desde crian&amp;ccedil;a. Do quase nada que conhe&amp;ccedil;o do mundo &amp;aacute;rabe, acho que gosto mais da ideia de escrita como desenho levada &amp;agrave;s &amp;uacute;ltimas consequ&amp;ecirc;ncias. Seu nome fica bonito assim: &lt;span lang=&quot;hi-IN&quot;&gt;عبد اللطيف كشيش&lt;/span&gt;.  N&amp;atilde;o sei se sua dupla nacionalidade o ajudou a ganhar a Palma de Ouro em Cannes recentemente, mas a lista de contemplados tem pouca varia&amp;ccedil;&amp;atilde;o de pa&amp;iacute;ses de origem. Algo, no m&amp;iacute;nimo, suspeito.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;Sobre a Arg&amp;eacute;lia, sei menos ainda. De l&amp;aacute; que o personagem principal afirma ter vindo. E nessa conex&amp;atilde;o &amp;Aacute;frica-mundo &amp;aacute;rabe chegamos a hoje, 20 de novembro, feriado em S&amp;atilde;o Paulo e alguns outros munic&amp;iacute;pios. Um dia que tem gente capaz de querer intitular &amp;ldquo;Dia da Consci&amp;ecirc;ncia Humana&amp;rdquo;, numa espantosa falta de senso do rid&amp;iacute;culo nas &amp;#39;redes sociais&amp;#39;. Mais at&amp;eacute; do que postar foto de bebedeira na madrugada. Porque, pior do que n&amp;atilde;o lutar por nada ou apenas por seus pr&amp;oacute;prios interesses, &amp;eacute; n&amp;atilde;o compreender a luta do outro. Mesmo que racionalmente, atrav&amp;eacute;s daquele entendimento raso da vida: o conhecimento que se adquire nos livros did&amp;aacute;ticos pra l&amp;aacute; de controversos quando a sensibilidade de observar o dia a dia falta.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;E nesse cotidiano contempor&amp;acirc;neo que cansa, lembrei de Umberto Eco e sua recente declara&amp;ccedil;&amp;atilde;o apocal&amp;iacute;ptica, sobre o poder das redes sociais &amp;ldquo;dar voz a uma legi&amp;atilde;o de imbecis&amp;rdquo;. Como se a culpa fosse da tecnologia e n&amp;atilde;o da condi&amp;ccedil;&amp;atilde;o humana... prova de que intelectuais n&amp;atilde;o s&amp;atilde;o deuses...&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;Dif&amp;iacute;cil descobrir qual a maior imbecilidade presente nas redes sociais, mas certamente a pr&amp;aacute;tica de comparar e ranquear trag&amp;eacute;dias, cobrar ou acusar o outro por estar deste ou daquele lado &amp;ndash; como se a terra n&amp;atilde;o fosse redonda e a vida, um ciclo &amp;ndash;  est&amp;aacute; no topo da minha lista de hits.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;F&amp;aacute;cil entender porque uns assuntos t&amp;ecirc;m mais visibilidade que outros: monop&amp;oacute;lio dos meios de comunica&amp;ccedil;&amp;atilde;o, concentra&amp;ccedil;&amp;atilde;o de poder pol&amp;iacute;tico, interesses corporativos, privatiza&amp;ccedil;&amp;atilde;o da vida p&amp;uacute;blica, o choque e a audi&amp;ecirc;ncia que a viol&amp;ecirc;ncia direta, extrema e expl&amp;iacute;cita provoca, o tal do meio ambiente que est&amp;aacute; em tudo e por isso se torna pouco percept&amp;iacute;vel, embora de &amp;#39;meio&amp;#39; n&amp;atilde;o tenha nada...&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;A cor da lama &amp;eacute; de uma est&amp;eacute;tica dura, rude e cruel, mas nem por isso menos bela. Glauber Rocha j&amp;aacute; mostrou isso faz tempo e seu filho Erik, em &amp;ldquo;Campo de jogo&amp;rdquo;, n&amp;atilde;o nos deixa esquecer (a prop&amp;oacute;sito, ali tem material suficiente pra pesquisar os caminhos do DNA num vi&amp;eacute;s bem pouco biol&amp;oacute;gico ou &amp;#39;cient&amp;iacute;fico&amp;#39;, s&amp;oacute; que isso &amp;eacute; assunto pra outra hora).&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;/sites/rede.metareciclagem.org/midia/pessoa/446/images/campo de jogo(3).png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;*frame de &amp;ldquo;Campo de Jogo&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;Curioso que a igualdade seja branca, uma cor que &amp;eacute; a &amp;#39;reuni&amp;atilde;o&amp;#39; de todas as outras num misto de aus&amp;ecirc;ncia e presen&amp;ccedil;a conceitual. Previs&amp;iacute;vel que a fraternidade seja vermelha, como o sangue que vem de dentro, que impulsiona e mant&amp;eacute;m a vida. Intrigante que a liberdade seja azul, como o c&amp;eacute;u e sua amplitude distante.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;Duas cores prim&amp;aacute;rias e uma soberana na tela principal e outra telinha com a cor resultante da soma de muitos pinc&amp;eacute;is no mesmo copo, aquela cor-n&amp;atilde;o cor. Uma cont&amp;eacute;m ess&amp;ecirc;ncia, que faz gerar as outras cores-luz e tem a for&amp;ccedil;a de um s&amp;iacute;mbolo. Toda vez que se ataca um s&amp;iacute;mbolo, nossa vulnerabilidade fica muito mais evidente. A outra tem os elementos terra e &amp;aacute;gua como ess&amp;ecirc;ncia, numa cor mat&amp;eacute;ria. O que &amp;eacute; denso nunca &amp;eacute; simples de lidar.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;E nesse dia a dia contempor&amp;acirc;neo que cansa, chovem convites para estar nas ruas, desaguam motivos para ali permanecer: lama que devasta, &amp;aacute;gua que falta, escola que se faz necess&amp;aacute;rio ocupar, avenida que abre e se divulga fechada, manipula&amp;ccedil;&amp;atilde;o das prioridades, prolifera&amp;ccedil;&amp;atilde;o das intoler&amp;acirc;ncias, parlamentar reencarnando direto da idade m&amp;eacute;dia pra idade m&amp;iacute;dia, vigil&amp;acirc;ncia dos corpos alheios, ainda a desigualdade de g&amp;ecirc;neros, de novo a guerra, mais uma vez as pequenas grandes batalhas...&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;Se fugir do chativismo sempre foi uma meta pessoal, o ativismo nunca foi uma ambi&amp;ccedil;&amp;atilde;o. Tanto pela escolha de n&amp;atilde;o-r&amp;oacute;tulo quanto pela multiplicidade de causas e a dificuldade de escolher uma. Mas a urg&amp;ecirc;ncia n&amp;atilde;o permite a omiss&amp;atilde;o. E se tem algo que aprendi aqui &amp;eacute; a diferen&amp;ccedil;a entre essas duas posturas e que tipo de ativista desejaria ser, caso algum dia queira. Continuo com a perspectiva de defender a humanidade, como um todo, com a t&amp;aacute;tica da persist&amp;ecirc;ncia e a estrat&amp;eacute;gia da sutileza radical &amp;ndash; por mais esquisito que isso soe.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;20 de novembro pra mim, aqui, &amp;eacute; um dia de pensar sobre liberdade. Dia 21 come&amp;ccedil;ou como um dia de escrever cartas, portanto. Algumas estranhas, como essa. Porque a culpa &amp;ndash; essa coisa cat&amp;oacute;lica &amp;ndash; n&amp;atilde;o &amp;eacute; de ningu&amp;eacute;m, mas a responsabilidade &amp;eacute; nossa.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;Agora preciso ir ali, entregar umas flores... evocar mais energias positivas e pedir ajuda pralgum tipo de ilumina&amp;ccedil;&amp;atilde;o de outro mundo...&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;/sites/rede.metareciclagem.org/midia/pessoa/446/images/la faute a voltaire.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;*frame de &amp;ldquo;La faute &amp;agrave; Voltaire&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/21-11-15/A-culpa-e-de-quem-hein#comments</comments>
+ <group domain="http://rede.metareciclagem.org/conectaz/Dpaduando" xmlns="http://drupal.org/project/og">Dpaduando</group>
+ <pubDate>Sat, 21 Nov 2015 05:09:23 +0000</pubDate>
+ <dc:creator>tatirprado</dc:creator>
+ <guid isPermaLink="false">2477 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Experiências Sonoras</title>
+ <link>http://rede.metareciclagem.org/blog/03-08-14/Experiencias-Sonoras</link>
+ <description>&lt;p&gt;E a interessante saga dos descobrimentos sonoros caseiros continua. Finalizando mais algumas brincadeiras com &amp;aacute;udio captado entre 2006 e 2014, recortes de m&amp;uacute;sicas inventadas e barulho de mato. Grande parte editado com 256mb de mem&amp;oacute;ria + Puppy Linux + Audacity, s&amp;oacute; coisa pouca.&lt;/p&gt;
+&lt;p&gt;Tem outras a subir, o resultado &amp;eacute; mais ou menos isso:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://soundcloud.com/mondegrass/fim-de-tarde-no-bugio&quot; title=&quot;https://soundcloud.com/mondegrass/fim-de-tarde-no-bugio&quot; rel=&quot;nofollow&quot;&gt;https://soundcloud.com/mondegrass/fim-de-tarde-no-bugio&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;(E eu gostei, btw)&lt;/p&gt;
+&lt;p&gt;:)&lt;/p&gt;
+&lt;p&gt;Int&amp;eacute;.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/03-08-14/Experiencias-Sonoras#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/minas-gerais">minas gerais</category>
+ <category domain="http://rede.metareciclagem.org/assunto/Musica">Musica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/viola-caipira">viola caipira</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/adversos" xmlns="http://drupal.org/project/og">(ad)versos</group>
+ <pubDate>Sun, 03 Aug 2014 11:15:32 +0000</pubDate>
+ <dc:creator>mondegrass</dc:creator>
+ <guid isPermaLink="false">2476 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Redes sociais livres ou alternativas?</title>
+ <link>http://rede.metareciclagem.org/blog/08-07-14/Redes-sociais-livres-ou-alternativas</link>
+ <description>&lt;p&gt;Reposta na lista de e-mails labsurlab de aktivix.org, copiado para as listas de e-mails metareciclagem e comunicacaodebaixo de riseup.net, e por consequ&amp;ecirc;ncia disto, dispon&amp;iacute;vel em: &lt;a href=&quot;http://permalink.gmane.org/gmane.politics.organizations.metareciclagem/62374&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://permalink.gmane.org/gmane.politics.organizations.metareciclagem/62374&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Publicado no meu blog &amp;quot;Paradoxo Injusto&amp;quot; em &lt;a href=&quot;http://azul.iuri.blog.br/resposta-a-fabi-borges/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://azul.iuri.blog.br/resposta-a-fabi-borges/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/08-07-14/Redes-sociais-livres-ou-alternativas&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/08-07-14/Redes-sociais-livres-ou-alternativas#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/elgg">elgg</category>
+ <category domain="http://rede.metareciclagem.org/assunto/iuri">iuri</category>
+ <category domain="http://rede.metareciclagem.org/assunto/lorea">lorea</category>
+ <category domain="http://rede.metareciclagem.org/assunto/rede-social">rede social</category>
+ <category domain="http://rede.metareciclagem.org/assunto/redes-sociais">redes sociais</category>
+ <pubDate>Tue, 08 Jul 2014 19:43:58 +0000</pubDate>
+ <dc:creator>iuriguilherme</dc:creator>
+ <guid isPermaLink="false">2471 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Prêmio do Objeto Brasileiro, drones, DIY</title>
+ <link>http://rede.metareciclagem.org/blog/30-06-14/Premio-do-Objeto-Brasileiro-drones-DIY</link>
+ <description>&lt;p&gt;Durante o m&amp;ecirc;s de junho e julho estamos realizando (eu, o pessoal da Aldeia e alunos da UFABC), a confec&amp;ccedil;&amp;atilde;o de um drone junto com os jovens da Cl&amp;iacute;nica de Recupera&amp;ccedil;&amp;atilde;o &amp;quot;Uma Nova Hist&amp;oacute;ria&amp;quot; para concorrer ao concurso do objeto brasileiro, na categoria &amp;quot;produ&amp;ccedil;&amp;atilde;o comunit&amp;aacute;ria&amp;quot;. Aqui, algumas imagens :)&lt;img alt=&quot;&quot; src=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/Foto0239.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/Foto0238.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/Foto0241.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/Foto0242.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/Foto0244.jpg&quot; /&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/30-06-14/Premio-do-Objeto-Brasileiro-drones-DIY#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/aldeia-sos">aldeia sos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/neblinalab">neblinalab</category>
+ <category domain="http://rede.metareciclagem.org/assunto/objeto-brasileiro">objeto brasileiro</category>
+ <category domain="http://rede.metareciclagem.org/assunto/premio">premio</category>
+ <group domain="http://rede.metareciclagem.org/grupo/neblina" xmlns="http://drupal.org/project/og">nebl.in/a</group>
+ <pubDate>Mon, 30 Jun 2014 18:04:19 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">2470 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Dividir para multiplicar</title>
+ <link>http://rede.metareciclagem.org/blog/03-06-14/Dividir-para-multiplicar</link>
+ <description>&lt;p&gt;At&amp;eacute; que eu passasse a perceber como funciona isto para as outras pessoas,&lt;/p&gt;
+&lt;p&gt;considerava eu que a vontade de querer me identificar com algo ou algu&amp;eacute;m, e estar pr&amp;oacute;ximo das pessoas que eu me identifico, era algo natural e inquestion&amp;aacute;vel.&lt;/p&gt;
+&lt;p&gt;Assumindo que era este um mal ao qual est&amp;aacute;vamos fadados, dediquei-me a aprender tudo o que tem para aprender sobre isto.&lt;/p&gt;
+&lt;p&gt;Observei as pessoas da rede metareciclagem.&lt;/p&gt;
+&lt;p&gt;Eu queria morar em uma aldeia metarec com essa gente toda, e come&amp;ccedil;ar e terminar todos os dias de m&amp;atilde;os dadas em roda com todxs.&lt;/p&gt;
+&lt;p&gt;Mas se tem algum poder superior decidindo o que &amp;eacute; melhor para o Universo nas atuais circunst&amp;acirc;ncias, este decidiu que &amp;eacute; melhor que metarecs estejam espalhadxs por a&amp;iacute;, metareciclando.&lt;/p&gt;
+&lt;p&gt;Seria a vontade de estarmos juntxs, unida com a dist&amp;acirc;ncia que nos &amp;eacute; imposta, a f&amp;oacute;rmula que nos mat&amp;eacute;m unidxs e em sincronia telep&amp;aacute;tica?&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/03-06-14/Dividir-para-multiplicar#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/desencontro">desencontro</category>
+ <category domain="http://rede.metareciclagem.org/assunto/dividir">dividir</category>
+ <category domain="http://rede.metareciclagem.org/assunto/encontro">encontro</category>
+ <category domain="http://rede.metareciclagem.org/assunto/multiplicar">multiplicar</category>
+ <pubDate>Tue, 03 Jun 2014 05:38:00 +0000</pubDate>
+ <dc:creator>iuriguilherme</dc:creator>
+ <guid isPermaLink="false">2463 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>O que rolou no IoTDay Riacho</title>
+ <link>http://rede.metareciclagem.org/blog/10-04-14/O-que-rolou-no-IoTDay-Riacho</link>
+ <description>&lt;p&gt;Aconteceu na &amp;uacute;ltima quarta-feira, 9 de abril de 2014, no Parque Estoril, Riacho Grande - SBC, a primeira edi&amp;ccedil;&amp;atilde;o do &lt;a href=&quot;http://http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/iotday_ppt.pdf&quot; rel=&quot;nofollow&quot;&gt;IoTDay Riacho&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/iot_01.jpg 	&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;A ideia surgiu a partir de um post na lista do grupo IoT Council,&amp;nbsp; e as discuss&amp;otilde;es envolveram a quest&amp;atilde;o da qualidade ambiental do manancial da Billings e de como as tecnologias de monitoramento DIY trazer novas perspectivas para a regi&amp;atilde;o. IoTDay Riacho contou com a participa&amp;ccedil;&amp;atilde;o de cerca de 30 pessoas, entre popula&amp;ccedil;&amp;atilde;o local e alunos da UFABC.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/iot_02.jpg 	&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Dan Robson chegou mais cedo e fez algumas medi&amp;ccedil;&amp;otilde;es com seu novo equipamento. Ele relatou que as &amp;aacute;guas superficiais no bra&amp;ccedil;o da Billings apresentam condi&amp;ccedil;&amp;otilde;es adequadas, mas n&amp;atilde;o sabemos os dados do material encontrado no fundo da represa.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/iot_05.jpg 	&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/iot_06.jpg 	&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/iot_07.jpg 	&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://https://www.dropbox.com/s/14vm94cjfcxy2pq/Apresenta%C3%A7%C3%A3o_HROV.pptx&quot; rel=&quot;nofollow&quot;&gt;Thiago Ceratti&lt;/a&gt;, pesquisador do grupo de Juan Pablo Julca Avila (UFABC), que desenvolveu um sistema rob&amp;oacute;tico submarino para inspe&amp;ccedil;&amp;atilde;o de estruturas oce&amp;acirc;nicas pela UFABC, comentou um pouco sobre o projeto e da possibilidade de desenvolver um drone de baixo custo, para medir a qualidade da &amp;aacute;gua e coletar material do fundo da represa.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/iot_03.jpg 	&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/amanda_0.pdf&quot; rel=&quot;nofollow&quot;&gt;Amanda Wanderley &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;trouxe algumas defini&amp;ccedil;&amp;otilde;es dos conceitos de DIYBIO (biologia do fa&amp;ccedil;a voc&amp;ecirc; mesmo) e como a popula&amp;ccedil;&amp;atilde;o local poderia us&amp;aacute;-la para fazer medi&amp;ccedil;&amp;otilde;es e cobrar a&amp;ccedil;&amp;otilde;es dos &amp;oacute;rg&amp;atilde;os respons&amp;aacute;veis.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/iot_04.jpg 	&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+	No final discutimos algumas possibilidade de a&amp;ccedil;&amp;otilde;es e projetos para o manancial...em breve contamos mais :)&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/10-04-14/O-que-rolou-no-IoTDay-Riacho#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/IotDayRiacho">IotDayRiacho</category>
+ <category domain="http://rede.metareciclagem.org/assunto/neblinalab">neblinalab</category>
+ <category domain="http://rede.metareciclagem.org/assunto/riacho-grande">riacho grande</category>
+ <group domain="http://rede.metareciclagem.org/grupo/neblina" xmlns="http://drupal.org/project/og">nebl.in/a</group>
+ <pubDate>Thu, 10 Apr 2014 11:22:26 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">2460 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>A viola elétrica</title>
+ <link>http://rede.metareciclagem.org/blog/22-03-14/A-viola-eletrica</link>
+ <description>&lt;p&gt;N&amp;atilde;o sei por que a viola el&amp;eacute;trica ainda n&amp;atilde;o passou por aqui. Meus primeiros registros de derretimento e grava&amp;ccedil;&amp;atilde;o est&amp;atilde;o aqui, mais linear que em qualquer outro lugar.&lt;/p&gt;
+&lt;p&gt;Fazia tempo que n&amp;atilde;o aparecia, ao reler posts vi que passou muita &amp;aacute;gua. Mas a m&amp;uacute;sica resiste, de alguma forma. E sempre.&lt;/p&gt;
+&lt;p&gt;Tem umas experi&amp;ecirc;ncias ao vivo &lt;a href=&quot;http://beerock.com.br/?p=778&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;&amp;nbsp;e &lt;a href=&quot;http://beerock.com.br/?p=763&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Caminhando agora pra terceira parte, gravar algumas hist&amp;oacute;rias dessas em est&amp;uacute;dio.&lt;/p&gt;
+&lt;p&gt;Devagar, claro.&lt;/p&gt;
+&lt;p&gt;Int&amp;eacute;.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/22-03-14/A-viola-eletrica#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/Musica">Musica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/viola">viola</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Dpaduando" xmlns="http://drupal.org/project/og">Dpaduando</group>
+ <pubDate>Sat, 22 Mar 2014 13:39:08 +0000</pubDate>
+ <dc:creator>mondegrass</dc:creator>
+ <guid isPermaLink="false">2458 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Semana da Água: Último dia e exibição na Prainha</title>
+ <link>http://rede.metareciclagem.org/blog/22-03-14/Semana-da-Agua-Ultimo-dia-e-exibicao-na-Prainha</link>
+ <description>&lt;p&gt;O Riacho amanheceu sob garoa e neblina. Era o dia da inaugura&amp;ccedil;&amp;atilde;o oficial das obras da prainha. &lt;a href=&quot;http://www.saobernardo.sp.gov.br/comuns/pqt_container_r01.asp?srcpg=noticia_completa&amp;amp;ref=10947&amp;amp;qt1=0&quot; rel=&quot;nofollow&quot;&gt;Pela manh&amp;atilde; teve cerim&amp;ocirc;nia oficial e tudomais&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Riacho &amp;agrave;s 14hs.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/22_01.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Deck da prainha &amp;agrave;s 18hs.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/22_02.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Chuva forte &amp;agrave;s 19hs&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/22_03.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Com esse tempo a proje&amp;ccedil;&amp;atilde;o virou quase uma miss&amp;atilde;o imposs&amp;iacute;vel. O Javier (do CAJUV) tinha arrumado uma tenda. Mas os quiosques, os bares e restaurantes da orla (que normalmente funcionam at&amp;eacute; de madrugada) estavam fechando, porque n&amp;atilde;o tinha ningu&amp;eacute;m por l&amp;aacute;. Assim, al&amp;eacute;m de n&amp;atilde;o termos ponto de energia, tamb&amp;eacute;m n&amp;atilde;o ter&amp;iacute;amos p&amp;uacute;blico :(&lt;/p&gt;
+&lt;p&gt;Como desvio, usamos o espa&amp;ccedil;o de um bar que permaneceu semi-aberto at&amp;eacute; terminarmos a proje&amp;ccedil;&amp;atilde;o.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/22_05.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;E, aqui, os filmes que exibimos:&lt;/p&gt;
+&lt;p&gt;De viver nos Rios, de viver nas Ruas&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;250&quot; src=&quot;//www.youtube.com/embed/BCIcYWCk_GE&quot; width=&quot;450&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;Entre Paredes de Concreto&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;250&quot; src=&quot;//www.youtube.com/embed/6Aa7h2ZN9kA&quot; width=&quot;450&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Continua... &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;N&amp;atilde;o passamos esse v&amp;iacute;deo na noite de proje&amp;ccedil;&amp;atilde;o, mas achei interessante link&amp;aacute;-lo pois fala um pouco da Lei Espec&amp;iacute;fica da Billings.&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/gcPTYL-hGm8&quot; width=&quot;420&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.abrh.org.br/xenau/&quot; rel=&quot;nofollow&quot;&gt;Tamb&amp;eacute;m, pretendo escrever um trabalho sobre a Semana da &amp;Aacute;gua aqui. Interessados em colaborar, entrem em contato, por favor.&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/22-03-14/Semana-da-Agua-Ultimo-dia-e-exibicao-na-Prainha#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/neblina">neblina</category>
+ <category domain="http://rede.metareciclagem.org/assunto/riacho-grande">riacho grande</category>
+ <category domain="http://rede.metareciclagem.org/assunto/SAR">SAR</category>
+ <group domain="http://rede.metareciclagem.org/grupo/neblina" xmlns="http://drupal.org/project/og">nebl.in/a</group>
+ <pubDate>Sat, 22 Mar 2014 11:50:04 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">2457 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Semana da Água: dia 5 com Iniciativa Verde</title>
+ <link>http://rede.metareciclagem.org/blog/21-03-14/Semana-da-Agua-dia-5-com-Iniciativa-Verde</link>
+ <description>&lt;p&gt;A roda de conversa com Roberto e Isis estava marcada no coreto da pracinha em frente a Biblioteca Machado de Assis.&lt;/p&gt;
+&lt;p&gt;Esse era o tempo &amp;agrave;s 14hs, quando eles passaram l&amp;aacute; para me pegar e seguimos para conhecer o p&amp;oacute;s-balsa.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/21_01.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Sugeri que chegassem um pouco antes para conhecer o Riacho Grande e as realidades distintas dos bairros urbanos e rurais. Atravessamos a balsa, percorremos algumas ruas do Tatetos e tamb&amp;eacute;m visitamos rapidamente a Aldeia SOS. Voltamos...&lt;/p&gt;
+&lt;p&gt;Quando chegamos no centro do Riacho, um temporal impediu que a atividade fosse ao ar livre. Assim, usamos mais uma vez as instala&amp;ccedil;&amp;otilde;es da Biblioteca.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/21_02.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Para quem n&amp;atilde;o conhece a &lt;a href=&quot;http://iniciativaverde.org.br&quot; rel=&quot;nofollow&quot;&gt;Iniciativa Verde&lt;/a&gt; &amp;eacute; uma org que desenvolve projetos de presta&amp;ccedil;&amp;atilde;o de servi&amp;ccedil;o ambiental/pagamento por servi&amp;ccedil;o ambiental (PSA). &lt;a href=&quot;http://http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/revista_final_baixa.pdf&quot; rel=&quot;nofollow&quot;&gt;Recentemente eles lan&amp;ccedil;aram essa publica&amp;ccedil;&amp;atilde;o, que mostra mais detalhamente algumas das a&amp;ccedil;&amp;otilde;es que realizam.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Desde o final de 2013 come&amp;ccedil;ei algumas conversas com eles buscando links para desenvolvermos parcerias no Riacho, buscando envolver a popula&amp;ccedil;&amp;atilde;o local na presta&amp;ccedil;&amp;atilde;o de servi&amp;ccedil;os ambientais. Aos poucos estamos desenhando possibilidades&lt;/p&gt;
+&lt;p&gt;A Iniciativa Verde nos deu uma muda nativa de Mata Atl&amp;acirc;ntica, que por enquanto est&amp;aacute; na minha casa. Assim que ela for plantanda, vou documentar e publicar aqui.&lt;/p&gt;
+&lt;p&gt;Espero que essa roda de conversa tenha sido uma semente, para &lt;a href=&quot;http://www.theguardian.com/environment/earth-insight/2014/mar/14/nasa-civilisation-irreversible-collapse-study-scientists&quot; rel=&quot;nofollow&quot;&gt;novos&lt;/a&gt; e &lt;a href=&quot;http://rollingstone.uol.com.br/edicao/14/aquecimento-global-e-inevitavel-e-6-bi-morrerao-diz-cientista&quot; rel=&quot;nofollow&quot;&gt;urgentes caminhos&lt;/a&gt;, de tudo que podemos fazer aqui.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/21-03-14/Semana-da-Agua-dia-5-com-Iniciativa-Verde#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/neblinalab">neblinalab</category>
+ <category domain="http://rede.metareciclagem.org/assunto/riacho-grande">riacho grande</category>
+ <category domain="http://rede.metareciclagem.org/assunto/SAR">SAR</category>
+ <group domain="http://rede.metareciclagem.org/grupo/neblina" xmlns="http://drupal.org/project/og">nebl.in/a</group>
+ <pubDate>Fri, 21 Mar 2014 23:51:56 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">2456 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

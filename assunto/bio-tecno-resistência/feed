@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>MetaReciclagem - bio-tecno-resistência</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/579/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Casa Maluca - Rio Grande do Norte (2005-2009)</title>
+ <link>http://rede.metareciclagem.org/esporo/Casa-Maluca-Rio-Grande-do-Norte-2005-2009</link>
+ <description>&lt;div class=&quot;form-item&quot;&gt;
+ &lt;label&gt;Descrição: &lt;/label&gt;
+ esporo de metareciclagem onde com-viveram permacutura, arte, comunicação, tecnologia, bioativismo, feminismo e mídia tática, entre otras cositas....
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-situacao-esporo&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Situação do Esporo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    encerrado        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+  &lt;h3 class=&quot;location-locations-header&quot;&gt;Localização&lt;/h3&gt;
+  &lt;div class=&quot;location-locations-wrapper&quot;&gt;
+          &lt;div class=&quot;location vcard&quot;&gt;
+  &lt;div class=&quot;adr&quot;&gt;
+          &lt;span class=&quot;fn&quot;&gt;Pipa&lt;/span&gt;
+              &lt;div class=&quot;street-address&quot;&gt;
+        Rua do Cajueiro              &lt;/div&gt;
+              &lt;span class=&quot;locality&quot;&gt;Tibau do Sul&lt;/span&gt;,               &lt;span class=&quot;region&quot;&gt;RN&lt;/span&gt;
+                  &lt;div class=&quot;country-name&quot;&gt;Brazil&lt;/div&gt;
+                                        &lt;span class=&quot;geo&quot;&gt;&lt;abbr class=&quot;latitude&quot; title=&quot;-6.202165&quot;&gt;6° 12&#039; 7.794&quot; S&lt;/abbr&gt;, &lt;abbr class=&quot;longitude&quot; title=&quot;-35.081749&quot;&gt;35° 4&#039; 54.2964&quot; W&lt;/abbr&gt;&lt;/span&gt;
+            &lt;/div&gt;
+      &lt;div class=&quot;map-link&quot;&gt;
+      &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com.br?q=-6.202165+-35.081749+%28Pipa%2CRua+do+Cajueiro%2C+Tibau+do+Sul%2C+RN%2C+%2C+br%29&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/esporo/Casa-Maluca-Rio-Grande-do-Norte-2005-2009#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/bio-tecno-resist%C3%AAncia">bio-tecno-resistência</category>
+ <category domain="http://rede.metareciclagem.org/assunto/permacultura">permacultura</category>
+ <category domain="http://rede.metareciclagem.org/assunto/rio-grande-do-norte">rio grande do norte</category>
+ <georss:point>-6.202165 -35.081749</georss:point>
+ <pubDate>Thu, 12 Mar 2009 10:44:54 +0000</pubDate>
+ <dc:creator>t</dc:creator>
+ <guid isPermaLink="false">1541 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

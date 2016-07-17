@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - intercâmbio</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/250/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>BricoLabsPrinciples</title>
+ <link>http://rede.metareciclagem.org/wiki/BricoLabsPrinciples</link>
+ <description>&lt;p&gt;BricolabsNet &amp;gt; BricoLabsPrinciples
+&lt;br /&gt;&amp;nbsp;&lt;br /&gt;Questions of identity, centrality?&amp;nbsp;
+&lt;br /&gt;&amp;nbsp;&lt;br /&gt;investigate loop of open software, content, hardware, spectrum
+&lt;br /&gt;&amp;nbsp;&lt;br /&gt;My thought is that bricolabs as a concept is about opening up&amp;nbsp;
+&lt;br /&gt;the possibilities of experimentation - with innovative social and
+&lt;br /&gt;technology arrangements, with novel relationships between the public
+&lt;br /&gt;and the private. We do not need to foreclose the choices that
+&lt;br /&gt;individual labs make by forcing them to adopt apriori licenses and
+&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/BricoLabsPrinciples&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/BricoLabsPrinciples#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/bricolabs">Bricolabs</category>
+ <category domain="http://rede.metareciclagem.org/assunto/interc%C3%A2mbio">intercâmbio</category>
+ <category domain="http://rede.metareciclagem.org/tags/internacional">Internacional</category>
+ <pubDate>Mon, 16 Jun 2008 22:55:44 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1259 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>BricolabsNet</title>
+ <link>http://rede.metareciclagem.org/wiki/BricolabsNet</link>
+ <description>&lt;h2&gt;BRICOLABS&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;http://farm1.static.flickr.com/137/365270531_4e9d9ff830.jpg &quot; alt=&quot;&quot; /&gt;&lt;br /&gt;&amp;nbsp;&lt;br /&gt;Bricolabs is a collaborative exchange between Brazilian, Indonesian, UK, Chinese, Indian and Dutch open source experts, exploring mutual interest in distributed generation of tools, and soft/hardware skills. We focus on knowledge exchange, development of new business models and the building of a critical discourse for the current generations&amp;nbsp; of young artists, designers and social scientists. &lt;br /&gt;&amp;nbsp;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/BricolabsNet&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/BricolabsNet#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/bricolabs">Bricolabs</category>
+ <category domain="http://rede.metareciclagem.org/assunto/interc%C3%A2mbio">intercâmbio</category>
+ <category domain="http://rede.metareciclagem.org/tags/internacional">Internacional</category>
+ <pubDate>Mon, 16 Jun 2008 22:54:16 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1258 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Bricolabs</title>
+ <link>http://rede.metareciclagem.org/wiki/Bricolabs</link>
+ <description>&lt;p&gt;O conceito de Bricolab vem da a&amp;ccedil;&amp;atilde;o proposta pelo espa&amp;ccedil;o &lt;a href=&quot;http://estilingue.sarava.org/moin/BricoLab&quot; rel=&quot;nofollow&quot;&gt;Estilingue&lt;/a&gt;, em Belo Horizonte. Define as metodologias envolvidas no estabelecimento de laborat&amp;oacute;rios de &amp;quot;baixa tecnologia&amp;quot;. Com o tempo, a id&amp;eacute;ia evoluiu para uma rede internacional de laborat&amp;oacute;rios de baixa tecnologia, a BricolabsNet. &lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Bricolabs#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/bricolabs">Bricolabs</category>
+ <category domain="http://rede.metareciclagem.org/assunto/interc%C3%A2mbio">intercâmbio</category>
+ <category domain="http://rede.metareciclagem.org/tags/internacional">Internacional</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Bricolabs" xmlns="http://drupal.org/project/og">Bricolabs</group>
+ <pubDate>Mon, 16 Jun 2008 22:52:42 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1257 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

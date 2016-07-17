@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - maina</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/731/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>MutiraoMaterialDpadua</title>
+ <link>http://rede.metareciclagem.org/wiki/MutiraoMaterialDpadua</link>
+ <description>&lt;p&gt;Material do blog de Daniel P&amp;aacute;dua&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href=&quot;http://imaginarios.net/dpadua/?p=394&quot; rel=&quot;nofollow&quot;&gt;Os ideais da MetaReciclagem&lt;/a&gt;, sobre o post de Sergio Rosa no Overmundo&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://imaginarios.net/dpadua/?p=29&quot; rel=&quot;nofollow&quot;&gt;Artes metarecicleiras: queimar bandeiras, criar novas&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://imaginarios.net/dpadua/?p=254&quot; rel=&quot;nofollow&quot;&gt;Maina sabe desenhar&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://imaginarios.net/dpadua/?p=274&quot; rel=&quot;nofollow&quot;&gt;Como seria a mito-g&amp;ecirc;nese metarecicleira?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/MutiraoMaterialDpadua#comments</comments>
+ <category domain="http://rede.metareciclagem.org/tags/dpadua">dpadua</category>
+ <category domain="http://rede.metareciclagem.org/assunto/maina">maina</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mutir%C3%A3o-da-gambiarra">mutirão da gambiarra</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Tue, 01 Sep 2009 22:14:34 +0000</pubDate>
+ <dc:creator>o2</dc:creator>
+ <guid isPermaLink="false">1682 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

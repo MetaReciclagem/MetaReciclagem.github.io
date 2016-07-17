@@ -1,0 +1,363 @@
+Conversation with #metareciclagem at Seg 15 Mar 2010 17:14:34 BRT on efeefe@irc.freenode.org (irc)
+(17:14:36) #metareciclagem: Modo (+o efeefe) por ChanServ
+(17:15:22) efeefe: arou
+(17:21:44) avena [~avena@187.50.151.227] entrou na sala.
+(17:24:06) dmartins [~dmartins@143.107.91.109] entrou na sala.
+(17:25:29) dmartins: salve
+(17:25:37) dmartins: come?ando?
+(17:26:36) avena saiu da sala ("Saindo").
+(17:26:48) efeefe: alou
+(17:26:52) efeefe: nao usa cedilhanao
+(17:27:00) efeefe: depois zoa pra publicar o log
+(17:27:38) efeefe: vou pegar meus oculos, que zoio tao doeno
+(17:28:19) dmartins: sai dessa
+(17:28:21) dmartins: entao
+(17:28:25) dmartins: qual eh?
+(17:28:31) dmartins: tive uma ideia de um projeto
+(17:28:35) dmartins: para o edital do premio
+(17:28:44) apelido [~WebIRC@radio.redenorte.net] entrou na sala.
+(17:29:20) efeefe: qual deles?
+(17:29:23) efeefe: hah
+(17:29:25) efeefe: quem eh apelido?
+(17:29:51) efeefe: fala dmartins
+(17:29:57) efeefe: qual dos premios tu tah falando?
+(17:30:11) maira: oie :)
+(17:30:20) apelido saiu da sala (quit: Client Quit).
+(17:30:32) dmartins: premio cultura digital
+(17:30:40) dmartins: eu to afim de mapear a rede dos pontos de cultura
+(17:30:45) efeefe: oi maira
+(17:30:48) efeefe: sai dessa, nego
+(17:30:50) efeefe: rede caotica demais
+(17:30:51) dmartins: nao so de conversacao, mas de ligacao de blogs, sites, comunidades
+(17:30:56) dmartins: por isso mesmo
+(17:30:56) efeefe: nao tem um jeito de fazer isso
+(17:31:02) dmartins: ah, tem sim....
+(17:31:07) maira: dalton tb acho que nao
+(17:31:10) efeefe: eh trampo demais
+(17:31:14) efeefe: tu tem ideia de como anda isso hoje?
+(17:31:19) maira: poderiamos pensar nisso pra uma escala de meta
+(17:31:21) maira: de esporo
+(17:31:22) efeefe: tem umas 10 vezes mais ponto do que na nossa epoca
+(17:31:28) dmartins: eh nao...
+(17:31:34) efeefe: e 10 vezes menos acoes integradas com oficina e tal
+(17:31:38) efeefe: o que tu pode fazer eh outra coisa
+(17:31:38) dmartins: mas, to afim de propor essa historia
+(17:31:39) maira: e se usassemos essa tua ideia pros esporos?
+(17:31:43) dmartins: acho importante estudar isso
+(17:31:53) efeefe: entao
+(17:31:55) dmartins: bom, tenho de sair por 10 min mas ja ovlto
+(17:31:59) efeefe: vamo comecar no nosso quintal
+(17:32:08) efeefe: mapear quais pontos tao envolvidos com a metareciclagem
+(17:32:19) maira: isso, o trampo com esporos
+(17:32:27) maira: quem sao os esporos
+(17:32:30) maira: o que sao esporos
+(17:32:40) maira: o que eles fazem, como replicam, como ressoam
+(17:34:03) efeefe: dmartins: mapear a rede metareciclagem _dentro_ dos pontos de cultura
+(17:34:16) efeefe: isso eh trampo que acho tambem dificil, mas viavel
+(17:34:27) efeefe: porque o geral dos pontos de cultura eh amplo demais
+(17:34:28) Andressa [~Furtaacor@200-171-88-98.dsl.telesp.net.br] entrou na sala.
+(17:34:38) Andressa: alow?
+(17:34:43) efeefe: alou!
+(17:34:47) Andressa: opa!
+(17:34:49) maira: deda
+(17:34:50) maira: :D
+(17:34:52) Andressa: boas tardes atrasadas!
+(17:35:00) Andressa: Oi Maaaaaira!
+(17:35:04) efeefe: "boa tarde" nunca eh atrasado ;)
+(17:35:06) Andressa: Sumida, h
+(17:35:20) efeefe: vamo dar mais uns 10 minutos de conversinha leve pra comecar?
+(17:35:21) Andressa: ehhehe...ainda bem, n
+(17:35:32) Andressa: beleza...
+(17:35:52) Andressa: tem um gato no meu p
+(17:35:54) Andressa: é
+(17:35:59) Andressa: p
+(17:38:14) efeefe: maira: tudo bem com lorrane?
+(17:38:55) maira: mais ou menos
+(17:39:02) maira: infeccao de urina muito forte
+(17:39:07) efeefe: putz
+(17:39:10) maira: ficou internada desde sabado,
+(17:39:32) maira: ela esta abaixo do peso, e isso complicou um pouco
+(17:39:40) maira: mas teve alta hoje a tarde
+(17:39:48) maira: agora precisamos cuidar dela
+(17:40:27) efeefe: bom
+(17:40:33) efeefe: tah tomando algum medicamento?
+(17:40:49) maira: o antifebril e o antibiotico
+(17:41:07) maira: no sabado fiquei com medo, uma febre de 39,5 que nao abaixava
+(17:41:18) efeefe: putz
+(17:42:10) maira: ai fomos ao hospital
+(17:42:28) maira: ela tomou varios remedios fortes,
+(17:42:32) maira: banho com gelo
+(17:42:42) maira: meio punk
+(17:43:00) Andressa saiu da sala (quit: Ping timeout: 245 seconds).
+(17:44:28) Andressa [~Furtaacor@200-171-88-98.dsl.telesp.net.br] entrou na sala.
+(17:48:49) Andressa saiu da sala (quit: Ping timeout: 245 seconds).
+(17:50:28) efeefe: eita noits
+(17:50:32) efeefe: dmartins: tah aih?
+(17:51:17) yaso [~c8c6cc44@gateway/web/freenode/x-opnuhffnyoxfssxw] entrou na sala.
+(17:51:49) yaso: Tunelamento funcionando no Minc! Oioi a todos!
+(17:52:16) efeefe: ayoy yaso!
+(17:52:24) efeefe: direto do tunel ;)
+(17:52:37) efeefe: deda caiu
+(17:52:39) efeefe: e dalton sumiu
+(17:52:45) maira: yaso :)
+(17:52:46) efeefe: e barraponto passa o dia em silencio
+(17:52:53) efeefe: barraponto: neh?
+(17:53:12) maira: barraponto observa e copia para luckers
+(17:53:17) maira: vcs que nem sabem :P
+(17:53:18) yaso: aqui vai cair tb
+(17:53:29) yaso: quando descobrirem hahaha - mas, no que posso ser util?
+(17:53:52) maira: por enquanto pra conversar
+(17:53:58) Andressa [~Furtaacor@200-171-89-68.dsl.telesp.net.br] entrou na sala.
+(17:53:59) maira: estamos esperando pessoas
+(17:54:11) Andressa: ih....a conex
+(17:54:14) efeefe: oi de novo Andressa
+(17:54:19) Andressa: tinha ca
+(17:54:21) efeefe: acho que vou tentar pincelar rapido
+(17:54:25) efeefe: a tati tambem nao vem hoje
+(17:54:25) Andressa: ído
+(17:54:31) efeefe: falar antes que caia tudo
+(17:54:34) barraponto: é só falar meu nome na frente do espelho e dar descarga
+(17:54:49) efeefe: barraponto: imaginei que respondias um chamado direto ;)
+(17:55:03) Andressa: rsrsrs
+(17:55:12) Andressa: cara, isso aqui corta minhas falas!
+(17:55:18) Andressa: ops...saiu inteira
+(17:55:32) barraponto: é só citar
+(17:55:41) barraponto: se chamar por capi eu tb venho correndo
+(17:56:11) maira: barraponto, mudou?
+(17:56:19) maira: nao era falar tres vezes?
+(17:56:48) maira: gente eu vou ter que sair :(
+(17:56:52) barraponto: ah, esses tempos modernos de hiperconectividade
+(17:56:58) maira: mas deixo aberto aqui no log
+(17:57:02) barraponto: nem precisa falar capivara, capi já serve mesmo...
+(17:57:13) maira: efe
+(17:57:23) efeefe: dime
+(17:57:25) maira: vc vai falar do ciclo gambiarra?
+(17:57:31) efeefe: nao
+(17:57:38) efeefe: ou sim, sei lha
+(17:57:40) maira: do mutirao?
+(17:57:47) maira: ahahaha
+(17:57:56) yaso saiu da sala (quit: Ping timeout: 252 seconds).
+(17:58:00) efeefe: mutirao, microreciclagem/metarecursos, metarec geral
+(17:58:07) efeefe: caraca, to me sentindo num tiroteio
+(17:58:09) efeefe: cada hora cai 1
+(17:58:12) maira: capotou a yaso :(
+(17:58:32) Andressa: ehehehhe
+(17:58:39) Andressa: acho que agora firmei
+(17:58:47) efeefe: saco
+(17:58:55) efeefe: mas entao, vou aqui conversar com a deda
+(17:59:05) Andressa: ehheeh
+(17:59:10) Andressa: fala que eu te escuto, efe!
+(17:59:37) efeefe: seguinte, tem varios editais abertos, neh?
+(17:59:41) maira: isso
+(17:59:50) maira: tem o pitching futura pra video
+(17:59:54) maira: vamos entrar nesse
+(18:00:02) maira: teia, gera, deda
+(18:00:14) maira: bom, me vou aqui
+(18:00:15) yaso [~c8c6cc44@gateway/web/freenode/x-imtmcptdlktmxtvu] entrou na sala.
+(18:00:15) maira: :***
+(18:00:32) efeefe: bele
+(18:00:35) efeefe: entao
+(18:00:36) dasilva [~dasilvaor@189.71.60.240] entrou na sala.
+(18:00:39) efeefe: opa, mais dois
+(18:00:41) efeefe: legal
+(18:00:46) efeefe: voltando a fita soh um pouquinho
+(18:00:52) efeefe: tem varios editais rolando
+(18:00:57) efeefe: e acho que a gente tem que entrar em todos ;)
+(18:01:09) Andressa: eheheh
+(18:01:22) Andressa: mas com o q exatamente? tavaq lendo o de cultura digital e o de m
+(18:02:05) efeefe: entao
+(18:02:11) efeefe: minha opiniao
+(18:02:40) efeefe: midia livre: mutirao da gambiarra
+(18:02:48) efeefe: nucleo editorial, esse lance
+(18:02:52) efeefe: ir alem do que a gente fez ateh agora
+(18:02:59) efeefe: abrir mais, envolver mais gente
+(18:03:01) efeefe: mais publicacoes
+(18:03:05) efeefe: circular mais em outras redes
+(18:03:20) Andressa: é...acho a cara
+(18:03:33) efeefe: aih envolve tudo
+(18:03:38) efeefe: que tah rolando no mutirao
+(18:03:47) efeefe: videos, metalivros, blogagens, mutsaz, etc.
+(18:04:27) Andressa: a gente podia fazer um pra laborat
+(18:04:45) efeefe: nao entendi
+(18:04:50) Andressa: orio de interatividade no de cultura digital
+(18:05:11) efeefe: ah
+(18:05:14) Andressa: ele t
+(18:05:19) Andressa: me cortando
+(18:05:20) efeefe: cultura digital eu quero inscrever a metareciclagem como um todo
+(18:05:24) efeefe: como fizemos no midia livre
+(18:05:30) efeefe: acho que tem a ver a proposta de esporos, etc.
+(18:05:34) efeefe: acao em rede3
+(18:05:44) efeefe: nada impede que alguem inscreva projetos especificos
+(18:05:50) efeefe: mas meu foco eh o geral
+(18:06:36) Andressa: saquei
+(18:06:46) Andressa: é que ele é menor
+(18:07:12) efeefe: tem menor e maior
+(18:07:59) efeefe: aih eu vou propor tambem um projeto pra aquele edital de eventos "em rede'
+(18:08:06) efeefe: uma continuacao do ciclo gambiarra de 2007
+(18:08:16) Andressa: arat
+(18:08:18) Andressa: é
+(18:08:25) Andressa: arat
+(18:08:29) Andressa: aaaaaaaaaaaa
+(18:08:34) efeefe: mas esse nao eh projeto geral da rede, vou tocar mais direto
+(18:08:40) Andressa: arat
+(18:08:41) efeefe: que cliente de irc tu ta usando?
+(18:08:42) efeefe: hahaha
+(18:08:44) efeefe: arat
+(18:08:45) Andressa: caete
+(18:08:49) Andressa: cacete
+(18:09:02) Andressa: o IRCLe
+(18:09:10) Andressa: anthony.freenode
+(18:09:24) efeefe: ah, mac
+(18:09:37) efeefe: tenta aqui
+(18:09:38) efeefe: http://webchat.freenode.net/
+(18:09:42) efeefe: direto pelo browser
+(18:09:47) Andressa: heheeh
+(18:09:57) Andressa: t
+(18:10:05) Andressa: t
+(18:10:09) Andressa: aaaaaaa
+(18:10:21) efeefe: vai lah que eu espero
+(18:10:38) Andressa_ [~c8ab5944@gateway/web/freenode/x-bboueulydscgqhvo] entrou na sala.
+(18:10:43) Andressa_: Ufaaaa
+(18:10:47) Andressa_: acho que funfou
+(18:11:07) Andressa_: tou tentando hà horas te perguntar se esse de eventos em rede é o Areté
+(18:11:09) Andressa_: algo assim
+(18:11:22) efeefe: esse
+(18:11:23) efeefe: sim
+(18:11:33) efeefe: mas esse eu nao to propondo como rede metareciclagem
+(18:11:37) efeefe: eh uma acao minha com algumas outras pessoas
+(18:11:42) efeefe: nao dah pra fazer tudo com todo mundo ;)
+(18:11:46) efeefe: eh de ficar doido ;)
+(18:12:01) efeefe: e aih tem o outro que eu quero dar uma atencao especial
+(18:12:18) efeefe: que eh inscrever o nucleo metarecursos/microreciclagem no edital economia viva
+(18:13:04) Andressa_: afe
+(18:13:30) Andressa_: bom, dou conta de ajudar num desses
+(18:13:46) Andressa_: tou aqui tentando concentrar o micrometragens
+(18:13:53) efeefe: pois eh
+(18:13:56) efeefe: eh trampo paca
+(18:14:19) efeefe: eu queria que a maira assumisse a inscricao do nucleo mutirao no premio de midias livres
+(18:14:30) efeefe: via veredas
+(18:14:49) Andressa_: acho massa. Posso ajudá-la :)
+(18:14:49) efeefe: esse eu soh vou poder ver por cima, nao vai rolar de escrever
+(18:14:52) efeefe: mas apoio de longe
+(18:15:04) efeefe: os outros vou meter a mao, fortemente
+(18:15:30) Andressa_: #@@@@@@@@@@@@@YQ IIIIIIIIIIIIIII
+(18:15:32) yaso saiu da sala (quit: Ping timeout: 252 seconds).
+(18:15:39) dasilva: opa efeefe: em que edital ha mencao a esporos?
+(18:15:54) Andressa_: isso foi a Nina gata preta deitando na cara de pau no teclado
+(18:16:06) efeefe: no geralzao
+(18:16:10) efeefe: hahaha
+(18:16:16) yaso [~c8c6cc44@gateway/web/freenode/x-paeyenwfarbtcsvs] entrou na sala.
+(18:16:17) dasilva: Andressa: haha
+(18:16:44) Andressa_: Tá: e o de cultura digital
+(18:16:45) Andressa_: ?
+(18:16:48) efeefe: acho que sim
+(18:16:53) Andressa_: alguém vai pro tuxáua?
+(18:17:38) efeefe: nao sei
+(18:17:45) efeefe: acho que tinha que muita gente se inscrever
+(18:17:55) efeefe: tem muito edital aberto
+(18:18:01) Andressa_: o foda é pessoas físicas
+(18:18:05) Andressa_: não?
+(18:18:06) efeefe: por que?
+(18:18:55) efeefe: mas entao
+(18:19:04) Andressa_: num sei poderíamos usar, saca?
+(18:19:12) Andressa_: tem a veredas
+(18:19:18) Andressa_: tem aqui o lab
+(18:19:21) efeefe: pra qual?
+(18:19:28) efeefe: veredas pro mutirao no premio midia livre
+(18:19:34) Andressa_: pra qqer um.... sim.
+(18:19:36) efeefe: agente cidadao pro premio cultura digital
+(18:19:52) Andressa_: agente cidadão, o que é?
+(18:20:11) Andressa_: (desculpa efe.....) rsrsr
+(18:20:20) monamoan [~silia@c93479a0.virtua.com.br] entrou na sala.
+(18:20:30) efeefe: eita
+(18:20:39) efeefe: galera nao conhece a historia mesmo
+(18:20:42) efeefe: http://rede.metareciclagem.org/wiki/AgenteCidadao
+(18:20:45) efeefe: ;)
+(18:20:57) dasilva: efeefe: pois eh
+(18:21:06) monamoan: buenas
+(18:21:09) dasilva: mas tah fazendo historia agora
+(18:21:11) efeefe: leia o livro
+(18:21:14) efeefe: universo em desencanto
+(18:21:15) efeefe: ;)
+(18:21:16) efeefe: http://mutirao.metareciclagem.org/livro/História-da-MetaReciclagem-Histórias-de-MetaReciclagem
+(18:21:36) efeefe: agente cidadao tambem foi por onde a gente inscreveu o projeto no premio de midia livre ano passado
+(18:21:50) efeefe: eu tenho que pensar em como inscrever no economia viva
+(18:21:59) efeefe: acho que vou conversar com o descentro
+(18:22:02) efeefe: ainda nao sei
+(18:22:09) efeefe: mas de resto minha opiniao eh essa
+(18:22:18) efeefe: concorrer em varios editais
+(18:22:22) efeefe: algum deve rolar ;)
+(18:22:46) barraponto mudou seu apelido para barraponto[AWAY]
+(18:22:52) dasilva: vou pensar nesse economia viva
+(18:23:28) efeefe: dasilva: isso pra mim eh a sequencia da ideia que a gente pensou como "microreciclagem", mas agora acho que o nome nao eh o mais adequado
+(18:23:59) dasilva: efeefe: sim, entendo. Avaliarei dessa forma tb.
+(18:24:03) efeefe: pensar em uma incubadora de projetos de metareciclagem
+(18:24:10) efeefe: dasilva: tu ajuda a escrever/inscrever?
+(18:24:32) dasilva: efeefe: pode contar, to precisando exercitar isso
+(18:24:37) efeefe: tah com tempo?
+(18:24:42) Andressa_ saiu da sala (quit: Ping timeout: 252 seconds).
+(18:24:51) efeefe: se tu topar, eu vou tirar teu sangue
+(18:24:53) efeefe: ;)
+(18:25:25) dasilva: efeefe: eh uma experiencia que vai ser boa
+(18:25:28) dasilva: emagrece
+(18:25:37) dasilva: hehe
+(18:25:47) efeefe: ;)
+(18:25:55) efeefe: entao, algo mais?
+(18:26:01) dasilva: o tempo tah melhor que no semestre passado
+(18:26:10) efeefe: Andressa: cola na maira pra inscrever mutirao no premio midia livre?
+(18:26:23) dmartins: voltando...
+(18:26:44) Andressa saiu da sala (quit: Ping timeout: 245 seconds).
+(18:27:11) yaso saiu da sala (quit: Quit: Page closed).
+(18:27:33) efeefe: dasilva: vou te chamar pro economia da cultura
+(18:27:43) andressa [~c8ab5944@gateway/web/freenode/x-dfmzslbfvwszznch] entrou na sala.
+(18:27:57) dasilva: efeefe: depois fala dessa questao do nome do micro
+(18:28:08) andressa: pow...alguém vai ter esse log inteiro?
+(18:28:17) dasilva: efeefe: selado com sangue, irmão!
+(18:28:20) efeefe: dmartins: acho que faz sentido incorporar um mapeamento da metareciclagem dentro da rede de pontos de cultura
+(18:28:28) efeefe: encontrar esporos efetivos, potenciais
+(18:28:53) efeefe: acoes isoladas
+(18:28:54) efeefe: etc
+(18:29:20) efeefe: pensar em como a metareciclagem, como metodologia esporificavel, entrou nos pontos e continuou mesmo depois que a gente saiu
+(18:30:42) dmartins: eu to ligado, mapear pontos com metareciclagem pode ser legal
+(18:30:47) dmartins: mas, acho que pode ser mais amplo
+(18:30:56) dmartins: para contar a historia desses pontos
+(18:31:04) dmartins: de como se apropriaram em rede e como se articularam
+(18:31:13) dmartins: isso ta invisivel ate hj e acho que temos perna para fazer
+(18:31:16) efeefe: sim
+(18:31:41) efeefe: mas acho que a gente apresenta um projeto pra comecar a fazer isso dentro do escopo metarec
+(18:31:43) efeefe: depois amplia
+(18:31:44) dmartins: os rastros na rede
+(18:31:50) efeefe: meio ano mapeando metarec nos pontos
+(18:31:51) dmartins: que interessam
+(18:31:58) efeefe: depois amplia as historias e o escopo
+(18:32:02) dmartins: pode ser
+(18:32:12) dmartins: mas o lance eh que tava afim de aproveitar esse edital para conseguir bancar isso
+(18:32:26) dmartins: pq eh um trabalho que pode reverter uma seria de historias interessantes
+(18:32:27) efeefe: em todos os pontos?
+(18:32:28) efeefe: nao banca
+(18:32:34) dmartins: to te falando que banca
+(18:32:37) dmartins: via web, banca
+(18:33:04) dmartins: talvez a ideia esteja abstrata demais, mas do ponto de vista que to olhando, vira...
+(18:33:10) dmartins: mas, pode ser que o foco aqui seja outro
+(18:33:13) dmartins: ai, tudo bem...
+(18:34:26) efeefe: acho que na real sao dois projetos paralelos
+(18:34:31) efeefe: podemos inscrever os dois
+(18:35:32) dmartins: pode ser... mas vc. acha que com esse escopo de metarec tem a ver?
+(18:35:38) dmartins: para o edital
+(18:36:11) efeefe: soh tem
+(18:36:50) efeefe: e na real aprendi com a tati que flexionar nossos objetivos pra "caber" em um ou outro edital eh besteira
+(18:37:08) efeefe: melhor eh seguir o rumo, exercitar o discurso e ir aperfeicoando
+(18:37:10) efeefe: se rolar, melhor
+(18:37:13) efeefe: se nao, valeu o processo
+(18:37:58) dasilva: aprendizados, sempre
+(18:39:56) barraponto[AWAY] mudou seu apelido para barraponto
+(18:41:09) dasilva: to indo nessa
+(18:41:15) dasilva: nos falamos
+(18:41:17) dasilva: abracos
+(18:41:38) efeefe: roquenrou
+(18:41:44) efeefe: to com fome tambem
+(18:41:58) dasilva saiu da sala (quit: Quit: dasilva).
+(18:42:20) dmartins: quit
+(18:42:23) dmartins saiu da sala.
+(18:42:49) efeefe: hahah
+(18:42:51) efeefe: bele, falera

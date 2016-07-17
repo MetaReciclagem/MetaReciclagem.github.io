@@ -1,0 +1,170 @@
+Um teste do LyX
+
+efeefe
+
+Sexta-feira, 13 de agosto de 2010
+
+Abstract
+
+Esse texto é teste do software LyX para a diagramação de 
+publicações online. Também vou utilizá-lo como base para 
+converter para diversos formatos de ebooks e afins.
+
+Intro
+
+O [http://mutgamb.org||MutGamb] é um grupo editorial que surgiu 
+dentro da [http://rede.metareciclagem.org||rede MetaReciclagem], 
+com o objetivo de criar publicações experimentais ligadas à 
+apropriação de tecnologias, às redes colaborativas, ao 
+aprendizado distribuído e assuntos relacionados.
+
+Índice
+
+Índice
+
+Intro
+Índice
+Part I O primeiro capítulo
+Part II O segundo capítulo
+    1 Primeira parte do segundo capítulo
+Part III O Fim
+
+
+O primeiro capítulo
+
+Aqui fica o primeiro capítulo. Ele pode ter [http://efeefe.no-ip.org||hyperlinks]
+, notas de rodapé [footnote:
+notas de rodapé
+], entradas automáticas para índice remissivo (por exemplo: 
+batatas entradas pra índice remissivo), nomenclatura (glossário)[LaTeX Command: nomenclature]
+e outras coisas que ainda vou investigar.
+
+• Uma
+
+• Lista
+
+• De
+
+• Itens
+
+1. Ou 
+
+2. Uma 
+
+3. numerada
+
+Também dá pra importar imagens e inserir tabelas.
+
+<Graphics file: /home/felipe/Documentos/projetos/mutirao/testes/ebooks/saguao.jpg>
+
+
++------------------+-----------------+-----------------+
+| Primeira coluna  | Segunda coluna  | Terceira coluna |
++------------------+-----------------+-----------------+
++------------------+-----------------+-----------------+
+|     Linhas       |     Linhas      |     Linhas      |
++------------------+-----------------+-----------------+
+|     Linhas       |     Linhas      |     Linhas      |
++------------------+-----------------+-----------------+
+
+
+[margin:
+Essa aqui é uma nota de Margem
+]  Isso aqui é uma caixa de texto. Imagino que ela seja manipulável.
+
+
+O segundo capítulo
+
+Aqui vem mais coisa. Daquele jeito. Textinho qualquer aí embaixo.
+
+1 Primeira parte do segundo capítulo
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin eu 
+leo vitae arcu fringilla mattis. Maecenas quis felis massa. 
+Maecenas tortor nulla, dictum sit amet facilisis facilisis, 
+congue quis justo. Sed vulputate consequat est, at ullamcorper 
+diam vestibulum eget. Nullam sit amet massa mollis urna dapibus 
+congue. Vestibulum ac nibh turpis. Nullam diam nisi, lobortis id 
+posuere non, convallis sit amet risus. Maecenas eu metus lectus, 
+et fermentum libero. Ut commodo ipsum eu nunc eleifend semper. 
+Fusce pharetra gravida bibendum. Cras pellentesque iaculis 
+auctor. Quisque aliquam nulla sit amet ante sollicitudin vitae 
+tristique erat suscipit. Vestibulum aliquet arcu ut est 
+condimentum egestas. In adipiscing enim eget metus gravida a 
+dignissim erat consectetur. Suspendisse et orci tellus, non 
+gravida neque. Nullam facilisis mollis massa, quis faucibus 
+mauris sollicitudin at. Nam vel massa a elit malesuada dictum. 
+Aenean congue commodo turpis, gravida rhoncus lectus convallis 
+non.
+
+Nunc sit amet nisi eu tortor porta aliquet. Maecenas rutrum 
+congue lacinia. Cum sociis natoque penatibus et magnis dis 
+parturient montes, nascetur ridiculus mus. Nulla nec lorem eget 
+nisl iaculis semper. Mauris bibendum eros ut erat iaculis vel 
+mattis nulla molestie. Nulla facilisi. Praesent aliquam 
+ullamcorper libero vel adipiscing. Morbi eget leo nisi. Aenean 
+quis laoreet justo. Praesent eu pellentesque nulla.
+
+Nulla erat velit, venenatis facilisis imperdiet nec, faucibus 
+semper tortor. Cras in dolor urna. Aliquam est enim, venenatis ac 
+gravida tempor, semper a sem. Praesent sed lorem urna, sit amet 
+elementum felis. Phasellus condimentum adipiscing ante eu 
+aliquam. Pellentesque ut nisi ut quam gravida mattis ac quis 
+ipsum. Nulla posuere odio nec magna vehicula ut auctor orci 
+pulvinar. Nulla lectus erat, tincidunt vitae porta aliquam, 
+mollis eget nisi. Nunc sodales porta eros sed hendrerit. Integer 
+quis risus dolor. Ut at dolor erat. Maecenas sem sem, ultricies 
+sed luctus sed, mollis quis eros. Proin dapibus magna massa, ut 
+posuere nibh.
+
+Curabitur ornare, mauris id sollicitudin rutrum, urna nisl mollis 
+orci, eget commodo turpis metus nec erat. Curabitur arcu enim, 
+rutrum vulputate aliquet a, mollis porttitor eros. Maecenas justo 
+mauris, venenatis vitae porta eu, porttitor at felis. Morbi 
+bibendum auctor neque. Curabitur mauris enim, blandit sit amet 
+posuere eu, tempus quis ante. Donec hendrerit, tellus at 
+consequat congue, mi turpis adipiscing magna, eget lobortis neque 
+mi egestas tortor. Nullam placerat nulla mauris, interdum 
+malesuada urna. Vivamus porttitor tortor non eros pellentesque 
+vestibulum pharetra orci dictum. Donec faucibus sollicitudin 
+augue, ac viverra lectus fermentum id. Quisque sollicitudin diam 
+eget risus adipiscing in vestibulum risus dictum. In molestie 
+odio id dolor aliquet a mattis urna iaculis. Phasellus quam elit, 
+aliquet dignissim condimentum non, mattis et odio. Sed orci odio, 
+tincidunt eget pretium vitae, scelerisque non nisi. Nam vitae 
+lorem vel nunc semper tempor ut ut enim. Fusce tincidunt leo quis 
+urna congue pulvinar non eu nibh. Quisque commodo felis non mi 
+consectetur eu gravida lectus sagittis. Nullam ac erat blandit 
+urna vulputate semper. Maecenas cursus sagittis suscipit. Mauris 
+orci elit, hendrerit et fermentum nec, pretium in mi.
+
+Quisque quis erat nunc. Nam elementum nunc id velit lobortis 
+volutpat. Nam dapibus ligula ac orci lobortis ut aliquam sem 
+porttitor. Aenean ornare nisl et ante molestie lobortis. Cras 
+sodales condimentum nisl eu dapibus. Duis interdum nulla non 
+tortor elementum ullamcorper. Ut posuere, massa et malesuada 
+eleifend, sem odio bibendum libero, eget venenatis metus dolor 
+vitae justo. Ut facilisis vestibulum tortor sed varius. Ut 
+rhoncus urna ac nunc convallis hendrerit. Ut adipiscing venenatis 
+arcu, et mollis sapien volutpat ut. Pellentesque habitant morbi 
+tristique senectus et netus et malesuada fames ac turpis egestas. 
+Nam at tellus arcu. Phasellus fermentum faucibus sagittis. Duis 
+quis tellus eu velit laoreet scelerisque vitae a sapien.
+
+O Fim
+
+O LyX é bem interessante, mas é importante aprender a formatar a 
+saída dele. O arquivo PDF que ele gera por padrão é bem feio, 
+como vocês podem ver. O que são essas caixas em volta dos links? 
+E essa fontezinha safada?
+
+[LaTeX Command: printindex]
+
+List of Figures
+
+
+
+List of Tables
+
+[LaTeX Command: printnomenclature]
+

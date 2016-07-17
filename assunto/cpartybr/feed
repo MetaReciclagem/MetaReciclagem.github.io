@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - cpartybr</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/820/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Papo Geral 01/2010</title>
+ <link>http://rede.metareciclagem.org/wiki/Papo-Geral-012010</link>
+ <description>&lt;p&gt;Reuni&amp;atilde;o geral, no canal #metareciclagem do freenode&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Presentes:&lt;/strong&gt; efeefe, mbraz, tatirp, rafaeletc, regi, hdhd, andrea saraiva, drica veloso, maira, teia, dalton, laranjatomate, orlando, pixel, hudson,&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pauta definida na lista:&lt;/strong&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/Papo-Geral-012010&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Papo-Geral-012010#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/campus-party">campus party</category>
+ <category domain="http://rede.metareciclagem.org/assunto/cparty">cparty</category>
+ <category domain="http://rede.metareciclagem.org/assunto/cpartybr">cpartybr</category>
+ <category domain="http://rede.metareciclagem.org/assunto/irc">irc</category>
+ <category domain="http://rede.metareciclagem.org/assunto/projetos">projetos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/reuni%C3%A3o">reunião</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/irc_geral_200110.txt" length="44762" type="text/plain" />
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <group domain="http://rede.metareciclagem.org/conectaz/M%C3%ADdia-Livre" xmlns="http://drupal.org/project/og">Mídia Livre</group>
+ <group domain="http://rede.metareciclagem.org/conectaz/MicroReciclagem" xmlns="http://drupal.org/project/og">MicroReciclagem</group>
+ <pubDate>Mon, 01 Feb 2010 02:10:57 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1848 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>No coração do espetáculo</title>
+ <link>http://rede.metareciclagem.org/blog/25-01-10/No-cora%C3%A7%C3%A3o-do-espet%C3%A1culo</link>
+ <description>&lt;p&gt;&amp;nbsp;T&amp;aacute; come&amp;ccedil;ando a terceira edi&amp;ccedil;&amp;atilde;o brasileira da&amp;nbsp;&lt;a href=&quot;http://campus-party.com.br&quot; rel=&quot;nofollow&quot;&gt;Campus Party&lt;/a&gt;. Cheguei l&amp;aacute; antes de abrirem os port&amp;otilde;es, pra checar os espa&amp;ccedil;os e tudo mais. Alguma enrola&amp;ccedil;&amp;atilde;o com a minha credencial, mas muito menos do que no ano passado. Depois, mais alguma enrola&amp;ccedil;&amp;atilde;o com o crach&amp;aacute; do meu irm&amp;atilde;o, que &amp;eacute; menor. Muita fila, mas resolvido.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/25-01-10/No-cora%C3%A7%C3%A3o-do-espet%C3%A1culo&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/25-01-10/No-cora%C3%A7%C3%A3o-do-espet%C3%A1culo#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/campus-party">campus party</category>
+ <category domain="http://rede.metareciclagem.org/assunto/Campus-Party-2010">Campus Party 2010</category>
+ <category domain="http://rede.metareciclagem.org/assunto/cparty">cparty</category>
+ <category domain="http://rede.metareciclagem.org/assunto/cpartybr">cpartybr</category>
+ <category domain="http://rede.metareciclagem.org/assunto/eventos">eventos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/wireless">wireless</category>
+ <pubDate>Mon, 25 Jan 2010 23:00:01 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1843 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

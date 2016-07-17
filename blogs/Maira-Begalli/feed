@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>blog de Maira Begalli</title>
+ <link>http://rede.metareciclagem.org/blogs/Maira-Begalli</link>
+ <description>Apropriação tecnológica para a transformação social</description>
+ <language>pt-br</language>
+<item>
+ <title>Composição com eletrôrganicos</title>
+ <link>http://rede.metareciclagem.org/blog/12-10-12/Composicao-com-eletrorganicos</link>
+ <description>&lt;p&gt;Algumas pessoas apareceram interessadas, o perfil &amp;eacute; heterog&amp;ecirc;neo: crian&amp;ccedil;as, senhoras com mais de 60 anos, jovens, algumas fam&amp;iacute;lias.&lt;br /&gt;
+	Entretanto nenhuma pessoa chegou pontualmente para a roda de conversa, mas sim, querendo dialogar e entender&lt;br /&gt;
+	&lt;br /&gt;
+	sentimos a necessidade de alguma forma manter contato com essas pessoas, pensamos numa conta de twitter do LabLivre EletrOrg&amp;acirc;nicos e um grupo no Facebook&lt;br /&gt;
+	sinalizando em algum lugar do Lab o endere&amp;ccedil;o dele.&lt;br /&gt;
+	&lt;br /&gt;
+	Eu e Guima conversamos e revisamos o que j&amp;aacute; foi feito at&amp;eacute; agora e como poder&amp;iacute;amos trabalhar juntos.&lt;br /&gt;
+	Revisamos materiais bibliogr&amp;aacute;ficos e pesquisas para aplica&amp;ccedil;&amp;atilde;o de futuros projetos&lt;br /&gt;
+	planejamos, ainda que brevemente, as semanas seguintes:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Mensurar fotos&amp;iacute;ntese do sistema;&lt;/li&gt;
+	&lt;li&gt;pHmetro com arduino;&lt;/li&gt;
+	&lt;li&gt;An&amp;aacute;lise de nutrientes;&lt;/li&gt;
+	&lt;li&gt;Touch plant como medida de interatividade.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/12-10-12/Composicao-com-eletrorganicos#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/eletrorganicos">eletrorganicos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/sesc-sorocaba">sesc sorocaba</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/LabLivre-EletrOrganicos" xmlns="http://drupal.org/project/og">LabLivre - EletrOrgânicos</group>
+ <pubDate>Fri, 12 Oct 2012 17:06:55 +0000</pubDate>
+ <dc:creator>Maira Begalli</dc:creator>
+ <guid isPermaLink="false">2139 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - quilombo fazenda</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/1351/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>estalacao do telecentro  </title>
+ <link>http://rede.metareciclagem.org/wiki/estalacao-do-telecentro</link>
+ <description>&lt;p&gt;&lt;strong&gt;Passo 1: Criar p&amp;aacute;gina de Wiki e escrever&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;Relato do Joselino:&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;o telecentro estava parado e estamos estalando o debian nos computadores eu e o iuri ,ja estamos dois e estamos estalando mas nove a comunidade esta muito agradecida.&lt;/p&gt;
+&lt;p&gt;o iuri esta aqui me ecomodando para mim escrever mas,porque e muito enportante que tem alguem aqui na comunidade que nao deixe este trabalho parar&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Passo 2: Registro visual&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;Sugest&amp;atilde;o de o2&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;Fotografias ser&amp;atilde;o hospedadas em algum servi&amp;ccedil;o de hospedagem de arquivos nos Estados Unidos e links ser&amp;atilde;o publicados aqui&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Passo 3: Registro audiovisual&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;Filmagem do processo de instala&amp;ccedil;&amp;atilde;o do Debian&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;Neste momento estamos registrando em v&amp;iacute;deo o processo para que fique dispon&amp;iacute;vel na comunidade, garantindo que as duas pessoas envolvidas neste processo n&amp;atilde;o ser&amp;atilde;o as &amp;uacute;nicas com acesso a esta experi&amp;ecirc;ncia, e mais pessoas interessadas que vir&amp;atilde;o poder&amp;atilde;o ter uma ideia de como proceder com a instala&amp;ccedil;&amp;atilde;o do sistema operacional nos computadores.&lt;/p&gt;
+&lt;p&gt;Registramos em v&amp;iacute;deo diversos procedimentos que eu realizei para eu aprender, ensinei o Joselino, e deixei ele fazer sozinho depois, como por exemplo:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		Instala&amp;ccedil;&amp;atilde;o das impressoras e scanner;&lt;/li&gt;
+	&lt;li&gt;
+		C&amp;oacute;pia e impress&amp;atilde;o de documentos com scanner (atividade comum aqui no Quilombo e que era dificultada por quest&amp;otilde;es t&amp;eacute;cnicas e limita&amp;ccedil;&amp;atilde;o de equipamentos);&lt;/li&gt;
+	&lt;li&gt;
+		Instala&amp;ccedil;&amp;atilde;o de pacotes .deb com DVDs no Synaptic (gerenciador de pacotes do Debian) - tal procedimento faz-se necess&amp;aacute;rio em decorr&amp;ecirc;ncia da conex&amp;atilde;o &amp;agrave; internet lenta;&lt;/li&gt;
+	&lt;li&gt;
+		Fotografia com c&amp;acirc;mera USB que o &lt;a href=&quot;http://rede.metareciclagem.org/pessoa/felipefonseca&quot; rel=&quot;nofollow&quot;&gt;Felipe&lt;/a&gt; doou e envio das fotografias pela rede para o pessoal enviar as mesmas para &amp;quot;redes sociais&amp;quot; (fiz quest&amp;atilde;o de n&amp;atilde;o participar nesta parte do processo, parece que o Joselino se virou sozinho ensinando a turma);&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Passo 4: Liberar o Telecentro pra uso&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Na verdade o pessoal ficou usando o Telecentro ENQUANTO faz&amp;iacute;amos todo o procedimento de instala&amp;ccedil;&amp;atilde;o. Por consequ&amp;ecirc;ncia disto, eu e o Joselino est&amp;aacute;vamos juntos, acompanhando, eu vendo o Joselino se virar e todo mundo se virar de forma aut&amp;ocirc;noma, eliminando a necessidade de voltar para ver se &amp;quot;deu certo&amp;quot;, e somando no meu aprendizado e no da turma toda.&lt;/p&gt;
+&lt;p&gt;&lt;u&gt;Novo relato do Joselino (ele escreveu sozinho, eu s&amp;oacute; to editando a p&amp;aacute;gina):&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;gente eu queria dizer muito obrigado por mim e pela comunidade ,os computadores estao todos funcionando ja estamos com bastante movimentos na sala ,vai te aula para as criancas e para os adultos ,o iuri me trenou muito bem detalhado agora daqui para frente e so` aproveitar e estudar&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Passo 5: Continuar USANDO o Telecentro e documentando&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Esta &amp;eacute; uma tarefa para a comunidade do Quilombo da Fazenda. Eu, Iuri Guilherme, acompanharei &amp;agrave; dist&amp;acirc;ncia dando o m&amp;aacute;ximo de suporte e ax&amp;eacute; poss&amp;iacute;vel. Perseverarei documentando meus sentimentos, minhas intepreta&amp;ccedil;&amp;otilde;es nos meios de costume e tentando alinhar minhas energias com o processo que continuar&amp;aacute; acontecendo aqui.&lt;/p&gt;
+&lt;p&gt;Publica&amp;ccedil;&amp;otilde;es sobre esta instala&amp;ccedil;&amp;atilde;o no blog:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rede.metareciclagem.org/blog/28-10-13/Quilombo-da-Fazenda-1&quot; title=&quot;http://rede.metareciclagem.org/blog/28-10-13/Quilombo-da-Fazenda-1&quot; rel=&quot;nofollow&quot;&gt;http://rede.metareciclagem.org/blog/28-10-13/Quilombo-da-Fazenda-1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rede.metareciclagem.org/blog/30-10-13/Quilombo-da-Fazenda-2&quot; title=&quot;http://rede.metareciclagem.org/blog/30-10-13/Quilombo-da-Fazenda-2&quot; rel=&quot;nofollow&quot;&gt;http://rede.metareciclagem.org/blog/30-10-13/Quilombo-da-Fazenda-2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/estalacao-do-telecentro#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/quilombo-fazenda">quilombo fazenda</category>
+ <category domain="http://rede.metareciclagem.org/assunto/telecentro">telecentro</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ubatuba">ubatuba</category>
+ <group domain="http://rede.metareciclagem.org/grupo/Quilombo-da-Fazenda" xmlns="http://drupal.org/project/og">Quilombo da Fazenda</group>
+ <pubDate>Mon, 28 Oct 2013 23:33:54 +0000</pubDate>
+ <dc:creator>joselino lino</dc:creator>
+ <guid isPermaLink="false">2323 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - drupal</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/359/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Infralógica - reunião </title>
+ <link>http://rede.metareciclagem.org/blog/11-08-13/Infralogica-reuniao</link>
+ <description>&lt;p&gt;Dando sequ&amp;ecirc;ncia &amp;agrave; conversa sobre a infraestrutura de comunica&amp;ccedil;&amp;atilde;o da rede MetaReciclagem, nos reunimos na noite de quarta-feira passada no canal IRC #metareciclagem do freenode.org. Estivemos presentes e conversando efeefe, iuriguilherme, B3ZN05, deniszubieta, josenetomg, simba_, elenaralelex e adr___, acompanhados ainda de alguns usu&amp;aacute;rios inativos e rob&amp;ocirc;s.&lt;/p&gt;
+&lt;p&gt;A reuni&amp;atilde;o serviu como um primeiro momento de contato e levantamento de caminhos para avan&amp;ccedil;ar. Falamos sobre o elgg/lorea, sobre a necessidade de desenvolver uma pol&amp;iacute;tica de governan&amp;ccedil;a e sustentabilidade para uma eventual nova infral&amp;oacute;gica. Pensamos em configurar um piloto de rede lorea para a metareciclagem para experi&amp;ecirc;ncias - contribuindo com o esfor&amp;ccedil;o de desenvolvimento da plataforma, mas tamb&amp;eacute;m adaptando-a para algumas de nossas particularidades. Sugeriu-se investigarmos a possibilidade de criar um metagrupo que se comunique atrav&amp;eacute;s dos outros, e falou-se sobre a necessidade de aten&amp;ccedil;&amp;atilde;o especial a arquitetura de informa&amp;ccedil;&amp;atilde;o e experi&amp;ecirc;ncia de uso, como fizemos com o site da metareciclagem em drupal (ver os anexos no fim da p&amp;aacute;gina &lt;a href=&quot;/wiki/AI-da-Homepage&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;At&amp;eacute; o momento, minha sugest&amp;atilde;o pessoal &amp;eacute; que criemos uma instala&amp;ccedil;&amp;atilde;o do lorea em algum subdom&amp;iacute;nio da metareciclagem.org, documentando extensivamente cada etapa do processo (documenta&amp;ccedil;&amp;atilde;o esta que ser&amp;aacute; disponibilizada publicamente) e passemos a fazer testes em cima dela. Mas antes de come&amp;ccedil;ar, quero conversar mais e entender se esse &amp;eacute; realmente o melhor caminho.&lt;/p&gt;
+&lt;p&gt;Log completo segue &lt;a href=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/2013-08-07.210459-0300BRT.txt&quot; rel=&quot;nofollow&quot;&gt;em anexo&lt;/a&gt;.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/11-08-13/Infralogica-reuniao#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/irc">irc</category>
+ <category domain="http://rede.metareciclagem.org/assunto/lorea">lorea</category>
+ <category domain="http://rede.metareciclagem.org/assunto/projetos">projetos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/reuni%C3%A3o">reunião</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/2013-08-07.210459-0300BRT.txt" length="50798" type="text/plain" />
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Sun, 11 Aug 2013 22:20:41 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2256 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>MutGambPublicacaoDigital</title>
+ <link>http://rede.metareciclagem.org/wiki/MutGambPublicacaoDigital</link>
+ <description>&lt;p&gt;Passados alguns anos de atividade do &lt;a href=&quot;http://mutgamb.org&quot; rel=&quot;nofollow&quot;&gt;Mutgamb&lt;/a&gt;, coletivo editorial nascido em meio &amp;agrave;s reverbera&amp;ccedil;&amp;otilde;es da MetaReciclagem, cheguei (&lt;a href=&quot;/pessoa/felipefonseca&quot; rel=&quot;nofollow&quot;&gt;efeefe&lt;/a&gt;) a uma metodologia de publica&amp;ccedil;&amp;atilde;o online que acredito fazer sentido para os nossos prop&amp;oacute;sitos. A partir da edi&amp;ccedil;&amp;atilde;o atual do &lt;a href=&quot;http://mutgamb.org/MutSaz&quot; rel=&quot;nofollow&quot;&gt;Mutsaz&lt;/a&gt; optamos por ter editorxs convidadxs, que t&amp;ecirc;m autonomia total sobre formatos e liberdade de experimenta&amp;ccedil;&amp;atilde;o. As publica&amp;ccedil;&amp;otilde;es podem sair em PDF, em hotsites dedicados, em colet&amp;acirc;neas de mp3 ou no que for. Mas tamb&amp;eacute;m devemos manter uma vers&amp;atilde;o padronizada em formatos m&amp;uacute;ltiplos. No m&amp;iacute;nimo, uma vers&amp;atilde;o &lt;a href=&quot;https://pt.wikipedia.org/wiki/EPUB&quot; rel=&quot;nofollow&quot;&gt;epub&lt;/a&gt; e uma vers&amp;atilde;o naveg&amp;aacute;vel pelo site mutgamb. O EPUB &amp;eacute; um padr&amp;atilde;o aberto, baseado em HTML e compat&amp;iacute;vel com uma grande quantidade de dispositivos - leitores de livros eletr&amp;ocirc;nicos, telefones celulares, tabuletas e programas para computadores em praticamente todas as plataformas. A vers&amp;atilde;o naveg&amp;aacute;vel utiliza o m&amp;oacute;dulo &lt;em&gt;book&lt;/em&gt; do &lt;a href=&quot;http://drupal.org&quot; rel=&quot;nofollow&quot;&gt;drupal&lt;/a&gt; - sistema em que foi montado o site mutgamb - e permite a cria&amp;ccedil;&amp;atilde;o de sele&amp;ccedil;&amp;otilde;es hierarquizadas de conte&amp;uacute;do.&lt;/p&gt;
+&lt;h1&gt;Montando o ebook&lt;/h1&gt;
+&lt;p&gt;Cheguei a testar diferentes alternativas para gerar as vers&amp;otilde;es ebook (ver documenta&amp;ccedil;&amp;atilde;o dos testes em PlataformasPublicacao). A op&amp;ccedil;&amp;atilde;o mais simples at&amp;eacute; agora tem sido utilizar o &lt;a href=&quot;http://code.google.com/p/sigil/&quot; rel=&quot;nofollow&quot;&gt;Sigil&lt;/a&gt;, software livre (GPL) de edi&amp;ccedil;&amp;atilde;o de ebooks. Ele cuida de todos os aspectos superficiais da formata&amp;ccedil;&amp;atilde;o, e tem um editor de c&amp;oacute;digo-fonte para quem quer se aventurar a coisas avan&amp;ccedil;adas ou debugar problemas no c&amp;oacute;digo.&lt;/p&gt;
+&lt;p&gt;Em geral, preciso partir de uma vers&amp;atilde;o formatada dos textos. Copiar e colar de editores de texto &amp;eacute; sempre complicado. No processo de converter o legado do Mutgamb para ebook, enfrentei diferentes situa&amp;ccedil;&amp;otilde;es: algumas edi&amp;ccedil;&amp;otilde;es me possibilitaram gerar um arquiv&amp;atilde;o HTML que eu depois abria direto no Sigil. Foi o caso do &lt;a href=&quot;http://mutgamb.org/metalivro/Historia-da-MetaReciclagem-Historias-de-MetaReciclagem&quot; rel=&quot;nofollow&quot;&gt;Hist&amp;oacute;rias de/da MetaReciclagem&lt;/a&gt;, que eu tinha editorado (!) originalmente no OpenOffice.org. Depois de testar diversas formas, optei pela mais prosaica: mandei o OOo &amp;quot;salvar como&amp;quot;... HTML. Depois foi s&amp;oacute; quebrar os cap&amp;iacute;tulos com Ctrl+Enter (tomando o cuidado de deixar uma linha em branco ao fim de cada cap&amp;iacute;tulo, sen&amp;atilde;o ele deixava o t&amp;iacute;tulo do cap&amp;iacute;tulo para tr&amp;aacute;s). J&amp;aacute; tinha passado um monte de cap&amp;iacute;tulos quando fui verificar o c&amp;oacute;digo-fonte de um deles. Tinha um monte de lixo ali gerado pelo OOo: uma confus&amp;atilde;o de folhas de estilo e informa&amp;ccedil;&amp;otilde;es desnecess&amp;aacute;rias. E o pior &amp;eacute; que ele repetia o c&amp;oacute;digo sujo em cada cap&amp;iacute;tulo. Acabei come&amp;ccedil;ando do zero: abri outra vez o HTML, tratei de limpar o c&amp;oacute;digo na m&amp;atilde;o e s&amp;oacute; depois comecei a quebrar os cap&amp;iacute;tulos.&lt;/p&gt;
+&lt;p&gt;Em outras ocasi&amp;otilde;es, como o &lt;a href=&quot;http://mutgamb.org/mutsaz/09-primavera/sobre&quot; rel=&quot;nofollow&quot;&gt;mutsaz primavera 2009&lt;/a&gt;, os originais s&amp;oacute; existiam em PDF, e precisei copiar e colar cada cap&amp;iacute;tulo (e revisar um monte de vezes para encontrar linhas quebradas por hifens, discrep&amp;acirc;ncias de formata&amp;ccedil;&amp;atilde;o com negrito/it&amp;aacute;lico e um monte de outras coisas). Demorei uns tr&amp;ecirc;s meses (entre v&amp;aacute;rios outros projetos, &amp;eacute; claro) para terminar essa edi&amp;ccedil;&amp;atilde;o em particular.&lt;/p&gt;
+&lt;p&gt;Colecionando dicas ent&amp;atilde;o, para alimentar um futuro tutorial do Sigil:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Publica&amp;ccedil;&amp;otilde;es que j&amp;aacute; est&amp;atilde;o inseridas no drupal com o m&amp;oacute;dulo book podem ser exportadas em um HTML completo (atrav&amp;eacute;s do m&amp;oacute;dulo para &lt;a href=&quot;http://drupal.org/project/print&quot; rel=&quot;nofollow&quot;&gt;vers&amp;otilde;es de impress&amp;atilde;o, email e pdf,&lt;/a&gt; se n&amp;atilde;o me engano). Tamb&amp;eacute;m precisam de limpeza depois, mas &amp;eacute; pouca coisa.&lt;/li&gt;
+	&lt;li&gt;Publica&amp;ccedil;&amp;otilde;es editoradas com o &lt;a href=&quot;http://lyx.org&quot; rel=&quot;nofollow&quot;&gt;Lyx&lt;/a&gt; podem ser exportadas para HTML. Aparentemente o pr&amp;oacute;prio Lyx usa para a convers&amp;atilde;o o &lt;a href=&quot;http://elyxer.nongnu.org/index.html&quot; rel=&quot;nofollow&quot;&gt;elyxer&lt;/a&gt;, software que tamb&amp;eacute;m pode ser acionado via linha de comando. Vale a pena fazer testes com diferentes maneiras de gerar o HTML.&lt;/li&gt;
+	&lt;li&gt;Uma vez inserido todo o texto, &amp;eacute; bom verificar a formata&amp;ccedil;&amp;atilde;o de cada um dos cap&amp;iacute;tulos. Para facilitar a gera&amp;ccedil;&amp;atilde;o do TOC (&amp;iacute;ndice), o ideal &amp;eacute; que cada cap&amp;iacute;tulo se inicie com um t&amp;iacute;tulo, formatado como &amp;lt;h1&amp;gt; ou &amp;lt;h2&amp;gt; no HTML (a interface gr&amp;aacute;fica do Sigil resolve isso de maneira f&amp;aacute;cil, oferecendo as folhas de estilo (Normal, Heading 1, 2, 3...).&lt;/li&gt;
+	&lt;li&gt;Eu gosto de prestar aten&amp;ccedil;&amp;atilde;o &amp;agrave; coer&amp;ecirc;ncia na maneira como s&amp;atilde;o exibidos os diferentes elementos. N&amp;atilde;o &amp;eacute; necess&amp;aacute;rio um padr&amp;atilde;o entre as diferentes publica&amp;ccedil;&amp;otilde;es, mas se a URL ou o nome do autor est&amp;atilde;o formatados de determinada forma em um cap&amp;iacute;tulo, acho interessante manter essa formata&amp;ccedil;&amp;atilde;o em todos.&lt;/li&gt;
+	&lt;li&gt;Imagens devem ser redimensionadas com um programa adequado (GIMP, mogrify, etc.) para um tamanho m&amp;eacute;dio (a maior parte dos dispositivos tem telas com resolu&amp;ccedil;&amp;atilde;o limitada, e quanto maiores as imagens maiores os arquivos resultantes). Atualmente tenho usado 500px de largura. As imagens tamb&amp;eacute;m devem ser inseridas no epub. Na coluna da esquerda do Sigil existem um monte de pastinhas: Texto, Estilos, Imagens, Fontes e Misc. Clique com o bot&amp;atilde;o direito em Imagens, e escolha &amp;quot;Acrescentar arquivo existente&amp;quot;. Depois, &amp;eacute; s&amp;oacute; ir no cap&amp;iacute;tulo em que a imagem vai ser inserida, posicionar o cursor e clicar na op&amp;ccedil;&amp;atilde;o de inserir imagem da barra de ferramentas do Sigil.&lt;/li&gt;
+	&lt;li&gt;Uma vez revisado todo o texto, verificados os t&amp;iacute;tulos, imagens e formata&amp;ccedil;&amp;atilde;o, passamos &amp;agrave; estrutura do epub. A coluna da direita exibe o &amp;iacute;ndice. Clicando em &amp;quot;Gerar TOC a partir dos t&amp;iacute;tulos&amp;quot;, o Sigil vai gerar um &amp;iacute;ndice correspondente aos t&amp;iacute;tulos e subt&amp;iacute;tulos dentro dos cap&amp;iacute;tulos.&lt;/li&gt;
+	&lt;li&gt;Depois v&amp;ecirc;m as metainforma&amp;ccedil;&amp;otilde;es: clique em &amp;quot;Edit &amp;gt; Meta Editor&amp;quot;. Insira o t&amp;iacute;tulo da publica&amp;ccedil;&amp;atilde;o, autorx (no nosso caso, Coletivo Mutgamb) e idioma. Eu costumo tamb&amp;eacute;m clicar em &amp;quot;Adicionar b&amp;aacute;sico&amp;quot; e escolher &amp;quot;Direitos&amp;quot;, depois na coluna da direita escrever &amp;quot;Copyleft&amp;quot;.&lt;/li&gt;
+	&lt;li&gt;Por &amp;uacute;ltimo, vou em &amp;quot;Arquivo &amp;gt; Validar EPUB&amp;quot;. Ele geralmente vai encontrar inconsist&amp;ecirc;ncias e malforma&amp;ccedil;&amp;otilde;es de c&amp;oacute;digo. Gosto de corrigir essas coisas para evitar eventuais problemas com algum dispositivo.&lt;/li&gt;
+	&lt;li&gt;Depois disso &amp;eacute; s&amp;oacute; salvar o arquivo e pronto, o ebook est&amp;aacute; montado. Vale a pena testar em diferentes aparelhos para saber se est&amp;aacute; funcionando bem.&lt;/li&gt;&lt;/ul&gt;
+&lt;h1&gt;Montando a vers&amp;atilde;o naveg&amp;aacute;vel no site mutgamb.org&lt;/h1&gt;
+&lt;p&gt;Agora que j&amp;aacute; temos a vers&amp;atilde;o Ebook, podemos publicar a vers&amp;atilde;o naveg&amp;aacute;vel no site do Mutgamb (a ordem n&amp;atilde;o precisa ser essa: podemos come&amp;ccedil;ar publicando no site, e depois exportar o HTML para aproveitar no Sigil e fazer o ebook. Tudo depende do que temos para come&amp;ccedil;ar).&lt;/p&gt;
+&lt;p&gt;Para come&amp;ccedil;ar, precisamos criar um livro novo. Vou em &amp;quot;criar conte&amp;uacute;do &amp;gt; livro&amp;quot;, insiro um t&amp;iacute;tulo e o conte&amp;uacute;do (cap&amp;iacute;tulo abaixo sobre como copiar o conte&amp;uacute;do do epub para o site). Depois, op&amp;ccedil;&amp;atilde;o importante: &amp;quot;book outline&amp;quot;, e selecionar &amp;quot;novo livro&amp;quot;. Por fim, tenho o costume de mudar a URL de acordo com a publica&amp;ccedil;&amp;atilde;o em &amp;quot;op&amp;ccedil;&amp;otilde;es de endere&amp;ccedil;o&amp;quot;. No caso do mutsaz primavera 2009, escolhi o endere&amp;ccedil;o &amp;quot;mutsaz/09-primavera/sobre&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Se simplesmente abrirmos o epub em algum programa para ebooks ou mesmo no Sigil, na hora de copiar e colar no browser ele vai perder a formata&amp;ccedil;&amp;atilde;o (pelo menos aqui no meu PC atualmente rodando Linux Mint 12 com ambiente gr&amp;aacute;fico Mate, browser firefox e o editor CKeditor no drupal). Encontrei uma maneira de driblar isso: descompactar o arquivo epub em um diret&amp;oacute;rio tempor&amp;aacute;rio ($ unzip livro.epub -d /tmp/livro). Ele vai criar uma estrutura de arquivos, dentro da qual fica um arquivo .xhtml para cada cap&amp;iacute;tulo (em OEPBS/Text). Acesso cada um deles no browser e mando visualizar o c&amp;oacute;digo-fonte. Da&amp;iacute; &amp;eacute; f&amp;aacute;cil copiar o c&amp;oacute;digo formatado, depois ir na p&amp;aacute;gina que estou editando no drupal, clicar em &amp;quot;Source&amp;quot; no editor WYSIWYG e colar. Ocasionalmente, perdi a formata&amp;ccedil;&amp;atilde;o de uma linha em negrito, mas todos t&amp;iacute;tulos, URLs e it&amp;aacute;licos migraram sem problemas.&lt;/p&gt;
+&lt;p&gt;A partir da primeira p&amp;aacute;gina do livro, vou criando &amp;quot;p&amp;aacute;ginas-filha&amp;quot;. Aten&amp;ccedil;&amp;atilde;o: n&amp;atilde;o &amp;eacute; criar uma p&amp;aacute;gina-filha de cada um dos textos: todas devem ser criadas como p&amp;aacute;ginas-filhas da primeira p&amp;aacute;gina do livro. Atentar sempre para o &amp;quot;book outline&amp;quot;, onde se verifica que ela &amp;eacute; filha da p&amp;aacute;gina certa e o peso relativo (que define a ordem dos cap&amp;iacute;tulos: quanto menor o n&amp;uacute;mero, antes a p&amp;aacute;gina &amp;eacute; exibida); e para a &amp;quot;configura&amp;ccedil;&amp;atilde;o de endere&amp;ccedil;o&amp;quot;, que sempre deve repetir a estrutura da p&amp;aacute;gina do livro (por exemplo, &amp;quot;mutsaz/09-primavera/uma-frase&amp;quot;).&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/MutGambPublicacaoDigital#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ebooks">ebooks</category>
+ <category domain="http://rede.metareciclagem.org/assunto/epub">epub</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mutgamb">mutgamb</category>
+ <category domain="http://rede.metareciclagem.org/assunto/producao-editorial">produção editorial</category>
+ <category domain="http://rede.metareciclagem.org/assunto/sigil">sigil</category>
+ <category domain="http://rede.metareciclagem.org/assunto/txtlab">txtlab</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Sun, 20 May 2012 03:55:28 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2110 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>CKEditor</title>
+ <link>http://rede.metareciclagem.org/blog/10-09-11/CKEditor</link>
+ <description>&lt;p&gt;H&amp;aacute; algumas horas fui atualizar a p&amp;aacute;gina da &lt;a href=&quot;/wiki/Agenda-2011&quot; rel=&quot;nofollow&quot;&gt;Agenda&lt;/a&gt; da MetaReciclagem e incorri de novo em um bug que j&amp;aacute; tinha enfrentado h&amp;aacute; algum tempo - a p&amp;aacute;gina simplesmente n&amp;atilde;o registrava nenhuma das altera&amp;ccedil;&amp;otilde;es que eu fazia. Decidi fazer o mesmo que em outro site h&amp;aacute; algumas semanas: larguei o FCKeditor e instalei seu sucessor, o CKEditor. A instala&amp;ccedil;&amp;atilde;o foi tranquila, seguindo o README: instalar o m&amp;oacute;dulo, o editor e o ckfinder para upload de arquivos. Al&amp;eacute;m de ter menos bugs e um visual mais bonitinho, o CKEditor tem recursos interessantes como a visualiza&amp;ccedil;&amp;atilde;o em tela cheia.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/10-09-11/CKEditor#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/ckeditor">ckeditor</category>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/wysiwyg">wysiwyg</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Sat, 10 Sep 2011 04:53:02 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2067 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Outros 500</title>
+ <link>http://rede.metareciclagem.org/blog/31-07-11/Outros-500</link>
+ <description>&lt;p&gt;O site da MetaReciclagem passou o domingo fora do ar. Acusava &amp;quot;erro 500 - erro interno do servidor&amp;quot;.&amp;nbsp;Entrei no servidor e constatei que n&amp;atilde;o tinha mais espa&amp;ccedil;o em disco. Fui direto no diret&amp;oacute;rio /var/log, que estava com mais de 3Gb. O maior culpado era o log de acesso do lighttpd: tinha dois arquivos com mais de 1Gb cada. Fiz uma limpa no servidor, tirei algumas coisas antigas e os arquivos de log arquivados (sim, o logrotate est&amp;aacute; funcionando, mas com arquivos mais de 1Gb n&amp;atilde;o tem muito que se possa fazer, tem?).&lt;/p&gt;
+&lt;p&gt;Aproveitei que estava logado por l&amp;aacute; e atualizei a vers&amp;atilde;o do &lt;a href=&quot;http://drupal.org&quot; rel=&quot;nofollow&quot;&gt;drupal 6&lt;/a&gt; para a mais recente - 6.22.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/31-07-11/Outros-500#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/rede">rede</category>
+ <category domain="http://rede.metareciclagem.org/tags/site">site</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Sun, 31 Jul 2011 23:58:08 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2059 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Janxs - versão epub</title>
+ <link>http://rede.metareciclagem.org/blog/23-03-11/Janxs-versao-epub</link>
+ <description>&lt;p&gt;Lan&amp;ccedil;amos ontem a edi&amp;ccedil;&amp;atilde;o &lt;a href=&quot;http://mutgamb.org/MutSaz/2011/Janxs&quot; rel=&quot;nofollow&quot;&gt;ver&amp;atilde;o 2011&lt;/a&gt; do &lt;a href=&quot;http://mutgamb.org/MutSaz/&quot; rel=&quot;nofollow&quot;&gt;MutSaz&lt;/a&gt;, inspirado por &lt;em&gt;Janxs&lt;/em&gt;. Nas nossas publica&amp;ccedil;&amp;otilde;es mais recentes, eu j&amp;aacute; estava &lt;a href=&quot;http://rede.metareciclagem.org/wiki/PlataformasPublicacao&quot; rel=&quot;nofollow&quot;&gt;flertando com formatos de ebook&lt;/a&gt;. Fiz algumas experi&amp;ecirc;ncias convertendo &lt;a href=&quot;http://rede.metareciclagem.org/blog/26-09-10/Pozimi-o-processo&quot; rel=&quot;nofollow&quot;&gt;com o calibre o HTML gerado pelo Lyx&lt;/a&gt;. Foram relatados problemas de encode, de quebra de cap&amp;iacute;tulos e outros.&lt;/p&gt;
+&lt;p&gt;Para &lt;em&gt;Janxs&lt;/em&gt;, resolvi retomar a pesquisa. Depois de ler dois livros lan&amp;ccedil;ados no formato epub (um &lt;a href=&quot;http://en.wikipedia.org/wiki/EPUB&quot; rel=&quot;nofollow&quot;&gt;padr&amp;atilde;o livre e aberto&lt;/a&gt;, com bons clientes em muitas plataformas), resolvi me concentrar nele. Cheguei at&amp;eacute; a elencar a busca de softwares para editar ebooks nas minhas &lt;a href=&quot;http://efeefe.no-ip.org/blog/meus-projetos-para-2011&quot; rel=&quot;nofollow&quot;&gt;prioridades para 2011&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Testei o &lt;a href=&quot;http://drupal.org/project/epub&quot; rel=&quot;nofollow&quot;&gt;m&amp;oacute;dulo epub&lt;/a&gt; do &lt;a href=&quot;http://drupal.org&quot; rel=&quot;nofollow&quot;&gt;drupal&lt;/a&gt; que poderia gerar ebooks automaticamente. O m&amp;oacute;dulo &amp;eacute; complexo demais, gerou um epub pesado e que n&amp;atilde;o funcionava. Tentei debugar, mas acabei deixando de lado. Depois de pesquisar mais um pouco, encontrei o &lt;a href=&quot;http://code.google.com/p/sigil/&quot; rel=&quot;nofollow&quot;&gt;Sigil&lt;/a&gt; - um software que simples e objetivamente fazia exatamente o que eu precisava: formatar um epub de maneira clara e sem frescuras. E melhor: livre e multiplataforma.&lt;/p&gt;
+&lt;p&gt;Para editar&amp;nbsp;&lt;em&gt;Janxs&lt;/em&gt;, comecei usando o m&amp;oacute;dulo book do drupal para montar os textos na ordem da publica&amp;ccedil;&amp;atilde;o. Depois de tudo organizado e revisado, exportei o livro inteiro para HTML (&amp;eacute; s&amp;oacute; acessar /book/export/html/NID, onde NID &amp;eacute; o n&amp;uacute;mero do node do livro). Salvei o HTML, importei no Sigil e dividi os cap&amp;iacute;tulos. Inseri os metadados e pronto, em pouco tempo o ebook estava pronto. Pelos testes que fiz aqui, est&amp;aacute; funcionando ok. Aceito ajuda de quem puder testar em outras plataformas al&amp;eacute;m de Linux e Android. Baixem o epub &lt;a href=&quot;http://mutgamb.org/MutSaz/2011/Janxs&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/23-03-11/Janxs-versao-epub#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ebook">ebook</category>
+ <category domain="http://rede.metareciclagem.org/assunto/epub">epub</category>
+ <category domain="http://rede.metareciclagem.org/assunto/grafilab">grafilab</category>
+ <category domain="http://rede.metareciclagem.org/assunto/lyx">lyx</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mutgamb">mutgamb</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mutsaz">mutsaz</category>
+ <category domain="http://rede.metareciclagem.org/assunto/sigil">sigil</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Thu, 24 Mar 2011 00:23:19 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2029 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>UID</title>
+ <link>http://rede.metareciclagem.org/blog/17-03-11/UID</link>
+ <description>&lt;p&gt;H&amp;aacute; alguns meses j&amp;aacute; est&amp;aacute;vamos com problemas em alguns posts do &lt;a href=&quot;http://rede.metareciclagem.org&quot; rel=&quot;nofollow&quot;&gt;site da MetaReciclagem&lt;/a&gt;: apareciam de repente sem estar associados a nenhumx autorx, e isso atrapalhava o acesso e a edi&amp;ccedil;&amp;atilde;o do conte&amp;uacute;do. N&amp;atilde;o consegui descobrir a causa do problema (que afeta, em verdade, uma propor&amp;ccedil;&amp;atilde;o &amp;iacute;nfima do site - duas p&amp;aacute;ginas em um universo de mais de 2000), mas hoje aprendi a consertar, com ajuda do &lt;a href=&quot;/pessoa/wundo&quot; rel=&quot;nofollow&quot;&gt;Wundo&lt;/a&gt;. L&amp;aacute; vai:&lt;/p&gt;
+&lt;p&gt;Entrar no mysql&lt;/p&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;#mysql -u usuario -p&lt;/p&gt;
+&lt;p&gt;Selecionar o banco de dados&lt;/p&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;mysql&amp;gt; use bancodedados;&lt;/p&gt;
+&lt;p&gt;Verificar se o problema &amp;eacute; mesmo o id de usu&amp;aacute;rix&lt;/p&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;mysql&amp;gt;&amp;nbsp;SELECT uid from node where nid=XXX;&lt;/p&gt;
+&lt;p&gt;(onde XXX deve ser substitu&amp;iacute;do pelo ID do node em quest&amp;atilde;o)&lt;/p&gt;
+&lt;p&gt;O resultado aqui foi:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;+-----+&lt;/p&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;| uid |&lt;/p&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;+-----+&lt;/p&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;| &amp;nbsp; 0 |&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;+-----+&lt;/p&gt;
+&lt;div&gt;Ou seja, o node est&amp;aacute; associado ao usu&amp;aacute;rio 0, que n&amp;atilde;o existe. Ent&amp;atilde;o vou associ&amp;aacute;-lo ao usu&amp;aacute;rio 1 (que &amp;eacute; o superusu&amp;aacute;rio do drupal) e posteriormente posso atribuir a quem eu quiser atrav&amp;eacute;s da interface web:&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;rteindent1&quot;&gt;mysql&amp;gt;&amp;nbsp;UPDATE node SET uid = 1 WHERE nid = XXX;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;E pronto, os nodes voltaram a ser associados a usu&amp;aacute;rios do site: EventosEtc e &lt;a href=&quot;/wiki/APH-no-Recife&quot; rel=&quot;nofollow&quot;&gt;APH-no-Recife&lt;/a&gt;.&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Atualizando:&lt;/strong&gt; apesar de ter resolvido por aqui, o problema continuou em uma p&amp;aacute;gina do site do MutGamb. &lt;a href=&quot;http://drupal.org/node/533720&quot; rel=&quot;nofollow&quot;&gt;Essa discuss&amp;atilde;o&lt;/a&gt; me leva a crer que o m&amp;oacute;dulo vertical tabs pode ser o culpado, ent&amp;atilde;o vou temporariamente desativ&amp;aacute;-lo.&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Atualizando outra vez:&lt;/strong&gt; desativei o vertical tabs no mutgamb. O erro continua ocorrendo...&lt;/div&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/17-03-11/UID#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/cli">cli</category>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/linha-de-comando">linha de comando</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mysql">mysql</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Thu, 17 Mar 2011 20:49:12 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2028 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Atualização</title>
+ <link>http://rede.metareciclagem.org/blog/24-02-11/Atualizacao</link>
+ <description>&lt;p&gt;Fiz a atualiza&amp;ccedil;&amp;atilde;o de seguran&amp;ccedil;a de dois m&amp;oacute;dulos do &lt;a href=&quot;http://rede.metareciclagem.org&quot; rel=&quot;nofollow&quot;&gt;site da MetaReciclagem&lt;/a&gt;. Se aparecer algum problema, avisem.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/24-02-11/Atualizacao#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infra-l%C3%B3gica">infra-lógica</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Thu, 24 Feb 2011 12:04:58 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2024 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Módulos, módulos...</title>
+ <link>http://rede.metareciclagem.org/blog/27-01-11/Modulos-modulos</link>
+ <description>&lt;p&gt;Atulizei h&amp;aacute; pouco os m&amp;oacute;dulos gmaps_addon, google_analytics e panels do &lt;a href=&quot;http://rede.metareciclagem.org&quot; rel=&quot;nofollow&quot;&gt;site da MetaReciclagem&lt;/a&gt;. O panels est&amp;aacute; com uma vers&amp;atilde;o nova dispon&amp;iacute;vel. Nos pr&amp;oacute;ximos dias vou ver se vale a pena atualizar.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/27-01-11/Modulos-modulos#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Thu, 27 Jan 2011 02:49:35 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1998 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Atualizando, tentando resolver bugs</title>
+ <link>http://rede.metareciclagem.org/blog/04-01-11/Atualizando-tentando-resolver-bugs</link>
+ <description>&lt;p&gt;Cobrindo algumas brechas do site da MetaReciclagem para come&amp;ccedil;ar a resolver alguns problemas que t&amp;ecirc;m rolado. Atualizei o core do drupal para a vers&amp;atilde;o 6.20 e instalei as vers&amp;otilde;es mais recentes de alguns m&amp;oacute;dulos, entre eles o views que pedia um update de seguran&amp;ccedil;a.&lt;/p&gt;
+&lt;p&gt;Testando o upload de imagens, que S&amp;iacute;lia e Orlando n&amp;atilde;o conseguiram. Consegui subir o arquivo, agora vou tentar inserir aqui embaixo.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;Banner Verao&quot; src=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/bannerverao__0.jpg &quot; /&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/04-01-11/Atualizando-tentando-resolver-bugs&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/04-01-11/Atualizando-tentando-resolver-bugs#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Wed, 05 Jan 2011 01:50:39 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1987 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Atualizando módulos</title>
+ <link>http://rede.metareciclagem.org/blog/28-11-10/Atualizando-modulos</link>
+ <description>&lt;p&gt;&lt;a href=&quot;/pessoa/dasilvaorg&quot; rel=&quot;nofollow&quot;&gt;Orlando&lt;/a&gt; &lt;a href=&quot;https://github.com/chuva-inc/Metareciclagem/issues&quot; rel=&quot;nofollow&quot;&gt;reportou no github&lt;/a&gt; alguns bugs do site da MetaReciclagem. Fui dar uma olhada e tinha v&amp;aacute;rios m&amp;oacute;dulos pedindo atualiza&amp;ccedil;&amp;atilde;o. No meio da semana eu fiz o update do mollom, que podia ser a causa de um problema (captcha n&amp;atilde;o funcionando). N&amp;atilde;o resolveu. Antes de tentar qualquer outra coisa, decidi atualizar tamb&amp;eacute;m os outros m&amp;oacute;dulos.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/28-11-10/Atualizando-modulos&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/28-11-10/Atualizando-modulos#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Mon, 29 Nov 2010 00:24:47 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1972 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

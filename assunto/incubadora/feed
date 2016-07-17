@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - incubadora</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/999/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>IncubadoraColaborativa</title>
+ <link>http://rede.metareciclagem.org/wiki/IncubadoraColaborativa</link>
+ <description>&lt;p&gt;Desenvolvendo uma incubadora colaborativa para projetos de MetaReciclagem.&lt;/p&gt;
+&lt;h1&gt;Refer&amp;ecirc;ncias&lt;/h1&gt;
+&lt;ul&gt;
+    &lt;li&gt;Conversa no IRC: &lt;a href=&quot;http://rede.metareciclagem.org/blog/10-02-11/Reuniao-Propostas-de-curto-prazo-para-sustentabilidade&quot; rel=&quot;nofollow&quot;&gt;Propostas de curto prazo para sustentabilidade&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Projeto MicroReciclagem&lt;/li&gt;
+    &lt;li&gt;Proposta MetaRecursosEconomiaViva&lt;/li&gt;
+&lt;/ul&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/IncubadoraColaborativa#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/incubadora">incubadora</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metarecursos">metarecursos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/projetos">projetos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/recursos">recursos</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/MetaRecursos" xmlns="http://drupal.org/project/og">MetaRecursos</group>
+ <pubDate>Sat, 12 Feb 2011 02:42:40 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2012 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

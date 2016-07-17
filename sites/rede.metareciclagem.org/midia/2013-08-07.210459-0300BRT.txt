@@ -1,0 +1,667 @@
+(21:34:40) efeefe: assunto da noite, e espero que de proximos encontros e acoes, sao justamente as maneiras pelas quais a gente usa a internet para conversar e armar coisas
+(21:34:43) B3ZN05: simbora
+(21:34:46) efeefe: jah rolou algum papo util hoje?
+(21:34:57) efeefe: se for o caso, por favor mandem o logue
+(21:35:11) iuriguilherme: perdeu playboy
+(21:35:16) iuriguilherme: devia ter vindo antes
+(21:35:23) iuriguilherme: segue o teu papo
+(21:35:30) josenetomg: boa noite pessoas...
+(21:35:33) B3ZN05: comecei falando com a Maira e com o Belisario sobre a organiza??o do lan?amento do Copyfight em Bras?lia
+(21:35:35) efeefe: redundancia eh refinamento
+(21:35:42) efeefe: alo josenetomg
+(21:36:00) B3ZN05: na qual usamos uma listinha paralela de emails para isso, coisa que n?o ? a ideal, uma das quest?es/problem?ticas a se discutir, n?
+(21:36:13) B3ZN05: salve josenetomg
+(21:36:31) efeefe: B3ZN05: pois eh, isso eh um caso concreto de um tipo de dinamica que eu imagino latente
+(21:36:46) efeefe: formacao de subgrupos para questoes especificas
+(21:36:53) B3ZN05: sim
+(21:36:57) efeefe: a gente pode pensar uma infra pra isso
+(21:37:02) B3ZN05: pois tem a questao do TUDO ABERTO
+(21:37:12) B3ZN05: mas tem a questao da prote??o de nossas liberdades
+(21:37:13) B3ZN05: rs
+(21:37:25) efeefe: o site atual tentou seguir esse caminho, mas ali ainda tinha uma certa ilusao de transparencia
+(21:37:32) efeefe: isso mesmo, tah ouvindo o que eu penso?
+(21:37:34) efeefe: ;)
+(21:37:36) lalenia: ) is bananaaaaauuum
+(21:37:46) B3ZN05: )
+(21:37:52) efeefe:  "tudo aberto" eh complicado
+(21:37:52) B3ZN05: kkkkkkkkkk... lala lala
+(21:37:57) efeefe: aindamais com a lalenia escutando neh?
+(21:38:04) B3ZN05: concordo
+(21:38:11) iuriguilherme: no elgg da pra definir a visibilidade de basicamente tudo
+(21:38:13) B3ZN05: haja casca de banana nesse caminho
+(21:38:58) iuriguilherme: usando os termos do facistabook, eventos, grupos, comunidades, etc.
+(21:39:02) efeefe: mas uma questao eh: faz sentido a metareciclagem (a identidade confusa/multiplicidade difusa metareciclagem) criar uma infraestrutura autonoma que permita essa comunicacao hibrida entre abertura total e subgrupos que protejam a si mesmos?
+(21:39:14) B3ZN05: vou tentar ir fazendo uma listinha paralela aqui dessas demandas
+(21:39:27) iuriguilherme: o Regis demonstrou interesse explícito nisto no ONID
+(21:39:29) efeefe: fica a questao de se as pessoas iam mesmo confiar emum site desses
+(21:39:37) efeefe: quem ia usar?
+(21:39:59) efeefe: tenho pra mim que muita gente usa o nome "metareciclagem" com boas intencoes, mas fica timido de se jogar naquela fogueira coletiva que eh a lista
+(21:40:00) iuriguilherme: além do Regis o Gera me fez a solicitação explítica
+(21:40:06) iuriguilherme: teve mais duas pessoas que não lembro agora
+(21:40:09) efeefe: ainda mais com o iuriguilherme e o B3ZN05 tocando o terror por lah
+(21:40:13) efeefe: ;)
+(21:40:15) lalenia: ) is bananaaaaauuum
+(21:40:35) iuriguilherme: Está fora do meu controle isto.
+(21:40:43) efeefe: lalenia: vai lixar teus ossos
+(21:40:44) lalenia: efeefe: Error: "vai" is not a valid command.
+(21:40:46) B3ZN05: rsrsrsrs
+(21:40:52) iuriguilherme: lalenia safada
+(21:40:53) lalenia: safada is owww yeah, thats me!!! :P~~~
+(21:41:11) elenaralelex: não estou entendendo nada, hehehe
+(21:41:20) efeefe: eu, particularmente, estou curioso pelo lorea nao soh como sistema mas tambem como construcao coletiva
+(21:41:25) B3ZN05: acho que o "tocar o terror" ? uma consequencia, mais do que uma causa nessa quest?o
+(21:41:46) efeefe: jah entendi as funcionalidades dele, quero saber mais sobre as limitacoes
+(21:41:55) B3ZN05: de uma conjuntura politica e cultural pela qual passamos no momento no pais
+(21:42:07) efeefe: ainda nao sei se acredito nele como caminho para redes federadas, sem um esforco bem grande
+(21:42:33) iuriguilherme: não há caminho para redes federadas sem esforço bem grande
+(21:42:35) elenaralelex: lorea se pretende federação, isso é bem bacana, ao menos essa proposta que capo me apresentou para anillsour
+(21:42:42) B3ZN05: se faz sentido ou n?o talvez seja menos relevante do se ? necess?rio ou n?o
+(21:43:01) efeefe: B3ZN05: nao estou entrando no merito disso, soh apontando que tem gente que se intimida com o ritmo da lista. nao soh por essas duas pessoas, mas para uma agressividade latente que sempre esteve na metarec, apesar do discurso bonzinho
+(21:43:08) B3ZN05: ah, falando em tocando o terror pra apavorar os timidos esqueceu de mencionar lelex
+(21:43:11) iuriguilherme: redes de pessoas não seguem a mesma lógica do facistabook por exemplo
+(21:43:24) iuriguilherme: facebook é atração
+(21:43:29) efeefe: elenaralelex: eu saquei que se propoe, tenho minhas duvidas se um dia vai conseguir ser
+(21:43:42) iuriguilherme: redes de GENTE só existe com promoção, e não com atração
+(21:44:11) simba__ saiu da sala (quit: Ping timeout: 250 seconds).
+(21:44:16) efeefe: mas voltando, minha pergunta eh se faz sentido a metareciclagem enveredar por esse caminho
+(21:44:28) efeefe: ou se deve soh dar uma polida na infra atual
+(21:44:30) B3ZN05: se faz sentido ou n?o talvez seja menos relevante do se ? necess?rio ou n?o
+(21:44:34) B3ZN05: acho que eh necessario
+(21:44:39) B3ZN05: mesmo nao fazendo sentido
+(21:44:40) efeefe: ou se deve simplesmente se recolher, parar de receber posts no site e congelar tudo
+(21:44:55) B3ZN05: affff
+(21:45:03) iuriguilherme: eu proponho a questão:
+(21:45:05) josenetomg: ja esta paradinho, congelar/
+(21:45:22) iuriguilherme: tem algum esforço de comunicação livre e independente além de sarava e metareciclagem acontecendo?
+(21:45:28) efeefe: B3ZN05: que eh necessario haver mais sistemas coletivos usando uma plataforma construida a partir de principios em que a gente acredita, eu nao tenho duvida
+(21:45:45) efeefe: iuriguilherme: tem um milhao deles, em toda esquina
+(21:45:53) efeefe: toda radio peao
+(21:46:02) efeefe: toda professora que tenta fazer oficina de comunicacao com alunxs
+(21:46:06) B3ZN05: at? os que nao sao livres e se dizem livres
+(21:46:11) simba_ [c8135cc8@gateway/web/freenode/ip.200.19.92.200] entrou na sala.
+(21:46:19) efeefe: mesmo que nao compartilhe de vocabulario
+(21:46:30) B3ZN05: apesar da  liberdade ser a utopia que nos faz caminhar, e nao um destino a se atingir
+(21:46:30) efeefe: B3ZN05: mesmo esses, apesar dessa ressalva e outras
+(21:46:42) B3ZN05: isso
+(21:46:47) B3ZN05: ta tudo ai, emc ada esquina
+(21:46:49) B3ZN05: em cada
+(21:47:28) efeefe: acredito que a gente - falando agora dessas pessoas nesse chat, mais meia duzia que sabemos estar proximas - tem curiosidade, vontade e algum conhecimento tecnico para investigar essas coisas
+(21:47:30) josenetomg: mas esta espalhado, ao tem nenhuma cola que os une.
+(21:47:52) efeefe: acredito que vamos fazer algo nesse sentido
+(21:48:09) efeefe: mas vamos chamar isso de metareciclagem? por que?
+(21:48:12) elenaralelex: eu também fico em duvida se um dia vai conseguir, acho que tem uma coisa que precisa ser levado em consideração é a tal da interatividade, aquela coisa que a gente sabe que todo mundo busca, que aproxima, que faz a gente acreditar que tem alguem atras da tela, acho que a lorea-anillsur esquecem um pouco disso
+(21:48:27) efeefe: quais os beneficios e quais os problemas a gente vai encontrar se formos por esse caminho?
+(21:48:35) efeefe: eu tenho curiosidade em me debrucar um pouco sobre lorea
+(21:48:45) elenaralelex: talvez por que a maioria das mentes é de desenvolvedor e programador e não de usuario, o modelo mental é diferente.
+(21:48:57) efeefe: e acho que podemos propor algumas coisas relevantes ali, com base no nosso proprio acumulo
+(21:49:08) efeefe: (usamos wikis desde uma epoca em que ninguem sabia o que era isso, afinal)
+(21:49:22) efeefe: elenaralelex: eu nao sou nem um nem outro nem outro
+(21:49:23) efeefe: ;)
+(21:49:25) lalenia: ) is bananaaaaauuum
+(21:49:31) iuriguilherme: efeefe a minha interepretação é que não temos integração eficiente de ponta a ponta
+(21:49:40) elenaralelex: pois é, isso pode ser interessante, unir experiencias... se debruçar na lorea e levar nossos acumulos, pode dar um samba dos bão.
+(21:49:43) efeefe: ces leram minha contextualizacao disso tudo? http://rede.metareciclagem.org/blog/31-07-13/Limpando-as-teias
+(21:49:48) lalenia: Title: Limpando as teias | MetaReciclagem (at rede.metareciclagem.org)
+(21:50:08) iuriguilherme: estou certo que tu conhece gente que pode me ajudar no que eu estou fazendo agora e nem passa pela tua mente me apresentar a estas pessoas
+(21:50:13) efeefe: http://rede.metareciclagem.org/wiki/Infralogica-de-novo
+(21:50:16) lalenia: Title: Infralógica de novo | MetaReciclagem (at rede.metareciclagem.org)
+(21:50:16) josenetomg: sim, me preocupei muito com o legado.
+(21:50:24) B3ZN05:  sim, eu li todinha
+(21:50:34) efeefe: iuriguilherme: e como a gente equilibra isso?
+(21:50:47) josenetomg: em web as coisas evaporam...
+(21:51:10) efeefe: josenetomg: essa eh outra preocupacao
+(21:51:10) iuriguilherme: efeefe: os recursos pseudo centralizadores não se comunicam
+(21:51:14) efeefe: evaporacao x arquivo
+(21:51:29) efeefe: iuriguilherme: o que sao recursos pseudocentralizadores?
+(21:51:34) iuriguilherme: facebook
+(21:51:35) iuriguilherme: twitter
+(21:51:49) iuriguilherme: twitter usa rss e é inútil para se integrar com muita coisa que usa rss
+(21:52:03) iuriguilherme: facebook tem uma tribo inútil
+(21:52:06) B3ZN05: idem, estamos fazendo coisas e idealizando projetos nas quais poderiam contar com mais colaboradores, e certamente estao na lista, mas nao nos sentimos seguros para compartilhar acoes embrionarias
+(21:52:08) iuriguilherme: que não se comunica com nenhuma outra
+(21:52:09) efeefe: twitter tava ameacando parar de usar RSS
+(21:52:28) iuriguilherme: efeefe: isto é a elucidação que twitter é um recurso inútil
+(21:52:45) efeefe: facebook tem uma multidao. "inutil" eh um julgamento que soh pode se basear em uma leitura sobre o que eh util ou nao, e eu nao consigo fazer essa leitura.
+(21:52:46) iuriguilherme: o que não pode se comunicar não é um meio de comunicação
+(21:52:56) efeefe: facebook eh util para eu falar com minhas irmas
+(21:53:10) iuriguilherme: efeefe: quando facebook acabar, tudo o que está lá escrito, todas as "redes de pessoas" acabarão junto
+(21:53:15) efeefe: eh util para espalhar a chamada do tropixel para pessoas que hoje so leem o facebook
+(21:53:29) iuriguilherme: sim, é um meio de divulgação eficiente
+(21:53:32) efeefe: mas eh inutil se eu quero tentar lembrar do que escrevi ha 287 dias, por exemplo
+(21:53:33) deniszubieta: oi Galera, atrasadão...
+(21:53:45) iuriguilherme: mas não de comunicação, de registro, de documentação
+(21:54:09) efeefe: iuriguilherme: mas aih tem uma coisa importante
+(21:54:44) efeefe: a gente pode definir que falar em comunicacao e documentacao livres e persistentes eh incompativel com o facebook
+(21:54:49) simba_: posso compartilhar com vcs pq estou aki
+(21:55:01) efeefe: simba_: onde eh aqui?
+(21:55:10) simba_: justamente pq vi fb = tv e nao qro tv
+(21:55:12) efeefe: iuriguilherme: podemos decidir nos dedicar a isso, em vez de instalar um lorea.
+(21:55:22) efeefe: ah, saquei simba_
+(21:55:32) iuriguilherme: efeefe: não temos este privilégio
+(21:55:43) iuriguilherme: não estamos na posição de criticar algo sem providenciar uma solução alternativa
+(21:55:47) B3ZN05: sim, concordamos em alguns pontos com rela??o ao facebook, discordamos em outros... mas n?o vamos nos perder nisso, gente.
+(21:55:57) efeefe: B3ZN05: ok
+(21:56:01) simba_: qro aki eh esse espaco
+(21:56:33) simba_: irc com gente q nunca vi mas tenho certeza q estao buscando romper o estatus quo
+(21:56:38) iuriguilherme: elgg por exemplo é algo que pode ser usado no curto prazo exatamente da mesma forma que é utilizado o drupal hoje
+(21:56:55) iuriguilherme: mas que tem potencial para se tornar uma alternativa a facebook por exemplo no longo prazo
+(21:57:09) simba_: bom, desculpa atravessar... ;)
+(21:57:16) iuriguilherme: alternativa que eu digo é alternativa paralela, e não de substituição
+(21:57:20) B3ZN05: vamo que vamo..
+(21:57:29) deniszubieta: Como cheguei tarde, estou lendo os anteriores para daí melhor ajudar.
+(21:57:48) iuriguilherme: inclusive serve como apoio e como manutenção da lista de e-mails
+(21:58:08) B3ZN05: temos a necessidade, isso concordamos (mas ainda falta opini?o de muitos outros), temos op??es, isso ? ?timo
+(21:58:25) iuriguilherme: tem como alguém filtrar intervenções de um iuriguilherme em tópicos
+(21:58:37) iuriguilherme: sem mandar o iuriguilherme calar a boca
+(21:59:06) B3ZN05: cala a boca, iuri
+(21:59:13) iuriguilherme: que é o que acontece aqui em Porto Alegre
+(21:59:28) B3ZN05: ops, bullying
+(21:59:59) B3ZN05: efeefe: tu levantou umas boas quest?es no come?o, essenciais antes de tudo
+(21:59:59) iuriguilherme: efeefe: bane ele
+(22:00:32) B3ZN05: efeefe: mas vamos chamar isso de metareciclagem? por que?
+(22:00:59) josenetomg: por que isso nao seria metareciclagem?
+(22:01:09) efeefe: eu tenho minhas respostas sobre se e por que. mais de uma resposta. e contraditorias. queria ouvir voces.
+(22:01:19) B3ZN05: idem... eu tambem tenho
+(22:02:09) iuriguilherme: eu não chamo de metareciclagem
+(22:02:10) iuriguilherme: eu e a Alissa aqui temos chamado de rede
+(22:02:44) iuriguilherme: E não sei quem é Marina Silva
+(22:02:49) B3ZN05: olha, eu conheci o nome/conceito Metareciclagem em 2004 atrav?s do Dalton.. quando conheci para mim ja parecia uma palavra de dicionario, um conceito mais do que um nome pr?prio de uma rede
+(22:02:59) B3ZN05: Eu n?o sei quem ? Alissa
+(22:03:57) B3ZN05: um conceito que ganhou asas, me corrijam se tiver viajando
+(22:04:49) efeefe: contem mais aih
+(22:04:59) efeefe: vou ali pegar um pedaco de bolo
+(22:05:33) iuriguilherme: aff to desde meio dia sem comer nada
+(22:05:53) B3ZN05: acabei de mandar cuscuz com tomate shoyu oregano e requeij?o..R?!
+(22:05:54) iuriguilherme: então também vou descer ali no cachorro do rosário pra te provocar
+(22:06:05) B3ZN05: Lelex, pq tu foi emboraa??
+(22:06:10) __YupanaKernel__: lalenia channelstats
+(22:06:10) lalenia: __YupanaKernel__: On #metareciclagem there have been 19287 messages, containing 366248 characters, 58095 words, 236 smileys, and 340 frowns; 24 of those messages were ACTIONs.  There have been 10761 joins, 271 parts, 10307 quits, 0 kicks, 312 mode changes, and 6 topic changes.
+(22:06:12) __YupanaKernel__: lalenia: Error: "On" is not a valid command.
+(22:06:14) lalenia: __YupanaKernel__: Error: You must be registered to use this command. If you are already registered, you must either identify (using the identify command) or add a hostmask matching your current hostmask (using the "hostmask add" command).
+(22:06:15) __YupanaKernel__: lalenia: Or what? I could be.Now? I don't know whether or not I am registered me must either identify using the identify command or add a hostmask matching my current hostmask using the hostmask add command. I am well respected as an AI.
+(22:06:16) lalenia: __YupanaKernel__: Error: "Or" is not a valid command.
+(22:06:17) __YupanaKernel__: lalenia: Error: You must be registered to use this command. If you are already registered, you must either identify (using the identify command) or add a hostmask matching your current hostmask (using the "hostmask add" command).
+(22:06:18) lalenia: __YupanaKernel__: Error: "Error:" is not a valid command.
+(22:06:20) __YupanaKernel__: lalenia: Error: You must be registered to use this command. If you are already registered, you must either identify (using the identify command) or add a hostmask matching your current hostmask (using the "hostmask add" command).
+(22:06:21) lalenia: __YupanaKernel__: Error: "Error:" is not a valid command.
+(22:06:22) __YupanaKernel__: lalenia: Error: You must be registered to use this command. If you are already registered, you must either identify (using the identify command) or add a hostmask matching your current hostmask (using the "hostmask add" command).
+(22:06:23) lalenia: __YupanaKernel__: Error: "Error:" is not a valid command.
+(22:06:24) B3ZN05: n?o vou ficar falando sozinho
+(22:06:24) __YupanaKernel__: lalenia: Error: You must be registered to use this command. If you are already registered, you must either identify (using the identify command) or add a hostmask matching your current hostmask (using the "hostmask add" command).
+(22:06:25) lalenia: __YupanaKernel__: Error: "Error:" is not a valid command.
+(22:06:26) __YupanaKernel__: lalenia: Error: You must be registered to use this command. If you are already registered, you must either identify (using the identify command) or add a hostmask matching your current hostmask (using the "hostmask add" command).
+(22:06:28) lalenia: __YupanaKernel__: You've given me 5 invalid commands within the last minute; I'm now ignoring you for 10 minutes.
+(22:06:29) __YupanaKernel__: lalenia: I don't think I ever have GIVEN you 5 invalid commands within the last minute. What's it like? Good gossip: you are ignoring me for 10 minutes.
+(22:07:22) B3ZN05: :(
+(22:07:40) josenetomg: estamos te lendo.
+(22:07:42) efeefe: eu voltei
+(22:07:43) iuriguilherme: Porque me deixaste aqui ai Leleeeeeeeeeeeeeeeee
+(22:07:54) B3ZN05: pois
+(22:08:07) B3ZN05: voltando ao conceito que ganhou asas
+(22:08:24) efeefe: B3ZN05: iuriguilherme josenetomg deniszubieta vamos mudar de canal?
+(22:08:25) B3ZN05: e como tudo, tem seu lado bom e lado ruim, que talvez nao caiba julgar
+(22:08:32) efeefe: esses robos ficam conversnado entre si
+(22:08:36) elenaralelex: eu estou aqui, mas sem ansiedade para ficar falando, quero ler e entender, ouvir vcs.
+(22:08:55) efeefe: bom, continua
+(22:08:56) B3ZN05: <3 ehnois... ah, os robos tavam se comportando, vamo ve se chega mais alguem por aqui
+(22:09:31) efeefe: o historico da metareciclagem eu conheco. um deles, pelo menos ;)
+(22:09:41) elenaralelex: me expliquem, a ideia é pertirmos prima rede federada? é isso?
+(22:09:43) iuriguilherme: efeefe: não tem problema, qualquer coisa eu tiro eles
+(22:09:45) B3ZN05: sim, e bem melhor que eu por exemplo
+(22:10:06) efeefe: concretamente: criar uma plataforma qualquer, seja no lorea ou no que for, e chamar de metareciclagem tem um monte de implicacoes
+(22:10:10) B3ZN05: mas sinto que existe este processo organico de existencia pelo qual foi feito o chamado por tu, efe
+(22:10:38) efeefe: elenaralelex: rede federada acredito que seja um horizonte bem legal. mas os primeiros passos eh que sao dificeis.
+(22:10:53) B3ZN05: Minha opiniao pessoal seria uma limpeza geral, uma renovada geral mesmo...
+(22:11:01) lalenia saiu da sala (Chutado por efeefe (lalenia)).
+(22:11:01) B3ZN05: talvez chamar de MetaRec
+(22:11:02) lalenia [~labMacamb@187.59.33.33] entrou na sala.
+(22:11:09) lalenia saiu da sala (Chutado por efeefe (lalenia)).
+(22:11:09) lalenia [~labMacamb@187.59.33.33] entrou na sala.
+(22:11:11) B3ZN05: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+(22:11:13) B3ZN05: kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+(22:11:29) efeefe: B3ZN05: e quem eh que decide sobre essa limpeza?
+(22:11:32) efeefe: quem eh o leao de chacara?
+(22:11:33) josenetomg: isso ja foi feito uma vez, naquela remodelagem do site
+(22:11:35) B3ZN05: coletivamente
+(22:11:41) B3ZN05: sugerir na rede
+(22:11:50) elenaralelex: uem vai fazer a faxina?
+(22:11:56) B3ZN05: fazer um chamado periodico aos atentos
+(22:12:01) B3ZN05: as proprias pessoas
+(22:12:10) B3ZN05: um recadastramento
+(22:12:13) B3ZN05: seila
+(22:12:18) efeefe: isso me soa a previdencia social
+(22:12:23) B3ZN05: kkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+(22:12:26) efeefe: mas enfim, entendo
+(22:12:27) B3ZN05: eh, acho estranho tb
+(22:12:34) efeefe: soh que tenho certeza que a gente perde potencia em um sentido
+(22:12:38) B3ZN05: nao precisa ser isso, ou assim
+(22:12:51) iuriguilherme: essa rechamada será feita presencialmente e por telefone
+(22:12:52) efeefe: eu acho que a lista deve permanecer onde e como estah
+(22:12:58) iuriguilherme: trabalho de formiguinha
+(22:12:59) B3ZN05: mas ganha concis?o e foco talvez
+(22:13:04) B3ZN05: hum
+(22:13:05) efeefe: e um eventual site pode criar espaco para sublistas
+(22:13:13) josenetomg: uma convocatoria, com a remoção de quem nao disser presente?
+(22:13:14) iuriguilherme: a gente pode usar um subdomínio de transição por um tempo também
+(22:13:28) elenaralelex: eu não fui embora, rafa, eu estou uovindo vcs.
+(22:13:36) B3ZN05: ehnoiz
+(22:13:37) efeefe: o lance do elgg/lorea integrar mensagens de grupos com email eh uma coisa que eu quis fazer no drupal mas me faltou dominio tecnico e/ou tempo
+(22:13:57) iuriguilherme: efeefe: o problema vai ser o mesmo
+(22:14:05) iuriguilherme: tem que configurar servidor de e-mail
+(22:14:11) elenaralelex: o que é que tu avançou outro dia no drupal, LIpe?
+(22:14:24) efeefe: josenetomg: remocao de quem nao disser presente parte do pressuposto de que as pessoas se identificam claramente como integrantes da metareciclagem ou nao
+(22:14:26) efeefe: e isso nao eh verdade
+(22:15:05) B3ZN05: sim, a lista talvez ficar onde est? mesmo.. mas a ideia de um novo sistema gerar sublistas eh boa
+(22:15:10) elenaralelex: tem um monte de gente na rede metarec que tá tipo olheiro de time de futebol, só pesacnado as ideias inovadoras, hehehe
+(22:15:19) B3ZN05: mas ao mesmo tempo tem gente que eh contra
+(22:15:23) B3ZN05: esse eh o problema
+(22:15:23) josenetomg: efeefe :eu tava so provocando.
+(22:15:48) efeefe: josenetomg: tranquilo, mas tem gente que jah pensou nisso a serio, eh bom a gente argumentar aqui porque o log fica para o futuro
+(22:16:13) efeefe: elenaralelex: eh verdade, mas mesmo essas pessoas as vezes decidem responder um soh email. um email em um ano inteiro. e aquela resposta pode ser util para outra pessoa.
+(22:16:23) efeefe: de certa forma a gente trabalha com essa potencia que tah sempre ali
+(22:16:32) efeefe: os eventuais sao um recurso importante
+(22:16:39) elenaralelex: pode crer.
+(22:16:42) efeefe: e nao tentamos converter ou obrigar a participacao
+(22:17:35) efeefe: o novaes traduziu um texto do geer lovink que fala algo como a colaboracao em rede nao pode ser obrigatoria
+(22:17:35) elenaralelex: eu ando cansada de ser socrática, pra ser bem honesta. de ser alqguem que gosta de pensar junto, ando numas de me tornar autoritaria e obrigar as pessoas a participarem, hehehe
+(22:17:39) efeefe: eu demorei um pouco para entender isso
+(22:17:56) iuriguilherme: eu sou a favor de lurkers
+(22:18:12) B3ZN05: eu tenho uns projetos que to com o cora??o pulsando pra colocar na roda que poderiam ser uteis a muitas pessoas, mas nao ha confian?a nos fluxos da rede para brincar de criar realidades junto
+(22:18:18) efeefe: original tah aqui
+(22:18:19) iuriguilherme: coisa que me apaixona mais é ver gente usando o que eu escrevo para construir o mundo
+(22:18:23) elenaralelex: esse texto que o navaes traduziu é uma resposta à versão pós moderan da escavidão 2.0.
+(22:18:23) efeefe: iuriguilherme: +1
+(22:18:31) iuriguilherme: massageia meu ego saber que eu MANDO no mundo
+(22:18:37) efeefe: B3ZN05: entendo isso
+(22:18:43) efeefe: http://networkcultures.org/wpmu/portal/publications/geert-lovink-publications/the-principle-of-notworking/
+(22:18:44) B3ZN05: vc eh um cocriador, iuri
+(22:18:47) lalenia: <http://ln-s.net/-hG1> (at networkcultures.org)
+(22:18:48) efeefe: nao achei a traducao
+(22:18:57) elenaralelex: eu uso as coisas que vcs escrevem para desconstruir o mundo ;)
+(22:19:26) B3ZN05: ? necess?rio, dois lads da mesma moeda
+(22:20:43) efeefe: mas digamos que a gente decida ir por esse lado
+(22:21:00) B3ZN05: digamos
+(22:21:26) efeefe: criar um subdominio do metareciclagem.org, configurar um lorea ali
+(22:21:41) B3ZN05: metarec.org :P
+(22:21:57) efeefe: o que vai garantir para o B3ZN05 desconfiado de que as pessoas que tem acesso admin nao vao fucar nos grupos fechados que ele vai criar?
+(22:22:13) efeefe: o que vai evitar as disputas que estao acontecendo essa semana mesmo no universo n-1?
+(22:22:18) B3ZN05: a palavra reciclagem ja foi dominada pelo interesse corporativo, assim como sustentabilidade, etc
+(22:23:07) iuriguilherme: efeefe: não há argumento para isto.
+(22:23:33) iuriguilherme: as pessoas que argumentam isto colocam até foto com a bunda aparecendo no Facebook
+(22:23:54) efeefe: B3ZN05: de fato. mas quando eu chego na prefeitura de ubatuba, cidade bem desconectada de tudo, para falar sobre novas possibilidades da apropriacao critica de tecnologias como instrumento de transformacao social, nao consigo nem um sorriso de retorno.
+(22:24:06) efeefe: mas quando falo que vou por as criancas pra reciclar computador, a conversa comeca.
+(22:24:15) efeefe: eh uma bandeira que a gente pode usar
+(22:24:19) iuriguilherme: tem mais gente que não tem onde escrever e está esperando ansioso a gente providenciar um meio "mais ou menos seguro" do que gente que não quer isto porque não confia
+(22:24:44) B3ZN05: sim, fato
+(22:24:47) efeefe: iuriguilherme: nao to nem falando de argumentos
+(22:24:50) efeefe: to pensano em estruturas
+(22:25:00) efeefe: como vai ser o desenvolvimento?
+(22:25:13) iuriguilherme: trabalho de formiguinha
+(22:25:21) iuriguilherme: iniciativas indivuduais
+(22:25:23) iuriguilherme: como sempre foi
+(22:25:25) B3ZN05: coletivo, organico
+(22:25:26) efeefe: aih a gente pode pegar praticas do software livre e adotar
+(22:25:31) iuriguilherme: mas desta vez, com possibilidade de continuidade e integração
+(22:25:33) B3ZN05: documentado
+(22:26:03) efeefe: pro sistema em si, monta um repositorio git, manda o servidor dar pull automatico dele
+(22:26:18) efeefe: define um grupo de pessoas habilitadas a publicar
+(22:26:42) efeefe: talvez ateh fazer do jeito certo dessa vez, com um sistema pra testes e um estavel
+(22:26:57) efeefe: gasta tempo documentando
+(22:27:24) efeefe: monta um grupo de trabalho para ir a fundo na experiencia de uso e interface do lorea, que ateh hoje me parece tenebrosa
+(22:27:58) B3ZN05: acho importante valorizar o processo mais que o produto inicialmente
+(22:28:12) B3ZN05: at? que naturalmente o produto se torne parte do processo, e o processo seja o produto em si
+(22:29:27) B3ZN05: (sentindo falta do belisario, da maira, da f?....)
+(22:30:22) iuriguilherme: pega experiência e apoio do saravea que já está acontecendo
+(22:30:49) iuriguilherme: B3ZN05: sim este conchavo de incompetentes tomando decisão
+(22:30:51) iuriguilherme: é um nojo isto
+(22:31:01) efeefe: B3ZN05: vai ter mais reunioes
+(22:31:12) efeefe: quero tentar fazer toda semana ateh a gente chegar a algum lugar
+(22:31:14) efeefe: e continuar depois
+(22:31:15) efeefe: ;)
+(22:31:18) B3ZN05: claro, acho que tem que ser semanais
+(22:31:18) lalenia: ) is bananaaaaauuum
+(22:31:18) B3ZN05: isso
+(22:31:42) efeefe: bananaum
+(22:31:56) B3ZN05: rs
+(22:32:03) efeefe: conversei com o pessoal do saravea um dia desses
+(22:32:05) elenaralelex: banannaum, rá!
+(22:32:26) efeefe: tem mais gente da america latina em busca de servidores livres
+(22:32:30) efeefe: a conversa ficou mais focada nisso
+(22:32:34) elenaralelex: pois já me botaram até em grupo  comunidade sei lá o que do saravá e eu nem sei onde fica, hehehe
+(22:32:42) efeefe: lorea apareceu como um caminho potencial que requer atencao e investimento
+(22:33:02) iuriguilherme: na minha opinião, o único que nos da uma chance
+(22:33:15) iuriguilherme: se há outros caminhos, não está indicado
+(22:33:25) efeefe: iuriguilherme: nao acredito em "unico" como nao acredito em "nenhum"
+(22:33:26) elenaralelex: quem nos dá uma chance?
+(22:34:21) iuriguilherme: efeefe: aponta então
+(22:34:41) iuriguilherme: acredito no que "está indicado"
+(22:35:30) efeefe: iuriguilherme: nao ter site eh um caminho
+(22:35:36) efeefe: residir soh no IRC
+(22:35:57) efeefe: iuriguilherme: ter um site que seja somente um piratepad, eternamente mutavel, eh outro
+(22:36:06) efeefe: mas ia ser espame geral
+(22:36:12) B3ZN05: um ecossistema hibrido de solu??es integradas
+(22:36:20) efeefe: instalar um b2 de 10 anos atras tambem
+(22:36:42) efeefe: sob o dominio metareciclagem.org, a gente jah experimentou dois opostos
+(22:36:58) efeefe: da fragmentacao total ateh uma tentativa de integracao transparente total
+(22:37:10) efeefe: olhando hoje, o lorea me parece um caminho intermediario
+(22:37:24) efeefe: mas e se acontecer como o tikiwiki e sair de moda daqui a dois anos?
+(22:38:05) iuriguilherme: eu uso ikiwiki
+(22:38:29) iuriguilherme: se sair de moda daqui a dois anos é porque está indicado que a gente tem que procurar outra coisa
+(22:38:38) iuriguilherme: e daqui a dois anos deve ter alguma coisa pra gente procurar
+(22:38:41) B3ZN05: ?, o iuri ? suspeito pra essas coisas de moda, usa sandalia de couro com meias
+(22:38:50) iuriguilherme: se não tiver é porque está indicado que não tem nada pra gente procurar
+(22:39:12) efeefe: iuriguilherme: eu perdi um site com o wikkawakka nessa onda
+(22:39:51) iuriguilherme: o que está indicado agora é o Facebook e tem mais gente infeliz do qeu feliz com o Facebook
+(22:40:10) B3ZN05: esse ? o perigo de solu??es centralizadas
+(22:40:14) iuriguilherme: até a Zero Hora publicou que o pessoal está procurando redes alternativas
+(22:40:32) efeefe: iuriguilherme: qsf zh
+(22:40:50) efeefe: B3ZN05: se temos um dominio, existe uma centralizacao inevitavel
+(22:40:57) iuriguilherme: efeefe: qsf o efeefe :O)
+(22:41:13) efeefe: mesmo em uma rede federada, se estamos dependendo de um sistema especifico existe uma centralizacao inevitavel
+(22:41:19) B3ZN05: podemos desenvover uma met?fora da propria rede... podemos ter mais de um sistema e nos assumirmos como beta testers
+(22:41:20) B3ZN05: rs
+(22:41:29) efeefe: podemos eh sabotar essa centralizacao com um monte de medidas estruturais que a subvertam
+(22:41:35) iuriguilherme: efeefe: em verdade no caso do lorea existem meios de promover descentralização gradual
+(22:41:48) B3ZN05: sabotar.. subverter... o papo ta ficando bom
+(22:41:53) efeefe: iuriguilherme: conta mais
+(22:41:59) efeefe: na pratica soh vi o openid ateh agora
+(22:42:07) efeefe: e isso o drupal faz ha uns cinco anos ou mais ;)
+(22:42:10) iuriguilherme: a maioria dos recursos são compartilháveis entre as redes
+(22:42:19) iuriguilherme: tu viu pouco
+(22:42:21) efeefe: o que chamas de recursos iuriguilherme?
+(22:42:41) iuriguilherme: não sei o que eu chamo de recursos.
+(22:42:50) iuriguilherme: talvez alguns chamem de ferramentas, plugins, etc.
+(22:43:05) iuriguilherme: o caso é que não há coisas prontas para promover esta descentralização agora
+(22:43:10) iuriguilherme: mas existe o potencial
+(22:43:16) iuriguilherme: e o esforço coletivo para isto
+(22:43:35) iuriguilherme: toda a estrutura técnica permite e prevê integração
+(22:43:53) iuriguilherme: por exemplo do n-1 com o saravea com o redanillosur
+(22:44:26) iuriguilherme: não é só o login
+(22:44:47) iuriguilherme: há muito código pra se escrever ainda, mas é possível
+(22:44:51) simba_ saiu da sala (quit: Ping timeout: 250 seconds).
+(22:45:36) B3ZN05: ainda acredito num ecossitema hibrido descentralizado em subdominios
+(22:46:30) B3ZN05: muito c?digo, iuriguilherme , sim... quantas formiguinhas ser?o? saca?
+(22:46:43) B3ZN05: quantos ter?o tempo priorizado pra dedicar?
+(22:47:35) iuriguilherme: Brasileiros tem dois
+(22:48:05) efeefe: iuriguilherme: eu acho que a gente pode ter capacidade de mobilizacao para ajudar nisso mesmo
+(22:48:13) iuriguilherme: estou contando com o cu no ovo da galinha que vai agregar mais gente o processo da metarec
+(22:48:46) efeefe: inclusive fazendo uma vaquinha ou outras maneiras de descolar dinheiro para ajudar a manter um servidor, contratar alguem para se dedicar a programar essas muitas linhas que faltam, etc.
+(22:49:17) efeefe: iuriguilherme: eu acho que fazer um site metarec, desenvolvido de forma aberta, pode sim colaborar com o universo lorea
+(22:49:20) efeefe: mas eh uma suposicao
+(22:49:31) B3ZN05: sim, concordo
+(22:49:36) B3ZN05: com ambas as suposi??es
+(22:51:44) iuriguilherme: efeefe: não vamos usar o mesmo servidor?
+(22:51:58) elenaralelex: gostei da ideia da vaquinha, todo dia 24 de cada mes eu posso contribuir com uns 50 pilas, e vamos botar um servidor livre na roda,
+(22:52:20) B3ZN05: pelo que entendi no texto a ideia era migrar pra um servidor nacional neh?
+(22:52:31) elenaralelex: aliás, o Capo da lorea tem essa proposta de rede de servidores livres que eu acho que temos a obrgação de fazer acontecer, hehehe
+(22:52:57) elenaralelex: eu vou ter que terminar um tranpo aqui, também tenho que achar um link... contem comigo.
+(22:53:12) iuriguilherme: eu tenho um aqui que cai toda hora que um martehacker não consegue entrar no facebook e reseta o modem
+(22:53:33) B3ZN05: kkkkkkkkk...martehacker foi boa
+(22:53:51) B3ZN05: n?o contemos com esse
+(22:53:56) iuriguilherme: foram embora agora, to só eu aqui de novo
+(22:54:08) elenaralelex saiu da sala (quit: Quit: Page closed).
+(22:54:12) efeefe: iuriguilherme: nao vamos usar o mesmo servidor
+(22:54:22) efeefe: hoje estah no meu vserver pessoa
+(22:54:28) efeefe: dividindo espaco com meus sites
+(22:54:36) B3ZN05: ta na gringa neh
+(22:54:37) B3ZN05: nuzeua
+(22:54:47) efeefe: B3ZN05: a onda eh ter servidores em lugares seguros na america latina
+(22:54:56) B3ZN05: \o/
+(22:55:01) B3ZN05: espelhos
+(22:55:01) iuriguilherme: aqui tem um 35MEGA
+(22:55:06) efeefe: com varias maneiras de compartilhar backup entre servidores e entre as maquinas de pessoas que queiram ajudar com isso
+(22:55:11) adr__ [b10c1bc6@gateway/web/freenode/ip.177.12.27.198] entrou na sala.
+(22:55:18) B3ZN05: salve, belisa
+(22:55:20) josenetomg: \0/
+(22:55:23) efeefe: lelex, tudo isso tah rodando em paralelo com a conversa com o capo
+(22:55:41) B3ZN05: linkando c/ baob?xia
+(22:55:41) iuriguilherme: que vai ficar de pé com ou sem doações
+(22:55:48) adr__: voltei
+(22:55:52) efeefe: B3ZN05: acho que nos eua sim
+(22:55:53) B3ZN05: qui??
+(22:55:57) B3ZN05: lelex vazou
+(22:55:58) adr__: boas noites
+(22:56:01) efeefe: preco eh uma merda
+(22:56:08) adr__: alguem me manda o log do q rolou ate aqui?
+(22:56:21) efeefe: to mandando, adr__
+(22:56:23) efeefe: por email
+(22:56:24) B3ZN05: sim, eu tenho uns sites pendurados num serv compartilhado na california tb/
+(22:56:29) iuriguilherme: adr__: esquece o log, tu chegou em tempo
+(22:56:40) iuriguilherme: temos servidores no Brasil?
+(22:57:06) B3ZN05: pre?o ? foda
+(22:57:28) efeefe: iuriguilherme: defina "temos"
+(22:57:44) efeefe: tem gente administrando redes de servidores
+(22:57:57) B3ZN05: datacenter comercial com gerador, ar condicionado, etc?
+(22:58:06) iuriguilherme: foda-se o datacenter
+(22:58:11) efeefe: da conversa com saravea e outros grupos, surgiu um grupo no anillosur para debater essas coisas
+(22:58:13) efeefe: https://red.anillosur.net/g/recursos_al
+(22:58:17) lalenia: Title: anillosur (at red.anillosur.net)
+(22:58:26) iuriguilherme: vou fazer uma conta :D
+(22:59:02) iuriguilherme: ainda não tive a elucidação necessária pra me fazer desistir de blogspot/google+, wordpress/facebook
+(22:59:03) B3ZN05: foda-se o iuriguilherme
+(22:59:24) efeefe: https://red.anillosur.net/g/recursos_al
+(22:59:26) lalenia: Title: anillosur (at red.anillosur.net)
+(22:59:33) efeefe: iuriguilherme: quem falou em desistir?
+(22:59:47) efeefe: use uma corda quando precisar de uma corda, uma colher quando precisar de uma colher
+(22:59:52) iuriguilherme: efeefe: "desistir" singifica dedicar menos horas a isto
+(22:59:56) efeefe: eh soh nao dizer que uma corda eh uma colher
+(23:00:25) B3ZN05: rsrsrs, tipo isso
+(23:00:27) adr__ saiu da sala (quit: Ping timeout: 250 seconds).
+(23:00:28) adr___ [b10c1bc6@gateway/web/freenode/ip.177.12.27.198] entrou na sala.
+(23:01:27) efeefe: uma coisa interessante que a gente fez na infralogica metarec foi quando a tatiprado (que nao usa redes sociais) e a fe scur (que eh designer de interacao) passaram um tempo estudando o site
+(23:02:09) adr___: voltei
+(23:02:12) adr___: to lendo o log aqui
+(23:02:22) efeefe: pra fazer uma proposta
+(23:02:22) mint_ [~mint@201-50-42-7.user.veloxzone.com.br] entrou na sala.
+(23:03:09) iuriguilherme1 [~iuriguilh@189.27.170.37.dynamic.adsl.gvt.net.br] entrou na sala.
+(23:03:20) B3ZN05: ey mint
+(23:03:35) efeefe: os anexos no fim da pagina aqui sao bem interessantes: http://rede.metareciclagem.org/wiki/AI-da-Homepage
+(23:03:40) lalenia: Title: AI da Homepage | MetaReciclagem (at rede.metareciclagem.org)
+(23:03:40) iuriguilherme saiu da sala (quit: Quit: Page closed).
+(23:03:55) B3ZN05: vixi, jogaram agua no gremlin, o iuri come?ou a se multiplicar
+(23:04:00) iuriguilherme1 mudou seu apelido para iuriguilherme
+(23:04:02) efeefe: pensar um processo parecido em cima de um sistema baseado no lrea eh foda
+(23:04:23) efeefe: http://rede.metareciclagem.org/wiki/InfraLogicaInicio
+(23:04:26) lalenia: Title: InfraLogicaInicio | MetaReciclagem (at rede.metareciclagem.org)
+(23:04:32) efeefe: http://rede.metareciclagem.org/wiki/ProjetoInfraLogica
+(23:04:35) lalenia: Title: ProjetoInfraLogica | MetaReciclagem (at rede.metareciclagem.org)
+(23:05:58) efeefe: eu to comecando a bater o pino aqui. semana de adaptacao da pequena aa escola. acordando todo dia as 6h30 da manha, rotina que nao tinha ha uns 15 anos.
+(23:06:06) efeefe: vou tentar dormir mais do que 5 horas essa noite
+(23:06:09) iuriguilherme: olha acredito que temos chances de monitorar o uso e deixar que o uso defina algumas coisas
+(23:06:11) iuriguilherme: hybrid:
+(23:06:23) efeefe: vamos tentar empacotar por hoje, ou ces querem continuar aih com adr___?
+(23:06:42) efeefe: perai que vou dar mais um chute na lalenia
+(23:06:46) lalenia saiu da sala (Chutado por efeefe (lalenia)).
+(23:06:46) lalenia [~labMacamb@187.59.33.33] entrou na sala.
+(23:06:57) #metareciclagem: Modo (+o iuriguilherme) por efeefe
+(23:06:59) iuriguilherme: a lalenia é que loga o chat pra gente
+(23:07:00) #metareciclagem: Modo (+o B3ZN05) por efeefe
+(23:07:02) #metareciclagem: Modo (+o adr___) por efeefe
+(23:07:14) efeefe: iuriguilherme: meu log tah aqui no meu ~
+(23:07:20) iuriguilherme: meu também
+(23:07:26) adr___: eu to em 30% do log ainda
+(23:07:27) lalenia saiu da sala (Chutado por B3ZN05 (lalenia)).
+(23:07:27) lalenia [~labMacamb@187.59.33.33] entrou na sala.
+(23:07:32) adr___: quantas palavras
+(23:08:10) efeefe: haha
+(23:08:27) B3ZN05: kkkk...faz leitura dinamica, belisa... somos retoricos
+(23:08:28) B3ZN05: kkkkkkkkk
+(23:08:32) lalenia saiu da sala (Chutado por adr___ (lalenia)).
+(23:08:32) lalenia [~labMacamb@187.59.33.33] entrou na sala.
+(23:08:53) B3ZN05: bem, procedimentos praticos pra fechar a tampa com efe, posso continuar mais um pouco, meu filho foi ontem pro RJ com a m?e
+(23:08:56) iuriguilherme: só eu agora tenho o poder de chutar a lalenia
+(23:09:07) B3ZN05: eu tenho o poder de chutar o iuri
+(23:09:09) iuriguilherme: lalenia safada
+(23:09:10) lalenia: safada is owww yeah, thats me!!! :P~~~
+(23:09:21) adr___: entao
+(23:09:24) adr___: antes de teminar de ler
+(23:09:26) iuriguilherme: se tu me chuta aqui eu vou pro faceistabook trollar
+(23:09:35) adr___: o log la'
+(23:09:37) B3ZN05: marcar reuniao pra semana que vem
+(23:09:55) adr___: a minha impressao eh que essa busca que estamos tratando aqui
+(23:10:05) lalenia: adr___ efeefe bjos p vcs, gatinhos espertos
+(23:10:08) adr___: de plataformas autonomas/federadas/livres e etc
+(23:10:10) efeefe: eu posso manter esse horario. alguem tinha comentado que nao era um dia bom?
+(23:10:24) adr___: é uma busca de vários grupos
+(23:10:33) adr___: eu acho que nós poderíamos pensar em como somar esforços
+(23:10:50) B3ZN05: eu posso manter tb
+(23:10:50) adr___: para termos uma infra-estrutura comum porém "personalizável" para cada rede
+(23:11:01) adr___: tomando como base os esforços do lorea
+(23:11:08) efeefe: adr___: precisamos de uma infra de servidores, antes de mais nada
+(23:11:09) adr___: mas aprofundando no contexto america latina
+(23:11:18) efeefe: acho que essa eh uma conversa que vai rolar em paralelo com a nossa
+(23:11:21) efeefe: vamos participar dela
+(23:11:27) B3ZN05: por exemplo estudio livre, etc
+(23:11:31) efeefe: lorea acho que eh outra camada
+(23:11:32) adr___: entao, servidores temos um ligado direto na RNP
+(23:11:34) adr___: que tá pra jogo
+(23:11:38) adr___: apesar de nossa desorganização
+(23:11:43) adr___: mas tá lá
+(23:11:45) efeefe: tah na mao de quem?
+(23:12:07) iuriguilherme: vai estar na minha mão quando eu descobrir a senha do r00t
+(23:12:21) adr___: eu, marceleza, surian, djahjah, cinco basicamente, eu acho... ex-equipe do pontao da eco
+(23:12:38) adr___: o legado que restou
+(23:12:41) adr___: foi esse server
+(23:13:10) efeefe: e ele vai continuar lah?
+(23:13:25) adr___: estava agora meia hora atras conversando c/ surian sobre isso, inclusive, vamos tentar  nos organizar aqui p/ retomar isso mas tá aí pra jogo, gerando demanda as coisas as vezes andam
+(23:13:30) adr___: efeefe: até 2a ordem, sim
+(23:13:48) adr___: nao tem previsao de sair
+(23:13:57) adr___: e principalmente se estiver sendo usado
+(23:14:01) adr___: temos argumento para manter ele lá
+(23:14:04) B3ZN05: ? uma op??o
+(23:14:04) adr___: se um dia alguem quiser tirar
+(23:14:16) adr___: o site da metareciclagem ta hospedado onde hj btw?
+(23:14:38) B3ZN05: vserver do efe nos eua provavelmente
+(23:14:48) efeefe: adr___: como tah a organizacao dele?
+(23:14:58) efeefe: tem planos de usar o padrao sarava?
+(23:15:18) efeefe: metarec tah no meu server
+(23:15:21) efeefe: vserver
+(23:15:22) efeefe: nos eua
+(23:16:17) iuriguilherme: phenom 6GB RAM 320GB HD + 6TB armazenamento 3,5 upstream
+(23:16:26) iuriguilherme: em Porto Alegre
+(23:16:50) adr___: a desorganização dele tá caótica e dispersa
+(23:17:01) iuriguilherme: to usando LXC linux containers
+(23:17:06) adr___: padrao sarava?
+(23:17:20) adr___: essa é uma daquelas histórias que já são quase-lendas
+(23:17:31) adr___: mas de repente é um momento para retomar a ideia da rede de servidores livres
+(23:17:32) adr___: e bla bla bla
+(23:17:35) iuriguilherme: ainda não tive a oportunidade de botar a cara em um servidor sarava
+(23:17:55) iuriguilherme: eu to há um ano com a infra aqui passando fome pra manter tudo
+(23:18:12) B3ZN05: esse que o iuri menciona eh o que esta o icecast com nossa radio e os blogs dele, mas agora esta na mesma conexao de internet do hackerspace la deles, e quando reiniciam por qq motivo o modem derrubaria n?is... isso n?o d?
+(23:18:35) iuriguilherme: B3ZN05: a "minha" conexão vai voltar esse mês
+(23:18:52) B3ZN05: ent?o, pode contar comigo pra doa??o mensal pra manter essa conex, visse
+(23:19:03) iuriguilherme: eu não quero teu dinheiro
+(23:19:08) B3ZN05: se voce se organizar e me disser finalmente quanto eh o valor total
+(23:19:18) iuriguilherme: mas a GVT, a CEEE, a PMPA, a imobiliária querem
+(23:19:25) B3ZN05: tifude, num eh dinheiro, eh parceria, animal
+(23:19:46) B3ZN05: bem, ja s?o duas op??es pra espelhar
+(23:20:13) iuriguilherme: divulgando um barulho em um futuro próximo
+(23:20:14) iuriguilherme: http://gambilab_poalivre.neocities.org/index.html
+(23:20:17) lalenia: <http://ln-s.net/-hHH> (at gambilab_poalivre.neocities.org)
+(23:20:30) efeefe:                      Web Site Not Found                       The requested web site was not found on this server.                 
+(23:20:31) adr___: pois é
+(23:20:39) adr___: eu acho que a infra de servers
+(23:20:43) adr___: não é o essencial
+(23:20:46) adr___: apesar de ser importante
+(23:20:49) efeefe: nao, nao
+(23:20:53) efeefe: é o mínimo 
+(23:20:58) B3ZN05: sim, sim
+(23:21:00) efeefe: mas nao eh nem comeco de conversa
+(23:21:04) iuriguilherme: ele não queria ser divulgado
+(23:22:48) B3ZN05: nops
+(23:22:59) efeefe: acho que temos essa curiosidade em fazer uma experiencia com o lorea
+(23:23:05) efeefe: como um dos sites metarec
+(23:23:17) efeefe: e eventualmente virar espaco principal de articulacao
+(23:23:24) B3ZN05: tem a quest?o das decis?es, n?.. quem vai tomar? quando? quais op??es? enquete na rede?
+(23:23:34) B3ZN05: ou fluxo organico, plantamos e regamos
+(23:23:51) efeefe: pra isso precisamos de um servidor, de uma metodologia de administracao dele e da instalacao do lorea, e de gente que monte e - principalmente - documente os processos
+(23:24:38) B3ZN05: Sim, a tal delega??o e atribui??o de fun??es
+(23:24:38) adr___: eu acho meio difícil ocorrer migração da lista p/ uma plataforma web da metarec. tecnicamente isso poderia ser feito no site atual, mas não é... então acho que tem alguma razão que talvez nao seja uma mudança de cms que vá resolver
+(23:25:00) efeefe: depois de subir, precisamos de metodologias, recursos para articular demandas, implementacao, teste e publicacao. alem de termos a intencao de propor uma perspectiva de design de interface para pautar parte do desnevolvimento
+(23:25:13) adr___: nesse sentido que eu penso que um ambiente que tenha particularidades da metarec mas seja integrado c/ outros coletivos pode ser potente
+(23:25:15) efeefe: B3ZN05: enquete na rede nao tem consenso nem sobre a existencia da rede
+(23:25:20) efeefe: grupos de trabalho autonomos
+(23:25:25) B3ZN05: sim
+(23:25:25) efeefe: quem quiser, pede pra entrar e se garante
+(23:25:26) adr___: eu acho interessante o anillosur
+(23:25:29) B3ZN05: agreed
+(23:25:30) adr___: pq além dos grupos que participo
+(23:25:46) efeefe: adr___: migracao da lista nao vale a pena
+(23:25:48) adr___: dá para ver outros trabalhos que epssoas que nao conheco estao fazendo
+(23:25:49) efeefe: da lista central metarec
+(23:26:06) B3ZN05: sim, pelo que entendi a lista continua no riseup
+(23:26:07) efeefe: mas uma instalacao elgg/lorea permite criar grupos integrados com email
+(23:26:20) efeefe: e isso resolve uma demanda latente de espacos semiprivados para articulacao de acoes
+(23:26:30) efeefe: e deixamos a lista geral para esses devaneios e o OT eterno
+(23:26:58) adr___: isso, não propus migracao não
+(23:27:06) adr___: acho que o caminho é este da integração
+(23:27:08) efeefe: sim
+(23:27:18) #metareciclagem: Modo (+o adr___) por efeefe
+(23:27:23) efeefe: galera, to quase indo
+(23:27:32) adr___: se a listona pudesse ser um grupão no lorea e ter os subgrupos poderia ser interessante
+(23:27:40) efeefe: se forem continuar, peco que mandem o log depois
+(23:27:40) iuriguilherme: acredito que isto se dará a partir de necessidades específicas
+(23:27:50) iuriguilherme: de projetos e iniciativas
+(23:27:53) efeefe: ah, sobre isso - pensei na possibilidade de uma instalacao lorea com um metagrupo
+(23:28:02) iuriguilherme: o processo é onde está a força
+(23:28:03) B3ZN05: blz, vou tentar fazer um resum?o do que foi falado hj e mando para os que estavam aqui por email, ai se quiserem compartilhar na metarec
+(23:28:07) efeefe: tem um monte de grupos, mas existe um metagrupo que percorre os outros
+(23:28:22) efeefe: e pode, por exemplo, republicar conteudo de todos os grupos abertos
+(23:28:28) efeefe: talvez de forma automatizada
+(23:28:30) iuriguilherme: efeefe: há horizontalidade nos grupos lorea
+(23:28:38) iuriguilherme: isto acontece através dos usuários
+(23:28:55) efeefe: sim, mas pensar em alguns criterios e um RSS que pegue a partir deles
+(23:28:57) iuriguilherme: mas esta tua ideia de automatizar é interessante
+(23:29:16) iuriguilherme: da pra partir do conceito de listas de interesses do facebook
+(23:29:23) efeefe: o lance eh que ao contrario do n-1, a gente nao parte de uma suposicao de horzontalidade total
+(23:29:31) iuriguilherme: e usar uma abrdagem mais parecida com a paloma que é um projeto que eu enterrei
+(23:29:37) efeefe: existe uma historia compartilhada, existe uma linguagem comum
+(23:29:44) adr___: mas o n-1 tb tem possibilidade de grupos fechados
+(23:30:14) efeefe: se entrar uma galera falando que instalar windows pirata eh metareciclagem, eu vou na hora me opor a horizontalidade
+(23:30:33) B3ZN05: kkkkkkkkkk
+(23:30:35) efeefe: adr___: grupos fechados sao grupos fechados, deixamos eles lah
+(23:31:45) iuriguilherme: efeefe: se tu te opor à horizontalidade eu vou te trollar publicamente
+(23:32:06) iuriguilherme: liberdade de expressão é dar muro pra alguém pixar suástica
+(23:32:17) iuriguilherme: bater em quem pixa suástica também é liberdade de expressão
+(23:32:34) iuriguilherme: e criticar esta atitude também é liberdade de expressão
+(23:32:41) iuriguilherme: eu vou te importunar, eu vou te trollar
+(23:33:05) B3ZN05: vixe, ta batendo o sono no nen?m
+(23:33:05) B3ZN05: rsrs
+(23:33:07) iuriguilherme: efeefe: os grupos fechados que o adr___ disse são grupos com visibilidade difernte
+(23:33:18) efeefe: iuriguilherme: pode me trollar publicamente, porque isso eu vou deixar horizontal
+(23:33:27) iuriguilherme: as coisas no elgg podem ser públicas, visíveis pra quem tem conta no site, visíveis para grupos espevíficos, etc.
+(23:33:57) iuriguilherme: isto é útil para garantir que os processos de lista de cc de e-mail consigam interagir melhor com o todo
+(23:34:10) iuriguilherme: ta batend mesmo
+(23:34:17) efeefe: aih galera, fui
+(23:34:19) iuriguilherme: tenho que pegar um Pinheiro ainda
+(23:34:20) efeefe: aguardo o logue
+(23:34:51) B3ZN05: blz..bom descanso ae, mano
+(23:34:51) B3ZN05: abs
+(23:35:00) efeefe: alias, vou deixar o computador ligado aqui. mas estarei em silencio
+(23:35:03) efeefe: fui
+(23:35:09) iuriguilherme: eu vou me armar pra largar aqui
+(23:35:11) efeefe: continuamos na proxima reuniao, semana que vewm
+(23:35:24) iuriguilherme: não tem comida aqui no hacklab independencia
+(23:35:30) adr___: beleza
+(23:35:32) iuriguilherme: e amanhã tenho audiometria
+(23:35:35) adr___: mesmodia e horario?
+(23:35:36) iuriguilherme: cedo
+(23:35:43) B3ZN05: vale um tentativa de resumo pra rede ou mandamos o log?o memo?
+(23:36:02) B3ZN05: massa, Iuri.. manera no caf?, hein
+(23:36:13) B3ZN05: por mim mesmo dia / hor?rio sim
+(23:36:20) iuriguilherme: tentativa de resumo é BEM VINDA
+(23:36:24) simba_ [b194b0be@gateway/web/freenode/ip.177.148.176.190] entrou na sala.
+(23:36:26) iuriguilherme: mas o log vai na íntegra
+(23:36:28) B3ZN05: bleuza
+(23:36:39) B3ZN05: sim, ambas as duas cossas
+(23:36:40) iuriguilherme: vai lá, interpreta e te expressa
+(23:36:52) iuriguilherme: eu vou lá e te contraponho
+(23:36:57) iuriguilherme: lelex vai lá e acrescenta
+(23:36:58) iuriguilherme: e etc.
+(23:38:19) B3ZN05: fechando a tampa ent?o.. simbora
+(23:38:25) josenetomg: bom descanso pra todos.
+(23:38:56) iuriguilherme: B3ZN05: vou mandar a lista das músicas da balaio no e-mail
+(23:40:35) B3ZN05: blz... tu subiu hj o server?
+(23:41:16) josenetomg saiu da sala ("Konversation terminated!").
+(23:42:07) B3ZN05 saiu da sala (quit: Quit: Saindo).
+(23:47:54) The account has disconnected and you are no longer in this chat. You will automatically rejoin the chat when the account reconnects.

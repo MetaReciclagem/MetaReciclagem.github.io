@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - festival</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/163/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>sub#4</title>
+ <link>http://rede.metareciclagem.org/conectaz/sub4</link>
+ <description>&lt;div class=&quot;form-item&quot;&gt;
+ &lt;label&gt;Descrição: &lt;/label&gt;
+ submidialogia em belém
+&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://wakka.midiatatica.info/wikka.php?wakka=SubmidialogiA4&quot; title=&quot;http://wakka.midiatatica.info/wikka.php?wakka=SubmidialogiA4&quot; rel=&quot;nofollow&quot;&gt;http://wakka.midiatatica.info/wikka.php?wakka=SubmidialogiA4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;pensar a articulcula&amp;ccedil;&amp;atilde;o da rede metarecicleira presencialmente em bel&amp;eacute;m e atrav&amp;eacute;s da net do campus party &amp;amp; al&amp;eacute;m!&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-situacao-conectaz&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Situação desta ConecTAZ:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    em planejamento        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/conectaz/sub4#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/arte-e-m%C3%ADdia">arte e mídia</category>
+ <category domain="http://rede.metareciclagem.org/assunto/bel%C3%A9m">belém</category>
+ <category domain="http://rede.metareciclagem.org/tags/festival">festival</category>
+ <category domain="http://rede.metareciclagem.org/assunto/m%C3%ADdia">mídia</category>
+ <category domain="http://rede.metareciclagem.org/assunto/pr%C3%A9-FSM">pré-FSM</category>
+ <pubDate>Thu, 04 Dec 2008 21:36:41 +0000</pubDate>
+ <dc:creator>t</dc:creator>
+ <guid isPermaLink="false">1504 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

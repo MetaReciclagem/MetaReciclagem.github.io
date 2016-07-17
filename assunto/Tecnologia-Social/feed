@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - Tecnologia Social</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/526/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Prêmio Tecnologia Social - 2011</title>
+ <link>http://rede.metareciclagem.org/wiki/Premio-Tecnologia-Social-2011</link>
+ <description>&lt;p&gt;&lt;a href=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/metareciclagem_tecsocial_fbb.pdf &quot; rel=&quot;nofollow&quot;&gt;Em anexo&lt;/a&gt;: texto da inscri&amp;ccedil;&amp;atilde;o da MetaReciclagem no &lt;a href=&quot;http://www.fbb.org.br/tecnologiasocial/&quot; rel=&quot;nofollow&quot;&gt;Pr&amp;ecirc;mio de Tecnologia Social do Banco do Brasil&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Premio-Tecnologia-Social-2011#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/Tecnologia-Social">Tecnologia Social</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/metareciclagem_tecsocial_fbb.pdf" length="98987" type="application/pdf" />
+ <group domain="http://rede.metareciclagem.org/conectaz/MetaRecursos" xmlns="http://drupal.org/project/og">MetaRecursos</group>
+ <pubDate>Sat, 13 Aug 2011 22:56:54 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2064 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

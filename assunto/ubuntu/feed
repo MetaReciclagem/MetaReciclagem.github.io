@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>MetaReciclagem - ubuntu</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/940/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>SmartQ V7</title>
+ <link>http://rede.metareciclagem.org/wiki/SmartQ-V7</link>
+ <description>&lt;p&gt;Documentando testes e uso do &lt;a href=&quot;http://en.smartdevices.com.cn/products/V7/&quot; rel=&quot;nofollow&quot;&gt;SmartQ V7&lt;/a&gt;, da &lt;a href=&quot;http://en.smartdevices.com.cn/Products/&quot; rel=&quot;nofollow&quot;&gt;Smart Devices&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;O SmartQ V7 &amp;eacute; um tablet, um dispositivo m&amp;oacute;vel de internet com tela touchscreen, entrada USB, sa&amp;iacute;da HDMI, slot para cart&amp;atilde;o SD, wi-fi, bluetooth. Vem com (teoricamente)&amp;nbsp;tr&amp;ecirc;s sistemas operacionais pr&amp;eacute;-instalados: uma vers&amp;atilde;o customizada do ubuntu, uma vers&amp;atilde;o do android (atualmente do 2.1) e o windows CE.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Chegando&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Encomendei o SmartQ V7 pelo Deal Extreme, pelo pre&amp;ccedil;o de 235 d&amp;oacute;lares (frete inclu&amp;iacute;do). Demorou quase um m&amp;ecirc;s para enviarem ele (ao contr&amp;aacute;rio da capa e do filme protetor que comprei junto, que chegaram em tr&amp;ecirc;s semanas), e mais um m&amp;ecirc;s para chegar aqui em Ubatuba.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Primeiras impress&amp;otilde;es&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Comecei usando o SmartQ V7 como veio de f&amp;aacute;brica, por quatro dias. A pegada do case dele lembra um pouco o netbook EEE 701: branquinho, meio perolado. Bem compacto. Primeiro passo &amp;eacute; mudar o idioma (meu mandarim n&amp;atilde;o &amp;eacute; muito bom). Rodando Linux, precisava usar mais a caneta (ou a unha). A sensibilidade do touchscreen deixava a desejar. Mas a possibilidade de conectar um teclado externo via USB faz toda a diferen&amp;ccedil;a. No Android, fazia tudo com os dedos (nem precisava tirar a caneta). Eu nunca tinha usado muito o Android, gostei da experi&amp;ecirc;ncia. Bem redondo, mas com alguns problemas (sem acesso ao app market, por exemplo). Tive alguns desentendimentos com meu cart&amp;atilde;o SDHC (resolvidos com uma reformata&amp;ccedil;&amp;atilde;o). V&amp;aacute;rios softwares tinham problemas de encode, inclusive alguns que eu nem sabia pra que serviam. O Windows CE n&amp;atilde;o subiu, mas n&amp;atilde;o senti nenhuma falta dele.&lt;/p&gt;
+&lt;p&gt;Algumas observa&amp;ccedil;&amp;otilde;es: consegui instalar alguns softwares no Android mesmo sem o Market - encontrei os arquivos .apk pela internet. Alguns funcionaram bem, outros com problemas - doodledroid estava descalibrado, android comic viewer reclamava de pouca mem&amp;oacute;ria e n&amp;atilde;o conseguia ler nenhum arquivo at&amp;eacute; o fim. J&amp;aacute; no Ubuntu, instalei (por apt-get!) alguns softwares pra testar, mas quando reformatei o cart&amp;atilde;o SD eles sumiram do menu. A boa surpresa foi que instalei o PD e ele aparentemente rodou bem - fiz os testes de &amp;aacute;udio embutidos, e parecia ok. Tamb&amp;eacute;m instalei o servidor SSH, pra acessar remotamente.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Brincando com o SmartQ V7&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Passados os testes virgens, primeira tarefa: atualizar o firmware para a vers&amp;atilde;o mais recente e come&amp;ccedil;ar do zero.&lt;/p&gt;
+&lt;p&gt;Tutorial &lt;a href=&quot;http://www.smartqmid.com/wordpress/2010/06/how-to-install-a-new-firmware/&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Primeiro o Linux. Vers&amp;atilde;o mais recente: v5.5. Baixei do site &lt;a href=&quot;http://smartqmid.com&quot; rel=&quot;nofollow&quot;&gt;smartqmid.com&lt;/a&gt;. Descompactei o arquivo no SDHC. Liguei segurando o bot&amp;atilde;o menu. Apertei o bot&amp;atilde;o + (para manter as configura&amp;ccedil;&amp;otilde;es). Instalando... OK. Boot.&lt;/p&gt;
+&lt;p&gt;Nada. Tela preta. Estranho... bricou?&lt;/p&gt;
+&lt;p&gt;Tentei flashear o Android (2.1 v 1.0), pelo mesmo procedimento: descompactar no SD, bootar segurando o bot&amp;atilde;o menu. Ainda nada.&lt;/p&gt;
+&lt;p&gt;Tentando de novo o Linux 5.5, mas selecionando &amp;quot;-&amp;quot; para n&amp;atilde;o manter as configura&amp;ccedil;&amp;otilde;es de sistema.&lt;/p&gt;
+&lt;p&gt;Hm... vacilo. Pelo que entendi, o firmware 5.5 precisa de um tal bootloader novo. Lendo o &lt;a href=&quot;http://www.smartqmid.com/phpBB3/&quot; rel=&quot;nofollow&quot;&gt;f&amp;oacute;rum&lt;/a&gt;...&lt;/p&gt;
+&lt;p&gt;Pra atualizar o bootloader, vou precisar de um cabo USB Macho x USB Macho. Estou sem um &amp;agrave; m&amp;atilde;o. Tentando alternativas.&lt;/p&gt;
+&lt;p&gt;Baixei o 5.4 do smartqmid. Erro ao descompactar: CRC Failed em 39%. Baixei outra vez. Mesmo erro, em 15%. Baixei direto do site da smart devices. Consegui descompactar.  Flashando. Nada.&lt;/p&gt;
+&lt;p&gt;Navegando por algumas horas no f&amp;oacute;rum do smartqmid, encontrei o trampo do thechillhacker, que fez uma vers&amp;atilde;o customizada do Linux (nxpadd). As vers&amp;otilde;es finais s&amp;atilde;o s&amp;oacute; para o bootloader novo, mas tem vers&amp;otilde;es pro bootloader antigo. Baixei. Copiei pro cart&amp;atilde;o SD. Tentando flashear de novo. Nada.&lt;/p&gt;
+&lt;p&gt;Deixei de lado o SDHC de 16G, tentando agora com um menor, mas vazio. Nada.&lt;/p&gt;
+&lt;p&gt;Dois dias depois, flashei o novo bootloader usando um cabo USB macho x USB macho de um HD port&amp;aacute;til, o computador com windows de um amigo e &lt;a href=&quot;http://www.smartqmid.com/phpBB3/viewtopic.php?f=36&amp;amp;t=1724&quot; rel=&quot;nofollow&quot;&gt;essas instru&amp;ccedil;&amp;otilde;es&lt;/a&gt;. Nada. Tentei de novo. S&amp;oacute; aparecia a tela de boot azul (o bootloader antigo). Resolvi tentar com a vers&amp;atilde;o do chillhacker. N&amp;atilde;o rolou, mas foi pra uma tela branca. Resultado diferente, j&amp;aacute; &amp;eacute; alguma coisa. Tentei algumas varia&amp;ccedil;&amp;otilde;es, com os 2 firmwares ao mesmo tempo no cart&amp;atilde;o, formatando o cart&amp;atilde;o, etc. A&amp;iacute; tentei de novo a vers&amp;atilde;o 5.5. E voltei a tentar o nxpadd.&lt;/p&gt;
+&lt;p&gt;Depois de muitas tentativas e mais uma noite, rodou. N&amp;atilde;o sei bem como. Foi pra uma tela branca com o logo. Depois, tela para calibrar o touchscreen. Tive que voltar ao f&amp;oacute;rum pra sacar que precisava segurar por alguns segundos em cada posi&amp;ccedil;&amp;atilde;o pra calibrar direito. Subiu o nxpadd. Bem bonitinho, mas n&amp;atilde;o mexi muito. Fui flashear o android, mas na hora de reiniciar nada. Uma barra de progresso embaixo dele ficou esperando um temp&amp;atilde;o. Parou. Tentei de novo, parou antes ainda. Subi de novo o linux. Voltei no android. Finalmente deu!&lt;/p&gt;
+&lt;p&gt;Mas agora vi no wiki do smartqmid.com um link pra baixar outra vers&amp;atilde;o do android com &amp;quot;multilanguage&amp;quot;. Vou l&amp;aacute; pra ver se o programa de ebook n&amp;atilde;o zoa com os acentos, como tava acontecendo antes.&lt;/p&gt;
+&lt;p&gt;Aparentemente, n&amp;atilde;o rolou com esse update. Tentei rebootar mais duas vezes, a barra de progresso nem aparece.&lt;/p&gt;
+&lt;p&gt;Voltando ao NXPADD. Ambiente parece funcionar bem. Respondendo r&amp;aacute;pido. Instalei comix, ssh, evince. Os v&amp;iacute;deos n&amp;atilde;o rodam muito bem (pelo que entendi do f&amp;oacute;rum, falta acelera&amp;ccedil;&amp;atilde;o gr&amp;aacute;fica ao VLC). Mplayer n&amp;atilde;o adiantou. Comix rodou melhor do que no ubuntu original da smartdevices, mas o novo comportamento do bot&amp;atilde;o menu (que na outra distro serve para entrar e sair do modo fullscreen) atrapalha: n&amp;atilde;o tenho como sair do modo fullscreen (o teclado fica por tr&amp;aacute;s, o clique direito n&amp;atilde;o funciona, etc.). Uma pena. O mesmo no evince. N&amp;atilde;o cheguei a testar o fbreader. O PD instalou, mas o teste de audio n&amp;atilde;o deu certo. Talvez d&amp;ecirc; pra debugar.&lt;/p&gt;
+&lt;p&gt;Vou montar um arquivo de swap no SD:&lt;/p&gt;
+&lt;p&gt;&amp;bull; dd if=/dev/zero of=/media/16G/swapfile bs=1024 count=131072&lt;br /&gt;
+&amp;bull; chmod 0600 /media/16G/swapfile &lt;br /&gt;
+&amp;bull; mkswap /media/16G/swapfile&lt;br /&gt;
+&amp;bull; swapon /meda16G/swapfile&lt;/p&gt;
+&lt;p&gt;demora demais... cancelei e desisti.&lt;/p&gt;
+&lt;p&gt;De volta ao android: baixei tamb&amp;eacute;m uma vers&amp;atilde;o customizada, a corvusmod. Vamos ver como se comporta.&lt;/p&gt;
+&lt;p&gt;(BTW, excelente a sensa&amp;ccedil;&amp;atilde;o de ter o tablete de volta depois de um par de dias bricado...)&lt;/p&gt;
+&lt;p&gt;Corvusmod funcionou de primeira. J&amp;aacute; vem com alguns programinhas interessantes. D&amp;aacute; a impress&amp;atilde;o de ser mais r&amp;aacute;pido que o original. O doodledroid funcionou em tela cheia! ACV e Aldiko funcionaram bem. Tablete funcional, mesmo.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fazendo o market funcionar&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Refer&amp;ecirc;ncia &lt;a href=&quot;http://www.smartqmid.com/wiki/index.php?title=Getting_Android_Market_to_work_with_2.1_v1  &quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Pra rolar o ADB direito no linux, dica &lt;a href=&quot;http://dennis.christilaw.com/?p=135&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;Configurei a conta no device virtual (com outro email, n&amp;atilde;o o meu email principal!). Mudei a entrada na configura&amp;ccedil;&amp;atilde;o do tablete (e tenho a impress&amp;atilde;o que poderia ter feito direto nele, usando o gainroot). Depois de insistir algumas vezes,&amp;nbsp;rolou o Market. E a&amp;iacute; a experi&amp;ecirc;ncia de uso mudou completamente. O sistema &amp;eacute; est&amp;aacute;vel pra caramba, exceto por um detalhe: depois que dorme, muitas vezes n&amp;atilde;o volta. Segui uma pista dizendo que era o wi-fi, mas acho que n&amp;atilde;o resolveu. E n&amp;atilde;o &amp;eacute; sempre, s&amp;oacute; quando fica dormindo por mais tempo. Tamb&amp;eacute;m vi outra dica dizendo que &amp;eacute; melhor n&amp;atilde;o mandar ele hibernar ou acordar enquanto estiver ligado &amp;agrave; fonte. Consegui chegar a 2 ou 3 dias sem travar, mas sempre acaba congelando. Tamb&amp;eacute;m tenho a impress&amp;atilde;o de que se mando matar alguns programas do background (email, clock, gmail, seesmic, etc.) ele segura melhor a onda.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Olhando pra tr&amp;aacute;s&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(duas semanas depois, 08/11/2010)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Passei duas semanas s&amp;oacute; usando o android. Conhecendo o ambiente, usando aplicativos, etc. O sistema &amp;eacute; bem consistente, tem um monte de programas muito &amp;uacute;teis e eye candy suficiente para satisfazer muita gente. O problema de hibernar enche um pouco, mas nem tanto assim. Como leitor de livros (usando Aldiko, Adobe Reader e at&amp;eacute; o aplicativo do Kindle, propriet&amp;aacute;rio mas fant&amp;aacute;stico) e de quadrinhos (com o ACV), &amp;eacute; um equipamento perfeito. Por outro lado, o lance propriet&amp;aacute;rio incomoda mesmo. Parece um sistema bonitinho demais, apesar de ainda ser muito (mas muito) mais aberto do que aquele dos dispositivos da apple (ipod, iphone, ipad).&lt;/p&gt;
+&lt;p&gt;Aplicativos que mais uso: browser, opera, ACV (comics viewer, de longe o que mais uso), adobe reader, advanced task killer, appbrain. N&amp;atilde;o uso muito para multim&amp;iacute;dia, mas instalei o Act 1 e gostei do resultado. Mas ainda n&amp;atilde;o vi se ele l&amp;ecirc; legendas dos v&amp;iacute;deos. Instalei alguns analisadores de wi-fi e outras coisas parecidas, mas ainda n&amp;atilde;o testei. O android tamb&amp;eacute;m tem uma boa oferta de softwares de redes:&amp;nbsp;seesmic (microblogues), pingdroid (ping.fm), greader, paperdroid (readitlater), mais uns brinquedos multim&amp;iacute;dia: cliente para MPD, UPNP e outras coisas legais que ainda vou testar. Tive a impress&amp;atilde;o que o Bluetooth n&amp;atilde;o &amp;eacute; muito bem implementado. N&amp;atilde;o reconheceu um fone gen&amp;eacute;rico A2DP. Tamb&amp;eacute;m falta a op&amp;ccedil;&amp;atilde;o para usar o celular como modem via bluetooth. Baixei e instalei um programa que gerencia dados de GPS por bluetooth, mas n&amp;atilde;o o testei ainda.&lt;/p&gt;
+&lt;p&gt;O tamanho do Smartq V7 &amp;eacute; adequado para o que eu preciso. Podia ser ainda mais leve. O touchscreen podia ser mais sens&amp;iacute;vel e ter resolu&amp;ccedil;&amp;atilde;o melhor (em alguns arquivos de quadrinhos, as letras ficam borradas). USB, HDMI, cart&amp;atilde;o SD e os dois sistemas operacionais (e mais ainda, os mods da comunidade) s&amp;atilde;o grandes vit&amp;oacute;rias. Acredito que ele &amp;eacute; um aparelho de transi&amp;ccedil;&amp;atilde;o: j&amp;aacute; j&amp;aacute; sai o Samsung Galaxy Tab, e na sequ&amp;ecirc;ncia v&amp;ecirc;m um monte de apads e pads gen&amp;eacute;ricos. Mas o fato de esse j&amp;aacute; rodar firmware baseado em linux abre um monte de possibilidades que ainda vou testar melhor.&lt;/p&gt;
+&lt;p&gt;Ainda n&amp;atilde;o testei a sa&amp;iacute;da HDMI.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Atualizando em 18/01/2011&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;M&amp;ecirc;s passado, rodando o android, liguei a sa&amp;iacute;da HDMI em uma TV grande dessas. Rolou bem, exportou a &amp;aacute;rea de trabalho inteira. Passei um filme, sem problemas. N&amp;atilde;o testei com legenda.&lt;/p&gt;
+&lt;p&gt;H&amp;aacute; algumas semanas, o android market parou de funcionar, talvez porque eu atualizei o aplicativo. Deixei passar. Semana passada subi um monte de arquivos novos (livros, v&amp;iacute;deos e m&amp;uacute;sica) no SD. N&amp;atilde;o sei se est&amp;aacute; relacionado a isso, mas o Smartq come&amp;ccedil;ou a pipocar. Um dia, amanheceu com o wizard de primeira configura&amp;ccedil;&amp;atilde;o do android. Ignorei, e agora nenhum software roda mais. Vou tentar resolver, ou reinstalar o Android. Talvez testar uma vers&amp;atilde;o nova. Enquanto isso, vou usando o Linux. Consegui me entender com a navega&amp;ccedil;&amp;atilde;o no Comix usando o teclado virtual). A sensibilidade para os dedos do touchscreen no Linux ainda n&amp;atilde;o se compara com o Android, mas vamos de canetinha.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Atualizando em 12/04/2011:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;H&amp;aacute; algumas semanas instalei a vers&amp;atilde;o 6 da vers&amp;atilde;o alternativa do Android (CorvusMOD). Funcionou de primeira, e com alguns avan&amp;ccedil;os: n&amp;atilde;o tive mais problemas de n&amp;atilde;o retornar depois de um sleep. O market funcionou de cara. Dessa vez s&amp;oacute; instalei os aplicativos de ebooks, quadrinhos, v&amp;iacute;deo e um pra baixar cifras de guitarra. Os v&amp;iacute;deos est&amp;atilde;o com um delay curt&amp;iacute;ssimo, que quase chega a incomodar mas d&amp;aacute; pra acompanhar. Tenho a impress&amp;atilde;o que ele diminui depois de alguns pause/play. O Droid Comics Viewer n&amp;atilde;o consegue abrir a maioria dos arquivos de quadrinhos - alega n&amp;atilde;o ter mem&amp;oacute;ria suficiente. De resto, tudo funcionando OK. Tenho usado o tablete pra ler ebooks e assistir v&amp;iacute;deos (companhia perfeita para o &amp;ocirc;nibus ubatuba-sampa).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Coisas que eu consultei antes e depois de comprar o SmartQ V7:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;
+    &lt;a href=&quot;http://www.umpcportal.com/modules/newbb/viewtopic.php?topic_id=6505&amp;amp;forum=22  &quot; rel=&quot;nofollow&quot;&gt;UMPCportal - f&amp;oacute;rum&lt;/a&gt;     
+    &lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://www.mobileread.com/forums/showthread.php?p=1051039&quot; rel=&quot;nofollow&quot;&gt;Comparativo de SmartQ V7, A81E, E7001 - mobileread&lt;/a&gt;&amp;nbsp;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://www.mobileread.com/forums/showthread.php?t=62831&quot; rel=&quot;nofollow&quot;&gt;Review - mobileread&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://www.mobileread.com/forums/showthread.php?t=48655&quot; rel=&quot;nofollow&quot;&gt;Customiza&amp;ccedil;&amp;atilde;o - comics e slideshow - mobileread&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://www.smartqmid.com/phpBB3/viewtopic.php?f=36&amp;amp;t=2129&quot; rel=&quot;nofollow&quot;&gt;Corvusmod v3&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://www.smartqmid.com/phpBB3/viewtopic.php?f=36&amp;amp;t=1792&amp;amp;start=260&quot; rel=&quot;nofollow&quot;&gt;Custom Linux (thechillhacker)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://www.smartqmid.com/phpBB3/viewtopic.php?f=36&amp;amp;t=1724&quot; rel=&quot;nofollow&quot;&gt;Android 2.1 Final&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;http://www.forotablets.com/para-tablets-de-7-f18/practicamente-todo-sobre-el-smartq-v7-t666.htm&quot; rel=&quot;nofollow&quot;&gt;Praticamente tudo sobre o SmartQ V7&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/SmartQ-V7#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/android">android</category>
+ <category domain="http://rede.metareciclagem.org/assunto/gid">gid</category>
+ <category domain="http://rede.metareciclagem.org/tags/mobile">mobile</category>
+ <category domain="http://rede.metareciclagem.org/assunto/smartq">smartq</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ubuntu">ubuntu</category>
+ <group domain="http://rede.metareciclagem.org/esporo/UbaLab" xmlns="http://drupal.org/project/og">UbaLab</group>
+ <pubDate>Mon, 08 Nov 2010 22:14:59 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1967 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Casa Brasil - Granja Portugal (Fortaleza - CE)</title>
+ <link>http://rede.metareciclagem.org/esporo/Casa-Brasil-Granja-Portugal-Fortaleza-CE</link>
+ <description>&lt;div class=&quot;form-item&quot;&gt;
+ &lt;label&gt;Descrição: &lt;/label&gt;
+ Espaço de articulação com outros projetos e eventual mini centro de recondicionamento de computadores para utilização em projetos de inclusão digital.
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-situacao-esporo&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Situação do Esporo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    encerrado        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+  &lt;h3 class=&quot;location-locations-header&quot;&gt;Localização&lt;/h3&gt;
+  &lt;div class=&quot;location-locations-wrapper&quot;&gt;
+          &lt;div class=&quot;location vcard&quot;&gt;
+  &lt;div class=&quot;adr&quot;&gt;
+          &lt;span class=&quot;fn&quot;&gt;Casa Brasil, Granja Portugal&lt;/span&gt;
+              &lt;div class=&quot;street-address&quot;&gt;
+        Humberto Lomeu, 1220                  &lt;span class=&quot;additional&quot;&gt;
+             ao lado do Colegio Reitor Martins Filho          &lt;/span&gt;
+              &lt;/div&gt;
+              &lt;span class=&quot;locality&quot;&gt;Fortaleza&lt;/span&gt;,               &lt;span class=&quot;region&quot;&gt;CE&lt;/span&gt;
+                  &lt;div class=&quot;country-name&quot;&gt;Brazil&lt;/div&gt;
+                                        &lt;span class=&quot;geo&quot;&gt;&lt;abbr class=&quot;latitude&quot; title=&quot;-3.781846&quot;&gt;3° 46&#039; 54.6456&quot; S&lt;/abbr&gt;, &lt;abbr class=&quot;longitude&quot; title=&quot;-38.601553&quot;&gt;38° 36&#039; 5.5908&quot; W&lt;/abbr&gt;&lt;/span&gt;
+            &lt;/div&gt;
+      &lt;div class=&quot;map-link&quot;&gt;
+      &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com.br?q=-3.781846+-38.601553+%28Casa+Brasil%2C+Granja+Portugal%2CHumberto+Lomeu%2C+1220%2C+Fortaleza%2C+CE%2C+%2C+br%29&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/esporo/Casa-Brasil-Granja-Portugal-Fortaleza-CE#comments</comments>
+ <category domain="http://rede.metareciclagem.org/tags/aprendizado">aprendizado</category>
+ <category domain="http://rede.metareciclagem.org/assunto/articula%C3%A7%C3%A3o">articulação</category>
+ <category domain="http://rede.metareciclagem.org/assunto/casa-brasil">casa brasil</category>
+ <category domain="http://rede.metareciclagem.org/assunto/cear%C3%A1">ceará</category>
+ <category domain="http://rede.metareciclagem.org/assunto/crescer-com-arte">crescer com arte</category>
+ <category domain="http://rede.metareciclagem.org/assunto/cria%C3%A7%C3%A3o">criação</category>
+ <category domain="http://rede.metareciclagem.org/assunto/debian">debian</category>
+ <category domain="http://rede.metareciclagem.org/assunto/desenvolvimento">desenvolvimento</category>
+ <category domain="http://rede.metareciclagem.org/assunto/economia-solid%C3%A1ria">economia solidária</category>
+ <category domain="http://rede.metareciclagem.org/assunto/fortaleza">fortaleza</category>
+ <category domain="http://rede.metareciclagem.org/assunto/granja-portugal">granja portugal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metareciclagem">metareciclagem</category>
+ <category domain="http://rede.metareciclagem.org/assunto/pesquisa">pesquisa</category>
+ <category domain="http://rede.metareciclagem.org/assunto/primeiro-passo">primeiro passo</category>
+ <category domain="http://rede.metareciclagem.org/assunto/proinfor">proinfor</category>
+ <category domain="http://rede.metareciclagem.org/assunto/reanimacao">reanimação</category>
+ <category domain="http://rede.metareciclagem.org/assunto/reformulacao">reformulação</category>
+ <category domain="http://rede.metareciclagem.org/assunto/resist%C3%AAncia">resistência</category>
+ <category domain="http://rede.metareciclagem.org/tags/software-livre">software livre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ubuntu">ubuntu</category>
+ <georss:point>-3.781846 -38.601553</georss:point>
+ <pubDate>Sun, 16 Nov 2008 16:18:45 +0000</pubDate>
+ <dc:creator>teia</dc:creator>
+ <guid isPermaLink="false">1477 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

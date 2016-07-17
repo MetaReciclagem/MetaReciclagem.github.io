@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>MetaReciclagem - carandiru</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/346/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Fotos do Weblab Social</title>
+ <link>http://rede.metareciclagem.org/blog/02-09-08/Fotos-do-Weblab-Social</link>
+ <description>&lt;p&gt;Fiz umas &lt;a href=&quot;http://flickr.com/photos/felipefonseca/tags/weblabsocial/&quot; rel=&quot;nofollow&quot;&gt;fotos&lt;/a&gt; no Weblab Social.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://flickr.com/photos/felipefonseca/tags/weblabsocial/&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;Weblab Social&quot; src=&quot;http://farm4.static.flickr.com/3278/2811949270_b18fc49321_m.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/02-09-08/Fotos-do-Weblab-Social#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/carandiru">carandiru</category>
+ <category domain="http://rede.metareciclagem.org/assunto/imagens">imagens</category>
+ <category domain="http://rede.metareciclagem.org/assunto/parque-da-juventude">parque da juventude</category>
+ <category domain="http://rede.metareciclagem.org/assunto/sampa">sampa</category>
+ <category domain="http://rede.metareciclagem.org/assunto/s-o-paulo">são paulo</category>
+ <category domain="http://rede.metareciclagem.org/assunto/sp">sp</category>
+ <category domain="http://rede.metareciclagem.org/assunto/weblab-social">weblab social</category>
+ <group domain="http://rede.metareciclagem.org/esporo/metaprojeto" xmlns="http://drupal.org/project/og">Metaprojeto</group>
+ <pubDate>Tue, 02 Sep 2008 18:54:13 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1410 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>WebLabSocial</title>
+ <link>http://rede.metareciclagem.org/wiki/WebLabSocial</link>
+ <description>&lt;p&gt;O WebLabSocial &amp;eacute; um esporo de MetaReciclagem em S&amp;atilde;o Paulo, no Parque da Juventude, onde ficava o Carandiru. O dia a dia &amp;eacute; tocado pelo &lt;a href=&quot;/pessoa/guima&quot; rel=&quot;nofollow&quot;&gt;guima&lt;/a&gt;, pelo &lt;a href=&quot;/pessoa/joe&quot; rel=&quot;nofollow&quot;&gt;joe&lt;/a&gt; e pelo cesinha. O espa&amp;ccedil;o oferece diversos cursos e oficinas.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/WebLabSocial#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/carandiru">carandiru</category>
+ <category domain="http://rede.metareciclagem.org/assunto/parque-da-juventude">parque da juventude</category>
+ <category domain="http://rede.metareciclagem.org/assunto/sampa">sampa</category>
+ <category domain="http://rede.metareciclagem.org/assunto/s-o-paulo">são paulo</category>
+ <category domain="http://rede.metareciclagem.org/assunto/sp">sp</category>
+ <group domain="http://rede.metareciclagem.org/esporo/metaprojeto" xmlns="http://drupal.org/project/og">Metaprojeto</group>
+ <pubDate>Sun, 08 Jun 2008 18:43:15 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1205 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Metaprojeto</title>
+ <link>http://rede.metareciclagem.org/esporo/metaprojeto</link>
+ <description>&lt;div class=&quot;form-item&quot;&gt;
+ &lt;label&gt;Descrição: &lt;/label&gt;
+ Esporo de MetaReciclagem no Parque da Juventude
+&lt;/div&gt;
+&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/esporo/metaprojeto&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;div class=&quot;field field-type-text field-field-situacao-esporo&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Situação do Esporo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    funcionando        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+  &lt;h3 class=&quot;location-locations-header&quot;&gt;Localização&lt;/h3&gt;
+  &lt;div class=&quot;location-locations-wrapper&quot;&gt;
+          &lt;div class=&quot;location vcard&quot;&gt;
+  &lt;div class=&quot;adr&quot;&gt;
+          &lt;span class=&quot;fn&quot;&gt;Parque da Juventude&lt;/span&gt;
+              &lt;div class=&quot;street-address&quot;&gt;
+        Av. Ataliba Leonel                  &lt;span class=&quot;additional&quot;&gt;
+             500          &lt;/span&gt;
+              &lt;/div&gt;
+              &lt;span class=&quot;locality&quot;&gt;São Paulo&lt;/span&gt;,               &lt;span class=&quot;region&quot;&gt;SP&lt;/span&gt;
+                  &lt;div class=&quot;country-name&quot;&gt;Brazil&lt;/div&gt;
+                                        &lt;span class=&quot;geo&quot;&gt;&lt;abbr class=&quot;latitude&quot; title=&quot;-23.505705&quot;&gt;23° 30&#039; 20.538&quot; S&lt;/abbr&gt;, &lt;abbr class=&quot;longitude&quot; title=&quot;-46.619800&quot;&gt;46° 37&#039; 11.28&quot; W&lt;/abbr&gt;&lt;/span&gt;
+            &lt;/div&gt;
+      &lt;div class=&quot;map-link&quot;&gt;
+      &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com.br?q=-23.505705+-46.619800+%28Parque+da+Juventude%2CAv.+Ataliba+Leonel%2C+S%C3%A3o+Paulo%2C+SP%2C+%2C+br%29&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/esporo/metaprojeto#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/carandiru">carandiru</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metaprojeto">metaprojeto</category>
+ <category domain="http://rede.metareciclagem.org/assunto/parque-da-juventude">parque da juventude</category>
+ <category domain="http://rede.metareciclagem.org/assunto/pj">pj</category>
+ <category domain="http://rede.metareciclagem.org/assunto/sampa">sampa</category>
+ <georss:point>-23.505705 -46.619800</georss:point>
+ <pubDate>Sun, 08 Jun 2008 09:25:02 +0000</pubDate>
+ <dc:creator>guimasan</dc:creator>
+ <guid isPermaLink="false">1203 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

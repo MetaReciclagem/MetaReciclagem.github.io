@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - midialivre</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/851/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>MidiaLivre2010</title>
+ <link>http://rede.metareciclagem.org/wiki/MidiaLivre2010</link>
+ <description>&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;span&gt;&lt;b&gt;2) &lt;/b&gt;&lt;/span&gt;&lt;span&gt;&lt;b&gt;&lt;u&gt;DESCRI&amp;Ccedil;&amp;Atilde;O DA INICIATIVA&lt;/u&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;div id=&quot;gpme&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://docs.google.com/a/veredas.net/File?id=dgtqm5zd_205cjkbjgc2_b&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;b&gt;&lt;u&gt;&lt;br /&gt;
+&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/MidiaLivre2010&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/MidiaLivre2010#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/midialivre">midialivre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mutir%C3%A3o-da-gambiarra">mutirão da gambiarra</category>
+ <category domain="http://rede.metareciclagem.org/assunto/veredas">veredas</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/midia_livre_categoria_nacional.pdf" length="164471" type="application/pdf" />
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <group domain="http://rede.metareciclagem.org/conectaz/M%C3%ADdia-Livre" xmlns="http://drupal.org/project/og">Mídia Livre</group>
+ <group domain="http://rede.metareciclagem.org/conectaz/MetaRecursos" xmlns="http://drupal.org/project/og">MetaRecursos</group>
+ <pubDate>Thu, 15 Apr 2010 23:37:49 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">1901 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

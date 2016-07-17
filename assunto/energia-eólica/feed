@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>MetaReciclagem - energia eólica</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/475/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Carnavento</title>
+ <link>http://rede.metareciclagem.org/conectaz/Carnavento</link>
+ <description>&lt;div class=&quot;form-item&quot;&gt;
+ &lt;label&gt;Descrição: &lt;/label&gt;
+ Projeto para construção de um gerador eólico em carnaúbas
+&lt;/div&gt;
+&lt;p&gt;No geral o projeto consiste na utiliza&amp;ccedil;&amp;atilde;o de troncos de carna&amp;uacute;ba para construir a torre, base e p&amp;aacute;s de um catavento, sendo o movimento deste convertido em energia el&amp;eacute;trica. Tal processo &amp;eacute; gerenciado por uma caixa de redu&amp;ccedil;&amp;atilde;o em que s&amp;atilde;o ligadas polias e estas por sua vez a eixos de motores de ventilador, buscando desta forma gerar energia el&amp;eacute;trica.&lt;/p&gt;
+&lt;p&gt;A energia el&amp;eacute;trica gerada neste processo ser&amp;aacute; armazenada em baterias q ter&amp;atilde;o seus terminais ligados a um monitor/gerenciador de baterias.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/conectaz/Carnavento&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-situacao-conectaz&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Situação desta ConecTAZ:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    em planejamento        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+  &lt;h3 class=&quot;location-locations-header&quot;&gt;Localização&lt;/h3&gt;
+  &lt;div class=&quot;location-locations-wrapper&quot;&gt;
+          &lt;div class=&quot;location vcard&quot;&gt;
+  &lt;div class=&quot;adr&quot;&gt;
+                  &lt;span class=&quot;locality&quot;&gt;Caucaia&lt;/span&gt;,               &lt;span class=&quot;region&quot;&gt;CE&lt;/span&gt;
+                  &lt;div class=&quot;country-name&quot;&gt;Brazil&lt;/div&gt;
+                                        &lt;span class=&quot;geo&quot;&gt;&lt;abbr class=&quot;latitude&quot; title=&quot;-3.734536&quot;&gt;3° 44&#039; 4.3296&quot; S&lt;/abbr&gt;, &lt;abbr class=&quot;longitude&quot; title=&quot;-38.656325&quot;&gt;38° 39&#039; 22.77&quot; W&lt;/abbr&gt;&lt;/span&gt;
+            &lt;/div&gt;
+      &lt;div class=&quot;map-link&quot;&gt;
+      &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com.br?q=-3.734536+-38.656325+%28%2C+Caucaia%2C+CE%2C+%2C+br%29&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/conectaz/Carnavento#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/energia-e%C3%B3lica">energia eólica</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/midia/carnavento.png" length="39472" type="image/png" />
+ <georss:point>-3.734536 -38.656325</georss:point>
+ <pubDate>Wed, 10 Dec 2008 08:14:28 +0000</pubDate>
+ <dc:creator>EvertonKrystian</dc:creator>
+ <guid isPermaLink="false">1505 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

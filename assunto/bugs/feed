@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - bugs</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/659/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>InfraLogicaBugs</title>
+ <link>http://rede.metareciclagem.org/wiki/InfraLogicaBugs</link>
+ <description>&lt;p class=&quot;rteindent1&quot;&gt;&lt;em&gt;ver tamb&amp;eacute;m InfraLogicaInicio, InfraLogicaIdeal, InfraLogicaTarefas&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;
+&lt;strong&gt;ATEN&amp;Ccedil;&amp;Atilde;O:&lt;/strong&gt;&amp;nbsp;esta p&amp;aacute;gina n&amp;atilde;o est&amp;aacute; mais sendo usada.&amp;nbsp;Bugs da infral&amp;oacute;gica devem ser reportados no &lt;a href=&quot;http://github.com/chuva-inc/Metareciclagem/issues&quot; rel=&quot;nofollow&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Relatando bugs da infral&amp;oacute;gica...&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/InfraLogicaBugs&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/InfraLogicaBugs#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/bugs">bugs</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Thu, 13 Aug 2009 20:07:02 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1638 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

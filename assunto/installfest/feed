@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - installfest</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/426/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>MetaReciclagem em Sampa</title>
+ <link>http://rede.metareciclagem.org/blog/11-11-08/MetaReciclagem-em-Sampa</link>
+ <description>&lt;p&gt;&lt;a href=&quot;http://rede.metareciclagem.org/search/user/guima&quot; rel=&quot;nofollow&quot;&gt;Guima-san&lt;/a&gt; est&amp;aacute; armando uma &lt;a href=&quot;http://rede.metareciclagem.org/evento/10-11-08/Installfest-no-PJ&quot; rel=&quot;nofollow&quot;&gt;install-fest&lt;/a&gt; no &lt;a href=&quot;http://rede.metareciclagem.org/esporo/weblab-social&quot; rel=&quot;nofollow&quot;&gt;Weblab Social&lt;/a&gt; para os dias 21 e 22 de novembro. Estou aproveitando a oportunidade para marcar uma &lt;a href=&quot;http://rede.metareciclagem.org/evento/11-11-08/Encontro-MetaReciclagem-Sampa&quot; rel=&quot;nofollow&quot;&gt;conversa com metarecicleirxs de sampa&lt;/a&gt; no dia 21, depois do almo&amp;ccedil;o.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/11-11-08/MetaReciclagem-em-Sampa#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/installfest">installfest</category>
+ <category domain="http://rede.metareciclagem.org/assunto/pj">pj</category>
+ <category domain="http://rede.metareciclagem.org/assunto/sampa">sampa</category>
+ <category domain="http://rede.metareciclagem.org/assunto/s-o-paulo">são paulo</category>
+ <category domain="http://rede.metareciclagem.org/assunto/weblab-social-0">weblab-social</category>
+ <group domain="http://rede.metareciclagem.org/esporo/metaprojeto" xmlns="http://drupal.org/project/og">Metaprojeto</group>
+ <pubDate>Tue, 11 Nov 2008 14:45:48 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1475 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Installfest no PJ</title>
+ <link>http://rede.metareciclagem.org/wiki/Installfest-no-PJ</link>
+ <description>&lt;p&gt;Installfest no &lt;a href=&quot;http://rede.metareciclagem.org/esporo/weblab-social&quot; rel=&quot;nofollow&quot;&gt;Weblab Social&lt;/a&gt;. Traga seu PC para instalar GNU/Linux.&lt;/p&gt;
+&lt;p&gt;Mais detalhes com o &lt;a href=&quot;http://rede.metareciclagem.org/pessoa/guima&quot; rel=&quot;nofollow&quot;&gt;Guima&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img height=&quot;281&quot; width=&quot;450&quot; alt=&quot;flyer&quot; src=&quot;http://rede.metareciclagem.org/midia/Install Fest.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Atualizando:&lt;/strong&gt; mudan&amp;ccedil;a de hor&amp;aacute;rio (s&amp;oacute; sexta-feira) e o flyer.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Installfest-no-PJ#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/installfest">installfest</category>
+ <category domain="http://rede.metareciclagem.org/assunto/parque-da-juventude">parque da juventude</category>
+ <category domain="http://rede.metareciclagem.org/assunto/pj">pj</category>
+ <category domain="http://rede.metareciclagem.org/assunto/sampa">sampa</category>
+ <category domain="http://rede.metareciclagem.org/assunto/sp">sp</category>
+ <group domain="http://rede.metareciclagem.org/esporo/metaprojeto" xmlns="http://drupal.org/project/og">Metaprojeto</group>
+ <pubDate>Mon, 10 Nov 2008 20:05:23 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1473 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

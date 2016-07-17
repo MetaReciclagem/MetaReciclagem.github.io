@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - Tininha Llanos</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/861/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>TininhaLlanosParaoMutSaz</title>
+ <link>http://rede.metareciclagem.org/wiki/TininhaLlanosParaoMutSaz</link>
+ <description>&lt;p&gt;oitininha (hehe)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;#mutsaz - Primeiro, quem &amp;eacute; a Tinininha Llanos?&lt;/strong&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/TininhaLlanosParaoMutSaz&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/TininhaLlanosParaoMutSaz#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/mutsaz">mutsaz</category>
+ <category domain="http://rede.metareciclagem.org/assunto/Tininha-Llanos">Tininha Llanos</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Thu, 29 Apr 2010 18:37:15 +0000</pubDate>
+ <dc:creator>o2</dc:creator>
+ <guid isPermaLink="false">1914 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

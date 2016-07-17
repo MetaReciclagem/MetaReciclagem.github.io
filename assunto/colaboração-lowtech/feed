@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - colaboração lowtech</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/297/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>OficinaColaboracaoCorrenteViva</title>
+ <link>http://rede.metareciclagem.org/wiki/OficinaColaboracaoCorrenteViva</link>
+ <description>&lt;p&gt;&lt;a href=&quot;/wiki/CorrenteViva&quot; title=&quot;&quot; class=&quot;freelink freelink-nodetitle freelink-internal&quot; rel=&quot;nofollow&quot;&gt;CorrenteViva&lt;/a&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/OficinaColaboracaoCorrenteViva&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/OficinaColaboracaoCorrenteViva#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/cadernos">cadernos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/colabora%C3%A7%C3%A3o">colaboração</category>
+ <category domain="http://rede.metareciclagem.org/assunto/colabora%C3%A7%C3%A3o-lowtech">colaboração lowtech</category>
+ <category domain="http://rede.metareciclagem.org/assunto/lowtech">lowtech</category>
+ <category domain="http://rede.metareciclagem.org/assunto/oficinas">oficinas</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Corrente-Viva" xmlns="http://drupal.org/project/og">Corrente Viva</group>
+ <pubDate>Wed, 25 Jun 2008 22:51:18 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1356 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

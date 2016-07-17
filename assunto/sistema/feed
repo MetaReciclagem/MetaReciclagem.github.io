@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - sistema</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/834/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Andando - interface e sistema</title>
+ <link>http://rede.metareciclagem.org/blog/27-02-10/Andando-interface-e-sistema</link>
+ <description>&lt;p&gt;Como eu comentei &lt;a href=&quot;http://rede.metareciclagem.org/blog/19-02-10/Infral%C3%B3gica-chute-inicial&quot; rel=&quot;nofollow&quot;&gt;antes&lt;/a&gt;, j&amp;aacute; estamos movendo os motores do desenvolvimento do &lt;a href=&quot;http://rede.metareciclagem.org&quot; rel=&quot;nofollow&quot;&gt;site da MetaReciclagem&lt;/a&gt;. Ainda estamos na fase de criar uma base comum, planejando e arrumando alguns bugs do sistema. A &lt;a href=&quot;http://rede.metareciclagem.org/pessoa/Fernanda&quot; rel=&quot;nofollow&quot;&gt;Fernanda&lt;/a&gt; continua desenrolando uma proposta de interface, acho que na semana que vem a gente j&amp;aacute; pode apresentar pra rede e conversar a respeito.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/27-02-10/Andando-interface-e-sistema&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/27-02-10/Andando-interface-e-sistema#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/interface">interface</category>
+ <category domain="http://rede.metareciclagem.org/assunto/scuttle">scuttle</category>
+ <category domain="http://rede.metareciclagem.org/assunto/sistema">sistema</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Sat, 27 Feb 2010 16:20:17 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1866 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

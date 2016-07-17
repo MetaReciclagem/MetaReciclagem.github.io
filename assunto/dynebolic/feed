@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - dynebolic</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/1085/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>DyneBolicEn</title>
+ <link>http://rede.metareciclagem.org/wiki/DyneBolicEn</link>
+ <description>&lt;p&gt;Release do dyne:bolic 3.0, codename MUNIR (sendo traduzido para portugu&amp;ecirc;s em DyneBolicPtBr).&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;annunciazio&amp;#39;! annunciazio&amp;#39;!&lt;/p&gt;
+&lt;p&gt;dyne.org free software foundry proudly presents to you the beginning&lt;br /&gt;
+	of a new development campaign - the dyne:III operating system!&lt;/p&gt;&lt;br /&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; _&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; _&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; _ _&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; | |&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; | |&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; | (_)&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp; _ | |_&amp;nbsp;&amp;nbsp; _ ____&amp;nbsp;&amp;nbsp; ____ _| | _&amp;nbsp;&amp;nbsp; ___ | |_&amp;nbsp; ____&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp; / || | | | |&amp;nbsp; _ \ / _&amp;nbsp; |_) || \ / _ \| | |/ ___)&lt;br /&gt;
+	&amp;nbsp; ( (_| | |_| | | | ( (/ / _| |_) ) |_| | | ( (___&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp; \____|\__&amp;nbsp; |_| |_|\____|_)____/ \___/|_|_|\____)&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; (____/&amp;nbsp;&amp;nbsp;&amp;nbsp; version 3.0.0 :: codename MUNIR&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp; 100% FREE MULTIMEDIA GNU/LINUX OPERATING SYSTEM&lt;br /&gt;
+	&amp;nbsp;&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; RASTA SOFTWARE FOR THE FREEDOM OF CREATION&lt;br /&gt;
+	&amp;nbsp;&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; free to download and copy, go on&lt;br /&gt;
+	&amp;nbsp;&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ____ _ &lt;a href=&quot;http://dynebolic.org&quot; title=&quot;http://dynebolic.org&quot; rel=&quot;nofollow&quot;&gt;http://dynebolic.org&lt;/a&gt; _ _____&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ___ __ &lt;a href=&quot;http://dynebolic.org&quot; title=&quot;http://dynebolic.org&quot; rel=&quot;nofollow&quot;&gt;http://dynebolic.org&lt;/a&gt; __ ____&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; __ ___ &lt;a href=&quot;http://dynebolic.org&quot; title=&quot;http://dynebolic.org&quot; rel=&quot;nofollow&quot;&gt;http://dynebolic.org&lt;/a&gt; ___ ___&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; _ ____ &lt;a href=&quot;http://dynebolic.org&quot; title=&quot;http://dynebolic.org&quot; rel=&quot;nofollow&quot;&gt;http://dynebolic.org&lt;/a&gt; ____ __&lt;br /&gt;
+	&amp;nbsp;&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Liberate yourself from mental slavery!&lt;br /&gt;
+	&amp;nbsp;&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Redeem yourself from closed source software!&lt;br /&gt;
+	&amp;nbsp;&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ISO DVD image of 1.7 GB&lt;br /&gt;
+	&amp;nbsp;&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; BOOT IT LIVE OR RUN IT LIVE&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; ON YOUR PC OR IN A VIRTUAL MACHINE&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp; ANY OTHER SYSTEM INSTALLED WILL BE UNTOUCHED&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp; NOMADIC DESKTOP READY WITH TONS OF APPLICATIONS&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp; ALL FREE AND OPEN SOURCE, NO SPYWARE, NO SHIT&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; RIGHT ON!&amp;nbsp;&amp;nbsp; RIGHT ON!&amp;nbsp;&amp;nbsp; RIGHT ON!&lt;/p&gt;
+&lt;p&gt;Frequently Asked Questions&lt;br /&gt;
+	===========================&lt;/p&gt;
+&lt;p&gt;Please stop shouting and tell me what is this!&lt;br /&gt;
+	-----------------------------------------------&lt;/p&gt;
+&lt;p&gt;Dyne:bolic GNU/Linux is a live bootable operating system, containing a&lt;br /&gt;
+	whole set of applications working straight from boot, without the need&lt;br /&gt;
+	to install or change anything on the hard disk.&lt;/p&gt;
+&lt;p&gt;Dyne:bolic is user-friendly: recognizes your hardware devices and&lt;br /&gt;
+	offers a vast range of software for multimedia production: audio and&lt;br /&gt;
+	video manipulation, sound composition and synthesis, 3D modeling,&lt;br /&gt;
+	photography, peer2peer filesharing, web browsing, veejaying, desktop&lt;br /&gt;
+	publishing, word processing, cd burning, email, privacy, anonymity&lt;br /&gt;
+	tools and more.&lt;/p&gt;
+&lt;p&gt;Dyne:bolic includes code from thousands of programmers all around the&lt;br /&gt;
+	world: a lively community of artists, teachers and developers writing,&lt;br /&gt;
+	using, distributing and adapting software according to diverse and&lt;br /&gt;
+	desires. We love to share what we accomplish freely: this operating&lt;br /&gt;
+	system does not contain non-free parts, thing you have to buy, drivers&lt;br /&gt;
+	that lock your hardware or forces you to use a certain product.&lt;/p&gt;
+&lt;p&gt;This operating system is a grassroot effort to share independent&lt;br /&gt;
+	knowledge, keeping away from commercial speculations and capitalist&lt;br /&gt;
+	corporations that limit people&amp;#39;s freedom. Our aim is to create a&lt;br /&gt;
+	peaceful environment that doesn&amp;#39;t tries to rip you off at every click,&lt;br /&gt;
+	store your private information in the cloud, put a logo on your&lt;br /&gt;
+	creations or force your friends to download a plugin to watch your&lt;br /&gt;
+	videos.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+	* Quote of the day&lt;br /&gt;
+	&amp;nbsp;&lt;br /&gt;
+	&amp;nbsp; To be &amp;#39;famous&amp;#39;, one has to be &amp;#39;recognisable&amp;#39;.&lt;br /&gt;
+	&amp;nbsp; Repetition is just a short cut to this state of affairs.&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; - Monty Cantsin&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Dude! I know dyne:bolic, just tell me what&amp;#39;s new!&lt;br /&gt;
+	--------------------------------------------------&lt;/p&gt;
+&lt;p&gt;Basically everything, starting from the software, the libraries and&lt;br /&gt;
+	the desktop. You will need hardware that is reasonably more powerful&lt;br /&gt;
+	than 5 years ago when dyne:II was released, while the desktop is now&lt;br /&gt;
+	way more user friendly and includes many configuration tools,&lt;br /&gt;
+	facilitates alternative access and is fairly intuitive.&lt;/p&gt;
+&lt;p&gt;It would be too long a list of changes now, so have a look around and&lt;br /&gt;
+	let us know what do you think, the dyne:bolic mailinglist is the best&lt;br /&gt;
+	place where to share your impressions and suggestions; we&amp;#39;ll be&lt;br /&gt;
+	listening and we will be developing dyne:III further in the coming&lt;br /&gt;
+	months.&lt;/p&gt;
+&lt;p&gt;It doesn&amp;#39;t works on my computer! some cards are not found...&lt;br /&gt;
+	-------------------------------------------------------------&lt;/p&gt;
+&lt;p&gt;A big difference between dyne:bolic and other popular operating&lt;br /&gt;
+	systems around is that we adopt only 100% free software, which means&lt;br /&gt;
+	our system is free from proprietary software. The result is that we&lt;br /&gt;
+	can provide support for less hardware cards (video, network, wireless&lt;br /&gt;
+	and such): just those working transparently, following a well&lt;br /&gt;
+	documented protocol and running free and open source drivers that make&lt;br /&gt;
+	it clear to everyone what the device is doing. It is frustrating on&lt;br /&gt;
+	the short term to have such a limited hardware support, but we think&lt;br /&gt;
+	is worth on the long term because it gives everyone the freedom to&lt;br /&gt;
+	study, adapt and modify software and hardware and to clearly know what&lt;br /&gt;
+	is happening inside our machines.&lt;/p&gt;
+&lt;p&gt;* Why freedom is better on the long term?&lt;br /&gt;
+	&amp;nbsp;&lt;br /&gt;
+	&amp;nbsp; To explain why this is important, let us propose you an example in a&lt;br /&gt;
+	&amp;nbsp; different context, that of food production: many farmers in the World&lt;br /&gt;
+	&amp;nbsp; have been told by the global mega-corporations that by buying and&lt;br /&gt;
+	&amp;nbsp; using their proprietary chemicals and seeds their farms would be more&lt;br /&gt;
+	&amp;nbsp; productive.&amp;nbsp; The result of this corporate fraud is that farmers become&lt;br /&gt;
+	&amp;nbsp; dependent from foreign and proprietary chemicals and seeds: they are&lt;br /&gt;
+	&amp;nbsp; often genetically modified so that plants won&amp;#39;t produce more seeds,&lt;br /&gt;
+	&amp;nbsp; plus they are protected by patents so that farmers themselves cannot&lt;br /&gt;
+	&amp;nbsp; study, adapt and redistribute the technology they are using.&amp;nbsp; It even&lt;br /&gt;
+	&amp;nbsp; gets worst, since these proprietary and globalised products cannot be&lt;br /&gt;
+	&amp;nbsp; appropriate to the contexts they are used: not even the promise of&lt;br /&gt;
+	&amp;nbsp; productivity is maintained and the soil gets poisoned by the ignorance&lt;br /&gt;
+	&amp;nbsp; and inability of the mega-corporations that will never be able to&lt;br /&gt;
+	&amp;nbsp; supply very different needs around the world.&lt;br /&gt;
+	&amp;nbsp;&lt;br /&gt;
+	&amp;nbsp; Now, back to your computer :^) think of how important is the&lt;br /&gt;
+	&amp;nbsp; technology you use to build your social interaction online, your&lt;br /&gt;
+	&amp;nbsp; digital productions and audio/video creations. As the importance of&lt;br /&gt;
+	&amp;nbsp; this technology grows in your life, so it grows the power of the&lt;br /&gt;
+	&amp;nbsp; mega-corporations which are acting unethically by locking you out of&lt;br /&gt;
+	&amp;nbsp; your own device, denying your freedom to study, modify, adapt and&lt;br /&gt;
+	&amp;nbsp; redistribute all what you use. On the long term you will find yourself&lt;br /&gt;
+	&amp;nbsp; depending from these technologies and being limited by them, you will&lt;br /&gt;
+	&amp;nbsp; not be able to evolve and use your knowledge and skills at their full&lt;br /&gt;
+	&amp;nbsp; potential. You&amp;#39;ll be a mental slave trained to say yes to license&lt;br /&gt;
+	&amp;nbsp; agreements progressively corroding your rights and interacting with&lt;br /&gt;
+	&amp;nbsp; prefabricated interfaces which will limit your freedom and squeeze out&lt;br /&gt;
+	&amp;nbsp; your time and money while doing that.&lt;br /&gt;
+	&amp;nbsp;&lt;br /&gt;
+	&amp;nbsp; That&amp;#39;s why we consciously eliminate support for the hardware that&lt;br /&gt;
+	&amp;nbsp; closes you up in such traps. For instance if you are a digital artist,&lt;br /&gt;
+	&amp;nbsp; using dyne:bolic or other 100% free operating systems you can be sure&lt;br /&gt;
+	&amp;nbsp; that your creations can be preserved in time, without being held&lt;br /&gt;
+	&amp;nbsp; hostage of proprietary technologies needed to reproduce them.&lt;br /&gt;
+	&amp;nbsp;&lt;br /&gt;
+	* Ok! so you think you&amp;#39;re smart, hu? what should I do then?!&lt;br /&gt;
+	&amp;nbsp;&lt;br /&gt;
+	&amp;nbsp; Next time you buy technology, think twice and choose wisely! here is a&lt;br /&gt;
+	&amp;nbsp; useful initiative you can visit to find out which hardware is well&lt;br /&gt;
+	&amp;nbsp; supported by free software: [http://www.h-node.com]&lt;br /&gt;
+	&amp;nbsp;&lt;br /&gt;
+	&amp;nbsp; Liberate yourself from mental slavery!&lt;br /&gt;
+	&amp;nbsp;&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Hey! I&amp;#39;m not a noob, can you tell me what&amp;#39;s under the hood?&lt;br /&gt;
+	------------------------------------------------------------&lt;/p&gt;
+&lt;p&gt;Ok, lets put it clear: dyne:III is a completely new development base&lt;br /&gt;
+	and this release is just the beginning of a new course. Right now the&lt;br /&gt;
+	most interesting part is in the SDK and, while it is a usable and&lt;br /&gt;
+	useful live OS, dyne:bolic 3.0.0 release doesn&amp;#39;t yet implements all&lt;br /&gt;
+	the features that we are going to put in there: but don&amp;#39;t worry, they&lt;br /&gt;
+	will start coming.&lt;/p&gt;
+&lt;p&gt;The dyne:III consists in a Debian-Live system running free packages&lt;br /&gt;
+	from various Apt based distributions, mostly Pure:dyne and Trisquel,&lt;br /&gt;
+	which are blends of Ubuntu. Debian-Live scripts in particular have&lt;br /&gt;
+	progressed well in the past years and finally reached a point that is&lt;br /&gt;
+	comparable to the dyne:II boot scripts, so now we can start from there&lt;br /&gt;
+	and build on top of the Debian foundations.&lt;/p&gt;
+&lt;p&gt;On the desktop we have a fine tuned Gnome 2, for booting there is&lt;br /&gt;
+	Grub2 and our ramdisk script lets you boot automatically from an ISO&lt;br /&gt;
+	on your harddisk or even on a USB stick, without the need to extract a&lt;br /&gt;
+	directory from it.&lt;/p&gt;
+&lt;p&gt;With some time and your good support, we plan to implement inside&lt;br /&gt;
+	dyne:III most features already present in dyne:I and dyne:II like:&lt;br /&gt;
+	optimization for old hardware, docking, nesting, good introductory&lt;br /&gt;
+	documentation, the modules mechanism and more possibilities to&lt;br /&gt;
+	customize and to cluster machines on the same network in various&lt;br /&gt;
+	ways. But this time we are looking at the longer term: rather than&lt;br /&gt;
+	implementing our unique live features just for our own system, we plan&lt;br /&gt;
+	to integrate them into the APT structure so that, in case they like,&lt;br /&gt;
+	also other distributions can benefit from them. While doing that we&lt;br /&gt;
+	can concentrate less on package maintainance and more on the actual&lt;br /&gt;
+	development of the SDK and our operating system.&lt;/p&gt;
+&lt;p&gt;Interested in what is coming up? take contact with us and start&lt;br /&gt;
+	exchanging code, more than ever the dyne:III approach is open to&lt;br /&gt;
+	collaborations, you&amp;#39;ll find us on the gnu-linux-libre and of course on&lt;br /&gt;
+	the dynebolic mailinglists. Here below some links:&lt;/p&gt;
+&lt;p&gt;SDK scripts: [https://github.com/dyne/dynebolic/tree/master/dyneIII]&lt;/p&gt;
+&lt;p&gt;Debian-Live scripts and documentation: [http://live.debian.net]&lt;/p&gt;
+&lt;p&gt;Pure:dyne distribution and packages: [http://puredyne.org]&lt;/p&gt;
+&lt;p&gt;Linux-Libre kernel, 100% Free: [http://linux-libre.fsfla.org/]&lt;/p&gt;
+&lt;p&gt;List of software that we avoid: [http://ur1.ca/2b0z5]&lt;/p&gt;
+&lt;p&gt;Trisquell 100% GNU/Linux based on Ubuntu: [http://trisquel.info]&lt;/p&gt;
+&lt;p&gt;Our code on [http://code.dyne.org] and [http://github.com/dyne]&lt;/p&gt;
+&lt;p&gt;And.. what does the codename MUNIR stands for?&lt;br /&gt;
+	-----------------------------------------------&lt;/p&gt;
+&lt;p&gt;The codename of dyne:III is an hommage to the memory of Munir Said&lt;br /&gt;
+	Thalib, a human rights activist that was assassinated in 2004 on a&lt;br /&gt;
+	flight between Indonesia and the Netherlands, poisoned with&lt;br /&gt;
+	arsenic. His witness and courage, together with that of more fellow&lt;br /&gt;
+	activists, brought him to question the integrity of a despotic&lt;br /&gt;
+	government acting against the interest of its own citizens. His&lt;br /&gt;
+	actions stand as an example for all those who struggle for peace and&lt;br /&gt;
+	solidarity, questioning corrupted and despotic powers despite the&lt;br /&gt;
+	dangers that such actions imply.&lt;/p&gt;
+&lt;p&gt;Munir died fighting the injustice and long trail of corruption from&lt;br /&gt;
+	the dictatorship of militarized mass murders: denouncing the their&lt;br /&gt;
+	regime, their persecutions, corruption, sanguinary repression of youth&lt;br /&gt;
+	movements and servile opportunism to the rootless interests of the&lt;br /&gt;
+	mega-corporations.&lt;/p&gt;
+&lt;p&gt;We stand united with all the brothers and sisters of Kontras, IKOHI&lt;br /&gt;
+	and YPKP. We will not forget Munir, as many other human rights&lt;br /&gt;
+	activists who were assassinated like him. One can kill a man, but&lt;br /&gt;
+	cannot kill ideas. All our solidarity goes to those who have known him&lt;br /&gt;
+	in life and irremediably miss him now and, most importantly, to all&lt;br /&gt;
+	those who commit to make the World a better place by denouncing the&lt;br /&gt;
+	corruption, collusion and nepotism of the ruling casts in power.&lt;/p&gt;
+&lt;p&gt;Who are you?!&lt;br /&gt;
+	--------------&lt;/p&gt;
+&lt;p&gt;A swarm of people and ideas, sometimes condensed around a pair of&lt;br /&gt;
+	hands on a keyboard. You can point your browser to [http://dyne.org] to&lt;br /&gt;
+	find out more, many links bring to different places and hopefully&lt;br /&gt;
+	you&amp;#39;ll enjoy your journey through our literature, which is also&lt;br /&gt;
+	constantly changing and, if you like, co-evolving with you.&lt;/p&gt;
+&lt;p&gt;Dyne.org is a non-profit foundation dedicated to development of free&lt;br /&gt;
+	software as in free speech. Since the year 2000 dyne.org managed to&lt;br /&gt;
+	connect a loose network of hackers and gather their activity in both&lt;br /&gt;
+	on-line and on-site operations. Admittely, in recent times, the&lt;br /&gt;
+	culture we come from has grown to the point that reducing our presence&lt;br /&gt;
+	to a single entity is way too reductive. Dyne.org is a network of&lt;br /&gt;
+	networks, a meeting point, a campfire, a whispering place and a stage&lt;br /&gt;
+	for ideas and projects of which dyne:bolic is just one of many.&lt;/p&gt;
+&lt;p&gt;If you like to support dyne.org and help us raise the quality of what&lt;br /&gt;
+	we do, please consider to make us a donation or get in touch to&lt;br /&gt;
+	discuss opportunities and cooperations.&lt;/p&gt;
+&lt;p&gt;Many are the people we are grateful for all the support they share to&lt;br /&gt;
+	make our projects blossom, as crazy idealistic as they can be, our&lt;br /&gt;
+	love constantly inspire more and more people around. We will do our&lt;br /&gt;
+	best to express our gratefulness in actions and facts rather than in a&lt;br /&gt;
+	list of names here, which would be always incomplete, since you are&lt;br /&gt;
+	many out there and you know it well.&lt;/p&gt;
+&lt;p&gt;The following organizations have recently contributed to help us along&lt;br /&gt;
+	the hard road to success: Servus.at / Stadtwerkstatt, Montevideo/NIMk,&lt;br /&gt;
+	the Pixel network, The hackmeeting community, the Free Software&lt;br /&gt;
+	Foundation and the GNU Project, Kennisland / Digital Pioneers, The&lt;br /&gt;
+	Next Layer, the Hackerspace movement and all those crazy people who&lt;br /&gt;
+	believe we can make the World a better place for humanity and know&lt;br /&gt;
+	very well we can&amp;#39;t do it alone.&lt;/p&gt;
+&lt;p&gt;Disclaimer&lt;br /&gt;
+	-----------&lt;/p&gt;
+&lt;p&gt;:: DISCLAIMER&lt;/p&gt;
+&lt;p&gt;dyne:bolic GNU/Linux is copyleft&lt;br /&gt;
+	(C)2001-2011 by the Dyne.org Foundation&lt;/p&gt;
+&lt;p&gt;Several redistributed software are copyrighted by the respective&lt;br /&gt;
+	authors, it is documented in the accompanying manual of the&lt;br /&gt;
+	distribution.&lt;/p&gt;
+&lt;p&gt;This program is free software; you can redistribute it and/or modify&lt;br /&gt;
+	it under the terms of the GNU General Public License as published by&lt;br /&gt;
+	the Free Software Foundation; either version 3 of the License, or (at&lt;br /&gt;
+	your option) any later version.&lt;/p&gt;
+&lt;p&gt;This program is distributed in the hope that it will be useful, but&lt;br /&gt;
+	WITHOUT ANY WARRANTY; without even the implied warranty of&lt;br /&gt;
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.&amp;nbsp; See the GNU&lt;br /&gt;
+	General Public License for more details.&lt;/p&gt;
+&lt;p&gt;You should have received a copy of the GNU General Public License&lt;br /&gt;
+	along with this program; if not, write to: Free Software Foundation,&lt;br /&gt;
+	Inc., 675 Mass Ave, Cambridge, MA 02139, USA.&lt;/p&gt;
+&lt;p&gt;dyne.org is available to provide the source of the included binaries&lt;br /&gt;
+	upon request, all the included software can be redistributed under the&lt;br /&gt;
+	terms of the GNU GPL license and, in some cases, the X/BSD license.&lt;/p&gt;
+&lt;p&gt;For more informations refer to the web pages on [http://dynebolic.org]&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/DyneBolicEn#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/bricolabs">Bricolabs</category>
+ <category domain="http://rede.metareciclagem.org/assunto/dynebolic">dynebolic</category>
+ <category domain="http://rede.metareciclagem.org/tags/linux">linux</category>
+ <category domain="http://rede.metareciclagem.org/tags/software-livre">software livre</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Tue, 13 Sep 2011 01:45:44 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2069 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>DyneBolicPtBr</title>
+ <link>http://rede.metareciclagem.org/wiki/DyneBolicPtBr</link>
+ <description>&lt;p&gt;Traduzindo o release do dyne:bolic 3.0. Os par&amp;aacute;grafos abaixo s&amp;atilde;o somente um trecho do &lt;a href=&quot;/wiki/DyneBolicEn&quot; rel=&quot;nofollow&quot;&gt;texto completo&lt;/a&gt;, ainda n&amp;atilde;o traduzido. Ajude a traduzir outras partes dele!&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;N&amp;atilde;o funciona no meu computador! Algumas placas n&amp;atilde;o s&amp;atilde;o encontradas...&lt;br /&gt;
+	-------------------------------------------------------------&lt;/p&gt;
+&lt;p&gt;Uma grande diferen&amp;ccedil;a entre o dyne:bolic e outros sistemas operacionais populares por a&amp;iacute; &amp;eacute; que n&amp;oacute;s adotamos somente software 100% livre, o que significa que nosso sistema &amp;eacute; livre de software propriet&amp;aacute;rio. O resultado &amp;eacute; que n&amp;oacute;s podemos oferecer suporte para menos placas de hardware (v&amp;iacute;deo, rede, wifi e afins): apenas aquelas que funcionam de maneira transparente, seguindo protocolos bem documentados e rodando drivers livres e de c&amp;oacute;digo aberto que deixam claro para todxs o que o dispositivo est&amp;aacute; fazendo. &amp;Eacute; frustrante em curto prazo ter um suporte a hardware t&amp;atilde;o limitado, mas pensamos que vale a pena no longo prazo porque isso d&amp;aacute; a todo mundo a liberdade de estudar, adaptar e modificar o software e o hardware, e saber claramente o que est&amp;aacute; acontecendo dentro de nossas m&amp;aacute;quinas.&lt;/p&gt;
+&lt;p&gt;* Por que a liberdade &amp;eacute; melhor a longo prazo?&lt;/p&gt;
+&lt;p&gt;Para explicar por que isso &amp;eacute; importante, vamos propor um exemplo em um contexto diferente, o da produ&amp;ccedil;&amp;atilde;o de comida: muitos produtores rurais no Mundo ouviram das megacorpora&amp;ccedil;&amp;otilde;es globais que ao comprar e usar seus fertilizantes qu&amp;iacute;micos e sementes suas propriedades seriam mais produtivas. O resultado dessa fraude corporativa &amp;eacute; que os produtores rurais tornam-se dependentes de qu&amp;iacute;micos e sementes estrangeiras e propriet&amp;aacute;rias: elas frequentemente s&amp;atilde;o modificadas geneticamente de modo que as plantas n&amp;atilde;o produzam mais sementes, al&amp;eacute;m de serem protegidas por patentes de maneira que os pr&amp;oacute;prios produtores rurais n&amp;atilde;o possam estudar, adaptar e redistribuir a tecnologia que utilizam. Fica pior ainda, &amp;agrave; medida que esses produtos propriet&amp;aacute;rios e globalizados n&amp;atilde;o podem ser apropriados para os contextos em que s&amp;atilde;o usados: nem mesmo a promessa de produtividade se mant&amp;eacute;m e o solo &amp;eacute; envenenado pela ignor&amp;acirc;ncia e inabilidade das megacorpora&amp;ccedil;&amp;otilde;es que nunca conseguir&amp;atilde;o oferecer as diferentes necessidades por todo o planeta.&lt;/p&gt;
+&lt;p&gt;Agora, de volta ao seu computador :^) pense qu&amp;atilde;o importante &amp;eacute; a tecnologia que voc&amp;ecirc; usa para construir sua intera&amp;ccedil;&amp;atilde;o social online, suas produ&amp;ccedil;&amp;otilde;es digitais e cria&amp;ccedil;&amp;otilde;es de &amp;aacute;udio e v&amp;iacute;deo. &amp;Agrave; medida que a import&amp;acirc;ncia dessa tecnologia cresce na sua vida, tamb&amp;eacute;m cresce o poder das megacorpora&amp;ccedil;&amp;otilde;es que est&amp;atilde;o agindo de maneira anti&amp;eacute;tica, bloqueando seu acesso de seus pr&amp;oacute;prios dispositivos, negando a sua liberdade de estudar, modificar, adaptar e redistribuir tudo que voc&amp;ecirc; usa. A longo prazo voc&amp;ecirc; vai se encontrar dependente dessas tecnologias e restrito por elas, voc&amp;ecirc; n&amp;atilde;o poder&amp;aacute; evoluir e usar seu conhecimento e habilidades em todo seu potencial. Voc&amp;ecirc; ser&amp;aacute; 1 escravx mental treinadx para dizer sim para acordos de licenciamento corroendo progressivamente seus direitos e interagindo com interfaces pr&amp;eacute;-fabricadas que v&amp;atilde;o limitar sua liberdade e espremer seu tempo e dinheiro enquanto fazem isso.&lt;/p&gt;
+&lt;p&gt;&amp;Eacute; por isso que n&amp;oacute;s eliminamos de caso pensado o suporte para hardware que lhe fecha em tais armadilhas. Por exemplo se voc&amp;ecirc; &amp;eacute; 1 artista digital, usar dyne:bolic ou outros sistemas operacionais 100% livres voc&amp;ecirc; pode ter certeza de que suas cria&amp;ccedil;&amp;otilde;es podem ser preservadas atrav&amp;eacute;s do tempo, sem ficar ref&amp;eacute;m de tecnologias propriet&amp;aacute;rias necess&amp;aacute;rias para reproduzi-las.&lt;/p&gt;
+&lt;p&gt;* Ok! ent&amp;atilde;o voc&amp;ecirc; se acha esperto, &amp;eacute;? o que eu devo fazer ent&amp;atilde;o?!&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Na pr&amp;oacute;xima vez que voc&amp;ecirc; comprar tecnologia, pense duas vezes e escolha sabiamente! Aqui est&amp;aacute; uma iniciativa &amp;uacute;til que voc&amp;ecirc; pode visitar para descobrir qual hardware &amp;eacute; bem suportado por software livre: [http://www.h-node.com]&lt;/p&gt;
+&lt;p&gt;Liberte-se da escravid&amp;atilde;o mental!&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/DyneBolicPtBr#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/bricolabs">Bricolabs</category>
+ <category domain="http://rede.metareciclagem.org/assunto/dynebolic">dynebolic</category>
+ <category domain="http://rede.metareciclagem.org/tags/linux">linux</category>
+ <category domain="http://rede.metareciclagem.org/tags/software-livre">software livre</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/20110912.dyne3_.ptbr_.txt" length="3662" type="text/plain" />
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Tue, 13 Sep 2011 01:38:22 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2068 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - smartphones</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/1075/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Android, um novo Windows?</title>
+ <link>http://rede.metareciclagem.org/blog/06-08-11/Android-um-novo-Windows</link>
+ <description>&lt;p&gt;
+Na opini&amp;atilde;o do &lt;a href=&quot;http://thread.gmane.org/gmane.politics.organizations.metareciclagem/45688/focus=45692&quot; rel=&quot;nofollow&quot;&gt;Liquuid&lt;/a&gt;&amp;nbsp;o bicho t&amp;aacute; mais pra um novo windows, veja:&amp;nbsp; 
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;N&amp;atilde;o lembro do android ter sido vendido como projeto open-source de comunidade e talz,&amp;nbsp;como o Eclipse. Ele &amp;eacute; parte de um neg&amp;oacute;cio multi-bilion&amp;aacute;rio que n&amp;atilde;o trouxe nada de novo pro mercado&amp;nbsp;&amp;nbsp;mobile a n&amp;aacute;o ser o fato de usar a mesma estrat&amp;eacute;gia que microsoft usou pra detonar a apple nos anos 90,&amp;nbsp;licenciar o SO pra ganhar mercado e criar um eco-sistema em volta dele.&lt;/p&gt;
+&lt;p&gt;&lt;img width=&quot;220&quot; height=&quot;328&quot; align=&quot;left&quot; alt=&quot;&quot; src=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/android.jpg&quot; /&gt;Pra fins de ina&amp;ccedil;&amp;atilde;o o android &amp;eacute; nulo, &amp;eacute; inegavel que sua comunidade e o n&amp;uacute;mero de usu&amp;aacute;rios t&amp;aacute; bombando,&amp;nbsp;mas o fato do google tomar as decis&amp;otilde;es e deixar a comunidade de fora n&amp;atilde;o afeta ningu&amp;eacute;m. O Android n&amp;atilde;o foi um SO&amp;nbsp;feito para as massas ele foi desenvolvido para os fabricantes o customizar em seus aparelhos,&amp;nbsp;android &amp;eacute; uma meta distribui&amp;ccedil;&amp;atilde;o linux :P&lt;/p&gt;
+&lt;p&gt;Tanto o Android n&amp;atilde;o &amp;eacute; feito para pessoas comuns que ele n&amp;atilde;o vem com drivers, &amp;eacute; o fabricante que o desenvolve,&amp;nbsp;e no geral os fontes dos drivers n&amp;atilde;o s&amp;atilde;o liberados, at&amp;eacute; pq no geral, diferente dos pcs onde existe&amp;nbsp;um padr&amp;atilde;o e consorcios pra garantir interoperabilidade dos componentes, os celulares e tablets tem arquitetura pr&amp;oacute;pria.&lt;/p&gt;
+&lt;p&gt;Sei l&amp;aacute; se garantir que o Android receba pitacos da comunidade seja algo realmente importante, sistemas&amp;nbsp;como o falecido maemo foram muito mais relevantes do que o android no sentido de ter uma comunidade atuante no projeto.&lt;/p&gt;
+&lt;p&gt;Sendo direto, Android n&amp;atilde;o &amp;eacute; uma distro linux, &amp;eacute; um modelo de neg&amp;oacute;cio baseado em um sistema que usa, apesar n&amp;atilde;o precisar disso,&amp;nbsp;o kernel linux. &amp;Eacute; um meta-produto que deve ser finalizado pelos fabricantes dos aparelhos, e para tornar isso possivel,&amp;nbsp;tem seu c&amp;oacute;digo aberto, e s&amp;oacute; ... desencana, android n&amp;atilde;o vai ser um novo debian, t&amp;aacute; mais pra ser um novo windows.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Liquuid&amp;nbsp;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://thread.gmane.org/gmane.politics.organizations.metareciclagem/45688/focus=45692&quot; title=&quot;http://thread.gmane.org/gmane.politics.organizations.metareciclagem/45688/focus=45692&quot; rel=&quot;nofollow&quot;&gt;http://thread.gmane.org/gmane.politics.organizations.metareciclagem/4568...&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;----------------&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/06-08-11/Android-um-novo-Windows#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/android">android</category>
+ <category domain="http://rede.metareciclagem.org/tags/linux">linux</category>
+ <category domain="http://rede.metareciclagem.org/tags/mobile">mobile</category>
+ <category domain="http://rede.metareciclagem.org/assunto/sistemas-operacionais">sistemas operacionais</category>
+ <category domain="http://rede.metareciclagem.org/assunto/smartphones">smartphones</category>
+ <category domain="http://rede.metareciclagem.org/tags/software-livre">software livre</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Sat, 06 Aug 2011 06:23:24 +0000</pubDate>
+ <dc:creator>o2</dc:creator>
+ <guid isPermaLink="false">2061 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

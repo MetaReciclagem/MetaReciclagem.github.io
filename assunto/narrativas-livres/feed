@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - narrativas livres</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/1266/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Flag It + deriva//lab no Caruara, 25 de maio de 2013</title>
+ <link>http://rede.metareciclagem.org/evento/Flag-It-derivalab-no-Caruara-25-de-maio-de-2013</link>
+ <description>&lt;p&gt;Apresenta&amp;ccedil;&amp;atilde;o da proposta do deriva//lab com a popula&amp;ccedil;&amp;atilde;o local do Caruara, aos jornalistas do Flag.it! A inten&amp;ccedil;&amp;atilde;o &amp;eacute; que possam reportar ao seus meios e ao p&amp;uacute;blico caracter&amp;iacute;sticas socioambientais da regi&amp;atilde;o. Para gerar os posts, reportagens e relatos os participantes utilizar&amp;atilde;o aparelhos celulares, ipads (...) formando grupos mistos, com os colaboradores e a popula&amp;ccedil;&amp;atilde;o local. O objetivo &amp;eacute; valorizar as trocas colaborativas e a apropria&amp;ccedil;&amp;atilde;o cr&amp;iacute;tica de tecnologias.&lt;/p&gt;  &lt;h3 class=&quot;location-locations-header&quot;&gt;Localização&lt;/h3&gt;
+  &lt;div class=&quot;location-locations-wrapper&quot;&gt;
+          &lt;div class=&quot;location vcard&quot;&gt;
+  &lt;div class=&quot;adr&quot;&gt;
+          &lt;span class=&quot;fn&quot;&gt;Caruara, Santos&lt;/span&gt;
+              &lt;div class=&quot;street-address&quot;&gt;
+        Avenida Andrade Soares              &lt;/div&gt;
+                          &lt;div class=&quot;country-name&quot;&gt;Brazil&lt;/div&gt;
+                                      &lt;/div&gt;
+      &lt;div class=&quot;map-link&quot;&gt;
+      &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com.br?q=Avenida+Andrade+Soares%2C+%2C+%2C+%2C+br+%28Caruara%2C+Santos%29&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/evento/Flag-It-derivalab-no-Caruara-25-de-maio-de-2013#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/derivalab">derivalab</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metareciclagem">metareciclagem</category>
+ <category domain="http://rede.metareciclagem.org/assunto/narrativas-livres">narrativas livres</category>
+ <group domain="http://rede.metareciclagem.org/grupo/derivalab" xmlns="http://drupal.org/project/og">deriva//lab</group>
+ <pubDate>Wed, 22 May 2013 11:25:45 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">2244 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

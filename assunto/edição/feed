@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - edição</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/675/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>MutiraoOrganizando</title>
+ <link>http://rede.metareciclagem.org/wiki/MutiraoOrganizando</link>
+ <description>&lt;p&gt;Desde o final de agosto de 2009, quando o efeefe abriu essa pagina de wiki, mudamos bastante coisa no Mutir&amp;atilde;o.&lt;/p&gt;
+&lt;p&gt;Na proposta inicial do efe, o Mutir&amp;atilde;o foi pensado como o nome de uma publica&amp;ccedil;&amp;atilde;o. Com as mudan&amp;ccedil;as, em vez de Mutir&amp;atilde;o da Gambiarra ser o nome da publica&amp;ccedil;&amp;atilde;o, assumiu o car&amp;aacute;ter e identidade de coletivo editorial, com publica&amp;ccedil;&amp;otilde;es diferenciadas.&lt;/p&gt;
+&lt;p&gt;O que fizemos:&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/MutiraoOrganizando&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/MutiraoOrganizando#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/edi%C3%A7%C3%A3o">edição</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mutir%C3%A3o-da-gambiarra">mutirão da gambiarra</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/23-03-mutirao.txt" length="18042" type="text/plain" />
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Sat, 29 Aug 2009 21:49:33 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1655 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

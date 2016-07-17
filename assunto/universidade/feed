@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - universidade</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/1200/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>AcademiaLivre</title>
+ <link>http://rede.metareciclagem.org/conectaz/AcademiaLivre</link>
+ <description>&lt;div class=&quot;form-item&quot;&gt;
+ &lt;label&gt;Descrição: &lt;/label&gt;
+ Grupo de pesquisa ligado à rede MetaReciclagem
+&lt;/div&gt;
+&lt;p&gt;Tentando construir interfaces entre o cotidiano da MetaReciclagem e a pesquisa acad&amp;ecirc;mica.&lt;/p&gt;
+&lt;p&gt;Hernani Dimantas comentou:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;efe, interfaces &amp;eacute; um termo bem amplo. eu gosto dele por significar muitas coisas que, por um lado aponta para as ferramentas. interfaces gr&amp;aacute;ficas, de &amp;aacute;udio, de v&amp;iacute;deo. E, por outro, a proposta do MetaReciclagem s&amp;atilde;o interfaces m&amp;uacute;ltiplas. Rede de afetos, apropria&amp;ccedil;&amp;otilde;es. Esp&amp;oacute;ros e conectazes. Enfim, tecnologia social.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Eu acho que avan&amp;ccedil;amos muito nesse debate nos &amp;uacute;ltimos 10 anos. Tem muita MetaReciclagem trafegando pelos acad&amp;ecirc;micos. MetaReciclagem &amp;eacute; tema de TCC, mestrados e doutorados.&amp;nbsp;N&amp;atilde;o &amp;eacute; sobre construir interfaces. &amp;Eacute; sobre agregar projetos acad&amp;ecirc;micos , art&amp;iacute;sticos e sei l&amp;aacute; o que mais podemos pensar. ;)&lt;/em&gt;&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-situacao-conectaz&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Situação desta ConecTAZ:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    funcionando        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/conectaz/AcademiaLivre#comments</comments>
+ <category domain="http://rede.metareciclagem.org/tags/academia">academia</category>
+ <category domain="http://rede.metareciclagem.org/assunto/academialivre">academialivre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/pesquisa">pesquisa</category>
+ <category domain="http://rede.metareciclagem.org/assunto/universidade">universidade</category>
+ <pubDate>Fri, 30 Nov 2012 18:28:43 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2156 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

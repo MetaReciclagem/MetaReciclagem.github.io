@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>blog de adrianobf</title>
+ <link>http://rede.metareciclagem.org/blog/447</link>
+ <description>Apropriação tecnológica para a transformação social</description>
+ <language>pt-br</language>
+<item>
+ <title>Servindo arquivos com ipfs</title>
+ <link>http://rede.metareciclagem.org/blog/21-01-16/Servindo-arquivos-com-ipfs</link>
+ <description>&lt;p&gt;breve tutorial sobre como servir arquivos com ipfs (&lt;a href=&quot;https://en.wikipedia.org/wiki/InterPlanetary_File_System&quot; rel=&quot;nofollow&quot;&gt;InterPlanetary File System&lt;/a&gt;), protocolo que a meu ver tem potencial para substituir em um futuro pr&amp;oacute;ximo o http&lt;/p&gt;
+&lt;p&gt;de forma parcial e resumida, o ipfs &amp;eacute; uma mistura de git com torrent, ent&amp;atilde;o vou assumir certa familiariedade com o uso de termina aqui...&lt;/p&gt;
+&lt;p&gt;o primeiro passo &amp;eacute; instalar: &lt;a href=&quot;https://ipfs.io/docs/install/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;https://ipfs.io/docs/install/&lt;/a&gt;&lt;br /&gt;
+	&lt;br /&gt;
+	ent&amp;atilde;o, no terminal,&amp;nbsp; abre uma pasta de arquivos e digita:&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ipfs init&lt;/strong&gt;&lt;/p&gt;
+&lt;div&gt;&lt;strong&gt;ipfs daemon&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;br /&gt;
+	basicamente isto prepara nossa pasta trabalhar com o ipfs e nos conecta a uma rede (edit&amp;aacute;vel) de &lt;em&gt;peers&lt;/em&gt; confi&amp;aacute;veis&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;depois, abre outro terminal (ou coloca este processo em background) a&amp;iacute; na mesma pasta, utilize o comando abaixo para incuir todos arquivos que voc&amp;ecirc; quer compartilhar:&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;ipfs add -r .&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;este comando vai gerar um hash (identificador &amp;uacute;nico) pra cada arquivo e um para pasta toda. se voc&amp;ecirc; passar este hash para outra pessoa, ela pode baixar os arquivos simplesmente com:&lt;br /&gt;
+	&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;ipfs get [hash]&lt;/strong&gt;&lt;br /&gt;
+	&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;e automaticamente virar um seed daquele conte&amp;uacute;do, tornando poss&amp;iacute;vel distribuir sites de forma descentralizada. por enquanto, funciona apenas para sites est&amp;aacute;ticos, mas j&amp;aacute; h&amp;aacute; muita discuss&amp;atilde;o de como trabalhar scripts e consultas &amp;agrave; banco de dados em servidores por APIs, por exemplo...&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;seria poss&amp;iacute;vel acessar tamb&amp;eacute;m via http aquele conte&amp;uacute;do:&lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;http://ipfs.io/ipfs/%5Bhash%5D&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;ipfs.io/ipfs/[hash]&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;o IPNS &amp;eacute; interessante e complementar, mas j&amp;aacute; &amp;eacute; outro assunto. obviamente &amp;eacute; poss&amp;iacute;vel compartilhar apenas um arquivo ao inv&amp;eacute;s da pasta, bem como realizar outras coisa com o software, mas o intuito aqui &amp;eacute; apenas divulg&amp;aacute;-lo em pt-br (parece n&amp;atilde;o ter sido notado ainda no Brasil) e incentivar mais pessoas a pesquisarem e se envolverem...&lt;/p&gt;
+&lt;p&gt;outro projeto interessante do mesmo desenvolvedor que ir&amp;aacute; sair em breve &amp;eacute; o &lt;a href=&quot;http://filecoin.io/&quot; rel=&quot;nofollow&quot;&gt;Filecoin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;aqui tem &lt;a href=&quot;https://www.youtube.com/watch?v=erB7i6Uc4DM&quot; rel=&quot;nofollow&quot;&gt;um v&amp;iacute;deo&lt;/a&gt; onde ele explica (em ingl&amp;ecirc;s) um pouco dos projetos&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/21-01-16/Servindo-arquivos-com-ipfs#comments</comments>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Thu, 21 Jan 2016 03:47:16 +0000</pubDate>
+ <dc:creator>adrianobf</dc:creator>
+ <guid isPermaLink="false">2478 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Infra-lógica: plataformas e pessoas</title>
+ <link>http://rede.metareciclagem.org/blog/11-08-13/Infra-logica-plataformas-e-pessoas</link>
+ <description>&lt;p&gt;A partir do ac&amp;uacute;mulo de conversas e experi&amp;ecirc;ncias de infra-estrutura l&amp;oacute;gica da Metarec e das reflex&amp;otilde;es compiladas pelo efefe da &amp;uacute;ltima reuni&amp;atilde;o [http://rede.metareciclagem.org/blog/11-08-13/Infralogica-reuniao], vou buscar nessa postagem compilar algumas proposi&amp;ccedil;&amp;otilde;es, ideias e impress&amp;otilde;es minhas sobre o assunto.&lt;br /&gt;
+	&lt;br /&gt;
+	Me parece que o mote inicial para o in&amp;iacute;cio dessa re-estrutura&amp;ccedil;&amp;atilde;o que conversamos &amp;eacute; uma percep&amp;ccedil;&amp;atilde;o das limita&amp;ccedil;&amp;otilde;es de uma &amp;uacute;nica grande lista de emails como principal canal de comunica&amp;ccedil;&amp;atilde;o dos participantes da rede. Apesar de o site atual contar com diversos recursos (wiki, agregador, blogs, etc), observa-se que este &amp;eacute; subutilizado pela maioria das pessoas, principalmente quando em compara&amp;ccedil;&amp;atilde;o ao uso redes sociais propriet&amp;aacute;rias - e me incluo nesta auto-cr&amp;iacute;tica.&lt;br /&gt;
+	&lt;br /&gt;
+	Portanto, creio que o principal desafio dessa fase que pretendemos iniciar n&amp;atilde;o encontra-se totalmente no &amp;acirc;mbito das funcionalidades ou de implementa&amp;ccedil;&amp;atilde;o de novos sistemas. Trata-se antes de pensar como transformar coletivamente as rela&amp;ccedil;&amp;otilde;es com as ferramentas de comunica&amp;ccedil;&amp;atilde;o da rede, pensando n&amp;atilde;o s&amp;oacute; a &amp;quot;cultura de uso&amp;quot; de diferentes recursos (blogs, wikis, listas, etc), mas tamb&amp;eacute;m a apropria&amp;ccedil;&amp;atilde;o dos mesmos (manuten&amp;ccedil;&amp;atilde;o, desenvolvimento, atualiza&amp;ccedil;&amp;otilde;es, etc) e ainda a comunica&amp;ccedil;&amp;atilde;o n&amp;atilde;o apenas end&amp;oacute;gena, ou seja, a constru&amp;ccedil;&amp;atilde;o de narrativas que consigam tamb&amp;eacute;m dialogar com quem *n&amp;atilde;o* conhece a rede.&lt;br /&gt;
+	&lt;br /&gt;
+	Uma das ideias que estamos amadurecendo &amp;eacute; a instala&amp;ccedil;&amp;atilde;o do Lorea (Elgg + plugins) como um piloto de rede social capaz de capilarizar a comunica&amp;ccedil;&amp;atilde;o da rede de um &amp;uacute;nico grande grupo para um metagrupo e mais v&amp;aacute;rios grupos menores de discuss&amp;otilde;es/trabalhos, levando em considera&amp;ccedil;&amp;atilde;o a possibilidade de integrar o debate no Lorea com listas de email. Caberia ent&amp;atilde;o uma reflex&amp;atilde;o sobre as sobreposi&amp;ccedil;&amp;otilde;es deste novo ambiente com os atuais (Drupal + lista).&lt;br /&gt;
+	&lt;br /&gt;
+	Me parece que o sistema atual em Drupal &amp;eacute; bastante satisfat&amp;oacute;rio do ponto de vista das funcionalidades produ&amp;ccedil;&amp;atilde;o e agrega&amp;ccedil;&amp;atilde;o de conte&amp;uacute;dos (via twitter, links, wiki, blogs, etc). Por outro lado, as funcionalidades mais voltadas para conversa&amp;ccedil;&amp;atilde;o encontram-se totalmente substitu&amp;iacute;das pelo contato atrav&amp;eacute;s da lista de emails (principalmente por conta da rapidez da notifica&amp;ccedil;&amp;atilde;o de intera&amp;ccedil;&amp;otilde;es desta), processo que por sua vez possui suas vantagens e desvantagens, que as din&amp;acirc;micas impulsionadas pelo MutGamb Fim do Mundo trouxeram &amp;agrave; tona. Neste sentido, o Lorea pode ser uma plataforma web que d&amp;ecirc; conta desta necessidade interna de comunica&amp;ccedil;&amp;atilde;o, enquanto uma reformula&amp;ccedil;&amp;atilde;o da arquitetura de informa&amp;ccedil;&amp;atilde;o e layout do Drupal talvez pudesse ser complementar para a divulga&amp;ccedil;&amp;atilde;o de conte&amp;uacute;dos externamente. Tendo claro que esta fronteira entre &amp;quot;fora&amp;quot; e &amp;quot;dentro&amp;quot; n&amp;atilde;o existe, mas tamb&amp;eacute;m que pessoas com diferentes graus de envolvimento com a rede possuem demandas e necessidades espec&amp;iacute;ficas.&lt;br /&gt;
+	&lt;br /&gt;
+	&lt;br /&gt;
+	Por &amp;uacute;ltimo, vale lembrar que estes anseios e necessidades possuem muito em comum com a busca por autonomia na comunica&amp;ccedil;&amp;atilde;o que muitos outros grupos e redes realizam; por exemplo, outras sementes do Lorea (mas n&amp;atilde;o s&amp;oacute;), como o Saravea, n-1\anillosur, JuntaDados, Est&amp;uacute;dioLivre, Soylocoporti; Mocambos; etc. A cria&amp;ccedil;&amp;atilde;o de redes de fato federadas (n&amp;atilde;o apenas no n&amp;iacute;vel da autentica&amp;ccedil;&amp;atilde;o de usu&amp;aacute;rios) entre v&amp;aacute;rias plataformas livres continua sendo um horizonte desej&amp;aacute;vel.&lt;br /&gt;
+	&lt;br /&gt;
+	Observando o esfor&amp;ccedil;o feito e as dificuldades de cada um destes coletivos realizarem plenamente suas propostas (seja por falta de recursos f&amp;iacute;sicos, financeiros ou humanos), creio que um debate interessante para a Rede Metarec &amp;eacute; pensarmos formas destes diversos grupos cooperarem entre si para manter suas infra-estruturas funcionando e dialogando, criando possibilidade de manuten&amp;ccedil;&amp;atilde;o e sustentabilidade destas plataformas a longo prazo.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/11-08-13/Infra-logica-plataformas-e-pessoas#comments</comments>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Mon, 12 Aug 2013 02:56:00 +0000</pubDate>
+ <dc:creator>adrianobf</dc:creator>
+ <guid isPermaLink="false">2257 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

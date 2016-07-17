@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - boot</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/270/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>DiscoBootSlackware</title>
+ <link>http://rede.metareciclagem.org/wiki/DiscoBootSlackware</link>
+ <description>&lt;p&gt;= &#039;&#039;&#039;Disquete de boot com o Slackware.&#039;&#039;&#039; =&lt;br /&gt;&lt;br /&gt;Bom esse tutorial &amp;eacute; para gerar um disquete de boot para bootar pelo cdrom um computador que n&amp;atilde;o tem abilitado na BIOS esse recurso.&lt;br /&gt;&lt;br /&gt;Antes de tudo voc&amp;ecirc; precisa de ter uma m&amp;aacute;quina com Linux instalado (pode ser qualquer um..)e um cdrom.&lt;br /&gt;Um cd do Slackware.&lt;br /&gt;&lt;br /&gt;Coloque o cd do Slackware na m&amp;aacute;quina que tem o Sistema Linux instalado. Monte o cdrom.&lt;br /&gt;&amp;nbsp;#mount /mnt/cdrom &lt;a href=&quot;/search/node/BR&quot; title=&quot;Search this site for content like &amp;quot;BR&amp;quot;&quot; class=&quot;freelink freelink-search notfound freelink-internal&quot; rel=&quot;nofollow&quot;&gt;BR&lt;/a&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/DiscoBootSlackware&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/DiscoBootSlackware#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/boot">boot</category>
+ <category domain="http://rede.metareciclagem.org/assunto/slackware">slackware</category>
+ <category domain="http://rede.metareciclagem.org/tags/software-livre">software livre</category>
+ <pubDate>Tue, 17 Jun 2008 19:17:52 +0000</pubDate>
+ <dc:creator>willians</dc:creator>
+ <guid isPermaLink="false">1291 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

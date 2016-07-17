@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>MetaReciclagem - linguagens</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/557/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Imaginários</title>
+ <link>http://rede.metareciclagem.org/esporo/Imagin%C3%A1rios</link>
+ <description>&lt;div class=&quot;form-item&quot;&gt;
+ &lt;label&gt;Descrição: &lt;/label&gt;
+ Coletamos, festejamos e partilhamos tantas linguagens quanto conhecemos, tecendo tramas, sentimentos e imaginários, em pura honra ao viver.
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-situacao-esporo&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Situação do Esporo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    funcionando        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+  &lt;h3 class=&quot;location-locations-header&quot;&gt;Localização&lt;/h3&gt;
+  &lt;div class=&quot;location-locations-wrapper&quot;&gt;
+          &lt;div class=&quot;location vcard&quot;&gt;
+  &lt;div class=&quot;adr&quot;&gt;
+          &lt;span class=&quot;fn&quot;&gt;Cafofo dos imaginários&lt;/span&gt;
+                  &lt;span class=&quot;locality&quot;&gt;Brasília&lt;/span&gt;,               &lt;span class=&quot;region&quot;&gt;DF&lt;/span&gt;
+                  &lt;div class=&quot;country-name&quot;&gt;Brazil&lt;/div&gt;
+                                        &lt;span class=&quot;geo&quot;&gt;&lt;abbr class=&quot;latitude&quot; title=&quot;-15.753360&quot;&gt;15° 45&#039; 12.096&quot; S&lt;/abbr&gt;, &lt;abbr class=&quot;longitude&quot; title=&quot;-47.881272&quot;&gt;47° 52&#039; 52.5792&quot; W&lt;/abbr&gt;&lt;/span&gt;
+            &lt;/div&gt;
+      &lt;div class=&quot;map-link&quot;&gt;
+      &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com.br?q=-15.753360+-47.881272+%28Cafofo+dos+imagin%C3%A1rios%2C%2C+Bras%C3%ADlia%2C+DF%2C+%2C+br%29&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/esporo/Imagin%C3%A1rios#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/caminhos">caminhos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/feiti%C3%A7aria">feitiçaria</category>
+ <category domain="http://rede.metareciclagem.org/assunto/feiti%C3%A7os">feitiços</category>
+ <category domain="http://rede.metareciclagem.org/assunto/imagin%C3%A1rios">imaginários</category>
+ <category domain="http://rede.metareciclagem.org/assunto/linguagens">linguagens</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mitologias">mitologias</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mitoreciclagem">mitoreciclagem</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mitos">mitos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/narrativas">narrativas</category>
+ <category domain="http://rede.metareciclagem.org/assunto/quimeras">quimeras</category>
+ <category domain="http://rede.metareciclagem.org/assunto/sonhos">sonhos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/tecnomagia">tecnomagia</category>
+ <category domain="http://rede.metareciclagem.org/assunto/tramas">tramas</category>
+ <georss:point>-15.753360 -47.881272</georss:point>
+ <pubDate>Sun, 22 Feb 2009 18:53:43 +0000</pubDate>
+ <dc:creator>dpadua</dc:creator>
+ <guid isPermaLink="false">1539 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

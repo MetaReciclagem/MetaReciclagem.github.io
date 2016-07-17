@@ -1,0 +1,701 @@
+Conversation with #metareciclagem at Seg 30 Jan 2012 21:55:59 BRST on efeefe@irc.freenode.org (irc)
+(21:56:06) #metareciclagem: Modo (+o efeefe) por ChanServ
+(21:56:25) efeefe: chegando...
+(21:58:19) tatirp [c934ebd5@gateway/web/freenode/ip.201.52.235.213] entrou na sala.
+(22:00:54) regica [bb3a566e@gateway/web/freenode/ip.187.58.86.110] entrou na sala.
+(22:01:15) regica: olás
+(22:03:11) yzak: regica: =)
+(22:03:13) efeefe: alo todo mundo
+(22:03:18) yzak: aloraaa
+(22:03:24) efeefe: vamos dar um tempinho pra galera colar
+(22:07:10) teia [~IceChat7@186.236.110.132] entrou na sala.
+(22:07:38) teia: olas
+(22:07:45) glerm [~glerm@189.101.89.54] entrou na sala.
+(22:08:01) glerm: aqui?
+(22:08:09) yzak: teia, glerm
+(22:08:13) artusrocha [~artus@189-18-88-133.dsl.telesp.net.br] entrou na sala.
+(22:08:18) teia: chegamo
+(22:10:30) glerm: "ja passou tanto janeiro, mas se todos qerem eu vou voltar"(raul)
+(22:10:35) efeefe: aqui
+(22:10:41) efeefe: janeiro tah longo
+(22:10:52) efeefe: parece uns dois ou tres meses
+(22:11:08) mbraz_ [~mbraz@187.122.84.184] entrou na sala.
+(22:11:08) glerm: duas grandes tempestades solares
+(22:12:02) mbraz_: vento solar? Heliou... ;)
+(22:13:05) efeefe: dando uns minutos pra galera chegar, ainda
+(22:13:25) mbraz_: yep
+(22:13:29) glerm: dando um tempo até a internet acabar
+(22:14:54) regis [~regis@187.127.148.67] entrou na sala.
+(22:15:06) regis: queridos do bando
+(22:16:58) glerm: abç ççç
+(22:17:00) r4re [c94c0702@gateway/web/freenode/ip.201.76.7.2] entrou na sala.
+(22:17:16) yzak: kd yupana?
+(22:17:17) mbraz_: eita que tudo acaba...eu vi o protocolo X.25 morrer...kkk
+(22:17:37) regis: vamo q vamo
+(22:17:59) wille [baf1e3cb@gateway/web/freenode/ip.186.241.227.203] entrou na sala.
+(22:18:04) efeefe: são 22.17 aqui. vamos começar 22.20?
+(22:18:10) efeefe: vou ali pegar uma cerveja
+(22:18:16) regis: http://grooveshark.com/#!/bruce_springsteen/songs
+(22:18:19) lalenia: <http://ln-s.net/9_ea> (at grooveshark.com)
+(22:18:25) efeefe: porque ontem foi o último domingo da alta temporada, então hoje abriu sol e esquentou
+(22:18:28) regis: rsrsrs
+(22:18:50) glerm: yzak: yupana ta pra ser comittada
+(22:19:26) regis: arraial free tourist at? carnaval
+(22:19:46) efeefe: regis: eh, aqui a alta temporada nao vai ateh o carnaval. eh sao paulo :P
+(22:20:20) glerm: efeefe: tudo é são paulo
+(22:20:36) r4re: tudo é são paulo, menos o corinthians
+(22:20:52) glerm: r4re: boa.
+(22:21:18) glerm: te varios times derivados do palestra.
+(22:22:05) mbraz_: ouvindo audiencia p?blica do Pinheirinho...SP, fina flor da Colonia
+(22:22:25) regis: chego em sampa no o6 de fev com pedro regis para uma imers?o camping
+(22:22:41) regis: vou levar a bandeira metarecsx
+(22:22:51) efeefe: boa regis
+(22:23:14) efeefe: nao vou pisar naquele circo nao, mas talvez passe por sampa semana que vem
+(22:23:20) efeefe: aih
+(22:23:22) efeefe: comecar?
+(22:23:29) teia: bora...
+(22:23:45) efeefe!~efeefe@200-207-181-89.dial-up.telesp.net.br: efeefe mudou o tópico para: encontron hipertropico
+(22:23:56) tatirp: oi, vamo comecar
+(22:24:08) mbraz_: Regis ? 1a vez... nunca esquece...rsrs. Mas podemos marcar algo a? de barcamp
+(22:24:11) efeefe: pois, desde o ano passado a gente ta soprando essa ideia de fazer um encontrao aqui em ubatuba
+(22:24:38) regis: vanessa vai passar pelo menos um dia
+(22:24:44) efeefe: sem nenhum megaplano nem nenhuma intencao diferente de encontrar o pessoal todo sem precisar cumprir agenda de eventos alheios
+(22:25:03) efeefe: acho que jah passamos da epoca de precisar justificar os encontros com algum objetivo especifico
+(22:25:16) glerm: vamos construir umas caravelas
+(22:25:20) efeefe: o lance eh a galera se encontrar
+(22:25:22) regis: rsrsrs
+(22:25:32) efeefe: caravelas eh um bom plano
+(22:25:50) tatirp: isso, sem justificativa. esse eh irc eh pra marcar a data e pronto
+(22:25:56) efeefe: o lance eh: to achando que um caminho possivel eh acontecerem varios encontros paralelos que confluem
+(22:25:59) regis: uma-chamada-ao-exercito-do-amor-e-ao-exercito-do-software/
+(22:26:07) regis: (:
+(22:26:21) efeefe: o mutgamb tah armando um encontro de trabalho em maio em Ubatuba
+(22:26:25) vx [ba1c4d1d@gateway/web/freenode/ip.186.28.77.29] entrou na sala.
+(22:26:26) glerm: dia, hora e local?
+(22:26:38) efeefe: maio, mais pro fim do mes
+(22:26:39) regis: local dia e hora
+(22:26:45) teia: encontros paralelos x encontros tematicos?
+(22:26:53) regis: encontros
+(22:26:54) glerm: 17 de maio
+(22:27:04) efeefe: eu e maira inscrevemos um projeto ficcional numa chamada de dinheiro aih, e ela chutou o ultimo fim de semana
+(22:27:21) efeefe: mas eu acho que dah pra cada grupo fazer seus planos especificos
+(22:27:33) tatirp: como assim, cada grupo?
+(22:27:38) efeefe: subgrupos
+(22:27:38) glerm: 20 a 26?
+(22:27:41) efeefe: microencontros
+(22:27:55) regis: grupelhos rsrsrs
+(22:28:00) efeefe: acho que a maira chutou 25 a 27
+(22:28:09) laranjatomate [~laranjato@177.98.98.223] entrou na sala.
+(22:28:26) tatirp: acho que o importante eh as pessoas estarem afim de conversar olho no olho, sem tela no meio
+(22:28:42) efeefe: eu to insistindo com o pessoal da thacker em trazer o busao pra cah também, mas eles tem um evento grande agendado pra semana anterior
+(22:28:45) regis: sex-sabado-dom
+(22:28:45) laranjatomate: Poucas vezes tive a oportunidade de conversar ao vivo, mesmo que sem "olho no olho", com voc?s da lista.
+(22:28:51) laranjatomate: Opa!
+(22:28:59) efeefe: seminario nacional de controle social, acho que vai ser pelo dia 17 em brasilia
+(22:29:00) laranjatomate: J? disse que tenho CNH categoria D!
+(22:29:10) laranjatomate: Tragam o ve?culo para a ?rea 21 que quero dirigi-lo.
+(22:29:11) efeefe: o lance eh a galera ter vontade e folego pra vir pra ubatuba depois 
+(22:29:18) laranjatomate: ?rea 12.
+(22:29:23) efeefe: laranjatomate: opa, se oferece lah pro busao
+(22:29:36) laranjatomate: QUando eumorava na ?rea 18, tentei juntar gente de l? e da ?rea 43 (Londrina), mas n?o rolou encontr?o.
+(22:29:38) efeefe: laranjatomate: aqui eh 12
+(22:29:40) mbraz_: efe, t? falando do onibus hacker?
+(22:29:46) laranjatomate: "Adonde" est?o?
+(22:29:47) efeefe: laranjatomate: nao usa acento nao, que tah aparecendo zoado aqui
+(22:29:56) efeefe: mbraz_: to falando do busao hacker sim
+(22:30:20) laranjatomate: EU gosto de escrever com acentuacao bonitinha, mas compreendo os problemas de codificacao de cada computador.
+(22:30:29) laranjatomate: "Adonde" esta o onibus?
+(22:30:30) efeefe: jah convidei um par de vezes, algumas pessoas demonstraram interesse. mas o busao eh grande e tem seu proprio processo de decisao, entao fica pra eles decidirem
+(22:30:33) laranjatomate: Ubatuba?
+(22:30:39) efeefe: o onibus fica em sampa
+(22:30:46) efeefe: to querendo convencer a galera a traze-lo
+(22:30:55) laranjatomate: Seria legal eu conhecer a garagem delequando for para a ?rea 11.
+(22:31:02) efeefe: entao, jah tem o encontro mutgamb pra acontecer aqui. e talvez alguma coisa thacker/busao.
+(22:31:11) laranjatomate: So sei dirigir micro-onibus, gostaria de aprender a guir os grandes.
+(22:31:19) laranjatomate: Gamb's?
+(22:31:26) regis: oi laranja
+(22:31:31) regis: tomate
+(22:31:33) laranjatomate: Homenagem ao X-men frances que soltava as cartas de baralho?
+(22:31:35) efeefe: glerm: acho que eh legal pensar em uma terceira onda aih, na onda gambiarra + ciencia + mitologias que ces tao brincando.
+(22:31:35) laranjatomate: Hahahaha
+(22:32:07) mbraz_: sim, pessoal do msst colar junto...ip...
+(22:32:13) efeefe: tem um lance do contexto daqui, que acho legal...
+(22:32:25) efeefe: alias, se me permitem vou falar um pouco de ubatuba
+(22:32:57) yzak: fala
+(22:33:02) mbraz_: permitimos tudo
+(22:33:06) yzak: eh a terra de clodovil?
+(22:33:15) mbraz_: kkk
+(22:33:18) efeefe: pourra
+(22:33:20) efeefe: tambem eh
+(22:33:33) efeefe: parece que o secretario de turismo era o chefe de gabinete da clodoveia
+(22:33:42) efeefe: entoa
+(22:33:44) efeefe: entao
+(22:33:47) laranjatomate: Noffffa!
+(22:33:59) efeefe: ubatuba eh a cidade com maior cobertura de mata atlantica no estado
+(22:34:11) mbraz_: delicia
+(22:34:25) efeefe: (aquela mata atlantica que foi desmatada em 93% no brasil, aqui ainda eh 89% da area da cidade)
+(22:34:37) tatirp: (nao precisa avisar que chove em ubatuba)
+(22:34:40) efeefe: ateh ha alguns anos, era a cidade que tinha o segundo lugar em numero de ongs
+(22:34:44) efeefe: por conta da coisa ambiental
+(22:35:03) efeefe: tatirp: eh um dado importante pra quem eh de fora sim. ubatuba chove. pra carajo.
+(22:35:08) efeefe: o ano inteiro. 
+(22:35:18) efeefe: maio e junho sao os meses menos molhados, mas ainda assim pode chover.
+(22:35:22) efeefe: escolhi maio por isso
+(22:35:23) glerm: efeefe: biopunk manifesto - http://pontaopad.me/htyDRVaBtK
+(22:35:24) lalenia: Title: pontaoPAD!: htyDRVaBtK (at pontaopad.me)
+(22:36:25) efeefe: glerm: biopunk pode ter jogo por aqui
+(22:36:41) efeefe: tem um monte de biologos entediados com tempo sobrando
+(22:36:55) efeefe: tem dois nucleos do parque estadual da serra do mar
+(22:37:03) efeefe: santa virginia e picinguaba
+(22:37:22) efeefe: dentro do nucleo picinguaba tem o quilombo da fazenda, que eh outra historia interessante
+(22:37:28) efeefe: mbraz_ conheceu lah
+(22:37:40) mbraz_: lindo e m?gico
+(22:37:41) efeefe: tem um video legal sobre eles
+(22:37:52) glerm: efeefe: tem uma conexão interessante disso com o pessoal da colombia-equador - lasurlab. e acho que tem tudo a ver com os fármacos la do bailux.
+(22:38:08) regis: quintais abertos
+(22:38:12) regis: (:
+(22:38:15) glerm: quem tiver a fim de saber mais do labsurlab da um join no #labsurlab
+(22:38:16) efeefe: sim, labsurlab eh no comeco de junto
+(22:38:18) efeefe: junho
+(22:38:22) glerm: vou passar la chamar gente pra cá
+(22:38:23) regis: paty patax? quer ir a ubatuba
+(22:38:36) efeefe: a gente pode pensar em fazer um pre-lsl por aqui
+(22:38:37) mbraz_: a mata atlantica ? um quintal
+(22:38:59) regis: espa?os residencias
+(22:39:08) efeefe: regis: paty pataxo pode vir pra conversar com os parentes. tem algumas tribos remanescentes aqui
+(22:39:12) mbraz_: uau, Regis, seria massa Paty conhecendo os indios da regiao...
+(22:39:20) regis: ja ?
+(22:39:33) regis: ta empolgando com os metarecsx
+(22:39:35) efeefe: a gente pode propor alguma coisa tambem pro pessoal do ipema - instituto de permacultura d amata atlantica
+(22:39:49) regis: pessoal ta surfando no wifi de mbraz na aldeia
+(22:39:52) efeefe: que tem um trabalho muito legal, com uma sede fantastica no sul da cidade
+(22:39:56) efeefe: ubatuba eh uma cidade comprida
+(22:40:07) efeefe: sao uns oitenta e poucos quilometros de norte a sul
+(22:40:14) efeefe: cortada pelo tropico de capricornio
+(22:40:22) efeefe: (daih o "hipertropical")
+(22:40:30) regis: opa possso envolver os permacultores aqui para irem a ubatuba
+(22:40:45) efeefe: a linha imaginaria que divide a zona tropical da subtropical
+(22:40:53) efeefe: regis: pode ser
+(22:41:12) regis: tem aquela proposta de autogerismo todo processo da cozinha coletiva
+(22:41:16) efeefe: aqui sobre o quilombo da fazenda: http://vimeo.com/24629934
+(22:41:18) lalenia: Title: Invenções Democráticas no Quilombo on Vimeo (at vimeo.com)
+(22:41:27) efeefe: lalenia: obrigado
+(22:41:28) lalenia: efeefe: Error: "obrigado" is not a valid command.
+(22:41:39) efeefe: (que mal-educada)
+(22:41:47) glerm: lalenia: rainbow
+(22:41:47) lalenia: glerm: (rainbow <text>) -- Returns <text> colorized like a rainbow.
+(22:42:06) glerm: lalenia: rainbown obrigado
+(22:42:07) lalenia: glerm: Error: "rainbown" is not a valid command.
+(22:42:11) yzak: ehehehe
+(22:42:11) laranjatomate: Diacho
+(22:42:14) glerm: rsrsrs
+(22:42:37) mbraz_: glerm, e o lance do H?lio?
+(22:42:41) laranjatomate: O encontro passar? pela casa de Capric?rnio? Cuidado para n?o encontrar com o Shura por l?.
+(22:42:48) laranjatomate: Levar uma chifrada de ouro. :{)
+(22:42:49) glerm: lalenia: rainbow e n c o n t r ã o
+(22:42:49) lalenia: glerm: e n c o n t r ã o
+(22:43:06) mbraz_: h?liodescentrico...rsrs
+(22:43:15) glerm: laranjatomate: "shura?"
+(22:44:05) glerm: mbraz_:  seus acentos tão zoados aqui. o que é H?lio?
+(22:44:25) efeefe: helio?
+(22:44:31) regis: ??
+(22:44:45) glerm: lalenia: rainbow < ubatuba>
+(22:44:45) lalenia: glerm: < ubatuba>
+(22:45:03) glerm: ok, sem bots.
+(22:45:15) efeefe: vx: eh a vicky?
+(22:45:29) glerm: lalenia: te amo
+(22:45:31) lalenia: glerm: Error: "te" is not a valid command.
+(22:45:31) regis: vicky
+(22:45:41) glerm: lalenia: help
+(22:45:41) lalenia: glerm: (help [<plugin>] [<command>]) -- This command gives a useful description of what <command> does. <plugin> is only necessary if the command is in more than one plugin.
+(22:46:08) efeefe: lalenia: go away
+(22:46:08) glerm: efeefe: lalenia é o bot do labmacambira
+(22:46:09) mbraz_: H?lio, o Senhor das MIniaturas
+(22:46:09) lalenia: efeefe: Error: "go" is not a valid command.
+(22:46:19) efeefe: glerm: um bot desobediente
+(22:46:25) glerm: a bot
+(22:46:28) vx: eiii tudos!
+(22:46:35) glerm: oi vx
+(22:46:35) regis: vx
+(22:46:46) Meiry [bb7268f7@gateway/web/freenode/ip.187.114.104.247] entrou na sala.
+(22:46:55) vx: abracos de colombia!
+(22:47:01) mbraz_: Salve Vicky e Meiry
+(22:47:14) mbraz_: Colombia, logo ali
+(22:47:15) efeefe: entao galera
+(22:47:21) Meiry: Boa noite atrasada...
+(22:47:31) efeefe: tem tambem uns gringos querendo vir
+(22:47:32) glerm: Saludos Guianas ;)
+(22:47:34) efeefe: tipo a vx
+(22:47:49) glerm: ola Meiry
+(22:47:50) efeefe: que alem de irlandesa agora tambem tah virando sudameriana
+(22:47:52) regis: meiry
+(22:47:54) mbraz_: tah nao, Meiry, 21:47 em Fortal
+(22:48:13) glerm: esse negocio de declarar origem já era
+(22:48:13) efeefe: Meiry: aqui nao tem atraso
+(22:48:28) regis: hehehehe
+(22:48:37) mbraz_: isso, Glerm, quero saber ? para onde vou...
+(22:48:39) Meiry: Então tá. Abraços apertados em todos/as.
+(22:48:55) efeefe: tem tambem o tapio makela (que entao nao vou dizer de onde vem) que brinca de barcos e medialabs e bacterias e tambem quer vir
+(22:48:59) regis: yah meiry
+(22:49:13) nessaferreira [~nessa.fer@189.102.233.96] entrou na sala.
+(22:49:13) laranjatomate: glerm: Shura era o cavaleiro de Capric?rnio, naquele desenho animado.
+(22:49:14) efeefe: e o cesar harada do protei.org que tambem brinca de barcos
+(22:49:24) regis: gambiarras de bacterias muito bom
+(22:49:27) laranjatomate: Daqui a pouco tem o barco Hacker.
+(22:49:32) efeefe: se pans eh o lance de brincar de movimento sem satelite no barco com bacterias
+(22:49:38) laranjatomate: Ou uma jangada toda gamb's.
+(22:49:40) regis: kkkkkkkkkkk
+(22:49:40) efeefe: e com baloes
+(22:49:54) regis: bruno vianna e as pipas
+(22:49:58) glerm: laranjatomate:  entendi. esse lance de brincar com a situação de fronteira no tropica ali em ubatuba é interessante.
+(22:50:00) laranjatomate: Quem tem habilita??o para dirigir navio? Carta de arrais.
+(22:50:12) tatirp: soh uma pergunta: todo mundo jah descolou transporte pra ir?
+(22:50:13) glerm: laranjatomate:  eu tenho. sou arrais amador.
+(22:50:17) efeefe: bruno tah aih?
+(22:50:19) laranjatomate: Quae fiz uma montagem com a armadura de Capric?rnio sobre mim, numa foto tirada num marco do Tr?pico.
+(22:50:29) laranjatomate: Apesar de ter nascido com o SIl em Libra.
+(22:50:36) laranjatomate: Aquela armadura sim que ? legal. :{)
+(22:51:07) efeefe: o bruno vianna eh arrais tambem
+(22:51:11) teia: entao, podemos articular uma carona de sp pra uba?
+(22:51:18) efeefe: e aqui em ubatuba tem um monte de amigos marujos
+(22:51:24) efeefe: entao
+(22:51:27) efeefe: temos que pensar em programacoes
+(22:51:59) vx: silencia!
+(22:52:03) tatirp: efe, tu acha mesmo que precisa de programacao?
+(22:52:05) Meiry: e formas de captar recurso pro encontro
+(22:52:19) efeefe: se pans uma trilha permacultura, uma trilha indigena/quilombola, uma trilha outra (biopunk, barcos, msst)
+(22:52:52) regis: uuuuuuuuu
+(22:52:53) mbraz_: trilhas melhorou...
+(22:52:54) tatirp: encontro no fim das contas eh: deriva e o resto cad1 faz o que quer, vez ou outra rola uma conversa mais coletiva
+(22:52:54) efeefe: tem o edital de intercambio do minc
+(22:53:16) efeefe: tatirp: podemos ter programacoes autonomas durante o dia, e programacoes coletivas a noite
+(22:53:18) efeefe: ou algo assim
+(22:53:28) efeefe: ubatuba tem tambem peixe barato
+(22:53:36) regis: heheheh
+(22:53:38) efeefe: e tem tambem muita ciclovia e uma cultura de bicicleta bem forte
+(22:53:40) tatirp: efe, pra mim isso jah basta
+(22:53:43) regis: muqueca
+(22:53:46) mbraz_: programs coletivos a noite tem nome: Buteco!
+(22:53:54) regis: boiteco
+(22:53:55) efeefe: junta uma galera, aluga bikes e vai pra uma praia
+(22:53:59) efeefe: (tem 84 praias)
+(22:54:01) efeefe: e ilhas
+(22:54:12) efeefe: programas coletivos podem ser no boteco
+(22:54:16) efeefe: ou na fundacao cultural da cidade
+(22:54:21) laranjatomate: Parece queo relevo ? facor?vel apra percursos de at? uns 20km de bicicleta.
+(22:54:30) regis: muita agua com g?s
+(22:54:30) laranjatomate: Nego indo de Caraguatatuba para S Sebasti?o, por exemplo.
+(22:54:33) efeefe: tem tambem um pessoal fazendo uns programas interessantes no peh da serra
+(22:54:33) regis: rsrsrs
+(22:54:59) efeefe: laranjatomate: de caragua pra sao sebastiao eh o outro sentido
+(22:55:18) mbraz_: tem um povoadinho entre Uba e Paraty, como chama efe?
+(22:55:51) regis: encontros transit?rios
+(22:56:04) mbraz_: tem uma pracinha de parada de busao
+(22:56:14) efeefe: picinguaba?
+(22:56:15) nessaferreira: picinguaba -
+(22:56:17) efeefe: onde tu parou?
+(22:56:48) mbraz_: n?o antes, colado na rodovia, onde o onibus entra a direita de quem vem de Paraty
+(22:56:48) tatirp: um fim de semana sao 2 noites soh... (1 ou 3 a depender de q hora cad1 chega)
+(22:56:59) efeefe: mas tah livre
+(22:57:21) efeefe: eu acho que dah pra construir programacoes desde o dia 21
+(22:57:23) efeefe: ou antes ateh
+(22:57:30) r4re: pergunta: todo mundo que vai no Encontrão sabe andar de bicicleta?
+(22:57:45) efeefe: tem uma galera aqui querendo montar uma escola de bicicleta para adultxs
+(22:57:56) r4re: se não, posso dar uma oficina "Aprendendo a Andar de Bicicleta - para jovens, adultos e idosos"
+(22:57:57) efeefe: eh um bom numero de pessoas que nao sabe
+(22:58:00) efeefe: (nao aqui, claro)
+(22:58:04) efeefe: eu mesmo soh aprendi depois de velho
+(22:58:06) tatirp: escola de bicicleta eh pra construir a bike?
+(22:58:10) mbraz_: sou candidato..rsrs.
+(22:58:21) mbraz_: to velho
+(22:58:23) nessaferreira: ando bem mal
+(22:58:32) Lula [b12b0ea1@gateway/web/freenode/ip.177.43.14.161] entrou na sala.
+(22:58:34) r4re: consegues umas bicis emprestadas efeefe? - seria uma oficina válida?
+(22:58:40) efeefe: tatirp: tambem estao pensando em escola pra construir bikes sim
+(22:58:42) efeefe: mas isso eh depois
+(22:58:49) efeefe: pensaram em ensinar pessoas que nao sabem andar
+(22:59:00) efeefe: r4re: consigo algumas poucas 
+(22:59:07) r4re: http://www.escoladebicicleta.com.br/
+(22:59:08) lalenia: Title: Escola de Bicicleta - Bem vindo (at www.escoladebicicleta.com.br)
+(22:59:18) efeefe: vamos ver quantas pessoas se interessam
+(22:59:22) Lula: Saudações pessoas! Vibrações positivas a todos!!!
+(22:59:36) regis: opa lula
+(22:59:38) Meiry: Posso ajudar na oficina de bicicleta. Sei alguns bizus rsrsrs
+(23:00:06) regis: vou fazer uma ch?
+(23:00:19) efeefe: se pan "raqueando bicicletas" eh outra trilha
+(23:00:22) efeefe: o lance eh
+(23:00:26) regis: colocar agua e volto enquanto ferve
+(23:00:31) efeefe: tem gente interessada em assumir a responsa por essas trilhas?
+(23:01:07) efeefe: permacultura eh uma trilha
+(23:01:18) laranjatomate: Isso! Saber dar uma "manu" no ve?culo ? miuto importante.
+(23:01:23) laranjatomate: O b?sico pelo menos.
+(23:01:30) efeefe: temos parceiro local
+(23:01:35) tatirp: trilha metafórica ou pra mapeamento pro ubalab?
+(23:01:42) efeefe: acho que tem interesse e proximidade
+(23:01:48) efeefe: trilha de programacao
+(23:02:01) efeefe: acho que cada trilha pode ter uma estrategia pra descolar grana pra passagens etc
+(23:02:08) efeefe: entao
+(23:02:16) regis: sim
+(23:02:25) mbraz_: e lugares de hospedagem, efe? hostel?
+(23:03:11) tatirp: como disse o dpadua no último, "acho que nos encontros cad1 deve produzir a sua (nossa, o caso) energia"
+(23:03:16) r4re: alguma chance de hospedagem solidária? couchsurfing? saco de dormir?
+(23:03:32) efeefe: 1. permacultura, 2. culturas tradicionais, 3. (bacterias, barcos, satelites, etc.), 4. raqueando bicicletas
+(23:03:40) vx: um grande casa?
+(23:03:40) Lula: acampamaneto...
+(23:03:49) mbraz_: ok, trilha como evento para arrecadar recursos/parceiros/etc
+(23:03:51) efeefe: mbraz_: o mutgamb usou um hostel razoavel
+(23:03:56) tatirp: o hotel foi bacana
+(23:03:58) efeefe: mas podemos pegar uma casa de temporada
+(23:03:59) tatirp: ops,
+(23:04:00) vx: redes?  (trilha?)
+(23:04:05) tatirp: hostel
+(23:04:10) mbraz_: ahh, tenho um amigo com casa na praia da fazenda...
+(23:04:24) efeefe: o hostel tem umas vantagens - internet, cafe da manha, etc.
+(23:04:31) efeefe: tem uma pizzaria lah dentro
+(23:04:37) efeefe: e ofereceram pra gente uma sala pra trampar
+(23:04:37) teia: acho o hostel + funcional.....
+(23:04:48) regis: (:
+(23:04:50) vx: esta cocinando collectivo possivel?
+(23:05:00) Lula: pode cozinhar no hostel?
+(23:05:02) efeefe: na real acho que cada trilha pode decidir esses detalhes
+(23:05:07) regis: cozinhando volts
+(23:05:07) efeefe: Lula: pode cozinhar sim
+(23:05:18) tatirp: acho que a gente devia alugar a casa dos pescadores no bonete, ir de barco pra lah e concentrar
+(23:05:19) mbraz_: sim, hostel como base ? legal, mas ficar numa casa com uma galera cozinhdo e tals tamb?m ? massa
+(23:05:27) Lula: massa então porque pdiamos programar alguma atividade na cozinha...
+(23:05:28) regis: oca
+(23:05:30) mbraz_: cozinhando
+(23:05:37) yzak: opa
+(23:05:43) efeefe: tatirp: podemos concentrar em qualquer lugar. eh soh desplugar o roteador ;)
+(23:05:49) yzak: cozinheir@s do metarecs, uniãooo
+(23:05:50) Lula: isso
+(23:06:01) vx: claro
+(23:06:05) vx: importante
+(23:06:05) tatirp: quero ver desplugar :P
+(23:06:11) mbraz_: :P
+(23:06:11) laranjatomate: Se eu estivesse a?, ajudaria com a cozinha. Aqui em casa h? duas colheres de pau: uma para doce e outra para salgado.
+(23:06:11) efeefe: de todo modo, quando tivermos uma ideia de quanta gente vem eu posso ir atras de parcerias pra hospedagem, comida, etc
+(23:06:23) Lula: pessoal, desculpa, cheguei atrasado. queria saber o que são essas trilhas. alguém?
+(23:06:46) tatirp: lula: trilha = proposta de programacao/atividade
+(23:06:50) Lula: ok
+(23:06:59) r4re: porra, me voluntario pra fazer comida vez ou outra!
+(23:07:00) mbraz_: Lula, trilhas = afinidades
+(23:07:02) nessaferreira: tbm acho o hostel mais funcional
+(23:07:03) laranjatomate: Devem ter outros Am?lios, Of?ios e Paimirinhos escondidos por a?. :{) Talentos culin?rios.
+(23:07:05) r4re: mas não lavo a louça, hehehe!
+(23:07:16) laranjatomate: Of?lios
+(23:07:23) laranjatomate: Palmirinhos
+(23:07:41) mbraz_: lavo a lou?a e cuido do lixo
+(23:07:55) efeefe: acho legal uma visita ao ipema
+(23:07:58) laranjatomate: QUal ? a data combinada mesmo?
+(23:08:08) artusrocha saiu da sala (quit: Quit: Leaving.).
+(23:08:13) efeefe: que gera toda a energia que consome e nao joga fora esgoto nem lixo 
+(23:08:13) tatirp: (nao se ofendam, mas jah aviso agora pra ninguem ficar magoado na hora - to fora de qq programacao culinaria)
+(23:08:14) vx: tambem, me voluntario pra fazer comida
+(23:08:15) mbraz_: e comidas ex?ticas...rsrs
+(23:08:29) laranjatomate: Sei fazer uns pratos vegetarianos.
+(23:08:39) laranjatomate: Sou adepto do "Animais, formatos e softwares livres"
+(23:08:55) mbraz_: haha, mas a tati que sempre lanchins nos encontrins
+(23:09:00) mbraz_: sempre leva
+(23:09:12) efeefe: laranjatomate: nem peixe?
+(23:09:15) Lula: tb me voluntario p fazer comida e conversa em torno das panelas
+(23:09:19) tatirp: mbraz: pois eh, que ironia :)
+(23:09:29) laranjatomate: Se o jantar demorar para ficar pronto eu canto uma m?sica sertaneja que diz: "E o jantar s? sai depois da uma da manh?. A gente vai jantar, depois d? uma, depois d? uma, depois d? uma..."
+(23:09:33) efeefe: precisamos entao de um lugar com um fogao no centro
+(23:09:54) Lula: ff, é uma boa
+(23:09:54) laranjatomate: Lavar lou?a n?o ? problema. O que fode ? ficar zoinho enquanto todos(as) est?o na sala conversando.
+(23:09:56) efeefe: entao, jah temos datas maios ou menos
+(23:10:03) Lula: ok
+(23:10:04) mbraz_: ei, teve fogao a lenha no sub paranagu? e foi massa demais
+(23:10:05) laranjatomate: Se eu fosse, toparia lavar a lou?a desde que algu?m ficasse me fazendo companhia.
+(23:10:05) tatirp: um lugar beeeeeeeeeem arejado, entao, neh?
+(23:10:05) efeefe: laranjatomate: deixa de lado os acentos
+(23:10:11) laranjatomate: Ah, e mesmo.
+(23:10:11) efeefe: e cedilhas
+(23:10:19) laranjatomate: Costume meu de escrever impecavelmente.
+(23:10:30) yzak: culpa do nao uso do utf8
+(23:10:42) laranjatomate: Esperem ai, posso comutar de iso-8859-15 para utf-8.
+(23:10:55) efeefe: daih o seguinte
+(23:11:06) efeefe: que ces acham desses quatro caminhos de programacao?
+(23:11:13) mbraz_: comu tah... depois dah uma...
+(23:11:22) mbraz_: :)
+(23:11:24) efeefe: (a principio, funcionam como microeventos dentro do encontrao)
+(23:11:37) laranjatomate: E agora? Posso escrever com acentuação? Comutei para utf-8.
+(23:12:00) tatirp: laranjatomate: etiqueta do irc - sem acentos
+(23:12:06) laranjatomate: Ahhhhhh
+(23:12:08) laranjatomate: Nao sabia.
+(23:12:10) efeefe: eu acho que cada um podia ter pessoas diferentes definindo a programacao e buscando recursos
+(23:12:16) yzak: laranjatomate: agoraaaa
+(23:12:17) tatirp: (aqui dah pra ver direitinho todos os acentos)
+(23:12:29) efeefe: laranjatomate: agora tah ok
+(23:12:33) teia: gostei das trilhas.... acho um bom ponta pe
+(23:12:50) mbraz_: opa, vou buscar me articular com quilombos e aldeias...
+(23:12:52) laranjatomate: Estou  usando Kopete, num laptop que veio com Mandriva 2008. ZOada a configuracao.
+(23:12:53) yzak: efeefe: mas assim, se um grupo "falhar" em buscar recursos...
+(23:13:10) yzak: falhou geral e meio que... "adios"?
+(23:13:12) efeefe: yzak: pode pedir ajuda pros outros
+(23:13:22) efeefe: to soh chutando esse jeito de fazer
+(23:13:23) mbraz_: erraremos sempre, falharemos mais ainda
+(23:13:25) efeefe: podem sugerir outros
+(23:13:56) mbraz_: efe, bota dinovo as trilhas pra quem entrou depois...
+(23:13:58) teia: acho q podemos pensar_criar esses nucleos-trilhas juntos, no wiki da meta ....
+(23:14:05) tatirp: yzak - acho que o lance eh experimentar outro jeito de correr atras... soh isso...
+(23:14:21) tatirp: solidariedade continua valendo tb ;)
+(23:14:31) laranjatomate: O Amélio aqui vai passar roupa depois olha as mensagens.
+(23:14:31) Lula: efefe: não seria melhor procurar esses recursos pro encontro como um todo?  se não corre-se o risco de se buscar ajuda tardiamente e a gente n
+(23:14:35) mbraz_: isso, tatirp, por que buscar recursos tambem eh uma experiencia
+(23:14:44) Lula: e a gente não saber a tempo
+(23:14:59) tatirp: lula: acho que tah muito perto.
+(23:14:59) Meiry: Concordo com o Lula
+(23:15:24) teia: carona-comida podem ajudar um tanto....
+(23:15:33) Lula: articular a busca de apoios p o evento como um todo eh menos arriscado...
+(23:15:37) mbraz_: podem ser as duas opcoes: ver algum recurso maior e outros menores baseados nas trilhas
+(23:15:39) tatirp: da outra vez, comecamos "fazer projeto encontrao em arraial" no mes de janeiro...
+(23:15:53) tatirp: mesmo com a febre de editais da epoca, nao rolou
+(23:15:54) Meiry: Acho valida a ideia dos grupos/trilhas mas acho que precisa uma articulação de captacao central
+(23:16:06) yzak: eu acho que podiamos ja fazer uma lista dos meios que serviriam de recursos
+(23:16:11) efeefe: Lula: sempre vai ter gente tentando buscar recursos como um tod
+(23:16:11) Lula: Mbraz deu dentro> podemos articular as duas formas de buscar apoio. uma nao invalida a outra
+(23:16:18) efeefe: eu jah to fazendo isso junto com a maira
+(23:16:24) yzak: exemplo> vaquinha, edital X, cada um por si, ...
+(23:16:30) efeefe: mas se houvesse gente buscando recursos pequenos pra complementar, ficava mais facil
+(23:16:39) mbraz_: e o tal do catarse?
+(23:16:59) Lula: eh mesmo...
+(23:17:02) tatirp: centralizar eh trampo, meiry. pra conseguir meia duzia de doc na dinamica em rede eh mais dificil que captar :P
+(23:17:07) Lula: e o catarse?
+(23:17:14) efeefe: catarse!!!
+(23:17:24) tatirp: galera, a gente nao precisa complicar...
+(23:17:27) efeefe: eu pensei isso semana passada e esperei ateh hoje pra falar, mas esquece
+(23:17:29) efeefe: esqueci
+(23:17:29) efeefe: hahah
+(23:17:36) Lula: hehehehehe
+(23:17:38) efeefe: entao
+(23:17:45) efeefe: catarse eh um caminho
+(23:17:56) efeefe: eu e maira inscrevemos em um edital
+(23:18:39) mbraz_: qual?
+(23:19:21) efeefe: bndes
+(23:19:36) efeefe: acho dificil levar, porque nao temos pronac nem nada assim
+(23:19:45) efeefe: mas pode ser que vire, e aih banca muita coisa.
+(23:19:52) efeefe: mas acho que podemos pensar em parcerias pontuais
+(23:19:53) tatirp: ubalab nao tem pronac?
+(23:20:11) efeefe: tatirp: tem pra outro projeto, mas nao cabia nesse edital
+(23:20:52) mbraz_: ah, vi esse do bndes...ainda tah aberto pra eventos no 2o semestre
+(23:20:53) efeefe: eu acho que convencer a thacker a vir com o busao eh uma legal. e eh uma especie de carona coletiva. podemos pensar numa vaquinha pro diesel.
+(23:21:04) tatirp: efeefe: nao mesmo? olha que eu faco uns milagres com esses bancos... :P
+(23:21:10) efeefe: catarse eh um caminho legal...
+(23:21:16) efeefe: tatirp: vamos conversar ;)
+(23:21:27) efeefe: a gente inscreveu, meio no susto
+(23:21:32) efeefe: a ver
+(23:21:40) mbraz_: o busao viria de Brasilia direto?
+(23:21:43) regis: daqui a pouco terei um chazinho aqui
+(23:21:48) regis: (:
+(23:22:24) efeefe: mbraz_: acho que o busao volta de brasilia pra sampa. se eles toparem, ele poderia vir pra uba depois (trazendo quem estiver em sampa, se rolar).
+(23:22:30) wille saiu da sala (quit: Ping timeout: 245 seconds).
+(23:22:48) mbraz_: eita, que daqui soh eu jah andei nesse busao...:P
+(23:23:10) mbraz_: sim, efe, Brasilia jah seria meio caminho pra muita gente
+(23:23:21) efeefe: tem tambem o edital de intercambio do minc
+(23:24:13) tatirp: e essas promos de passagem aerea que tao rolando agora?
+(23:24:39) Lula: eh interessante considerar os editais estaduais de transporte para eventos variados. em pe p quem eh daqui tem os da fundarpe e Facepe
+(23:24:45) tatirp: intercambio do minc eh um q vale inscrever junto pq se não um concorre com o outro
+(23:24:58) tatirp: senao
+(23:26:25) efeefe: Lula: bem lembrado
+(23:26:34) efeefe: tatirp: sim, inscricao em grupo
+(23:26:50) efeefe: todo mundo interessadx: nomes aqui: http://rede.metareciclagem.org/wiki/EncontraoHipertropicalQuemVai
+(23:26:58) lalenia: <http://ln-s.net/9_ez> (at rede.metareciclagem.org)
+(23:27:26) mbraz_: precisamos ficar atentos a eventos rolando em Sampa pra Maio...naquele lance de Cavalo de Troia...rsrs
+(23:27:37) efeefe: tambem
+(23:27:41) efeefe: participar e desviar
+(23:27:49) efeefe: alguem sabe as datas da rio+20?
+(23:27:53) efeefe: podemos roubar uns gringos?
+(23:28:05) yzak: hhehe
+(23:28:08) mbraz_: junho
+(23:28:49) wille [baf1e3cb@gateway/web/freenode/ip.186.241.227.203] entrou na sala.
+(23:29:09) mbraz_: entre 15 e 18 junho...mas deve rolar muito evento paralelo, que vai ser o que presta
+(23:29:33) efeefe: sim, sempre
+(23:29:34) efeefe: enfim
+(23:30:05) efeefe: falamos hoje sobre datas e sobre a divisao em grupos de programacao 
+(23:30:09) mbraz_: Vicky, alguem vem da Colombia contigo?
+(23:30:25) tatirp: rio+20 tah com inscricao aberta pros eventos paralelos
+(23:30:45) r4re: a partir de 20 ou 22 de junho
+(23:30:48) r4re: a rio + 20
+(23:30:56) efeefe: os grupos por enquanto sao: permacultura, culturas tradicionais, (bio+barcos+satelites), bicicultura
+(23:31:05) efeefe: rio+20 é muito pra frente
+(23:31:18) tatirp: eu sou do grupo de desocupadXs
+(23:31:43) efeefe: tem a onda de fazer uma forca-tarefa de captacao de recursos
+(23:31:45) mbraz_: sim, mas rio+20 seria pra trazer uns gringos aproveitando a viagem
+(23:31:54) efeefe: tatirp: tah nessa?
+(23:32:06) efeefe: mbraz_: sim, mas quase um mes eh dificil
+(23:32:21) tatirp: efeefe: to, sempre to...
+(23:32:24) mbraz_: ok
+(23:32:29) efeefe: ;)
+(23:32:38) efeefe: temos que ficar de olho nas datas do minc
+(23:32:44) efeefe: e tentar agitar o lance catarse
+(23:34:02) efeefe: pro catarse temos que pensar em contrapartidas e um video
+(23:34:12) tatirp: blz
+(23:34:22) Lula: é preciso tb escrever um projeto/proposta
+(23:35:11) mbraz_: de contrapartidas poderiam ser produtos de economia solidaria da regiao. tem bastante.
+(23:35:15) yzak: como seria essa força tarefa pra captação?
+(23:35:44) efeefe: nao sei
+(23:35:45) efeefe: como?
+(23:35:55) mbraz_: que j? rolaria na articula??o com as culturas tradicionais
+(23:35:58) nessaferreira: se rolar uma proposta por escrito do encontro, com divulgação na net / redes, rola tentar contato com assessoria de imprensa da Azul (aerea) se eles teriam interesse em ajudar no transporte pra quem vem de fora de sp
+(23:35:59) efeefe: contrapartida pro catarse pode ser uma coisa mais simbolica
+(23:36:24) efeefe: nessaferreira: legal! acho que a azul trabalha com o aeroporto de sao jose, que eh mais perto daqui
+(23:36:39) efeefe: eu vou compartilhar o que jah escrevemos sobre o encontrao no wiki metarec
+(23:36:46) nessaferreira: posso tentar alguns contatos com assessoria de imprensa
+(23:36:55) nessaferreira: e posso mandar pra vcs
+(23:37:04) nessaferreira: enviarem essa proposta por escrito
+(23:37:24) mbraz_: eita, mas simbolico capta grana? produ??o de ecosol tem muito de simbolico, efe
+(23:37:31) yzak: por isso que falei em já bolar uma listagem de onde atacar para essa captação
+(23:37:42) mbraz_: se eh que entendi o que vc quis dizer...
+(23:38:02) efeefe: mbraz_: to falando de contrapartida pra quem doar, por exemplo, cinco reais no catarse
+(23:38:03) nessaferreira: mas o lance e pedir só as passagens mesmo, tipo nem pedir grana
+(23:38:09) wille saiu da sala (quit: Quit: Page closed).
+(23:38:13) efeefe: se tu quer oferecer um produto pra isso, vai ter que pagar pelo produto
+(23:38:19) nessaferreira: pedir grana no catarse - acho valido
+(23:38:22) mbraz_: ahh, sim. entendi.
+(23:38:41) nessaferreira: mas para as grandes companhias podemos pedir só o serviço
+(23:38:46) tatirp: entao... talvez seja bom pensar em doacao, campanha de arrecadacao, permutas, coisas rapidas
+(23:38:53) nessaferreira: isso
+(23:38:59) nessaferreira: como no teatro/ tv
+(23:39:01) tatirp: fazer projeto pra captar (no sentido tradicional) demora
+(23:39:06) nessaferreira: com restaurantes
+(23:39:25) efeefe: quanto a gente pede no catarse?
+(23:39:26) nessaferreira: acho q podemos tentar direto com assessoria de imprensa de alguns lugares
+(23:39:28) mbraz_: sim, mas no catarse hah graus de recompensa, de acordo com o valor doado. foi isso q pensei
+(23:39:36) efeefe: temos que catar videos de outros encontroes
+(23:39:53) mbraz_: 1 milhao tah bom? kkk
+(23:40:04) nessaferreira: não rola divulgar logos, e endereços?
+(23:40:12) nessaferreira: tipo se rolar as passagens da azul
+(23:40:20) nessaferreira: divulgar o logo como apoio
+(23:40:29) mbraz_: precisamos ter pelo menos uma nocao do nro de participantes para pedir
+(23:40:54) efeefe: nessaferreira: insercao de logo rola, desde que nao interfiram na programacao
+(23:41:01) Meiry: efe quero propor a trilha de justiça socioambiental. discutindo belo monte e questoes ambientais que assolam os nossos estados ver como podemos fortalecer o debate
+(23:41:02) efeefe: mbraz_: 50?100?
+(23:41:12) Lula: nessaferreira, as assessorias de imprensa em geral nao tem muito poder de decisao nessas coisas nao. talvez seja mais produtivo tentar deptos de publiciade
+(23:41:17) efeefe: Meiry: podemos pensar uma trilha especifica meio ambiente. aqui tem bastante eco.
+(23:41:25) nessaferreira: pode ser tbm
+(23:41:36) mbraz_: sim, Meiry, tema muito quente na regiao Ubatuba-Paraty
+(23:41:41) tatirp: da outra vez, o edital de pequenos eventos (50mil) não seria suficiente pq o custo de transporte é bem alto
+(23:41:49) nessaferreira: Lula: podemos tentar entrar em contato e ver qual o caminho de cada empresa
+(23:42:17) Lula: mbraz, Meiry, podias associar a questao do meio ambiente ao debate em torno de commons de uma forma geral
+(23:42:26) luu [bd1ca52c@gateway/web/freenode/ip.189.28.165.44] entrou na sala.
+(23:42:29) Meiry: o tema eh importante sobretudo pq teremos trilha de permacultura e comunidades tradicionais
+(23:42:40) Lula: isso Nessa.
+(23:43:13) Lula: Meiry, tudo a ver com apropriações do comum em varias esferas
+(23:43:23) efeefe: quem assume a responsa de ir atras de companhias aereas e pedir 50 passagens de origens variadas para guarulhos?
+(23:43:24) mbraz_: sim, este encontro com o que tah pegando para os grupos tradicionais eh essencial
+(23:43:26) regis: ops estou em um desvio aqui com o jaron lanier na globo news
+(23:43:52) regis: entendi ele defendendo o copyright
+(23:44:02) efeefe: mbraz_: podemos aproximar o roque como aliado nisso tambe
+(23:44:05) efeefe: m
+(23:44:21) mbraz_: claro, Roque conhece muita gente na regiao
+(23:44:26) efeefe: regis: desliga essa globo que ela se alimenta de cerebros
+(23:44:38) regis: rsrsrsrs
+(23:44:55) regis: estou em um grupo mix aqui
+(23:44:56) nessaferreira: posso tentar alguns contatos
+(23:44:59) regis: rsrsrsrs
+(23:45:08) Lula: efeefe, posso tentar alguns contatos tb.
+(23:45:16) nessaferreira: interessa alguem angariar com eles?
+(23:45:37) efeefe: nessaferreira: como assim?
+(23:45:53) nessaferreira: levantar os contatos diretos
+(23:46:04) nessaferreira: tanto de assessoria como de publicidade
+(23:46:22) nessaferreira: mas ai precisar que ajuda pra entrar em contato com essa galera td
+(23:46:25) nessaferreira: tipo ligar
+(23:46:31) nessaferreira: alem de mandar email
+(23:47:19) efeefe: vamos ver
+(23:47:35) efeefe: a gente pode sair daqui agora e passar essa semana pensando
+(23:47:42) efeefe: e fazemos outra reunircao semana que vem
+(23:47:49) efeefe: pra ver o que andou
+(23:48:22) efeefe: eu vou publicar no wiki o que jah tenho do encontrao e comecar a pensar melhor na onda do catarse
+(23:48:34) efeefe: mas seria bom se mais alguem ajudasse nisso
+(23:48:39) efeefe: (no catarse)
+(23:48:57) mbraz_: olha s?, em Maiol? pelo dia 15 deve rolar Festa do Palmito Jucara, no quilombo da fazenda
+(23:49:24) regis: saiu o ch? aqui
+(23:49:27) tatirp: eu acho que prefiro ler o q tem primeiro antes de contatar alguem
+(23:49:36) nessaferreira: eu tbm
+(23:49:38) Lula: melhor
+(23:49:50) nessaferreira: ate pq essa galera eh chatinha
+(23:49:50) tatirp: ateh pra pensar melhor nas estrategias de "captacao"
+(23:50:03) tatirp: com essa galera tem de ser certeira
+(23:50:05) efeefe: ok, eu me comprometo a publicar isso no wiki ateh amanha
+(23:50:18) nessaferreira: eles vão pedir proposta por escrito, e mil informações
+(23:50:19) efeefe: mas saibam que o que tem de programacao ali eh ficcional
+(23:50:19) tatirp: nao dah pra ir no blablabla do processo...
+(23:50:31) efeefe: voces tah fazendo jogral?
+(23:50:32) nessaferreira: sim
+(23:50:48) nessaferreira: sim,ficcional
+(23:51:05) mbraz_: e no ano passado, em Maio nessa epoca rolou o  II Festival da Mata Atl?ntica
+(23:51:27) efeefe: palmito jucara quem tah agitando eh a galera do ipema
+(23:51:43) mbraz_: sim
+(23:52:45) mbraz_: efe, voce tem como confirmar a data desse evento com eles pra esse ano?
+(23:52:48) regis: saindo por aqui
+(23:53:09) regis: amanha acordar cedo e ir at? a aldeia
+(23:53:27) efeefe: vou perguntar
+(23:53:32) regis: abs do bando
+(23:53:50) regis: saudades de todos
+(23:53:52) mbraz_: eita, preciso dormir tambem...amanhan tem cooperativa de reciclagem logo cedo
+(23:54:03) regis: bjsx geral
+(23:54:09) teia: to indo tb, acesso o wiki amanha pra comecar o trem
+(23:54:16) teia: bjocas
+(23:54:19) mbraz_: Regis em Sampa na proxima semana...abss do bando
+(23:54:21) regis: feliz
+(23:54:26) teia saiu da sala (quit: Quit: Friends help you move. Real friends help you move bodies.).
+(23:54:34) tatirp: bjs, regis
+(23:54:35) regis: yeah dia 06 as 8am
+(23:54:46) efeefe: beleza galera
+(23:54:57) regis: vou
+(23:55:03) regis saiu da sala (quit: Quit: Saindo).
+(23:55:06) efeefe: vou publicar coisas no wiki e depois tambem convoco a proxima reuniao
+(23:55:16) Lula: beleza
+(23:55:23) tatirp: blz, vamos ver o wiki!
+(23:55:26) mbraz_: feitcho
+(23:55:28) efeefe: luu: maria?
+(23:55:48) efeefe: e todo mundo que tiver ideias de como bancar passagens, etc, avise
+(23:55:59) nessaferreira: blz
+(23:56:38) yzak: oks
+(23:56:41) mbraz_: bacana, andamos. ;)
+(23:57:08) efeefe: ensaiamos passos
+(23:57:12) efeefe: vamos andar a partir daqui
+(23:57:15) efeefe: valeu pessoal!
+(23:57:32) mariwell [b1128d1d@gateway/web/freenode/ip.177.18.141.29] entrou na sala.
+(23:57:38) mbraz_: foi bom ver suas letrinhas saltitando na tela. bjuss. ;)
+(23:57:46) mariwell: chegueeei
+(23:58:02) mariwell: tarde, tarde, eu sei... :(
+(23:58:08) mbraz_: atrasilda :P
+(23:58:12) mbraz_: ;D
+(23:58:29) vx: vou  , abracos tudos!
+(23:58:35) vx saiu da sala (quit: Quit: Page closed).
+(23:59:07) Meiry: seguirei acompanhando e contem comigo bjos queridos e queridas
+(23:59:08) mbraz_: leia o irc, e tah convocada pra fazer comidinhas...bjj.fui...kiss vx
+(23:59:19) r4re: buenas!, vou-me também!
+(23:59:24) luu: cheguei tarde mas cheguei tb
+(23:59:28) laranjatomate: Hora de fazer naninha.
+(23:59:36) laranjatomate: Acabei de passar aroupa da minha mulher e a minha. :{)
+(23:59:40) efeefe: mariwell: vou publicar o log jah jah
+(23:59:50) laranjatomate: Foi um prazer conversar com voces.
+(00:00:01) mbraz_: agora vou esperar 00:00 pra sair...now!
+(00:00:16) nessaferreira: #partiu. boa noite galera
+(00:00:24) tatirp saiu da sala.
+(00:00:34) nessaferreira saiu da sala.
+(00:00:35) laranjatomate: efeefe: Que hostória é essa de palmito Juçara? In natura? Vi num libro de Monteiro Lobato o saci fazendo doce de palmito para Pedrinho.
+(00:00:54) mbraz_ saiu da sala ("Saindo").
+(00:01:00) efeefe: na real nao eh o palmito, eh a fruta da jucara que eles estao trabalhando aqui
+(00:01:06) efeefe: parecida com acai
+(00:01:20) efeefe: cuja extracao eh mais sustentavel do que o palmito
+(00:01:30) mariwell: o efeefe contou que tem pão de juçara
+(00:01:49) efeefe: a integrale tem um pao de jucara delicioso
+(00:02:04) efeefe: mas tem varias receitas novas rolando
+(00:02:10) Lula: po quero experimentar esse negocio. boa noite povo
+(00:03:43) Lula saiu da sala (quit: Quit: Page closed).
+(00:04:49) Meiry saiu da sala (quit: Quit: Page closed).
+(00:05:55) regica saiu da sala (quit: Quit: Page closed).
+(00:08:12) r4re saiu da sala (quit: Quit: Page closed).
+(00:10:01) laranjatomate: Opa! Não conheço a fruta da Juçara.
+(00:10:31) mariwell: a namoradinha do papa capim chamava juçara, lembram?
+(00:10:43) mariwell: aliás, o papa capim era vegetariano?
+(00:12:50) laranjatomate: Hahaha
+(00:13:02) laranjatomate: Acho que ele caçava uma capivara de vez em quando e pescava.
+(00:13:21) laranjatomate: O tiranossauro Horácio que só come alface. Só em gibi mesmo.
+(00:13:55) laranjatomate: Preciso dormir. Foi um prazer conversar com vocês da lista.
+(00:13:57) laranjatomate saiu da sala ("Kopete 0.12.5 : http://kopete.kde.org").

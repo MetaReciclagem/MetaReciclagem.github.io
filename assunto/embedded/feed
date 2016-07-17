@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - embedded</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/614/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Alix3d3</title>
+ <link>http://rede.metareciclagem.org/wiki/Alix3d3</link>
+ <description>&lt;p&gt;Realizando testes com a &lt;a href=&quot;http://pcengines.ch/alix3d3.htm&quot; rel=&quot;nofollow&quot;&gt;Alixd3d&lt;/a&gt;. &amp;Eacute;&amp;nbsp;um &amp;quot;sistema em um chip&amp;quot; (SOC), com processador AMD&amp;nbsp;Geode de 500Mhz, 256Mb de RAM, portas VGA, 2xUSB, serial, rede e &amp;aacute;udio integradas. Ela roda com corrente cont&amp;iacute;nua de 7.5V a 20V.&lt;/p&gt;
+&lt;h1&gt;1. Recebendo o pacote&lt;/h1&gt;
+&lt;p&gt;&lt;img alt=&quot;pacote&quot; src=&quot;http://farm4.static.flickr.com/3339/3472420464_03b6462d06.jpg?v=0&quot; /&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/Alix3d3&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Alix3d3#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/embedded">embedded</category>
+ <category domain="http://rede.metareciclagem.org/assunto/itiner%C3%A2ncias">itinerâncias</category>
+ <category domain="http://rede.metareciclagem.org/tags/mobile">mobile</category>
+ <category domain="http://rede.metareciclagem.org/assunto/oraculismo">oraculismo</category>
+ <category domain="http://rede.metareciclagem.org/tags/software-livre">software livre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/zasf">zasf</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/ZASF" xmlns="http://drupal.org/project/og">ZASF</group>
+ <group domain="http://rede.metareciclagem.org/conectaz/Itiner%C3%A2ncias" xmlns="http://drupal.org/project/og">Itinerâncias</group>
+ <group domain="http://rede.metareciclagem.org/conectaz/Rede-Mexe" xmlns="http://drupal.org/project/og">Rede Mexe</group>
+ <pubDate>Sat, 25 Apr 2009 01:05:57 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1583 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

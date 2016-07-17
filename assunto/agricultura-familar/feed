@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - agricultura familar</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/1185/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Projeto Interação Web: Agricultura Familiar Orgânica</title>
+ <link>http://rede.metareciclagem.org/blog/09-11-12/Projeto-Interacao-Web-Agricultura-Familiar-Organica</link>
+ <description>&lt;p&gt;Empolgado aqui com o &lt;a href=&quot;http://www.organicosdopivas.org&quot; rel=&quot;nofollow&quot;&gt;Org&amp;acirc;nicos do PIVAS&lt;/a&gt; come&amp;ccedil;ando a se apropriar do Wordpress e de como produzir &amp;quot;not&amp;iacute;cias&amp;quot;. Aproveito para deixar o um registro da produ&amp;ccedil;&amp;atilde;o do site. Parte I, de muito que ainda est&amp;aacute; por vir.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Importante registrar tamb&amp;eacute;m que o trabalho da &lt;a href=&quot;https://twitter.com/dslima_&quot; rel=&quot;nofollow&quot;&gt;Denise Lima&lt;/a&gt;, que &amp;eacute; quem est&amp;aacute; conversando com os agricultores sobre produ&amp;ccedil;&amp;atilde;o da informa&amp;ccedil;&amp;atilde;o, est&amp;aacute; sendo fundamental nessa fase, Parte II, que est&amp;aacute; em andamento.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;O Site&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;div&gt;Passamos alguns meses num processo de pesquisa e produ&amp;ccedil;&amp;atilde;o de visual e &amp;nbsp;informa&amp;ccedil;&amp;otilde;es m&amp;iacute;nimas para dar uma volume inicial ao&amp;nbsp;&lt;span class=&quot;il&quot;&gt;site&lt;/span&gt;.&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;Mas &amp;quot;conte&amp;uacute;&lt;span class=&quot;il&quot;&gt;do&amp;quot;&lt;/span&gt;&amp;nbsp;mais adequado &amp;agrave; realidade percebida pelos agricultores est&amp;aacute; sendo planejado junto com&amp;nbsp;Andrade e Edinaldo. O que precisa ser acrescentado? O que precisa ser retirado?&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;Algumas informa&amp;ccedil;&amp;otilde;es para quem quiser replicar a experi&amp;ecirc;ncia:&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;i&gt;1. O Sistema de Gerenciamento de Conte&amp;uacute;&lt;span class=&quot;il&quot;&gt;do&lt;/span&gt;&lt;/i&gt;&lt;/div&gt;
+&lt;div&gt;N&amp;oacute;s usamos o &amp;nbsp;Wordpress, que &amp;eacute; um&amp;nbsp;&lt;i&gt;sistema de gerenciamento de conte&amp;uacute;&lt;span class=&quot;il&quot;&gt;do&lt;/span&gt;&lt;/i&gt;&amp;nbsp;feito em Software Livre e simples de ser gerenciado.&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;Entendemos que usar o Wordpress significa que em pouco tempo as pr&amp;oacute;prias fam&amp;iacute;lias estar&amp;atilde;o podendo adicionar conte&amp;uacute;&lt;span class=&quot;il&quot;&gt;do&lt;/span&gt;&amp;nbsp;no&amp;nbsp;&lt;span class=&quot;il&quot;&gt;site&lt;/span&gt;&amp;nbsp;e manipular as informa&amp;ccedil;&amp;otilde;es de forma simplificada. &amp;Eacute; essa autonomia que buscamos .&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;i&gt;2. A Identidade Visual.&lt;/i&gt;&lt;/div&gt;
+&lt;div&gt;A identidade visual de um&amp;nbsp;&lt;span class=&quot;il&quot;&gt;site&lt;/span&gt;&amp;nbsp;em wordpress pode ser trabalhada de diferentes maneiras, mas geralmente (para n&amp;atilde;o programadorxs) seguindo um padr&amp;atilde;o em torno de: cabe&amp;ccedil;alho, fundo da p&amp;aacute;gina, rodap&amp;eacute; e colunas laterais a partir de um modelo, que no Wordpress &amp;eacute; chamado de &amp;quot;template&amp;quot;.&lt;/div&gt;
+&lt;div&gt;Ent&amp;atilde;o fizemos uma busca por um template que j&amp;aacute; tivesse algo associado a meio ambiente, ecologia etc.&lt;/div&gt;
+&lt;div&gt;Decidimos pelo template Graphene, que &amp;eacute; o mesmo que o Minist&amp;eacute;rio&amp;nbsp;&lt;span class=&quot;il&quot;&gt;do&lt;/span&gt;&amp;nbsp;Meio Ambiente usou para o seu&amp;nbsp;&lt;span class=&quot;il&quot;&gt;site&lt;/span&gt;&amp;nbsp;da Rio+20.&amp;nbsp;As personaliza&amp;ccedil;&amp;otilde;es que foram feitas no Graphene&amp;nbsp;&lt;span class=&quot;il&quot;&gt;do&lt;/span&gt;&amp;nbsp;&lt;span class=&quot;il&quot;&gt;Site&lt;/span&gt;&amp;nbsp;&lt;span class=&quot;il&quot;&gt;do&lt;/span&gt;&amp;nbsp;MMA RIo+20 foram nossa inspira&amp;ccedil;&amp;atilde;o inicial, inclusive adotamos a mesma id&amp;eacute;ia de fundo de&amp;nbsp;&lt;span class=&quot;il&quot;&gt;site&lt;/span&gt;.&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;T&amp;iacute;nhamos o desafio de criar um&amp;nbsp;&lt;span class=&quot;il&quot;&gt;site&lt;/span&gt;&amp;nbsp;que a Identidade Visual remetesse ao produto que o consumidor encontra nos supermercados. Por isso intensificou-se uma pesquisa de cores, marca, posi&amp;ccedil;&amp;atilde;o, imagens, texto, tudo para alcan&amp;ccedil;ar este objetivo. Ao mesmo tempo, quer&amp;iacute;amos dar um visual &amp;nbsp;que comunicasse a import&amp;acirc;ncia de Inova&amp;ccedil;&amp;atilde;o na pr&amp;aacute;tica da Agricultura Familiar no Semi&amp;aacute;rido. A seguir apresentamos alguns detalhes desse planejamento e resultados&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;i&gt;a) Identidade Visual no Cabe&amp;ccedil;alho&lt;/i&gt;&lt;/div&gt;
+&lt;div&gt;Os arquivos em Vetorial originais da Marca dos&amp;nbsp;&lt;span class=&quot;il&quot;&gt;Org&amp;acirc;nicos&lt;/span&gt;&amp;nbsp; estavam em Corel Draw, que &amp;eacute; software propriet&amp;aacute;rio, portanto n&amp;atilde;o t&amp;iacute;nhamos como manipul&amp;aacute;-los. Tivemos ent&amp;atilde;o que recriar todas as imagens em Software Livre. Usamos para isto os Softwares: Inkscape e Gimp.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;Criamos uma r&amp;eacute;plica&amp;nbsp;&lt;span class=&quot;il&quot;&gt;do&lt;/span&gt;&amp;nbsp;sol com a estrada arada, que inicialmente &amp;nbsp;est&amp;aacute; nos r&amp;oacute;tulos da APIVAS, asssim como uma &amp;quot;fita&amp;quot; com fundo verde e bordas brancas com o nome &amp;quot;&lt;span class=&quot;il&quot;&gt;Org&amp;acirc;nicos&lt;/span&gt;&amp;quot; dentro. Essa fita tenta se assemelhar &amp;agrave;quela&amp;nbsp;&lt;span class=&quot;il&quot;&gt;do&lt;/span&gt;&amp;nbsp;novo r&amp;oacute;tulo, assim como o texto &amp;quot;Per&amp;iacute;metro Irrigado V&amp;aacute;rzeas de Sousa&amp;quot;, que est&amp;aacute; no r&amp;oacute;tulo dos produtos em vermelho e com fundo branco.&amp;nbsp;Trabalhamos uma &amp;nbsp;imagem de fundo para dar uma ideia de horizonte long&amp;iacute;nquo. Juntamos esses elemento em uma composi&amp;ccedil;&amp;atilde;o com certos destaques e textos complementares.&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;Todos os verdes definidos no processo gr&amp;aacute;fico est&amp;atilde;o na cor HEX #005500 ou em degrad&amp;ecirc;s por ela compostos. Os verdes dos menus e&amp;nbsp;&lt;span class=&quot;il&quot;&gt;do&lt;/span&gt;&amp;nbsp;fundo&amp;nbsp;&lt;span class=&quot;il&quot;&gt;do&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;il&quot;&gt;site&lt;/span&gt;&amp;nbsp;acompanham esta padroniza&amp;ccedil;&amp;atilde;o.&amp;nbsp;&lt;span&gt;Todo o texto no cabe&amp;ccedil;alho est&amp;aacute; na fonte, tamb&amp;eacute;m livre, &amp;quot;URW Palladio L&amp;quot;.&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;i&gt;b) Identidade Visual no Fundo&lt;/i&gt;&lt;/div&gt;
+&lt;div&gt;O fundo&amp;nbsp;&lt;span class=&quot;il&quot;&gt;do&lt;/span&gt;&amp;nbsp;&lt;span class=&quot;il&quot;&gt;site&lt;/span&gt;&amp;nbsp;foi desenvolvido em Inkscape usando um degrad&amp;ecirc;&amp;nbsp;&lt;span class=&quot;il&quot;&gt;do&lt;/span&gt;&amp;nbsp;verde HEX #005500 e o tra&amp;ccedil;o&amp;nbsp;&lt;span class=&quot;il&quot;&gt;do&lt;/span&gt;&amp;nbsp;&amp;quot;Sol / Arado&amp;quot; branco, &amp;nbsp;rasterizado a partir de um bitmap. O efeito usado para a multiplica&amp;ccedil;&amp;atilde;o&amp;nbsp;&lt;span class=&quot;il&quot;&gt;do&lt;/span&gt;&amp;nbsp;sol arado &amp;eacute; o de clonagem em ladrilho. O tamanho da Imagem de fundo de de 1920 X1080 px. A imagem foi otimizada para Web no Software GIMP, reduzindo assim o seu tamanho de 600Kb para 113KB, deixando-a mais r&amp;aacute;pida para ser carregada na Web.&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;i&gt;3) &amp;Aacute;reas e Classifica&amp;ccedil;&amp;atilde;o de Conte&amp;uacute;&lt;span class=&quot;il&quot;&gt;do&lt;/span&gt;.&lt;/i&gt;&lt;/div&gt;
+&lt;div&gt;Foram criadas &amp;Aacute;reas de Conte&amp;uacute;&lt;span class=&quot;il&quot;&gt;do&lt;/span&gt;&amp;nbsp;para a P&amp;aacute;gina Inicial com slide de Not&amp;iacute;cias + Destaque aos Produtos + Informa&amp;ccedil;&amp;atilde;o Geral e&amp;nbsp;&lt;span class=&quot;il&quot;&gt;do&lt;/span&gt;&amp;nbsp;Projeto.&lt;/div&gt;
+&lt;div&gt;A preocupa&amp;ccedil;&amp;atilde;o com o conte&amp;uacute;&lt;span class=&quot;il&quot;&gt;do&lt;/span&gt;&amp;nbsp;da P&amp;aacute;gina Inicial se centrou em dar principalmente uma conota&amp;ccedil;&amp;atilde;o COMERCIAL para o&amp;nbsp;&lt;span class=&quot;il&quot;&gt;site&lt;/span&gt;, que entendemos ser importante para os neg&amp;oacute;cios dos agricultores, mas, ainda h&amp;aacute; muito a ser planejado e principalmente no tocante a como colocar as informa&amp;ccedil;&amp;otilde;es sobre o processo de produ&amp;ccedil;&amp;atilde;o. Para o slide de not&amp;iacute;cias n&amp;atilde;o estamos usando o original&amp;nbsp;&lt;span class=&quot;il&quot;&gt;do&lt;/span&gt;&amp;nbsp;template Graphene, mas sim o plugin SlYder&amp;nbsp;&lt;span class=&quot;il&quot;&gt;do&lt;/span&gt;&amp;nbsp;wordpress. &amp;nbsp;H&amp;aacute; muita coisa ainda a ser discutida &amp;nbsp;sobre conte&amp;uacute;&lt;span class=&quot;il&quot;&gt;do&lt;/span&gt;&amp;nbsp;e organiza&amp;ccedil;&amp;atilde;o no&amp;nbsp;&lt;span class=&quot;il&quot;&gt;site&lt;/span&gt;.&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;i&gt;4) Menu Superior&lt;/i&gt;&lt;/div&gt;
+&lt;div&gt;O menu superior guia para as principais informa&amp;ccedil;&amp;otilde;es no&amp;nbsp;&lt;span class=&quot;il&quot;&gt;Site&lt;/span&gt;&amp;nbsp;sobre os&amp;nbsp;&lt;span class=&quot;il&quot;&gt;Org&amp;acirc;nicos&lt;/span&gt;&amp;nbsp;&lt;span class=&quot;il&quot;&gt;do&lt;/span&gt;&amp;nbsp;&lt;span class=&quot;il&quot;&gt;PIVAS&lt;/span&gt;&amp;nbsp;e leva a um Formul&amp;aacute;rio de Contato, que se preenchido retornar&amp;aacute; uma mensagem para uma conta que foi criada no gmail especificamente para estes fins. Para o formul&amp;aacute;rio foram feitas personaliza&amp;ccedil;&amp;otilde;es no plugin&amp;nbsp;Simple Ajax Contact Form (SACF).&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;i&gt;5) Informa&amp;ccedil;&amp;otilde;es&amp;nbsp;&lt;span class=&quot;il&quot;&gt;do&lt;/span&gt;&amp;nbsp;Rodap&amp;eacute;.&lt;/i&gt;&lt;/div&gt;
+&lt;div&gt;No Rodap&amp;eacute;, informamos a licen&amp;ccedil;a Creativ Commons 2.5 By S.A. que &amp;eacute; a que permite at&amp;eacute; uso comercial&amp;nbsp;&lt;span class=&quot;il&quot;&gt;do&lt;/span&gt;&amp;nbsp;conte&amp;uacute;&lt;span class=&quot;il&quot;&gt;do&lt;/span&gt;, desde que seja liberado com a mesma licen&amp;ccedil;a e que os cr&amp;eacute;ditos sejam dados para o&amp;nbsp;&lt;span class=&quot;il&quot;&gt;Site&lt;/span&gt;&amp;nbsp;dos&amp;nbsp;&lt;span class=&quot;il&quot;&gt;Org&amp;acirc;nicos&lt;/span&gt;&amp;nbsp;&lt;span class=&quot;il&quot;&gt;do&lt;/span&gt;&amp;nbsp;&lt;span class=&quot;il&quot;&gt;PIVAS&lt;/span&gt;, mais detalhes aqui:&amp;nbsp;&lt;a href=&quot;http://creativecommons.org/licenses/by-sa/2.5/br/deed.pt_BR&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://creativecommons.org/licenses/by-sa/2.5/br/deed.pt_BR&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;O canto direito, que j&amp;aacute; &amp;eacute; padr&amp;atilde;o em sites wordpress, faz men&amp;ccedil;&amp;atilde;o ao uso&amp;nbsp;&lt;span class=&quot;il&quot;&gt;do&lt;/span&gt;&amp;nbsp;wordpress, tema Graphene e as personaliza&amp;ccedil;&amp;otilde;es feitas pela iniciativa &lt;a href=&quot;http://webnos.org&quot; rel=&quot;nofollow&quot;&gt;Webnos&lt;/a&gt;.&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/09-11-12/Projeto-Interacao-Web-Agricultura-Familiar-Organica#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/agricultura-familar">agricultura familar</category>
+ <category domain="http://rede.metareciclagem.org/assunto/agroecologia">agroecologia</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metareciclagem">metareciclagem</category>
+ <category domain="http://rede.metareciclagem.org/assunto/org%C3%A2nicos">orgânicos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/organicosdopivas">organicosdopivas</category>
+ <category domain="http://rede.metareciclagem.org/assunto/Paraiba">Paraíba</category>
+ <category domain="http://rede.metareciclagem.org/assunto/Semiarido">Semiárido</category>
+ <category domain="http://rede.metareciclagem.org/assunto/Sertao">Sertão</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/adversos" xmlns="http://drupal.org/project/og">(ad)versos</group>
+ <pubDate>Fri, 09 Nov 2012 22:49:46 +0000</pubDate>
+ <dc:creator>o2</dc:creator>
+ <guid isPermaLink="false">2149 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

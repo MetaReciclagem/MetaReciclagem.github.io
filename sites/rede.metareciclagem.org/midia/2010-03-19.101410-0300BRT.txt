@@ -1,0 +1,390 @@
+Conversation with #metareciclagem at Sex 19 Mar 2010 10:14:10 BRT on efeefe@irc.freenode.org (irc)
+(10:14:13) #metareciclagem: Modo (+o efeefe) por ChanServ
+(10:24:47) dasilva: seguinte Regi
+(10:24:52) dasilva: indo pros diretos
+(10:25:14) dasilva: o q oces do Cewaste tavam pensando pro Economia Viva?
+(10:25:41) regi_: na real, somos nos da ceara em foco
+(10:26:04) dasilva: Sim
+(10:26:06) regi_: eh a ong que ta comecando agora com um galpao
+(10:26:19) regi_: pra metarec que ja ta todo adaptado
+(10:26:20) efeefe: eh em fortaleza mesmo, regi?
+(10:26:25) regi_: isso mesmo
+(10:26:39) regi_: no benfica, que eh um bairro mais boemio
+(10:26:53) regi_: das universidades e de bares
+(10:27:11) regi_: digo isso porque a ideia eh que seja uma casa de cultura
+(10:27:29) regi_: cultura livre, que proporcione varias interacoes
+(10:28:05) efeefe: legal
+(10:28:06) regi_: e que ajude coletivos, pessoas a gerar renda
+(10:28:29) efeefe: começar a rede litoranea de metareciclagem
+(10:28:32) regi_: mas tem o galpao especifico da meta, que foi a primeira atividade
+(10:28:36) efeefe: bailux, ubatuba, etc ;)
+(10:28:45) regi_: eh mesmo
+(10:28:52) mondegrass: ? de encher os olhos
+(10:28:56) barraponto [~aleph@201.82.139.77] entrou na sala.
+(10:29:05) regi_: essa galera que ta la veio do casa brasil
+(10:29:13) efeefe: saquei
+(10:29:16) regi_: aqui o casa brasil funcionou bem
+(10:29:28) efeefe: ces nao chegaram a criar registro de esporo lá no site metarec, né?
+(10:29:36) regi_: a meta tambem em todas as unidades
+(10:29:37) efeefe: lembro que tinha um da granja portugal ou algo assim
+(10:29:48) regi_: tem sim, acho que o elton colocou na rede ja
+(10:31:02) regi_: tem granja, antonio bezerra, vila uniao em fortaleza e caucaia
+(10:31:02) regi_: a comunidade se envolveu e desenvolveu projetos
+(10:31:22) efeefe: tem quatro pontos em fortaleza no mapa
+(10:31:22) regi_: tinha o pc metareciclado que os meninos da comunidade tocavam
+(10:31:23) efeefe: http://rede.metareciclagem.org/map/node
+(10:31:28) efeefe: legal
+(10:31:31) efeefe: várias atividades
+(10:31:35) regi_: enfim, re-faziam pcs pras associacoes de bairro etc
+(10:31:43) efeefe: mas e aí, pro edital economia viva qual é a ideia?
+(10:31:50) regi_: mas esses pontos morreram com o desmonte do casa brasil
+(10:31:58) regi_: que vcs devem saber
+(10:32:12) regi_: soh pra explicar de onde vem o pessoal
+(10:32:41) dasilva: ok
+(10:32:41) mondegrass: hm
+(10:32:41) regi_: a gente tem essa articulacao com a cewaste, que eh um projeto de pesquisa
+(10:33:52) regi_: pois eh
+(10:33:52) regi_: nao podemos propor projeto porque a dea ta na coordenacao do edital
+(10:33:52) regi_: nao seria legal
+(10:33:52) dasilva: isso
+(10:33:52) regi_: aih queria saber o que vcs ja pensaram
+(10:33:56) regi_: na verdade acho que temos que pensar quantos esporos seriam porque a grana nao eh muita
+(10:34:04) regi_: pra saber o que da pra fazer
+(10:34:22) dasilva: acho que eu n tava pensando em termos de esporos
+(10:34:25) dasilva: n sei o efe
+(10:34:54) regi_: o que vc tava pensando, dasilva
+(10:35:38) dasilva: algo descentralizado e pra coordenar online
+(10:36:13) dasilva: tem uma base pra comecar que eh a ideia do microreciclagem: http://rede.metareciclagem.org/wiki/MicroReciclagem
+(10:36:28) efeefe: iswso
+(10:36:45) efeefe: orlando, fala um pouco mais - quero ver como tu ta entendendo o lance pra ver se me expliquei bem ateh agora ;)
+(10:37:13) dasilva: Entendi que eh o lance de apoiar iniciativas
+(10:37:27) dasilva: a pessoas que submetam projetos
+(10:38:17) dasilva: bem
+(10:38:28) dasilva: vou falar sem ler lá pra ver como tá na minha cabeça
+(10:38:40) efeefe: melhor
+(10:39:12) dasilva: Eh tipo um incentivo pra parceiros tocaram pequenos projetos que poderão servir de start pra coisas maiores
+(10:39:20) dasilva: pra comprar algum equipo
+(10:39:29) dasilva: etc
+(10:39:38) dasilva: vai ter um valo estipulado
+(10:39:55) dasilva: e aih o cara executa a proposta e documenta na Rede
+(10:40:10) dasilva: Formar um comite para avaliar os projetos submetidos
+(10:40:24) dasilva: criar criterios pra isso
+(10:40:55) dasilva: definir que tipo de projetos podem ser interessantes, mas deixando abertura pra inovações
+(10:41:12) regi_: esse edital tem uma forte vertente de geracao de renda
+(10:41:17) dasilva: entao
+(10:41:19) dasilva: ia falar isso agora
+(10:41:25) regi_: manda
+(10:41:56) dasilva: a coisa precisa apontar pra sustentabilidade
+(10:42:20) dasilva: apontar pra
+(10:42:25) dasilva: tô procurando a palavra
+(10:42:54) dasilva: como aquilo pode gerar um valor maior
+(10:42:57) dasilva: algo assim
+(10:43:14) dasilva: isso eu tô falando dos projetos a serem submetidos
+(10:43:20) dasilva: Entao
+(10:43:24) dasilva: resumindo
+(10:44:10) efeefe: por aih
+(10:44:16) dasilva: Um Economia Viva para estabelecer um programa de "microcredito" em X iniciativas que mostrem via pequenos pojetos
+(10:44:27) efeefe: mas quero contextualizar um pouco e tambem desconstruir o que a gente jah tinha ateh agora, posso?
+(10:44:37) regi_: opa, pode
+(10:44:42) dasilva: Deve!
+(10:44:58) efeefe: acho que a gente parte de duas referencias
+(10:46:00) efeefe: uma eh a experiencia da rede: saber que a metareciclagem tem 450 pessoas de formacoes, bases, expectativas diferenciadas. e que essas pessoas, mesmo que a maioria normalmente em silencio, acumulam uma potencia de ligacoes e ajudas que a gente ainda tenta entender como desenvolver ao maximo.
+(10:46:26) barraponto saiu da sala (quit: Remote host closed the connection).
+(10:46:38) efeefe: a outra eh toda a conceituacao por tras da ideia do microcredito (e nao necessariamente a parte financeira da coisa em si): autogestao, tarefas distribuidas em rede, etc.
+(10:46:56) efeefe: o livro do yunus eh uma referencia muito boa, - o banqueiro dos pobres.
+(10:46:56) dasilva: gostei do nao necessariamente a parte financeira
+(10:47:00) efeefe: pessimo titulo, mas enfim
+(10:47:17) regi_: conheco
+(10:47:44) efeefe: aih o que a gente decidiu nas conversas sobre como aplicar o recurso do premio de midia livre que ganhamos ano passado foi que uma parte daquela verba seria pra criar um mecanismo de apoio a projetos de metareciclagem
+(10:48:14) dasilva: sim
+(10:48:19) efeefe: a gente chamou de microreciclagem como referencia direta a todo o lance de microcredito. mas com o tempo, isso me pareceu um pouco referencia direta demais, que pode levar as pessoas a equivocos
+(10:48:45) efeefe: o que acho mais importante eh a gente criar uma dinamica dentro da rede que permita as pessoas aprenderem umas com as outras a articular seus proprios projetos
+(10:49:08) efeefe: e que a gente construa um conselho de acompanhamento disso, com pessoas reconhecidas pela rede
+(10:49:14) dasilva: Economia MetaRec do sentido original do Grego Oikos Nomia
+(10:49:20) efeefe: exato
+(10:49:27) dasilva: Cuidar da casa, da família
+(10:50:07) efeefe: na pratica, o que imagino de comeco eh a abertura de uma chamada de "projetos" dentro da rede metareciclagem. qualquer pessoa de qualquer lugar vai poder mandar suas ideias de projetos. 
+(10:50:31) efeefe: o conselho escolhe os que sao mais promissores, dah feedback pros outros, etc.
+(10:50:42) efeefe: cada projeto selecionado tem pelo menos 1 mentorx/organizadorx
+(10:51:56) efeefe: e a partir dai se cria uma dinamica de gestao de projetos mesmo: cada projeto e seu orientadorx (era essa a palavra, desculpem) buscam maneiras de viabilizar aquele projeto
+(10:52:10) efeefe: pode ser escrevendo, indicando referencias, cursos, etc.
+(10:52:32) efeefe: pode ser pagando pra comprar equipamentos, ou bancar atividades, ou passagens pra participar de eventos, ou fazer cursos, ou ...
+(10:52:36) efeefe: uma visao ampla de "recursos"
+(10:52:48) efeefe: mas em suma, o que imagino eh a dinamizacao de uma rede de articulacao de projetos
+(10:54:39) dasilva: Ok
+(10:54:41) efeefe: que vai muito alem do lance de "dinheiro"
+(10:54:46) dasilva: Sim
+(10:54:47) efeefe: mas tambem conta com isso quando necessario
+(10:55:35) efeefe: sob outra perspectiva, eh uma maneira de juntar a potencia de todos esses pequenos projetos, captar recursos de maior monta e depois distribui-los
+(10:55:43) dasilva: E para o Economia Viva proporiamos Um X dessa  dinamizacao de uma rede de articulacao de projetos?
+(10:57:12) efeefe: acho que pro economia viva a gente pede pra viabilizar toda a meta-estrutura necesaria pra isso
+(10:57:25) efeefe: formacao do conselho, integracao na infralogica, chamadas
+(10:57:29) efeefe: e reserva uma grana pra projetos
+(10:57:38) efeefe: o que eh interessante dos premios eh que a prestacao de contas eh mais simples
+(10:58:12) dasilva: Via Descentro ainda?
+(10:58:15) mondegrass: eu to acompanhando aqui, e pensando tb...
+(10:58:35) dasilva: fala Doug, beleza.
+(10:58:56) dasilva: Regi, como vc vê isso?
+(10:59:36) regi_: acho que eh importante pensar que esses projetos nao dependam mais de editais com o tempo... a tal sustentabilidade
+(10:59:54) efeefe: dasilva: acho que via descentro
+(11:00:24) regi_: a gente ta tentando fazer desenvolvimento de prototipos
+(11:00:25) efeefe: regi_: sim, concordo. foi justamente por isso que eu comecei a desconstruir a ideia de "credito" da reflexao
+(11:00:40) regi_: e encaminhamento pra reciclagem daquilo que sobra
+(11:00:55) efeefe: pra concentrar mais na coisa de formar uma rede de projetos, onde cada um busca seu proprio caminho de sustentabilidade
+(11:00:57) regi_: vendendo pro reciclador
+(11:01:24) regi_: eh que eu acho que isso jah tem que estar apontado no projeto
+(11:02:03) regi_: como segura as pessoas trabalhando, como faz destinacao ambientalmente correta, como desenvolve tecnologia
+(11:02:04) efeefe: regi_: por exemplo, trazendo esse projeto de voces pra dentro da rede - se eu fosse a pessoa escolhida pra orientar acho que sugeriria nao grana, mas um intercambio com o glauco paiva pra troca de ideias sobre prototipos e essas coisas
+(11:02:29) dasilva: esse caminho de lidar com o e-lixo nos projetos que se nomeiam "MetaReciclagem" eh uma coisa que Régis tb tá começando a articular
+(11:03:08) efeefe: sim
+(11:03:09) efeefe: tah fogo
+(11:03:14) efeefe: terra sem lei
+(11:03:21) dasilva: exato
+(11:03:24) efeefe: mas agora pelo menos a PNRS comecou a andar
+(11:03:25) dasilva: tava pensando nisso
+(11:03:29) efeefe: e daqui a pouco tem a resolucao do conama
+(11:03:38) efeefe: isso eh outra coisa que a gente pode juntar a rede
+(11:03:41) dasilva: pq é fácil pensar em mandar pro reciclador
+(11:03:48) efeefe: sei que em salvador o pessoal tah com um encaminhamento bom
+(11:03:56) efeefe: pelo que entendi no ceara tambem neh regi?
+(11:04:03) dasilva: mas tem o contexto moral / ambiental desse reciclador
+(11:04:39) dasilva: efe: o que vc chama de encaminhamento bom?
+(11:04:39) regi_: a gente tem trabalhado em parceria com o reciclador
+(11:05:02) efeefe: dasilva: correto em termos ambientais, trabalhistas e sociais
+(11:05:18) efeefe: regi_: quem banca a reciclagem?
+(11:05:20) dasilva: efeefe: blz
+(11:06:12) efeefe: o que eu vejo eh que dentro da metareciclagem muita gente tem pequenas respostas e outras pessoas tem as perguntas exatas, mas nao consegue articular
+(11:07:22) regi_: a gente vende o que nao consegue aproveitar
+(11:07:38) regi_: pra um reciclador que manda pra sampa, porque aqui nao tem essa industria
+(11:07:54) regi_: mas que trabalha soh com eletro-eletronicos
+(11:08:09) dasilva: Uma proposta que acho que encaixa nos lances
+(11:08:19) dasilva: eh rever aquele lance da logistica distribuida
+(11:08:31) regi_: e ele tambem deixa a gente triar o que ele rece pra aproveitar
+(11:08:46) regi_: assim usamos dois pontos de coleta a ceara em foco e a empresa
+(11:09:06) regi_: enfim, mas voltando
+(11:09:16) regi_: acho que o apoio em rede eh muito massa
+(11:09:22) dasilva: e uma Central de Informação sobre essas Empresas que Reciclam
+(11:09:31) regi_: o problema nosso eh que fica o ovo e a galinha
+(11:09:49) dasilva: Como assim Regi?
+(11:09:52) regi_: nao conseguimos ter gente direto la pra fazer funcionar porque nao tem grana
+(11:10:00) regi_: e nao tem grana porque nao tem gente la
+(11:10:24) regi_: por enquanto estamos na raca, o que tem gerado ta indo pra melhorias do espaco
+(11:10:51) dasilva: Gente pra triar, catalogar, arquivar Hardware? (visão de operações em baixo nível)
+(11:11:06) regi_: precisamos de gente la pra receber material por exemplo, eh o minimo
+(11:11:15) regi_: disponibilidade pra receber material
+(11:11:38) regi_: a triagem, catalogacao tem sido feito no coletivo
+(11:11:40) regi_: por mutiroes
+(11:12:39) efeefe: entendi
+(11:12:44) dasilva: Tô vendo dois projetos diferentes que podem ser pontas de um mesmo processo
+(11:12:52) dasilva: Mas tô sem dimensões de valores a trabalhar
+(11:12:56) dasilva: preciso por pé no chão
+(11:13:59) regi_: acho que tem um estimulo as trocas pela rede com orientacao de projetos
+(11:14:13) regi_: pelo que entendi da ideia de voces
+(11:16:05) regi_: talvez se a gente focasse esse apoio em locais ja estruturados...
+(11:16:21) regi_: daria pra dar o passo da sustentabilidade
+(11:16:48) dasilva: efefe: como você vê isso?
+(11:16:56) efeefe: eu acho que foge um pouco da liberdade que a gente quer dar pra essa rede
+(11:17:09) efeefe: porque queremos apoiar ateh projetos que nao estao estruturados
+(11:17:12) efeefe: ou que nao querem se estruturar
+(11:17:55) regi_: eh que eu to pensando no foco desse edital
+(11:17:58) efeefe: o que imagino eh os projetos que jah sao estruturados e documentam na rede indiquem conselheirxs
+(11:18:08) efeefe: eu ainda nao li o texto do edital
+(11:18:28) efeefe: costumo soh fazer isso depois de ter bem claro o que quero fazer, pra nao ficar maluco tentando encaixar tudo
+(11:18:29) dasilva: passei a vista
+(11:18:31) regi_: talvez para novos pontos o edital de cultura digital seja mais o caso, nao?
+(11:18:44) efeefe: regi_: mas o lance eh que nao sao novos pontos
+(11:18:52) efeefe: a metareciclagem jah eh um ponto de midia livre
+(11:19:06) dasilva: isso
+(11:19:09) efeefe: queremos desenvolver uma dinamica de rede atraves dele
+(11:19:20) efeefe: que de espaco pra todo mundo que faz metareciclagem pelo brasilzao
+(11:19:42) dasilva: Olha entendi que enquanto o que a MetaReciclagem tá pensando
+(11:19:50) dasilva: foca em iniciativas a serem trabalhadas
+(11:20:02) efeefe: "a metareciclagem" nao existe
+(11:20:03) dasilva: Regi e a galera aí tá pensando
+(11:20:08) efeefe: regi e galera tambem sao metarec
+(11:20:17) dasilva: vai te catar efefe
+(11:20:26) dasilva: hehe
+(11:20:37) dasilva: entao entendi que essa conversa
+(11:20:43) dasilva: recontextualizando
+(11:20:53) dasilva: anterior de apoio a projetos
+(11:20:57) dasilva: segue num caminho
+(11:21:18) dasilva: e esse lance MetaRec de sustentabilidade de projetos em andamento segue em outro
+(11:21:31) dasilva: são dois projetos diferentes na minha cabeça agora
+(11:22:03) efeefe: sim
+(11:22:10) efeefe: acho que os dois são necessários na real
+(11:22:24) efeefe: talvez dê pra focar um projeto em um lugar específico
+(11:22:28) efeefe: pra virar referência pra rede
+(11:22:37) efeefe: todas as possibilidades de viabilização e sustentabilidade locais
+(11:23:19) efeefe: tem o lance de fazer "objetos" com lixo eletronico e vender, de dar cursos, consultoria em tecnologia, vender o resíduo de material
+(11:23:28) dasilva: No caso 2: Regi, c acha que temos como coletar info de potencial de retorno com o lixo
+(11:23:35) dasilva: ?
+(11:24:05) dasilva: Aih dimensionar como isso poderia sustentar uma estrutura?
+(11:24:27) regi_: o problema eh que isso vai variar muito com o local
+(11:24:41) dasilva: E então propor um projeto modelo pra ser experimentado ai em Fortaleza?
+(11:24:45) regi_: porque toda a industria ta em sampa
+(11:24:57) dasilva: Então
+(11:25:27) regi_: a gente depende dessa empresa que tem todas as licencas pra operar com isso, com a logistica inter-estadual etc
+(11:25:29) dasilva: eu tava pensando no projeto vir com uma proposta para criar algo que vise diminuir essa suposta "desfavorabilidade"
+(11:25:59) dasilva: e o caso eh manter a parceria ou não?
+(11:26:17) regi_: ou talvez fosse legal focar em um aspecto da meta
+(11:26:23) regi_: pra desenvolver como rede
+(11:26:35) regi_: por exemplo essa historia dos prototipos
+(11:26:52) regi_: a gente faz coisas legais, que podem ate ser vendaveis
+(11:27:08) efeefe: sim
+(11:27:15) efeefe: tem umas coisas legais nesse sentido
+(11:27:24) efeefe: sei que ai no ceara ces fizeram algumas experiencies
+(11:27:30) regi_: uma coisa que eu acho muito legal e que ateh vai contra a industria
+(11:27:45) efeefe: tem as coisas da nana, com joias, que ligam com as coisas lah do pessoal em arraial
+(11:27:52) efeefe: tem as piracoes do glauco
+(11:28:13) regi_: eh fazer equipamentos compativeis com diversos formatos, varios tipos de entradas e saidas por exemplo
+(11:28:23) efeefe: mas tambem tem que estudar bem o lance de isolamento de materiais, de nao vazar lixo toxico
+(11:28:24) dasilva: bacana
+(11:28:49) regi_: a questao da segurancao com certeza eh uma
+(11:28:49) dasilva: deixar o mínimo possível pra essa venda do reciclo
+(11:28:54) dasilva: eh essa a ideia?
+(11:28:56) regi_: exato
+(11:29:01) efeefe: sim
+(11:29:03) efeefe: aproveitar ao maximo
+(11:29:08) efeefe: porque a reciclagem eh custosa
+(11:29:13) efeefe: e se tem que transportar, pior ainda
+(11:29:22) efeefe: combustivel fossil pra transportar
+(11:29:25) efeefe: brasil nao tem trem
+(11:29:29) dasilva: tô ligado
+(11:29:30) regi_: e mesmo ajudar a confrontar o design industrial
+(11:29:38) regi_: que nada eh compativel com nada
+(11:29:49) regi_: nem as baterias de celulares, carregadores
+(11:29:56) regi_: que sao altamente descartaveis
+(11:30:29) regi_: trabalhar esse aspecto de prototipos que aumentem o uso do material
+(11:30:29) dasilva: Aih jah saimos do lance operacional e fomos para um lance mais tecnico conceitual
+(11:30:42) dasilva: mas entendo que tao ligadas as coisas
+(11:30:44) regi_: (uma hora ele vai pra reciclagem, nao tem jeito)
+(11:31:34) dasilva: Ok
+(11:31:36) regi_: mas tambem abrir um discurso de sustentabilidade com relacao ao design
+(11:31:56) dasilva: Indo pra parte pratica do Edital
+(11:32:23) regi_: aqui no ceara e acho que em outros locais, o low-tech ainda tem miuto apelo
+(11:32:52) regi_: a gente faz uns sonzinhos com fonte, leitor de cd e caixas de som, super simples, mas que o pessoal gosta
+(11:33:02) regi_: enfim, indo pra parte do edital
+(11:33:04) dasilva: No próximo final de semana rascunho o que tô entendendo da primeira conversa.
+(11:33:26) regi_: se a gente elege um aspecto como esse pra dar conta, dá pra atuar em rede
+(11:33:32) dasilva: Gostei dessa dos sonzinhos!
+(11:33:36) efeefe: sim
+(11:33:59) efeefe: na real ateh na ideia de uma rede de projetos dah pra pensar em formacoes entre-rede que facam esse tipo de pesquisa
+(11:34:04) efeefe: de produtos, etc.
+(11:34:10) regi_: eh
+(11:34:59) dasilva: Quando termina a Teia?
+(11:35:07) efeefe: em cima
+(11:35:31) regi_: termina dia 31
+(11:35:52) regi_: acho que vai ter forte pressao pra adiarem
+(11:35:58) regi_: porque eh um calendario louco
+(11:36:07) regi_: ateh 10 de abril esses editais
+(11:36:22) regi_: mas como eh ano de eleicao, melhor nao confiar em mudanca
+(11:36:48) regi_: a galera ta reclamando muito dos prazos..
+(11:37:16) efeefe: sim
+(11:37:35) efeefe: nos ultimos dois anos, todos os editais do minc & afins que eu participei foram prorrogados
+(11:37:40) efeefe: mas corre o risco de esse nao ser :P
+(11:37:56) regi_: eh sim
+(11:38:02) dasilva: Melhor nao contar com prorrogacao
+(11:38:02) efeefe: dasilva: tu consegue dedicar algum tempo a escrever esse?
+(11:38:07) dasilva: sim
+(11:38:07) efeefe: fazemos um gdoc ou algo assim
+(11:38:13) dasilva: Isso
+(11:38:22) efeefe: eu to dentro tambem, mas tambem to agitando 3 inscricoes em outros editais
+(11:38:37) dasilva: A partir do proximo final de semana, como eu disse
+(11:38:42) efeefe: belez
+(11:38:46) dasilva: to ligado
+(11:38:51) efeefe: eu jah vou escrevendo antes num gdoc e compartilho contigo
+(11:39:00) dasilva: faz o que der aih
+(11:39:08) dasilva: to ligado em ralar no lance
+(11:39:16) regi_: posso tentar ajudar tambem
+(11:39:24) dasilva: Massa Regi
+(11:39:41) dasilva: E entao vamos pensar em 2 ou pensar como juntar as duas ideais?
+(11:40:28) efeefe: nao sei
+(11:40:37) dasilva: Regi, o q c acha?
+(11:40:40) efeefe: eu acho que o melhor eram duas inscricoes
+(11:40:46) efeefe: mas nao acho que a gente consiga ter perna pra tudo isso
+(11:41:46) regi_: eh precisava de mais gente pra dois projetos, de repente jogando na lista aparece
+(11:41:59) dasilva: nao espero
+(11:43:25) dasilva: regi, o que vc precisaria pra comecar a rascunhar essa coisa que me parece jah meio clara na tua cabeca?
+(11:43:45) dasilva: fora passar a Teia.
+(11:44:08) regi_: na verdade fico bem timida porque sou nova na rede, acho que os conceitos precisam de tempo pra sedimentar
+(11:44:30) regi_: fora nao conhecer tao bem o que ja rola na rede
+(11:44:48) efeefe: tenha medo nao
+(11:44:49) efeefe: ;)
+(11:44:54) efeefe: todo mundo eh novo na rede
+(11:44:57) regi_: esse edital pede muita coisa
+(11:44:59) efeefe: nao precisa tanto tempo nao
+(11:45:03) regi_: quase um plano de negocios
+(11:45:11) efeefe: o lance eh desencanar de falar em nome de toda a rede
+(11:45:14) efeefe: ninguem consegue isso
+(11:45:18) regi_: hehe
+(11:45:19) efeefe: pensa em subgrupos, e tah valendo
+(11:45:43) dasilva: ok
+(11:45:44) efeefe: o mais certo eh dizer: vamos escrever o projeto pra esse grupo de pessoas nesse lugar, que tambem faz parte da metareciclagem
+(11:45:48) dasilva: entao vamos fazer assim
+(11:45:52) efeefe: e aih se documentar e compartilhar os textos com a rede, melhor
+(11:45:58) efeefe: porque pode ser util pra outrxs
+(11:45:59) dasilva: vou ler todo o edital e listar no que posso te ajudar
+(11:46:12) dasilva: vc faz o mesmo?
+(11:46:22) regi_: posso comecar a pensar em atividades e tals, depois a gente incorpora textos conceituais
+(11:46:26) regi_: faco sim
+(11:46:29) dasilva: pronto
+(11:46:35) dasilva: isso jah e uma
+(11:46:38) dasilva: muito boa
+(11:46:48) dasilva: o conceitual acho que eh o mais facil
+(11:47:10) regi_: pode cre, te sigo no twitter rs
+(11:47:37) efeefe: heh
+(11:47:41) efeefe: mas entao, duas inscricoes?
+(11:47:52) efeefe: acho que soh deve poder uma por PJ, neh?
+(11:48:04) efeefe: pensei nessa da rede de projetos pelo descentro
+(11:48:13) dasilva: Ponto pode
+(11:48:18) dasilva: eu vi la
+(11:48:24) dasilva: Bom
+(11:48:25) efeefe: alias, se nao vamos chamar de microreciclagem porque eh muito microcredito, como chamamos?
+(11:48:29) efeefe: metarecursos?
+(11:48:33) efeefe: pra mim faz todo o sentido
+(11:48:57) dasilva: MetaRecursos
+(11:49:01) dasilva: Pode ser
+(11:49:06) regi_: massa
+(11:49:32) dasilva: E aih ja tem toda uma conversa da Tati pra ir olhar tb
+(11:49:48) mondegrass: massa
+(11:49:56) dasilva: Vou saindo nessa. Prox. Final de Semana compartilho coisas por e-mail
+(11:50:02) regi_: se vcs quiserem me indicar textos, tb aceito
+(11:50:12) regi_: coisas do glauco que o efefe comentou
+(11:50:16) dasilva: como sou inquieto talvez antes procrastinando outras atividades
+(11:50:35) regi_: ou o que for sobre MetaRecursos
+(11:50:35) regi_: rs
+(11:50:45) dasilva: regi, qual o teu twitter?
+(11:51:58) regi_: @regica
+(11:52:21) regi_: quem abre o doc, yo?
+(11:53:17) dasilva: regi_: ahh, eu tb já te sigo. Cuidado!! hehe
+(11:54:14) regi_: hehe nao dou muito perigo
+(11:54:47) efeefe: ok, vamo conversando
+(11:54:52) dasilva: Vamos começar com dois docs. O que o efeefe vai compartilhar e o seu. Pode Ser?
+(11:54:55) efeefe: eu abro o doc metarecursos
+(11:55:12) efeefe: vou tambem conversar com o descentro, ver se tudo bem inscrever por elxs
+(11:55:16) regi_: o meu eh parte e entra depois, eh isso?
+(11:55:25) dasilva: Prox conversa dia 2 de abril?
+(11:55:33) regi_: beleza
+(11:55:50) efeefe: vamos conversando por email junto com o doc
+(11:56:00) efeefe: 2 de abril eh bem em cima
+(11:56:16) efeefe: mas regi_ acho que a gente podia partir pra essa estrategia de dois projetos em paralelo
+(11:56:26) efeefe: um eh uma investigacao de sustentabilidade em projetos de metreciclagem
+(11:56:31) efeefe: bem focado em projetos que jah existam
+(11:56:42) efeefe: acho que podia envolver voces, o bailux e o metaprojeto em sampa
+(11:56:46) efeefe: triangular as coisas
+(11:56:56) efeefe: e outro eh essa rede metarecursos, mais aberta e menos focada
+(11:57:17) regi_: hum, nao tinha entendido. ok, dois projetos
+(11:57:18) efeefe: mas voces nao podem inscrever projeto porque a andrea tah lah, neh?
+(11:57:29) regi_: isso
+(11:57:57) dasilva: o doc se estivermos trabalhando neles jah faz ir conversando em paralelo
+(11:58:46) regi_: ok
+(11:59:14) dasilva: Olhamos o edital
+(11:59:19) dasilva: vemos quem  pode inscrever
+(11:59:37) dasilva: e decidimos isso nas primeiras trocas de observaçoes do edital
+(12:01:14) dasilva: ago mais, encerramos aqui?
+(12:01:48) regi_: sim. acho que rolou
+(12:02:05) regi_: muito legal o momento pra mim, valeu
+(12:04:00) efeefe: acho que eh isso
+(12:04:03) efeefe: posso publicar o log?
+(12:04:27) regi_: por mim pode
+(12:04:59) dasilva: fecha e publica

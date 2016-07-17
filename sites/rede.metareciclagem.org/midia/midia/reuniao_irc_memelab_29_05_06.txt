@@ -1,0 +1,901 @@
+Conversation with #metareciclagem at 2006-05-29 19:21:05 on felipefonseca@irc.freenode.net (irc)
+(19:21:10) felipefonseca: assunto em pauta
+(19:21:14) liquuid: a melhor foi o rrr comendo feijoada na sexta feira santa !
+(19:21:14) felipefonseca: ixe, ninguem eh op?
+(19:21:25) uira: eu sou
+(19:21:26) banto: eu nao to
+(19:21:39) felipefonseca: meu pai fazia churrasco na sexta-feira santa, soh pra provocar minha avoh
+(19:21:54) uira: hehe
+(19:22:01) uira: massa seu pai, mas e a pauta:
+(19:22:02) uira: ?
+(19:22:07) uira: hehe
+(19:22:10) felipefonseca: ok
+(19:22:15) felipefonseca: qual era mesmo?
+(19:22:16) felipefonseca: :)
+(19:22:20) felipefonseca: memelab/metapub
+(19:22:25) fabs: metapub?
+(19:22:32) liquuid: telescopio reciclado
+(19:22:41) banto!i=banto@200.155.195.153: banto mudou o tópico para: reuniao... ponto de encontro
+(19:22:41) uira: metaRecsitenovo
+(19:22:51) felipefonseca: nao
+(19:22:56) felipefonseca: memelab/metapub
+(19:22:57) liquuid: meta-hardware eh a imagem da besta ?
+(19:22:59) felipefonseca: site noto pode ser depois
+(19:23:08) fabs: o padua tinha que estar aqui pra falar no site, non?
+(19:23:11) felipefonseca: deixa explicar
+(19:23:14) felipefonseca: site eh depois
+(19:23:17) fabs: ok
+(19:23:23) uira: oks
+(19:23:24) felipefonseca: a onda eh
+(19:23:48) felipefonseca: depois de correr do Olido (ces viram materia n'a Rede?), metarec/sampa ficou desarticulado
+(19:24:00) fabs: nao vi, tem link?
+(19:24:08) felipefonseca: mando daqui a pouco
+(19:24:22) felipefonseca: bando de gente querendo e precisando de espaco, mas nao queremos mais incorrer nos mesmos erros
+(19:24:27) felipefonseca: dependencia e engessamento
+(19:24:38) felipefonseca: mezanino era legal, mas tinha pouca liberdade 
+(19:24:52) felipefonseca: principalmente em termos financeiros
+(19:25:09) felipefonseca: era soh o salario dos tres garotos. se quisessemos vender qualquer coisa, nao rolava.
+(19:25:12) liquuid: http://www.arede.inf.br/index.php?option=com_content&task=view&id=551&Itemid=239
+(19:25:27) fabs: tinha uma treta de nem poder receber máquina mais, non?
+(19:25:34) fabs: opa, valeu
+(19:25:40) uira: e a proposta eh... ?
+(19:25:43) felipefonseca: e sem querer virar comercio, mas acho que ninguem discorda que dah pra captar recursos de diversas fontes
+(19:25:45) felipefonseca: no esquema 1 pra 1
+(19:25:49) felipefonseca: calma, uira
+(19:25:56) felipefonseca: fabs: tinha como poder receber, mas a gente evitava
+(19:25:58) uira: felipefonseca, foi mal... hehe.
+(19:26:02) felipefonseca: porque nao tinha o que fazer com elas depoias
+(19:26:10) felipefonseca: nao tinhamos como doar, era moh treta
+(19:26:17) felipefonseca: e de jeito algum poderiamos vender
+(19:26:21) felipefonseca: por mais que as maquinas nao fossem deles
+(19:26:41) felipefonseca: se quiser, depois conto a historia em detalhes
+(19:27:20) fabs: jah entendi por cima, pode continuar :)
+(19:27:32) felipefonseca: a ideia agora eh fazer um espaco independente
+(19:27:48) felipefonseca: que tenha algumas coisas que assegurem um minimo que de pra pagar um aluguel e contas basicas
+(19:27:53) felipefonseca: num lugar que seja acessivel
+(19:27:57) felipefonseca: por metro e tal
+(19:28:07) felipefonseca: e que a gente possa gerenciar do nosso proprio jeito
+(19:28:48) felipefonseca: ah, aqui, pra quem quer saber mais sobre como saimos do mezanino
+(19:28:50) felipefonseca: http://metareciclagem.org/fff/?p=3347
+(19:29:04) felipefonseca: e os planos de memelab
+(19:29:05) felipefonseca: http://xango.metareciclagem.org/wiki/index.php/MetaPub
+(19:29:08) felipefonseca: ou metapub
+(19:29:15) felipefonseca: isso eh uma primeira questao a discutir
+(19:29:16) felipefonseca: o nomne
+(19:29:31) felipefonseca: um espaco publico
+(19:29:32) _alex__: opa, s? uma id?ia, pra vender coisas rola um espa?o na feira aqui, toda 4a, podia rolar uma barraquinha ao lado do brech??!
+(19:29:33) felipefonseca: "pub"
+(19:29:36) felipefonseca: meio boteco
+(19:29:55) felipefonseca: _alex__: isso pode ser invasao, legal, estender o esquema
+(19:30:01) felipefonseca: e para de usar acentos!
+(19:30:22) felipefonseca: entao, na pauta... nome
+(19:30:26) felipefonseca!n=felipe@201.6.103.134: felipefonseca mudou o tópico para: nome do barato
+(19:30:43) uira: po, eu gosto de metaPub
+(19:30:52) uira: voto nesse nome e ponto
+(19:30:54) uira: ops
+(19:31:08) felipefonseca: quando comecei a conversar com todomundo, a ideia era o barato ser o esporo central de sampa, como foram o galpao e o meanino
+(19:31:09) uira: e voto no ff pra escolhedor oficial de nomes.
+(19:31:13) felipefonseca: para, uira
+(19:31:19) banto: po... eu voto para ser grauna
+(19:31:29) felipefonseca: ai rolou que nao eh o unico esporo de sampa
+(19:31:47) felipefonseca: tem o djair e o pessoal, tem o rio pequeno, tem outros espacos que podem virar
+(19:31:59) felipefonseca: entao a ideia era chamar de outra coisa
+(19:32:12) liquuid: xemelab
+(19:32:14) felipefonseca: ai a primeira ideia que veio, por eco do papo do site descentro, foi chamar de pub
+(19:32:20) felipefonseca: de PUBlico
+(19:32:26) felipefonseca: e de boteco tambem
+(19:32:38) felipefonseca: soh que ai um ou outro comecaram a falar, po, vai ser balada metarecicleira?
+(19:32:40) felipefonseca: e pode ateh ser
+(19:32:43) felipefonseca: mas sei lah
+(19:32:47) felipefonseca: talvez nao agora
+(19:32:56) felipefonseca: talvez metapub seja melhor guardar pro futuro
+(19:33:18) banto: tem um personagem do henfil
+(19:33:23) banto: que se chama grauna
+(19:33:30) felipefonseca: aih ainda nos papos com as pessoas que mais parece que querem se envolver, percebi um interesse comum em fazer um espaco de experimentacao com mida
+(19:33:31) felipefonseca: midia
+(19:33:32) felipefonseca: mida
+(19:33:34) felipefonseca: midas
+(19:33:35) felipefonseca: medo
+(19:33:37) felipefonseca: ouro
+(19:33:54) felipefonseca: de repente, voltou o nome memelab, que era  pra ter sido um projeto do metafora, mas sempre foi lento
+(19:33:55) pixel: MeMeLab?
+(19:33:58) felipefonseca: yeah
+(19:34:02) felipefonseca: jawohl
+(19:34:16) liquuid: xemelab, xemelab !
+(19:34:40) felipefonseca: que era pra ser o metafora media lab
+(19:34:45) felipefonseca: aih tem uma brincadeira dupla
+(19:34:49) felipefonseca: que pode ser metareciclagem media lab
+(19:34:56) felipefonseca: e pode ser laboratorio de memes
+(19:35:00) banto: http://sampa3.prodam.sp.gov.br/ccsp/gibiteca/imagem/grauna.gif
+(19:35:07) felipefonseca: http://pt.wikipedia.org/wiki/Meme
+(19:35:16) felipefonseca: grauna eu gosto tambem
+(19:35:21) felipefonseca: henfil eh o cara
+(19:35:35) liquuid: banto: tu gosta dessa figura heim, ja vi em varios textos seus hhee
+(19:35:41) felipefonseca: esses dias eu tava lah no meu paraiso no meio do mato e achei uma colecao de hengfil
+(19:35:54) banto: carai
+(19:35:57) banto: vc comprou?
+(19:36:01) felipefonseca: nem
+(19:36:06) banto: ai carai
+(19:36:08) felipefonseca: tava lah guardado, eh meio de familia
+(19:36:10) pixel: tinha cartas da mae?
+(19:36:12) felipefonseca: ficou lah
+(19:36:22) felipefonseca: nao, soh quadrinhos
+(19:36:23) felipefonseca: fradim
+(19:36:26) banto: po... acho bacana o nome grauna
+(19:36:32) pixel: ah...
+(19:36:37) fabs: o grauna tem copyright?
+(19:36:40) pixel: mas, voltando ao assunto!
+(19:36:43) banto: sim
+(19:36:45) felipefonseca: fabs: deve ter
+(19:36:48) banto: mas eh uma nome
+(19:36:50) uira: eu ainda gosto de metaPub
+(19:36:53) felipefonseca: grauna eh nome de ave
+(19:36:56) banto: de um bicho que vive no sertao
+(19:37:02) felipefonseca: a grauna do henfil deve ser copyright
+(19:37:19) banto: desencanan
+(19:37:20) felipefonseca: memelab pode dar mais a cara de laboratorio, de oficina, de midia
+(19:37:30) uira: quanto ao problema de ser balada, eu acho q eh bom... 
+(19:37:32) felipefonseca: mas jah reclamaram que parece meio melado
+(19:37:39) felipefonseca: tentem ai, falem "memelab" em voz alta
+(19:37:42) felipefonseca: chato
+(19:37:49) banto: hehehe
+(19:37:55) banto: bom exemplo
+(19:37:58) felipefonseca: todo mundo falou, é?
+(19:37:59) felipefonseca: hehe
+(19:38:03) banto: assim como quiteria
+(19:38:05) felipefonseca: balada, pode ser
+(19:38:07) felipefonseca: ou nao
+(19:38:09) banto: gertudres
+(19:38:17) felipefonseca: mas sei lah
+(19:38:22) felipefonseca: se pans a gente monta agora o memelab
+(19:38:24) uira: perguntei pro asa e ele falou do significado da palavra meme
+(19:38:29) uira: curti
+(19:38:30) felipefonseca: e se o memelab der certo pra caramba a gente faz o metapub
+(19:38:34) uira: voto no Meme
+(19:38:34) liquuid: no MH tem sarau toda semana
+(19:38:43) felipefonseca: pt.wikipedia.org/wiki/Meme
+(19:38:59) felipefonseca: eh que pub tem cara de bebedeira, irlandes, aquela coisa
+(19:39:00) felipefonseca: e sei lah
+(19:39:08) banto: http://sampa3.prodam.sp.gov.br/ccsp/gibiteca/imagem/henfil02.gif
+(19:39:14) felipefonseca: eu curto uma bebedeira, mas nao sei se eh o caso de chamar o espaco disso
+(19:39:32) uira: BotecoLab intaum...
+(19:39:52) felipefonseca: :)
+(19:40:02) felipefonseca: opinioes sobre o melado?
+(19:40:07) liquuid: acho que nao pode soh focar na bebedeira
+(19:40:12) uira: eu curto a idéia de colocar Meta
+(19:40:14) felipefonseca: opinioes sobre metapub alem da do uira?
+(19:40:19) liquuid: tipo, eh melhor montar o espaco do lado de um buteco
+(19:40:20) felipefonseca: opinioes sobre grauna?
+(19:40:26) uira: talvez MetaLab
+(19:40:28) felipefonseca: sobre como era liquuid?
+(19:40:32) felipefonseca: xemelab?
+(19:40:38) felipefonseca: mexelab?
+(19:40:41) felipefonseca: lab do mexicano
+(19:40:43) liquuid: xemelab !
+(19:40:50) liquuid: xemelab !
+(19:40:50) felipefonseca: metalab eh nome de um puta projeto legal na austria
+(19:40:51) fabs: memepub :o)
+(19:40:56) felipefonseca: meta-lab.ac, acho
+(19:40:57) uira: grauna eh legal, mas eu prefiro um nome novo...
+(19:41:08) uira: xemelab eh estranho
+(19:41:16) felipefonseca: xemelab tem cara de piada do liquuid
+(19:41:19) fabs: tb acho xemelab estranho
+(19:41:22) uira: e eu tenho outra idéia pra esse nome (acabei de ter, na real)
+(19:41:24) liquuid: o x entra como curinga
+(19:41:31) banto: gostei do memelab
+(19:41:38) uira: xemelab pode ser um codnome de esporos caseiros.
+(19:41:38) pixel: e-Noise
+(19:42:13) felipefonseca: uira: fala
+(19:42:16) liquuid: xxxlab
+(19:42:22) fabs: o memelab já tem estrada, não?
+(19:42:23) uira:  xemelab pode ser um codnome de esporos caseiros.
+(19:42:26) uira: jah falei.
+(19:42:28) uira: heeh
+(19:42:35) felipefonseca: memelab andou pelo acostamento
+(19:42:43) felipefonseca: memelab.org eh dominio registrado pelo schepop
+(19:42:53) _alex__: mas vai ser um esporo ou vai alem?
+(19:43:07) felipefonseca: o que eh um esporo?
+(19:43:08) uira: vai ser um esporão... tipo ponto e pontão, saca?
+(19:43:11) uira: hehe
+(19:43:12) liquuid: um esporo para todos os outros guiar ehheeh
+(19:43:22) fabs: conheco ele, foi o unico cara brasileiro que conhecia open source alem de um indiano no emocao art.ficial de 2001
+(19:43:24) felipefonseca: esporao eh uma cartilagem na sola do calcanhar que dah problema depois de velho
+(19:43:33) felipefonseca: o indiano eh o ravi
+(19:43:34) felipefonseca: heheeh
+(19:43:43) felipefonseca: schepop eh metaforista e metarecicleiro das antigas
+(19:43:45) liquuid: ravi !
+(19:43:46) uira: cartilagemLab intaum
+(19:43:54) uira: ou MetaCartilagem
+(19:43:55) liquuid: schepop eh massa
+(19:43:57) fabs: entao, naquela epoca eu apresentei o blender pra ele :)
+(19:44:00) felipefonseca: schepop eh massa
+(19:44:10) felipefonseca: ravi eh massa, com aquele sotaque mexicano pra caralho
+(19:44:17) felipefonseca: a monica tambem tava, nao tava?
+(19:44:19) liquuid: a elisangela que gostava d papear com ele
+(19:44:21) felipefonseca: indiana
+(19:44:22) fabs: acho ele com cara do hacker da série nikita, hehe
+(19:44:32) felipefonseca: schepop foi quem me falou sobre o etienne
+(19:44:34) felipefonseca: em 2003, acho
+(19:44:46) felipefonseca: ok, voltando
+(19:44:49) felipefonseca: memelab enton?
+(19:44:51) felipefonseca: alguem disconcorda
+(19:44:52) felipefonseca: ?
+(19:44:59) liquuid: @melab
+(19:45:13) liquuid: m@m@l@b  heheh
+(19:45:24) liquuid: cade o glerm pra dar umas ideias ehhe
+(19:45:29) felipefonseca: bala isso
+(19:45:32) felipefonseca: arrobamelabe
+(19:45:40) liquuid: haahahhahahahahah
+(19:45:43) felipefonseca: emearrobaemearrobaelearrobabe
+(19:45:52) felipefonseca: glerm falou que vinha...
+(19:46:03) felipefonseca: por enquanto, memelab na area entao
+(19:46:11) felipefonseca!n=felipe@201.6.103.134: felipefonseca mudou o tópico para: por enquanto eh memelab :)
+(19:46:43) felipefonseca: parcerias e sustantabilidade
+(19:46:52) felipefonseca: tem gente procurando a gente pra saber como apoia
+(19:47:05) uira: opa, massa... quem?
+(19:47:10) felipefonseca: tem aquela fama de burgues rolando por conta do prix ars
+(19:47:19) felipefonseca: tem canais pra apresentar projeto esquema
+(19:47:27) felipefonseca: o que jah tah andando:
+(19:47:32) felipefonseca: 1) agente cidadao
+(19:47:43) felipefonseca: fui lah, conversei com o adilson e o ike
+(19:48:04) felipefonseca: rolou aquela rasgacao de seda, porque na real ainda pago pau pro trampo que eles fazem
+(19:48:04) liquuid: ]saudade do dilsao heheh
+(19:48:05) felipefonseca: e eles pra gente
+(19:48:18) felipefonseca: a parada eh a seguinte
+(19:48:31) felipefonseca: depois das turbulencias dos ultimos anos, eles se reorganizaram
+(19:48:39) felipefonseca: tem um espaco menor, aqui no campo belo
+(19:48:52) felipefonseca: adilson eh terceirizado: presta servico de logistica pro agente cidadao
+(19:48:59) liquuid: hahhah
+(19:49:05) felipefonseca: eles propuseram que a gente fizesse parecido com eles
+(19:49:24) felipefonseca: ajudamos com presenca na midia, porque na real isso a gente hackeia bem
+(19:49:28) felipefonseca: gera uma pah de doacao
+(19:49:46) liquuid: mas isso soh na parte de hardware
+(19:49:47) felipefonseca: adilson retira, a gente pega o que for file, e tudo que for resto vende
+(19:49:51) felipefonseca: liquuid: sim
+(19:49:53) felipefonseca: calma
+(19:50:18) liquuid: e pra nao contaminar ?
+(19:50:18) felipefonseca: inicialmente, a gente vende inclusive equipo que funciona, mas soh pra comecar a parada
+(19:50:22) felipefonseca: calma
+(19:50:30) felipefonseca: eles fizeram uma parceria com um cara em Embu
+(19:50:38) felipefonseca: que faz tudo que a A7 prometeu e nunca fez
+(19:50:47) liquuid: tipo ,  oque ?
+(19:50:50) felipefonseca: o cara gerencia residuos pra um bando de empresas
+(19:50:59) liquuid: só
+(19:51:01) felipefonseca: de acordo com regras de impacto ambiental, ISO 14000, essas coisas
+(19:51:10) felipefonseca: entao, o ciclo fica, a principio:
+(19:51:26) felipefonseca: doador > agente cidadao > nois catando o fileh > adilson vendendo
+(19:51:30) felipefonseca: e racha com a gente o arrecado
+(19:51:47) uira: massa em!
+(19:51:48) felipefonseca: com o tempo, a gente migra pra um modelo em que _todas_ as doacoes vao pra um esporo em comunidade
+(19:51:52) felipefonseca: tipo o rio pequeno
+(19:52:02) felipefonseca: a garotada da comunidade faz a triagem
+(19:52:15) uira: lindo...
+(19:52:17) felipefonseca: separa o que funciona pra projeto
+(19:52:29) felipefonseca: e o que nao funciona jah vai separado pra vender (o que aumenta o preco)
+(19:52:37) fabs: soh nao entendi o lance da venda
+(19:52:43) felipefonseca: aih o arrecado eh dividido tambem com a comunidade
+(19:52:51) felipefonseca: fabs: o que nao entendeste?
+(19:53:05) fabs: voces vao vender coisa que foi doada?
+(19:53:19) felipefonseca: sim
+(19:53:20) Tupi [n=icechat5@200.207.190.14] entrou na sala.
+(19:53:23) felipefonseca: pra bancar operacoes
+(19:53:33) felipefonseca: e deixando isso claro pro doador, no site do agente cidadao
+(19:53:43) felipefonseca: no comeco
+(19:53:43) fabs: beleza, nada contra, mas quem doa vai ficar na boa com isso?
+(19:53:46) uira: pois eh, metarec tem q avisar q as doacções não podem ser "nonCommercial"
+(19:53:57) felipefonseca: sim, podemos deixar isso claro
+(19:54:10) felipefonseca: como?
+(19:54:17) felipefonseca: fazer um material que o adilson entrega?
+(19:54:19) uira: e aí, acho q rola de pegar coisa q pode ser vendida também.... se o cara pedir
+(19:54:20) felipefonseca: nao sei
+(19:54:27) felipefonseca: e isso eh numa primeira fase
+(19:54:35) felipefonseca!n=felipe@201.6.103.134: felipefonseca mudou o tópico para: parcerias do memelab
+(19:54:49) uira: no site, no contato com a galera e etc...
+(19:55:01) felipefonseca: porque o ideal eh chegar num modelo em que soh o residuo eh vendido, e porque a gente nao tem o que fazer com ele
+(19:55:04) liquuid: mas jogando na midia o lance do hardware como contra proposta para o agente, isso nao vai contaminar o projeto ?
+(19:55:09) felipefonseca: tipo, chegar a um equilibro
+(19:55:19) felipefonseca: liquuid: contaminar de que modo?
+(19:55:24) uira: felipefonseca, boto fé.
+(19:55:33) liquuid: metareciclagem como concorrente do CDI ?
+(19:55:46) felipefonseca: nao, porque o trampo no memelab vai ser muito mais de pesquisa
+(19:55:48) felipefonseca: nao de escala
+(19:55:49) liquuid: pra quem doa nao tem diferenca, como diferenciar ?
+(19:55:55) felipefonseca: vai ter documentacao do que a gente faz
+(19:56:32) felipefonseca: ateh hoje, no galpao do agente, no parque escola, na sacadura, no mezanino, a gente acumulava um monte de maquinas, e por esse receio de vender, acabava que a gente tinha toneladas de computadores mas nao podia bancar o trem pro cara ir trampar
+(19:56:45) liquuid: a mesada do agente vai ser fixa ?
+(19:56:56) felipefonseca: nao vai ser fixa
+(19:57:00) felipefonseca: e nao vai ser mesada, porra
+(19:57:19) felipefonseca: temos que descolar doacao
+(19:57:21) liquuid: entao o agente entra como logistica , soh ?
+(19:57:30) felipefonseca: logistica e apoio pra doacoes
+(19:57:36) liquuid: soh
+(19:57:40) felipefonseca: imagem
+(19:57:42) felipefonseca: daquele jeito
+(19:57:50) felipefonseca: a gente cresce por causa deles, e vice-versa
+(19:57:58) fabs: smbiose
+(19:58:04) felipefonseca: mas olha o exemplo
+(19:58:10) felipefonseca: que rolou no galpao
+(19:58:17) liquuid: mas se a gente vai ter que ralar com doacoes como evitar que essa  seja a unica atividade do grupo ? ehehh
+(19:58:20) felipefonseca: apareceu uma doacao de 200 monitores da telefonica
+(19:58:23) felipefonseca: a gente podia 
+(19:58:36) felipefonseca: 1) empilhar os monitores e sair entregando pra um ou outro projeto
+(19:58:47) felipefonseca: 2) vender os monitores, e fazer outra coisa
+(19:58:49) felipefonseca: escolhemos 2
+(19:58:59) felipefonseca: e fizemos o cybersocial
+(19:59:02) felipefonseca: compramos um servidor
+(19:59:09) felipefonseca: (e adaptador scsi e disco)
+(19:59:16) uira: massa
+(19:59:19) felipefonseca: pagamos uns trocados pra um ou outro ex-voluntarios
+(19:59:42) felipefonseca: e ficamos por um mes com um espaco tosqueira, mal-organizado, confuso, aberto dentro de um shopping
+(19:59:47) felipefonseca: dando curso de linux quase de graca
+(20:00:12) felipefonseca: montamos a primeira rede mais ou menos estavel de terminais leves com cpus pintadas e desktop customizado
+(20:00:31) felipefonseca: pra mim, isso eh melhor que um monte de prateleiras cheias de monitores parados
+(20:00:44) felipefonseca: porque a gente corria sempre o risco de virar disk-pizza
+(20:00:50) fabs: uma TAZ num shopping? hehe, que show
+(20:00:59) felipefonseca: de ongzinha ligar pro agente cidadao e dizer "precisamos de um computador"
+(20:01:09) felipefonseca: sempre combatemos isso, mas com "estoque" cheio eh dificil
+(20:01:32) felipefonseca: liquuid: se ralar com doacoes, pois eh
+(20:01:47) Tupi: ong q recebesse o pc reciclado devia dar algo em troca
+(20:01:52) felipefonseca: mas se a gente puser na cabeca que tem um objetivo pra isso, que eh fechar um troco por mes pra bancar o espaco
+(20:02:05) felipefonseca: Tupi: pois eh, dava pra fazer um pusta ciclo na parada
+(20:02:06) uira: Tupi, concordo...
+(20:02:10) felipefonseca: excambits pra todo mundo :)
+(20:02:13) uira: doação não tah com nada
+(20:02:21) fabs: economia solidária...
+(20:02:24) uira: aê!
+(20:02:39) felipefonseca: se pans a gente pode ateh sair batendo em porta de empresa pedindo nao doacao, mas parceria
+(20:02:57) felipefonseca: parceria que vai resolver um problema do cara, que eh como se livrar das porcarias das maquinas velhas dele
+(20:03:05) uira: http://excambo.ourproject.org/ <- pra quem não conhece!
+(20:03:06) fabs: opa, essa palavra abre masi portas, podecrer
+(20:03:19) felipefonseca: mas sei lah, depende de quem vai
+(20:03:23) felipefonseca: eu nao faco, soh falo :)
+(20:03:27) Tupi: mas a empresa vai poder descontar do imposto?
+(20:03:29) uira: hehe
+(20:03:42) felipefonseca: Tupi: nao tenho certeza, mas acho que o agente cidadao tah avancado pra virar oscip
+(20:03:46) uira: Tupi, acho q num precisa ser desconto em imposto.
+(20:03:53) felipefonseca: se pans, rola desconto em imposto
+(20:03:57) felipefonseca: mas na real, nem precisa mesmo
+(20:03:58) Tupi: corporacao nao da' ponto sem no'...
+(20:04:01) uira: podemos cobrar do cara por estar limpando o depósito dele
+(20:04:14) felipefonseca: porque pega empresa grande, os caras tem cada vez mais problema com isso
+(20:04:17) uira: e, se bobear, oferecer cursos pros funcionários
+(20:04:18) Tupi: pelo menos e' q eu ouco falar
+(20:04:22) felipefonseca: quando nao vende em leilao, eh treta
+(20:05:08) felipefonseca: o cara em embu que o agente cidadao tah tratando as coisas de tecnologia tem projeto em que ele recebe grana de bigcorp pra dar sumico nas maquinas
+(20:05:11) Tupi: logistica nao e' tudo mas e' 100%
+(20:05:13) Tupi: :-D
+(20:05:18) felipefonseca: acaba indo maquina boa pro incinerador
+(20:05:22) felipefonseca: porque a gente nao tah lah...
+(20:05:46) uira: acho q podemos fazer tudo isso soh na base do excambo, colocando grana na roda soh quando for preciso...
+(20:06:06) fabs: por falar em incinerador, tem aquele lance das cacaníqueis aqui do paraná, sao todas destruidas
+(20:06:22) felipefonseca: uira: excambits nao pagam aluguel
+(20:06:22) uira: fabs, rolou o papo com a galera jah?
+(20:06:33) felipefonseca: fabs: cacaniqueis era ouro pra vender :)
+(20:06:36) uira: felipefonseca, por isso o: "colocando grana na roda soh quando for preciso..."
+(20:06:45) fabs: nao pq nao tenho nenhum projetonpra apresentar
+(20:06:48) felipefonseca: eu tava pensando ontem em maquina de fliper
+(20:06:57) felipefonseca: deve ter um monte caida pelos cantos
+(20:07:04) felipefonseca: fabs: apresenta projeto entao
+(20:07:07) fabs: chegar lah sem projeto eh perda de tempo
+(20:07:15) felipefonseca: replica o que a gente tah fazendo aqui em cwb
+(20:07:23) uira: felipefonseca, duvido
+(20:07:35) felipefonseca: sem medo de dizer que vai vender pra bancar um projeto de apropriacao tecnologica
+(20:07:43) felipefonseca: e guardar meia duzia de maquinas pra brincar
+(20:07:47) felipefonseca: porque nao precisa vender tudo
+(20:07:49) felipefonseca: nem guardar tudo
+(20:08:01) felipefonseca: esse equilibrio eh o que pode sustentar o projeto
+(20:08:20) uira: felipefonseca, issaê.
+(20:08:44) uira: fabs, se vc me der os guidelines posso te ajudar a escrever... mas tem q começar. tem a manha?
+(20:08:45) liquuid: felipefonseca: maquinas de fliper tem vida eterna
+(20:08:54) uira: liquuid, pois eh...
+(20:09:02) liquuid: felipefonseca: eu joguei ghost goblins ontem
+(20:09:05) uira: se tivesse alguém doando iam ter umas quatro lah em casa
+(20:09:05) uira: hehe
+(20:09:15) felipefonseca: fabs e uira, escrevam no wiki
+(20:09:33) uira: felipefonseca, isso. mas tem q começar... começa lá, MetaFF
+(20:09:34) felipefonseca: po, um amigo meu tinha uma maquina de fliper em casa
+(20:09:36) felipefonseca: esquema
+(20:09:38) Tupi: cacaniqueis pode virar vending machine de livros ou camisinha
+(20:09:38) felipefonseca: eu, nao
+(20:09:45) felipefonseca: to no maximo escrevendo projeto de sampa
+(20:09:46) Tupi: :-)
+(20:10:04) felipefonseca: Tupi: de livros do sabotagem :)
+(20:10:09) uira: Tupi, eh... e júqueiBókiss
+(20:10:38) felipefonseca: ou totem reciclado com terminal leve
+(20:10:44) felipefonseca: mas foi a primeira, agente cidadao
+(20:10:51) felipefonseca: outra coisa que tah pra rolar eh o seguinte
+(20:10:53) uira: ou maquina de trocar dinheiro... hehe
+(20:10:54) liquuid: sabe aqulas maquinas de pegar ursinhos ? elas oiduam pegar metaprodutos
+(20:11:11) felipefonseca: tem um blogueiro brasileiro ai que tah dominando manhas do programa de afiliados do mercado livre
+(20:11:32) felipefonseca: ele tah comecando um projeto que vai reunir alguns blogues
+(20:11:43) felipefonseca: e se bancar com renda de mercado livre
+(20:11:54) felipefonseca: nao vou explicar em detalhes, mas eh mais ou menos isso
+(20:11:55) Tupi: e google ad sense
+(20:12:12) uira: felipefonseca, nome do cara pra googlear..?
+(20:12:20) felipefonseca: isso, e google adsense
+(20:12:23) felipefonseca: interney
+(20:12:26) felipefonseca: .net
+(20:12:31) Tupi: edney soares
+(20:12:33) Tupi: acho
+(20:12:36) uira: ah, pensei q era alguém conhecido... ;P
+(20:12:44) felipefonseca: aih provavelmente um dos blogs que vai sair vai ser sobre metareciclagem
+(20:12:47) felipefonseca: ele eh conhecido
+(20:12:50) liquuid: caraca e o interne yehhehe
+(20:12:51) uira: tô ligado no interney...
+(20:12:52) felipefonseca: entre blogueiros
+(20:13:01) _alex__: ff: pensando aqui, vc fala como se tivesse mercado de gente querendo comprar essas paradas que vao sobrar... tem? por que a galera ta doando entao??
+(20:13:14) liquuid: tem muito
+(20:13:15) felipefonseca: aih esse blogue vai ter alguns colaboradores fixos e uns guest bloggers que podem ser todos voces
+(20:13:21) uira: felipefonseca, pois eh... isso eh treta.
+(20:13:28) felipefonseca: e a principio todo trocado que entrar por ai vai pra bancar o memelab
+(20:13:30) uira: ops, era pro alê
+(20:13:31) liquuid: saia caminhao do agente
+(20:13:37) felipefonseca: uira: o que eh treta?
+(20:13:50) uira: o q o alê falou
+(20:13:53) felipefonseca: _alex__: mercado de gente nao tem
+(20:13:59) uira: q a galera vai se ligar e desencanar de vender....
+(20:14:03) liquuid: se vende tudo muito rapido na santa
+(20:14:05) uira: ops, de doar...
+(20:14:05) felipefonseca: tem empresas que se especializam em tratar residuo de tecnologia
+(20:14:15) felipefonseca: vai nada, po
+(20:14:18) felipefonseca: ces tao em sao paulo
+(20:14:27) _alex__: sim, to ligado, eles compram sucata ??
+(20:14:27) uira: pois eh, se a telefônica soubesse, tavez ela teria vendido direto...
+(20:14:28) Tupi: nao pode dar um trato, instalar linux e por no mercado livre depois?
+(20:14:32) felipefonseca: quem eh que se dah ao trabalho de desmontar o proprio pentium 100 e vender cada uma das pecas
+(20:14:35) felipefonseca: pra um cara em embu?
+(20:14:38) liquuid: _alex__: compram por peso
+(20:14:45) felipefonseca: Tupi: isso tambem eh possivel
+(20:14:48) uira: Tupi, pois eh... essa tem q ser a proposta
+(20:14:49) _alex__: saquei, legal
+(20:14:52) uira: metaReciclar e vender
+(20:14:53) felipefonseca: a principio, na segunda fase
+(20:14:54) uira: hehe
+(20:15:13) liquuid: Tupi: essa era minha sugestao para a pauta "produtos" hehe
+(20:15:13) felipefonseca: com a cooperativa do pessoal do Rio Pequeno (e de outros lugares, claro)
+(20:15:16) _alex__: hahaha, vai virar uma de vender terminal burro, ai o cara reclama q nao funciona, e vc vende um servidor!
+(20:15:20) Tupi: metaprodutos, bijuteria com circuitos, 
+(20:15:28) Tupi: tb entra no mercado livre
+(20:15:32) uira: felipefonseca, ah. Claro. quando a galera se ligar o nosso 'produto' (argh) jah vai ser outro... ;)
+(20:15:34) felipefonseca: _alex__: melhor eh vender maquina pintada como souvenir
+(20:15:38) Tupi: apostilas impressasm, cursos via skype
+(20:15:40) felipefonseca: eu uso um aqui de banquinho
+(20:15:49) Tupi: cursos em dvd ou vcd
+(20:16:12) liquuid: Tupi: isso eu fiz antes de todo mundo
+(20:16:12) felipefonseca: o goya tah fazendo uma grana vendendo curso de photoshop em DVD
+(20:16:14) felipefonseca: em banca
+(20:16:20) uira: Tupi, cursos via skype eh fineza.
+(20:16:27) felipefonseca: rola de tentar entrar no esquema dele pra fazer hardware
+(20:16:29) uira: suporte no mesmo esquema eh fino...
+(20:16:30) liquuid: Tupi: gravei um curso completo de metarec com uma camera velha do fff
+(20:16:35) banto: creio que o forte seria cursos
+(20:16:36) Tupi: entao, no mercado livre vc vende o id e senha
+(20:16:37) felipefonseca: nem sei se rola, mas o hdhd pode tentar
+(20:16:39) felipefonseca: cursos tambem
+(20:16:39) fabs: toya ou goa? :)
+(20:16:40) banto: nas mais diversas areas
+(20:16:41) felipefonseca: seminarios
+(20:16:49) banto: montar um lab no memelab
+(20:16:51) felipefonseca: faz palestra com gringo visitante e cobra 10 conto por cabeca
+(20:16:59) felipefonseca: vende cerveja no pico durante a palestra
+(20:17:03) felipefonseca: e saquinho de pipoca
+(20:17:05) felipefonseca: nao eh pra ter lucro
+(20:17:10) banto: e ter varias oficinas e colocar valor por mes
+(20:17:10) Tupi: cerveja open source
+(20:17:13) felipefonseca: eh pra fazer um troco que se banque
+(20:17:14) Tupi: :-D
+(20:17:20) banto: asim podendo manter o espaco e a pessoal
+(20:17:23) felipefonseca: cerveja open source eh fogo de descolar os ingredientes no brasil
+(20:17:25) banto: que esta como facilitadora
+(20:17:27) liquuid: opencoca !!!
+(20:17:33) felipefonseca: faz horta comunitaria e vende alface 
+(20:17:33) banto: tem aquela outra ideia
+(20:17:38) banto: que coloquei na outra reuniao
+(20:17:44) uira: felipefonseca, issaê. a treta num eh o comércio, eh o lucro.
+(20:17:46) banto: de montar cooperativa
+(20:17:53) banto: do tipo.. te alguem que curte bibcleta
+(20:17:57) Tupi: no mercado livre deve ter ingrediente pra cerveja caseira
+(20:17:57) felipefonseca: sim
+(20:18:00) banto: e ter ferramentas e pecas pra trocar
+(20:18:04) felipefonseca: a gente pode sediar esses movimentos
+(20:18:06) banto: alguem deixa alguma coisa e leva outra
+(20:18:11) felipefonseca: e eles ajudarem a bancar o espaco
+(20:18:13) banto: isso nas mais diferentes areas
+(20:18:17) felipefonseca: o esquema eh o balanco ser aberto
+(20:18:24) banto: assim podemos reunir um numero de maior de pessoas
+(20:18:27) felipefonseca: tah na parede quanta grana entrou de cada coisa e quanto foi gasto em cada coisa
+(20:18:30) fabs: isso eh impresicindivel, concordo
+(20:18:32) banto: e porconsequencia de trocar de conhecimento e materiais
+(20:18:35) uira: banto, jah ouviu falar de snickerNet?
+(20:18:37) felipefonseca: banto: soh tem o limite do tamanho do barato :)
+(20:18:40) felipefonseca: nem
+(20:18:43) uira: (num sei se eh assim q escreve)
+(20:18:45) felipefonseca: o que eh?
+(20:18:47) _alex__: ? um bazar?
+(20:18:54) banto: uira: nao
+(20:19:10) felipefonseca: bazarzao
+(20:19:14) liquuid: felipefonseca: no MH funciona dessa forma, cada conta tem uma urna com a grana pra pagar, ai eles vao monitorando a urna pra pagar tudo no prazo
+(20:19:22) felipefonseca: legal
+(20:19:24) banto: mas se o espaco for problema
+(20:19:27) felipefonseca: tem que aprender com os caras
+(20:19:29) liquuid: felipefonseca: mas nao foram poucas vezes que fui e a energia tava cortada heheh
+(20:19:33) banto: pensamos na solucao quando tiver cheio de gente
+(20:19:39) banto: o problema ainda nao existe
+(20:19:45) banto: ainda que seja previsivel
+(20:20:39) liquuid: eles arrecadam grana com sarau, cursos, acesso à internet, venda de fanzines, palestras e doações
+(20:20:43) banto: creio que pode ter mais pessoas procurando cursos
+(20:20:50) banto: do que para comprar as maquinas
+(20:20:52) banto: sei la...
+(20:20:54) uira: viu, eu tinha escrito errado.
+(20:20:59) banto: restauracao de livros?!
+(20:21:00) uira: mas o google sabia: http://en.wikipedia.org/wiki/Sneakernet
+(20:21:01) felipefonseca: cursos tem um grande problema, que eh a estrutura que tem que ter
+(20:21:16) felipefonseca: pra ter cursos, precisamos de um servidor e alguns terminais jah funcionando
+(20:21:21) banto: um laboratorio, lousa e pessoas
+(20:21:23) felipefonseca: e estaveis, a principio
+(20:21:31) liquuid: felipefonseca: o MH da cursos de desenho, violao, matematica, fisica, cursinho etc...
+(20:21:48) felipefonseca: banto: mas a ideia nao eh tanto vender as maquinas lah
+(20:21:53) _alex__: se rolar uns terminais, da pra ganhar grana com acesso a internet tbm... lan house....
+(20:21:55) liquuid: que vicio de vincular tudo a computadores, aff
+(20:22:02) felipefonseca: vamos vender o que sobrar pra esse cara em embu
+(20:22:02) banto: pode crer ale
+(20:22:05) felipefonseca: liquuid: :)
+(20:22:10) banto: restauracoa de livro seria massa
+(20:22:22) banto: ainda a pessoa poderia multiplciar isso eh outros espacos
+(20:22:24) liquuid: biblioteca virtual
+(20:22:27) uira: liquuid, mas eh o q a galera manja
+(20:22:30) banto: digitlizar de discos
+(20:22:38) banto: digitalizacao de discos
+(20:22:39) liquuid: vamos escanear tudo e vender em CD hehhe mais uma ideia do MH
+(20:22:50) banto: hhehehe
+(20:22:58) banto: viva o coletivo sabotagem
+(20:23:03) felipefonseca: demorou
+(20:23:05) banto: pena que o sitio da fora do ar
+(20:23:08) uira: pois eh.
+(20:23:10) felipefonseca: biblioteca de papel
+(20:23:13) liquuid: uira: eu sei um monte de coisas que nao sao com computador he
+(20:23:15) fabs: acho que o que fazer por lah nao vai ser problema
+(20:23:19) banto: tambem
+(20:23:28) banto: uma vez tendo o espaco
+(20:23:30) uira: podemos vender aquelas fitinhas (ou mp3) da galera lendo uns livros... tipo cidMoreira
+(20:23:31) felipefonseca: pois eh
+(20:23:34) banto: podemos receber doacoes de livros tambem
+(20:23:42) banto: e sair montado bibliotecas nas periferias
+(20:23:43) felipefonseca: eu vou me concentrar nos proximos dias em escrever o projeto
+(20:23:46) felipefonseca: e andar com parcerias
+(20:23:52) uira: liquuid, tô ligado... mas pensa no geral daki.:P
+(20:23:54) felipefonseca: projeto focado no espaco de midias
+(20:23:55) liquuid: uira: isso era uma coisas que eu queria me voluntariar faz uns 3 anos
+(20:23:57) fabs: acho que o que pode dar zica eh a administracao disso
+(20:24:08) felipefonseca: liquuid: cade esse teu curso feito com a minha camera?
+(20:24:13) felipefonseca: fabs: com certeza
+(20:24:16) banto: fabs, basta nao centralizar em uma pessoa
+(20:24:17) felipefonseca: mas nao tem o que fazer
+(20:24:24) felipefonseca: tem que deixar tudo no mural
+(20:24:27) banto: ai que vamos dividir legal as tarefas
+(20:24:29) felipefonseca: e esperar as brigas acontecerem
+(20:24:30) uira: felipefonseca, isso.
+(20:24:33) felipefonseca: que sao inevitaveis
+(20:24:36) fabs: hehe
+(20:24:40) banto: adoro brigas ;)
+(20:24:42) liquuid: felipefonseca: eu tinha jogado junto com as tralhas que vc tinha levado pro india
+(20:24:50) Tupi: pode vender impressao de apostilas e livros copyleft sob demanda
+(20:24:52) felipefonseca: ixe
+(20:24:58) liquuid: felipefonseca: mas eu lembro que tinha dado merda hehe
+(20:24:59) Tupi: impressao e encadernacao
+(20:25:00) uira: liquuid, bora fazer umas sessões?
+(20:25:03) liquuid: felipefonseca: eu mando de novo
+(20:25:12) uira: liquuid, >> PVT
+(20:25:18) felipefonseca: impressora laser eh 600 reais hoje em doia...
+(20:25:20) felipefonseca: demrou
+(20:25:24) felipefonseca: eu to comprando uma camera
+(20:25:28) felipefonseca: mini-DV
+(20:25:29) felipefonseca: smasung
+(20:25:31) felipefonseca: tosqueira
+(20:25:31) banto: podemos marcar dias para trocar de videos vhs
+(20:25:32) banto: hehehe
+(20:25:35) felipefonseca: chega essa semana
+(20:25:36) banto: filmes e tal
+(20:25:42) felipefonseca: fazer cineclube
+(20:25:43) banto: sessao de cineminha e discussao
+(20:25:50) banto: teatro simples
+(20:25:52) felipefonseca: opa, tenho que sair daqui a pouco
+(20:25:56) felipefonseca: posso andar com a conversa?
+(20:25:59) banto: com precos simbolicos
+(20:26:00) Tupi: vcs conhecem as cartoneras no peru e argentina?
+(20:26:02) uira: lah em casa vai ter cineclube
+(20:26:04) felipefonseca: atividades iniciais, jah temos um monte de ideias
+(20:26:04) banto: o que ira precisa eh de uma grade
+(20:26:10) Tupi: tiazinha q encaderna com catador de papel lado a lado
+(20:26:11) uira: vitão comprando um projetor logologo
+(20:26:11) liquuid: MH ! MH! MH! viva o djair e suas sessoes de reflexao e reencontro do eu
+(20:26:13) felipefonseca: grade eh no mural
+(20:26:13) Tupi: http://tupidataba.blogspot.com/2006/03/livros-copyleft-feitos-com-papel-e.html
+(20:26:22) felipefonseca: no kraft na parede
+(20:26:29) uira: felipefonseca, pode sim!!!
+(20:26:40) fabs: tenho uma proposta meio louca, mas que talvez nao seja tanto assim, pra ajudar nesse alnce da organizacao e das possiveis "brigas"
+(20:26:42) banto: hehhe
+(20:26:43) felipefonseca: eu nao sei quao rapido a gente anda com isso, mas tem a parada de fazer o cibersalao em agosto
+(20:26:49) felipefonseca: debate sobre tecnologias recicladas
+(20:26:50) banto: a experencia do laboratorio de conhecimentos livres
+(20:26:54) felipefonseca: podia ser o evento inaugural
+(20:26:58) banto: mostrou que esse lance da grade pode dar certo
+(20:27:06) felipefonseca: e jah cobrar 10 conto de quem for pra bancar o primeiro aluguel :)
+(20:27:11) felipefonseca: midiatatica.org/cibersalao
+(20:27:25) felipefonseca: mas entao
+(20:27:31) banto: boa ideia hein
+(20:27:36) felipefonseca: atividades nao dah pra discutir soh aqui
+(20:27:42) Tupi: podia pagar com excambits tb
+(20:27:44) Tupi: :-)
+(20:27:46) felipefonseca: queria perguntar o que ces acham de lugar
+(20:27:54) felipefonseca: minhas observacoes:
+(20:27:57) banto: que lugar?
+(20:28:00) _alex__: vila madalena
+(20:28:00) fabs: tem aquele lance de que, pra tentar fazer uma divisao o mais justa possivel, vc dah a faca pra um e a escolha da primeira fatia pra outro
+(20:28:04) felipefonseca: ser perto da zona sul eh uma vantagem, pela parceria com agente cidadao
+(20:28:09) felipefonseca: ser perto do metro eh ser perto do metro
+(20:28:20) felipefonseca: fabs: sim
+(20:28:27) _alex__: agente cidadao tem caminhao ainda?
+(20:28:45) felipefonseca: _alex__: eles fizeram agora parceria com algumas empresas de transportes
+(20:28:50) felipefonseca: eles nao tem mais nada, na real
+(20:29:09) felipefonseca: eles usam os servicos do adilson pra logistica ateh medio porte dentro de sampa
+(20:29:16) uira: vilamariana eh massa... eh caro?
+(20:29:19) felipefonseca: e a empresa de caminhoes para o que eh maior
+(20:29:23) felipefonseca: vila mariana eh massa
+(20:29:28) felipefonseca: minha preferencia pessoal
+(20:29:34) fabs: minha sugestao eh que vc nao administre aquilo que vc quer vender, vc administra o lance de outra pessoa
+(20:29:48) uira: felipefonseca, + 1 voto. (jah q o centro eh treta :( )
+(20:30:08) fabs: assim, vc tem teu controle de estoque e outro tem o controle do que vc vendeu
+(20:30:19) fabs: sei lah, eh meio louco, mas faz sentido
+(20:30:22) uira: fabs, mas eh treta organizar isso, não?
+(20:30:33) fabs: acho que nao
+(20:30:45) fabs: eh soh ir tecendo
+(20:30:45) liquuid: felipefonseca: zona sul eh legal pq tem um monte de favela massa
+(20:31:01) _alex__: entao, o espaco vai armazenar tbm? ou a ideia eh manter um stoque baixo mesmo? circulando?
+(20:31:03) uira: liquuid, lôco isso...
+(20:31:04) liquuid: da pra fazer umas parcerias insanas
+(20:31:11) felipefonseca: armazenar nada
+(20:31:15) felipefonseca: estoque baio, sempre
+(20:31:21) felipefonseca: mais agenciando que qualquer outra coisa
+(20:31:23) _alex__: po, rio pequeno tem umas casas bem grandes e baratas
+(20:31:24) felipefonseca: baixo
+(20:31:38) felipefonseca: mas rio pequeno eh longe
+(20:31:45) liquuid: eh nao heheh
+(20:31:49) banto: longe pra quem?
+(20:31:52) uira: rio pequeno não conheço, mas o slave mora lah perto... intaum eh massa!
+(20:31:53) felipefonseca: pra mim :(
+(20:31:58) banto: hehe
+(20:32:02) liquuid: felipefonseca: si fufu
+(20:32:04) felipefonseca: e pro agente cidadao
+(20:32:17) felipefonseca: bom, montem o memelab lah que eu monto outro esporo na vila mariana ;)
+(20:32:19) uira: felipefonseca, acho q vai ter metrô lah perto...
+(20:32:19) fabs: tem metro perto?
+(20:32:27) felipefonseca: vai ter
+(20:32:28) felipefonseca: um dia
+(20:32:30) uira: ... em 2008
+(20:32:31) liquuid: uira: nao vai
+(20:32:42) liquuid: o metro ta bem longe
+(20:32:44) banto: hehehe
+(20:32:53) felipefonseca: em 2010 vai ter ligacao da santa cruz (vila mariana) com capao redondo e largo treze por metro
+(20:32:55) liquuid: ela vai passar na vila sonia
+(20:33:08) felipefonseca: e agora jah tem ligacao da vila mariana com imigrantes e ipiranda
+(20:33:10) banto: 2012 acaba o mundo
+(20:33:16) felipefonseca: 2011, me disseram
+(20:33:23) liquuid: segundo os astronomos de 2014 nao passa
+(20:33:24) felipefonseca: dah pra aproveitar um ano de metro do capao pra vila mariana
+(20:33:30) banto: e os maias nao erram hein
+(20:33:40) banto: hehehehe
+(20:33:41) liquuid: segundo meus profs de meteo, teremos sorte se chegarmos lah
+(20:33:50) felipefonseca: segundo minha astrologa e sogra, de 2008 a 2011 vai morrer muita gente pra calareo
+(20:33:59) felipefonseca: mas muita mesmo
+(20:34:03) felipefonseca: soh que isso eh outro assunto
+(20:34:05) felipefonseca: ou nao?
+(20:34:06) banto: ai ai ai
+(20:34:10) banto: pensei que seria todo mundo
+(20:34:13) uira: felipefonseca, posta isso nalgum lugar
+(20:34:16) banto: ja nao to gostando da ideia
+(20:34:17) uira: quero saber mais..
+(20:34:23) felipefonseca: banto: qual ideia?
+(20:34:26) liquuid: eu quero uma lente gravitacional !!!
+(20:34:28) felipefonseca: uira: te conto depois
+(20:34:32) banto: tudo mundo morrer
+(20:34:34) felipefonseca: ixe, descambou
+(20:34:37) banto: se ficar somente alguns
+(20:34:50) banto: nao vai ter tanta graca assim
+(20:34:52) banto: hehehe
+(20:34:58) banto: voltando ao assunto
+(20:34:59) felipefonseca: sobram as baratas, o ACM e o roberto jefferson
+(20:35:06) felipefonseca: voltando a... tenho que ir
+(20:35:08) liquuid: galera, teletransporte eh possivel !
+(20:35:16) felipefonseca: liquuid: com material reciclado?
+(20:35:25) liquuid: sim claro
+(20:35:37) liquuid: o tempo todo reciclando
+(20:35:45) felipefonseca: bueno
+(20:35:51) felipefonseca: mais alguma opiniao sobre o lugar?
+(20:35:54) felipefonseca!n=felipe@201.6.103.134: felipefonseca mudou o tópico para: o lugar
+(20:36:01) liquuid: os maiores recicleiror do universo sao as estrelas
+(20:36:04) fabs: eu voto pelo lugar perto do metro
+(20:36:12) felipefonseca: ixe, liquuid comecou a viajar
+(20:36:13) fabs: mas eu nao moro aih, entao...
+(20:36:14) felipefonseca: para ele ai
+(20:36:20) banto: eu tb acho legal ser perto de metro
+(20:36:28) liquuid: vm ta bom
+(20:36:35) felipefonseca: lugar perto do metro tem casa sobrado, dois andares com garagem, por uns 1500 mensais
+(20:36:40) liquuid: zs eh o canal
+(20:36:52) felipefonseca: ou uns conjuntos em cima de outros lugares por uns 800
+(20:37:11) felipefonseca: vi um que era tres salas mais recepcao, banheiro e cozinha, por 800
+(20:37:29) liquuid: nesse estilo ta bao
+(20:37:33) felipefonseca: e um outro, no paraiso, por 900, mas era numa rua com transito, o que phde a logistica
+(20:37:33) Tupi: vai comecar com alguma grana no bolso? ou gasta conforme ganha?
+(20:37:36) felipefonseca: mas tem estacionamento na frente
+(20:37:39) fabs: pq nao iniciar nessa de 800 e depois ir pra uma de 1500 de repente nem desmontando a de 800, deixando como esporo mesmo?
+(20:37:46) felipefonseca: Tupi: grana no bolso, soh se alguem doar
+(20:37:52) felipefonseca: fabs: pensei nisso
+(20:38:16) Tupi: entao o lugar depende da doacao?
+(20:38:31) felipefonseca: eu to pensando em comecar doando uns trezentos rurais pro barato, mas quero ver com o agente cidadao pra tentar descolar uma doacao de maquinas maior pra dar o chute inicial
+(20:38:36) liquuid: acho que barateia a logistica
+(20:38:52) felipefonseca: liquuid: o que barateia a logistica?
+(20:39:06) liquuid: o local
+(20:39:08) felipefonseca: Tupi: o lugar depende do que a gente arrecadar de antemao ou do que a gente garantir pra depois
+(20:39:21) felipefonseca: sim, o lugar ser na zona sul barateia a logistica
+(20:39:25) liquuid: viajei ehe
+(20:39:36) liquuid: agora eu entendi
+(20:39:44) liquuid: mas a minha preocupacao continua
+(20:39:47) felipefonseca: se pans, a gente pode pensar em bancar um "triador" no agente cidadao
+(20:39:50) felipefonseca: triador eh feio
+(20:40:15) felipefonseca: tenho que sair _MESMO_
+(20:40:22) liquuid: se o local vai depender de doacao isso vai gerar problemas serios com os voluntarios 
+(20:40:24) felipefonseca: conversem ai, na volta eu leio tudo e posto o log
+(20:41:33) liquuid: jah pensou, fim do mes tem que pagar o aluguel ai todo mundo tem que rebolar pra conseguir a grana, tudo isso levando em consideracao os empregos , faculdades e filhos ?
+(20:41:53) liquuid: acho que o agente tinha que bancar o espaco
+(20:41:57) Tupi: e' melhor juntar a grana primeiro, tipo com folego pra uns 3 meses
+(20:42:24) pixel: quem mais tem filhos?
+(20:42:31) fabs: eh bom pensar nisso agora, pq eh treta emso sustentar aluguel,
+(20:42:34) liquuid: sei la ? vai que acontece hehheh
+(20:43:54) Tupi: se for pra juntar a grana, tem tesoureiro ja'?
+(20:44:27) fabs: quem vai ser o sindico da parada? :o)
+(20:44:28) liquuid: Vou sair tambem, mas tudo vai ficar bem se nao cairmos na armadilha de colocar a reciclagem de computadores no pedestal e acabar com essa viagem de meta-hardware
+(20:45:15) liquuid: no MH eles tem grupos que se revezam nas tarefas administrativas e da certo, afinal jah tem 30 anos hehhe
+(20:45:35) Tupi: conta de banco, etc
+(20:46:00) liquuid: no mh eles nao tem isso, acho que rola um cofre na sede
+(20:46:11) Tupi: conta no paypal, conta no mercado livre, conta no ad sense
+(20:46:19) liquuid: a gente tem que fazer um intercambio com essa galera ehheh
+(20:46:38) Tupi: MH aceita cheque?
+(20:46:48) liquuid: nao sei
+(20:46:56) liquuid: nunca vi
+(20:47:18) liquuid: mas eh um esquema que a gente tem que olhar
+(20:47:48) liquuid: eles sustentam varios espacos com muitas atividades individuais coordenadas
+(20:48:14) Tupi: com um cofre central?
+(20:48:15) liquuid: eu mesmo jah tinha me inscrito em um curso de violao deles sem saber
+(20:48:23) Tupi: ou varios cofres descentralizados?
+(20:48:32) liquuid: acho que cada espaco tem seu cofre
+(20:48:51) liquuid: a grana eh pra pagar as contas e imprimir manifestos e tal
+(20:49:11) Tupi: publicam balanco?
+(20:49:22) fabs: podescrer, rotatividade na administracao evita muita treta!
+(20:49:34) liquuid: teve uma galera que viajou para a argentina num encontro mundial do movimento, e mesmo isso foi com grana coletiva, tipo vaquinha
+(20:49:49) Tupi: mh ainda e' partido politico?
+(20:50:00) Tupi: no meu tempo tinha ate' horario na tv
+(20:50:03) Tupi: :-D
+(20:50:13) liquuid: sobre o balanco, no espqco que visitei ficava no mural da casa
+(20:50:31) liquuid: mh ta tentando virar partido politico, mas nao sei se conseguiram
+(20:50:41) liquuid: isso eh briga antiga
+(20:50:57) fabs: o unico prédio da seguradora que financia os condominios do meu edifício que nao tem treta com sindico eh um em que o estatuto preve que ele mude a cada seis meses (se nao me angano) seguindo a ordem dos apartamentos, ou seja, um dia, todos terao sido sindicos!
+(20:51:00) liquuid: nem todos concordam, ai parece que teve um racha... sei la
+(20:51:06) Tupi: nos anos 80 existia, o partido humanista
+(20:51:25) liquuid: nosso.... nem sabia
+(20:51:34) liquuid: a gente pode perguntar pro djair
+(20:51:44) Tupi: os programas gratuitos era jovens de branco
+(20:51:49) Tupi: tocando violao
+(20:51:56) Tupi: branco e laranja
+(20:51:59) liquuid: hahah
+(20:52:05) Tupi: bem louco
+(20:53:05) liquuid: vou nessa galera, see ya
+(20:53:10) Tupi: se for guardar no cofre, tem q abrir o olho na seguranca
+(20:53:18) Tupi: valeu!
+(20:53:23) liquuid mudou seu apelido para liquuid_ZZZZZ
+(20:53:56) Tupi: se for guardar no banco, vai ser na conta de quem?
+(20:54:09) Tupi: agentecidadao faz a custodia tb?
+(20:54:31) fabs: tem que perguntar pro ff, ele que tah por dentro dessa engociacao com eles
+(20:54:46) Tupi: mas e' interessante pro metareciclagem?
+(20:55:11) fabs: o que?
+(20:55:21) ***uira indo pra casa. 
+(20:55:24) glerm [n=livre@virtua-cwb214-226.ctb.virtua.com.br] entrou na sala.
+(20:55:26) uira: conecto mais tarde!
+(20:55:31) uira saiu da sala (quit: "Leaving").
+(20:55:33) glerm: alo
+(20:55:33) Tupi: deixar a grana sob custodia do agentecidadao
+(20:55:38) fabs: glerm, salve
+(20:55:50) glerm: eu sou o glerm ou o uira?
+(20:55:52) glerm: hehe
+(20:56:03) Tupi: fmz?
+(20:56:21) glerm: blz
+(20:56:29) glerm: bom
+(20:56:34) glerm: continuem o papo
+(20:56:39) fabs: Tupi: nao sei se eh interessante ou nao essa custodia
+(20:57:15) Tupi: o fff confiaria deixar os cheques na conta do agentecidadao?
+(20:57:17) Tupi: :-D
+(20:57:57) Tupi: pelo menos tem menos burocracia q abrir uma conta nova ou escolher o tesoureiro
+(20:58:36) fabs: eu acho que se nao rola um minimo de confianca, fica complicado
+(20:59:10) Tupi: a coisa do rodizio do tesoureiro, pode ser meio complicada justamente pq o lugar de guardar a grana geralmente e' um so'...
+(20:59:25) Tupi: um so' cofre, uma so conta de banco, uma so' conta no mercado livre...
+(20:59:56) fabs: mas tem de prestar contas, nao?
+(21:00:02) Tupi: com certeza
+(21:00:39) fabs: entao, se for conta, o acesso a conta pode ser soh de uma pessoa, mas pra tirar extrato nao precisa de senha de operador
+(21:00:40) Tupi: mas a senha do banco nao pode por na roda
+(21:00:46) Tupi: :-)
+(21:00:58) fabs: a senha pra ver extrato na internet eh uma, a pra liberar grana eh outra
+(21:01:08) fabs: saca?
+(21:01:12) Tupi: nao sabia
+(21:01:20) Tupi: assim e' bem melhor
+(21:01:23) fabs: tem banco que envia extrato via email de graca todo dia
+(21:01:57) Tupi: pra varios destinatarios?
+(21:02:17) fabs: se vc colocar o endereco de uma lista, vai pra varios destinatarios :)
+(21:02:33) Tupi: teve o dom!
+(21:02:52) Tupi: abrir conta nova tb tem burocracia
+(21:03:01) fabs: isso eh
+(21:03:15) Tupi: poupanca talvez tenha menos
+(21:03:16) fabs: mas conta simples, sem credito, nem tanto
+(21:03:29) fabs: poupanca nao tem quase nenhuma burocracia
+(21:03:43) fabs: mas eh mais dificil de movimentar
+(21:04:10) Tupi: sera' q o fff e' q vai ser o tesoureiro?
+(21:04:33) Tupi: tem q juntar a grana antes de assinar o contrato do aluguel
+(21:04:44) fabs: hehehe, ele tem sido ateh agora non? os creditos de paypal lah do site nao caem na conta dele/
+(21:04:47) fabs: ?
+(21:05:05) Tupi: acho q sim, mas como nao e' serio, deve ter muito pouco
+(21:05:33) Tupi: o canal de geracao de receita nao e' divulgado
+(21:05:40) Tupi: logo, transacao minimas
+(21:05:46) Tupi: imagino
+(21:05:53) fabs: a partir de agora tem-se de se preocupar com isso
+(21:06:37) Tupi: demorou :-)
+(21:06:42) fabs: tem de ver quem vai continuar cuidando da grana
+(21:07:01) _alex__ saiu da sala (quit: Read error: 110 (Connection timed out)).
+(21:07:29) Tupi: tem os fundadores
+(21:07:32) Tupi: fff, dalton
+(21:07:44) fabs: sim, o natural eh que se pense neles
+(21:07:50) fabs: dpadua tb
+(21:08:28) Tupi: tesoureiro tem q fazer o balanco, pagar, receber e' um trampo :-)
+(21:08:46) fabs: putz, nem me fale, jah fui sindica :P
+(21:09:25) fabs: acho que nunca mais xingo sindico na minha vida!
+(21:09:26) Tupi: imagina a banca toda no pe'...
+(21:09:48) Tupi: opa, experiencia vale, a sua
+(21:09:53) Tupi: :-)
+(21:10:01) fabs: he, nem vem, haha
+(21:10:08) Tupi: topa se fosse convidada?
+(21:10:27) fabs: nao moro em sampa, ia ficar dificil
+(21:10:42) Tupi: manda doc
+(21:10:48) Tupi: :-D
+(21:11:01) fabs: hehe, doc custa quase cinco reais!
+(21:11:09) fabs: ia custar muito caro!
+(21:13:01) Tupi: no condominio tinha q mostrar balanco de qto em qto tempo?
+(21:13:20) Tupi: pra decidir e pagar gasto, tinha autonomia?
+(21:16:26) Tupi: Valeu, to indo tb!
+(21:16:38) Tupi saiu da sala (quit: "Not that there is anything wrong with that").
+(21:18:18) fabs: bom, tupi saiu mas vu responder pq isso vai ter log, antonces...
+(21:19:08) fabs: o grande problema dos condominios nao eh nem a autonomia, mas sim a ausencia de condominos nas tomadas de decisao
+(21:19:55) fabs: faz-se uma reuniao, poucas pessoas vao, tomam as decisoes que tem de ser tomadas e aih quando vem o balanco (que eh mensal), comecam as criticas d quem nao foi na reuniao
+(21:21:02) fabs: o sindico nunca pode gastar mais que um tanto que tah lah no statuto por conta propria, tem que consultar os condominos atraves de reuniao antes
+(21:21:22) fabs: mas se quase ninguem vai na reuniao, aih fica dificil...
+(21:23:28) glerm: to aqui
+(21:23:32) glerm: :)
+(21:56:24) fabs: :)
+(21:57:51) pixel saiu da sala (quit: "Leaving").
+(22:43:17) marc [n=marc@200-148-122-122.dsl.telesp.net.br] entrou na sala.
+(22:44:17) marc: caraca, ainda tem gente aqui. pensei que ia pegar as cadeiras em cima da mesa ...
+(22:44:41) marc: slave. tah com sono ...
+(22:47:05) marc: ZzZzzzzzzzzz...
+(22:57:53) marc: bota o log no wiki... :}  ... bnoite ...
+(22:58:03) marc saiu da sala (quit: Remote closed the connection).
+(23:11:56) felipefonseca: ff voltou mas vai sair de novo
+(23:12:02) felipefonseca: vou comentar umas coisas pro log tambem
+(23:12:08) felipefonseca: tesoureiro e coisa, precisa mesmo
+(23:12:30) felipefonseca: mas na real, a ideia eh levantar os trocados pra pagar custo basico e nada mais
+(23:12:37) felipefonseca: entao nao vai ser tanta treta assim
+(23:13:00) felipefonseca: se as coisas se encaminharem e tiver um minimo de garantia, tem gente que se dispoe a organizar esses baratos
+(23:13:24) felipefonseca: eu nao, nao sou bom com dinheiro. vide minhas periodicas reclamacoes de pindaiba
+(23:13:59) felipefonseca: se as coisas crescerem pra caramba, uma possibilidade eh o memelab se constituir juridicamente, como produtora ou parecido, e ai com uma parte do excedente bancar um administrador
+(23:14:06) felipefonseca: que, acho, nao seria ninguem que tah na area hoje
+(23:14:09) felipefonseca: soh tem doido
+(23:14:37) felipefonseca: sobre paypal no site metarec, todas as doacoes que chegaram ateh hoje ajudaram a custear o servidor aqui em casa
+(23:14:41) felipefonseca: totalizando R$ 0,00
+(23:14:44) felipefonseca: chega por hoje
+(23:14:54) felipefonseca: pra quem ficou, log na lista em breve

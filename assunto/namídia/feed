@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - namídia</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/513/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Entrevista pra CBN</title>
+ <link>http://rede.metareciclagem.org/blog/26-01-09/Entrevista-pra-CBN</link>
+ <description>&lt;p&gt;Depois da mesa sobre tecnologia e meio ambiente, uma rep&amp;oacute;rter da CBN veio conversar. Ao contr&amp;aacute;rio do colega dela d&#039;O Globo, que &lt;a href=&quot;http://efeefe.no-ip.org/blog/por-favor-ignorem-o-que-eu-n%C3%A3o-falei&quot;&gt;escreveu um monte de m3rd4&lt;/a&gt;, ela montou bem o lance.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Atualizando:&lt;/strong&gt; o player da CBN incorporado na p&amp;aacute;gina estava tocando sozinho... tirei ele daqui e troco pelo &lt;a href=&quot;http://www.cbn.com.br/grandescoberturas/tecnologia/cbn-no-campus-party-2009/2009/01/22/O-QUE-FAZER-COM-O-LIXO-ELETRONICO.htm&quot;&gt;link para a p&amp;aacute;gina deles&lt;/a&gt;.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/26-01-09/Entrevista-pra-CBN#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/campus-party">campus party</category>
+ <category domain="http://rede.metareciclagem.org/assunto/encontr%C3%A3o">encontrão</category>
+ <category domain="http://rede.metareciclagem.org/assunto/nam%C3%ADdia">namídia</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Campus-Party-2009" xmlns="http://drupal.org/project/og">Campus Party 2009</group>
+ <pubDate>Mon, 26 Jan 2009 16:30:46 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1519 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

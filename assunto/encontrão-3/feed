@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - encontrão 3</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/597/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Reminiscências de um encontro que está por vir</title>
+ <link>http://rede.metareciclagem.org/wiki/Reminisc%C3%AAncias-de-um-encontro-que-est%C3%A1-por-vir</link>
+ <description>&lt;p&gt;Esse encontro foi o terceiro. Veio depois da Campus Party, em S&amp;atilde;o Paulo, e do Arraial, na Bahia, em setembro. Ambos em 2009.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/Reminisc%C3%AAncias-de-um-encontro-que-est%C3%A1-por-vir&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Reminisc%C3%AAncias-de-um-encontro-que-est%C3%A1-por-vir#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/encontr%C3%A3o-3">encontrão 3</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Natal-Livre" xmlns="http://drupal.org/project/og">Natal Livre</group>
+ <pubDate>Mon, 30 Mar 2009 00:48:23 +0000</pubDate>
+ <dc:creator>tatirprado</dc:creator>
+ <guid isPermaLink="false">1563 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

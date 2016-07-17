@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - irc</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/38/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Infralógica - reunião </title>
+ <link>http://rede.metareciclagem.org/blog/11-08-13/Infralogica-reuniao</link>
+ <description>&lt;p&gt;Dando sequ&amp;ecirc;ncia &amp;agrave; conversa sobre a infraestrutura de comunica&amp;ccedil;&amp;atilde;o da rede MetaReciclagem, nos reunimos na noite de quarta-feira passada no canal IRC #metareciclagem do freenode.org. Estivemos presentes e conversando efeefe, iuriguilherme, B3ZN05, deniszubieta, josenetomg, simba_, elenaralelex e adr___, acompanhados ainda de alguns usu&amp;aacute;rios inativos e rob&amp;ocirc;s.&lt;/p&gt;
+&lt;p&gt;A reuni&amp;atilde;o serviu como um primeiro momento de contato e levantamento de caminhos para avan&amp;ccedil;ar. Falamos sobre o elgg/lorea, sobre a necessidade de desenvolver uma pol&amp;iacute;tica de governan&amp;ccedil;a e sustentabilidade para uma eventual nova infral&amp;oacute;gica. Pensamos em configurar um piloto de rede lorea para a metareciclagem para experi&amp;ecirc;ncias - contribuindo com o esfor&amp;ccedil;o de desenvolvimento da plataforma, mas tamb&amp;eacute;m adaptando-a para algumas de nossas particularidades. Sugeriu-se investigarmos a possibilidade de criar um metagrupo que se comunique atrav&amp;eacute;s dos outros, e falou-se sobre a necessidade de aten&amp;ccedil;&amp;atilde;o especial a arquitetura de informa&amp;ccedil;&amp;atilde;o e experi&amp;ecirc;ncia de uso, como fizemos com o site da metareciclagem em drupal (ver os anexos no fim da p&amp;aacute;gina &lt;a href=&quot;/wiki/AI-da-Homepage&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;At&amp;eacute; o momento, minha sugest&amp;atilde;o pessoal &amp;eacute; que criemos uma instala&amp;ccedil;&amp;atilde;o do lorea em algum subdom&amp;iacute;nio da metareciclagem.org, documentando extensivamente cada etapa do processo (documenta&amp;ccedil;&amp;atilde;o esta que ser&amp;aacute; disponibilizada publicamente) e passemos a fazer testes em cima dela. Mas antes de come&amp;ccedil;ar, quero conversar mais e entender se esse &amp;eacute; realmente o melhor caminho.&lt;/p&gt;
+&lt;p&gt;Log completo segue &lt;a href=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/2013-08-07.210459-0300BRT.txt&quot; rel=&quot;nofollow&quot;&gt;em anexo&lt;/a&gt;.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/11-08-13/Infralogica-reuniao#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/irc">irc</category>
+ <category domain="http://rede.metareciclagem.org/assunto/lorea">lorea</category>
+ <category domain="http://rede.metareciclagem.org/assunto/projetos">projetos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/reuni%C3%A3o">reunião</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/2013-08-07.210459-0300BRT.txt" length="50798" type="text/plain" />
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Sun, 11 Aug 2013 22:20:41 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2256 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>HiperTropicalIrcJaneiro</title>
+ <link>http://rede.metareciclagem.org/wiki/HiperTropicalIrcJaneiro</link>
+ <description>&lt;p&gt;EncontraoHiperTropical &amp;gt; HiperTropicalJaneiro&lt;/p&gt;
+&lt;p&gt;Reuni&amp;atilde;o no IRC sobre o EncontraoHiperTropical que estamos planejando para maio de 2012.&lt;/p&gt;
+&lt;p&gt;Presentes: um bando.&lt;/p&gt;
+&lt;p&gt;Falamos sobre: contexto, trilhas de programa&amp;ccedil;&amp;atilde;o, capta&amp;ccedil;&amp;atilde;o, parcerias.&lt;/p&gt;
+&lt;p&gt;Log &lt;a href=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/2012-01-30.215559-0200BRST.txt&quot; rel=&quot;nofollow&quot;&gt;em anexo&lt;/a&gt;.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/HiperTropicalIrcJaneiro#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/agenda">agenda</category>
+ <category domain="http://rede.metareciclagem.org/assunto/encontrao-hipertropical">encontrão hipertropical</category>
+ <category domain="http://rede.metareciclagem.org/assunto/eventos">eventos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/irc">irc</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ubalab">ubalab</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ubatuba">ubatuba</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/2012-01-30.215559-0200BRST.txt" length="43291" type="text/plain" />
+ <group domain="http://rede.metareciclagem.org/esporo/UbaLab" xmlns="http://drupal.org/project/og">UbaLab</group>
+ <group domain="http://rede.metareciclagem.org/conectaz/Encontrao-Hipertropical" xmlns="http://drupal.org/project/og">Encontrão Hipertropical</group>
+ <pubDate>Tue, 31 Jan 2012 02:16:40 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2095 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>ReuniaoIrcMomentosFuturos</title>
+ <link>http://rede.metareciclagem.org/wiki/ReuniaoIrcMomentosFuturos</link>
+ <description>&lt;p&gt;Reuni&amp;atilde;o online em 01/02/2011 falando sobre possibilidades de articula&amp;ccedil;&amp;atilde;o para a rede MetaReciclagem no presente e futuro. Falamos sobre formatos poss&amp;iacute;veis de viabiliza&amp;ccedil;&amp;atilde;o de a&amp;ccedil;&amp;otilde;es, escala local, inova&amp;ccedil;&amp;atilde;o, sustentabilidade e mais um monte de coisas. A &amp;iacute;ntegra da conversa est&amp;aacute; dispon&amp;iacute;vel no log &lt;a href=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/20110201_irc_reuniao.html &quot; rel=&quot;nofollow&quot;&gt;em anexo&lt;/a&gt;.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/ReuniaoIrcMomentosFuturos#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/criatividade">criatividade</category>
+ <category domain="http://rede.metareciclagem.org/assunto/economia-colaborativa">economia colaborativa</category>
+ <category domain="http://rede.metareciclagem.org/assunto/futuro">futuro</category>
+ <category domain="http://rede.metareciclagem.org/assunto/governo">governo</category>
+ <category domain="http://rede.metareciclagem.org/assunto/inova%C3%A7%C3%A3o">inovação</category>
+ <category domain="http://rede.metareciclagem.org/assunto/irc">irc</category>
+ <category domain="http://rede.metareciclagem.org/assunto/reuni%C3%A3o">reunião</category>
+ <category domain="http://rede.metareciclagem.org/assunto/tecnologia">tecnologia</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/20110201_irc_reuniao.html" length="127459" type="text/html" />
+ <pubDate>Wed, 02 Feb 2011 00:40:18 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2001 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Reunião Mutirão - 15/04/10</title>
+ <link>http://rede.metareciclagem.org/wiki/Reuniao-Mutirao-150410</link>
+ <description>&lt;p&gt;Reuni&amp;atilde;o no canal #metareciclagem do freenode.org. Pauta: Mutir&amp;atilde;o da Gambiarra.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Presentes:&lt;/strong&gt; maira, silia, rafael.etc, efeefe, mariwell, dasilva, regis.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Assuntos:&lt;/strong&gt; conversamos sobre o metalivro gambiologia e sobre uma parceria poss&amp;iacute;vel com outro livro de assunto similar que vai sair nos pr&amp;oacute;ximos tempos. Maira e rafael falaram sobre o script que gera um arquivo no scribus automaticamente, - v&amp;atilde;o disponibilizar o arquivo online pras pessoas opinarem, e depois ver como incorporar as sugest&amp;otilde;es.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/Reuniao-Mutirao-150410&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Reuniao-Mutirao-150410#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/irc">irc</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mutgamb">mutgamb</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mutsaz">mutsaz</category>
+ <category domain="http://rede.metareciclagem.org/assunto/reuni%C3%B5es">reuniões</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/2010-04-15.190202-0300BRT.txt" length="24965" type="text/plain" />
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Fri, 16 Apr 2010 15:05:48 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1902 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Mutirão - Caminhos e respiros</title>
+ <link>http://rede.metareciclagem.org/wiki/Mutirao-Caminhos-e-respiros</link>
+ <description>&lt;p&gt;Reuni&amp;atilde;o no canal #metareciclagem no freenode.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Presentes:&lt;/strong&gt; efeefe, maira, tati, mbraz, orlando, regis.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/Mutirao-Caminhos-e-respiros&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Mutirao-Caminhos-e-respiros#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/irc">irc</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mutir%C3%A3o-da-gambiarra">mutirão da gambiarra</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mutsaz">mutsaz</category>
+ <category domain="http://rede.metareciclagem.org/assunto/reuni%C3%A3o">reunião</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Thu, 25 Mar 2010 19:25:55 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1896 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Reunião MetaRecursos / Economia Viva</title>
+ <link>http://rede.metareciclagem.org/wiki/Reuniao-MetaRecursos-Economia-Viva</link>
+ <description>&lt;p&gt;Reuni&amp;atilde;o no canal #metareciclagem do freenode.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Presentes:&lt;/strong&gt; efeefe, Orlando, Douglas, Regi.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Assuntos:&lt;/strong&gt; conversamos sobre possibilidades de participa&amp;ccedil;&amp;atilde;o da MetaReciclagem no edital de Economia Viva do Minc. Propusemos o desenvolvimento de dois projetos: um para estabelecer uma rede de projetos de MetaReciclagem nos moldes da MicroReciclagem; outro para estudar alternativas desustentabilidade em dois ou tr&amp;ecirc;s projetos de MetaReciclagem.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/Reuniao-MetaRecursos-Economia-Viva&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Reuniao-MetaRecursos-Economia-Viva#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/editais">editais</category>
+ <category domain="http://rede.metareciclagem.org/assunto/irc">irc</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metarecursos">metarecursos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/microreciclagem">microreciclagem</category>
+ <category domain="http://rede.metareciclagem.org/assunto/reuni%C3%A3o">reunião</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/2010-03-19.101410-0300BRT.txt" length="25104" type="text/plain" />
+ <group domain="http://rede.metareciclagem.org/conectaz/MetaRecursos" xmlns="http://drupal.org/project/og">MetaRecursos</group>
+ <pubDate>Fri, 19 Mar 2010 15:19:44 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1888 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Editais Minc 2010</title>
+ <link>http://rede.metareciclagem.org/wiki/Editais-Minc-2010</link>
+ <description>&lt;p&gt;Reuni&amp;atilde;o no canal #metareciclagem do freenode, falando sobre quais projetos de MetaReciclagem podem entrar nos editais.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Presentes:&lt;/strong&gt; efeefe, dmartins, maira, barraponto, andressa, avena, yaso, orlando, silia.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/Editais-Minc-2010&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Editais-Minc-2010#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/editais">editais</category>
+ <category domain="http://rede.metareciclagem.org/assunto/irc">irc</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metarecursos">metarecursos</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/2010-03-15.171434-0300BRT.txt" length="17543" type="text/plain" />
+ <group domain="http://rede.metareciclagem.org/conectaz/MetaRecursos" xmlns="http://drupal.org/project/og">MetaRecursos</group>
+ <pubDate>Tue, 16 Mar 2010 17:02:32 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1886 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Infralógica - detalhando - 10/02/10</title>
+ <link>http://rede.metareciclagem.org/wiki/Infralogica-detalhando-100210</link>
+ <description>&lt;p&gt;Reuni&amp;atilde;o para acertar alguns detalhes e acertar o ritmo de desenvolvimento da Infral&amp;oacute;gica.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Presentes:&lt;/strong&gt; efeefe, Fernanda&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Assuntos:&lt;/strong&gt; repassamos cada um dos menus, definimos algumas coisas para cada um deles:&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/Infralogica-detalhando-100210&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Infralogica-detalhando-100210#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/dashboard">dashboard</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/interface">interface</category>
+ <category domain="http://rede.metareciclagem.org/assunto/irc">irc</category>
+ <category domain="http://rede.metareciclagem.org/assunto/reuni%C3%B5es">reuniões</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/irc_infralogica_100210.txt" length="15723" type="text/plain" />
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Wed, 10 Feb 2010 19:48:57 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1854 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Encontro IRC - Interface Infralógica - Dashboard</title>
+ <link>http://rede.metareciclagem.org/wiki/Encontro-IRC-Interface-Infralogica-Dashboard</link>
+ <description>&lt;p&gt;Primeira reuni&amp;atilde;o online de brainstorm para a interface da infral&amp;oacute;gica.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Presentes:&lt;/strong&gt; efeefe, fernanda, tati prado, yaso, varga, wundo&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/Encontro-IRC-Interface-Infralogica-Dashboard&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Encontro-IRC-Interface-Infralogica-Dashboard#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/ai">ai</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/interface">interface</category>
+ <category domain="http://rede.metareciclagem.org/assunto/irc">irc</category>
+ <category domain="http://rede.metareciclagem.org/assunto/reuni%C3%B5es">reuniões</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/irc_infralogica_090210.txt" length="37980" type="text/plain" />
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Wed, 10 Feb 2010 16:33:41 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1853 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Papo Geral 01/2010</title>
+ <link>http://rede.metareciclagem.org/wiki/Papo-Geral-012010</link>
+ <description>&lt;p&gt;Reuni&amp;atilde;o geral, no canal #metareciclagem do freenode&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Presentes:&lt;/strong&gt; efeefe, mbraz, tatirp, rafaeletc, regi, hdhd, andrea saraiva, drica veloso, maira, teia, dalton, laranjatomate, orlando, pixel, hudson,&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pauta definida na lista:&lt;/strong&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/Papo-Geral-012010&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Papo-Geral-012010#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/campus-party">campus party</category>
+ <category domain="http://rede.metareciclagem.org/assunto/cparty">cparty</category>
+ <category domain="http://rede.metareciclagem.org/assunto/cpartybr">cpartybr</category>
+ <category domain="http://rede.metareciclagem.org/assunto/irc">irc</category>
+ <category domain="http://rede.metareciclagem.org/assunto/projetos">projetos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/reuni%C3%A3o">reunião</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/irc_geral_200110.txt" length="44762" type="text/plain" />
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <group domain="http://rede.metareciclagem.org/conectaz/M%C3%ADdia-Livre" xmlns="http://drupal.org/project/og">Mídia Livre</group>
+ <group domain="http://rede.metareciclagem.org/conectaz/MicroReciclagem" xmlns="http://drupal.org/project/og">MicroReciclagem</group>
+ <pubDate>Mon, 01 Feb 2010 02:10:57 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1848 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

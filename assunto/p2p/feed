@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - p2p</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/589/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Modelos de negócios baseados em conhecimento livre</title>
+ <link>http://rede.metareciclagem.org/blog/30-05-11/Modelos-de-negocios-baseados-em-conhecimento-livre</link>
+ <description>&lt;p&gt;&lt;a href=&quot;http://twitter.com/openp2pdesign&quot; rel=&quot;nofollow&quot;&gt;Massimo Menichinelli&lt;/a&gt;, do &lt;a href=&quot;http://www.openp2pdesign.org&quot; rel=&quot;nofollow&quot;&gt;openp2pdesign&lt;/a&gt;, desenvolveu nos &amp;uacute;ltimos meses um estudo sobre &lt;em&gt;modelos de neg&amp;oacute;cios para hardware aberto, artesanato fa&amp;ccedil;a-voc&amp;ecirc;-mesmo e fablabs&lt;/em&gt; para o projeto &lt;a href=&quot;http://www.youcoop.org/en/goteo/p/1/goteo-social-network-for-distributed-financing-and-creative-credits/&quot; rel=&quot;nofollow&quot;&gt;Goteo&lt;/a&gt;, sob encomenda do &lt;a href=&quot;http://www.platoniq.net/&quot; rel=&quot;nofollow&quot;&gt;Platoniq&lt;/a&gt;. O resultado foi uma s&amp;eacute;rie de artigos que ele publicou em ingl&amp;ecirc;s no openp2pdesign e deve aparecer em castelhano no site&amp;nbsp;&lt;a href=&quot;http://www.youcoop.org&quot; rel=&quot;nofollow&quot;&gt;youcoop&lt;/a&gt;. Uma leitura excelente, sugerindo diversas de maneiras de organizar e bancar a produ&amp;ccedil;&amp;atilde;o colaborativa.&lt;/p&gt;
+&lt;p&gt;O &lt;a href=&quot;http://www.openp2pdesign.org/2011/open-design/business-models-for-open-hardware/&quot; rel=&quot;nofollow&quot;&gt;primeiro artigo&lt;/a&gt; versa sobre &lt;em&gt;hardware aberto&lt;/em&gt;, tratando de suas caracter&amp;iacute;sticas espec&amp;iacute;ficas, contando o case do &lt;a href=&quot;http://arduino.cc&quot; rel=&quot;nofollow&quot;&gt;Arduino&lt;/a&gt;, falando sobre os Hackerspaces como espa&amp;ccedil;os para inova&amp;ccedil;&amp;atilde;o e troca de conhecimento, e falando sobre modelos de microcr&amp;eacute;dito e crowdsourcing para financiar a inova&amp;ccedil;&amp;atilde;o.&lt;/p&gt;
+&lt;p&gt;O &lt;a href=&quot;http://www.openp2pdesign.org/2011/fabbing/business-models-for-fab-labs/&quot; rel=&quot;nofollow&quot;&gt;segundo artigo&lt;/a&gt; retoma um pouco da hist&amp;oacute;ria e das implica&amp;ccedil;&amp;otilde;es do desenvolvimento dos &lt;em&gt;&lt;a href=&quot;http://fab.cba.mit.edu/&quot; rel=&quot;nofollow&quot;&gt;fablabs&lt;/a&gt;&lt;/em&gt; (&amp;quot;laborat&amp;oacute;rios de fabrica&amp;ccedil;&amp;atilde;o digital&amp;quot;, sobre os quais eu tamb&amp;eacute;m comentei ontem no &lt;a href=&quot;http://blog.redelabs.org/blog/revolucao-digital-ja-chegou-e-depois&quot; rel=&quot;nofollow&quot;&gt;blog redelabs&lt;/a&gt;), e como eles podem apontar para novas maneiras de gerar inova&amp;ccedil;&amp;atilde;o, fabricar coisas e comercializ&amp;aacute;-las. Esses dois primeiros textos t&amp;ecirc;m como maior m&amp;eacute;rito a organiza&amp;ccedil;&amp;atilde;o de informa&amp;ccedil;&amp;otilde;es que de certa forma j&amp;aacute; est&amp;atilde;o latentes nas redes ligadas ao conhecimento livre.&lt;/p&gt;
+&lt;p&gt;J&amp;aacute; o &lt;a href=&quot;http://www.openp2pdesign.org/2011/open-design/business-models-for-diy-craft/&quot; rel=&quot;nofollow&quot;&gt;terceiro artigo&lt;/a&gt;, focado no artesanato fa&amp;ccedil;a-voc&amp;ecirc;-mesmo (DIY), explora caminhos de inova&amp;ccedil;&amp;atilde;o livre em &amp;aacute;reas que geralmente n&amp;atilde;o fazem parte do nosso repert&amp;oacute;rio. S&amp;atilde;o &amp;aacute;reas em que existe pouca preocupa&amp;ccedil;&amp;atilde;o com propriedade intelectual. O exemplo &amp;oacute;bvio &amp;eacute; o artesanato tradicional, que tem muito a ganhar com a circula&amp;ccedil;&amp;atilde;o livre de ideias. Mas para mim o exemplo mais surpreendente (tamb&amp;eacute;m presente no estudo do FCForum sobre o qual comentei &lt;a href=&quot;http://rede.metareciclagem.org/blog/16-05-11/Criatividade-sustentavel-na-era-digital&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;) &amp;eacute; a ind&amp;uacute;stria da moda. De fato, &amp;eacute; um mercado em que o remix &amp;eacute; amplamente aceito. Menichinelli aponta um v&amp;iacute;deo de &lt;a href=&quot;http://www.ted.com/talks/johanna_blakley_lessons_from_fashion_s_free_culture.html&quot; rel=&quot;nofollow&quot;&gt;Johanna Blakley no TED&lt;/a&gt;&amp;nbsp;sobre isso. Depois fala sobre plataformas focadas na &lt;a href=&quot;http://pt.wikipedia.org/wiki/A_Cauda_Longa&quot; rel=&quot;nofollow&quot;&gt;cauda longa&lt;/a&gt; da produ&amp;ccedil;&amp;atilde;o artesanal, como o &lt;a href=&quot;http://etsy.com&quot; rel=&quot;nofollow&quot;&gt;Etsy&lt;/a&gt;. Tamb&amp;eacute;m fala de outras iniciativas que prop&amp;otilde;em novas leituras do mercado da moda: microcr&amp;eacute;dito, laborat&amp;oacute;rios (&amp;quot;sewing cafes&amp;quot;) e compartilhamento de moldes.&lt;/p&gt;
+&lt;p&gt;O mais interessante dos artigos de Menichinelli &amp;eacute; que eles n&amp;atilde;o tentam sugerir uma solu&amp;ccedil;&amp;atilde;o definitiva: trazem dezenas de casos que funcionaram sob recortes espec&amp;iacute;ficos e em contextos espec&amp;iacute;ficos. Uma excelente inspira&amp;ccedil;&amp;atilde;o para quem est&amp;aacute; pesquisando caminhos colaborativos de viabiliza&amp;ccedil;&amp;atilde;o de projetos (como &amp;eacute; o caso aqui no &lt;a href=&quot;http://rede.metareciclagem.org/conectaz/MetaRecursos&quot; rel=&quot;nofollow&quot;&gt;grupo Metarecursos&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/30-05-11/Modelos-de-negocios-baseados-em-conhecimento-livre#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/economia-criativa">economia criativa</category>
+ <category domain="http://rede.metareciclagem.org/assunto/economia-da-cultura">economia da cultura</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metarecursos">metarecursos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/p2p">p2p</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/MetaRecursos" xmlns="http://drupal.org/project/og">MetaRecursos</group>
+ <pubDate>Mon, 30 May 2011 21:44:44 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2042 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Livro Livre</title>
+ <link>http://rede.metareciclagem.org/conectaz/Livro-Livre</link>
+ <description>&lt;div class=&quot;form-item&quot;&gt;
+ &lt;label&gt;Descrição: &lt;/label&gt;
+ distribuição p2p de livros físicos
+&lt;/div&gt;
+&lt;p&gt;O&amp;nbsp;LivroLivre ( &lt;a href=&quot;http://www.livrolivre.art.br &quot; title=&quot;www.livrolivre.art.br &quot; rel=&quot;nofollow&quot;&gt;www.livrolivre.art.br &lt;/a&gt;) &amp;eacute; um esfor&amp;ccedil;o de construir uma biblioteca aberta, coletiva e sem estantes. Composta por livros livres que passam de m&amp;atilde;o em m&amp;atilde;o gerando nova vida nos textos, nos autores e nos leitores.&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-situacao-conectaz&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Situação desta ConecTAZ:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    funcionando        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/conectaz/Livro-Livre#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/livros">livros</category>
+ <category domain="http://rede.metareciclagem.org/assunto/p2p">p2p</category>
+ <pubDate>Mon, 23 Mar 2009 23:02:32 +0000</pubDate>
+ <dc:creator>Markun</dc:creator>
+ <guid isPermaLink="false">1554 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

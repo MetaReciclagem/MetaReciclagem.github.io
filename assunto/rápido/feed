@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - rápido</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/362/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Lighttpd - Trazendo leveza ao Drupal</title>
+ <link>http://rede.metareciclagem.org/wiki/Lighttpd-Trazendo-leveza-ao-Drupal</link>
+ <description>&lt;p&gt;Hoje fui convidado pelo Fabiano (wundo) a controlar um apache compulsivo por mem&amp;oacute;ria.&lt;/p&gt; &lt;p&gt;Nunca conseguir descobrir o porqu&amp;ecirc;, mas algumas vezes o apache 2 mpm prefork ( que funciona como o apache 1, sem threads ) &amp;nbsp;come&amp;ccedil;a a devorar mem&amp;oacute;ria.&lt;/p&gt; &lt;p&gt;Especialmente se usado com mod_php5 e drupal.&lt;/p&gt; &lt;p&gt;Mas antes de perder tempo demais com diagn&amp;oacute;stico e solu&amp;ccedil;&amp;atilde;o do problema no apache, o FF apostou no Lighttpd. Ele funciona muito bem com php - presumivelmente, melhor que o Apache - e &amp;eacute; assustadoramente leve e r&amp;aacute;pido.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/Lighttpd-Trazendo-leveza-ao-Drupal&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Lighttpd-Trazendo-leveza-ao-Drupal#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/leve">leve</category>
+ <category domain="http://rede.metareciclagem.org/assunto/lighttpd">lighttpd</category>
+ <category domain="http://rede.metareciclagem.org/assunto/r%C3%A1pido">rápido</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Thu, 11 Sep 2008 03:02:58 +0000</pubDate>
+ <dc:creator>lourenzo</dc:creator>
+ <guid isPermaLink="false">1424 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

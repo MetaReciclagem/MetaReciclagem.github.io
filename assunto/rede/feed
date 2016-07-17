@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - rede</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/447/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Outros 500</title>
+ <link>http://rede.metareciclagem.org/blog/31-07-11/Outros-500</link>
+ <description>&lt;p&gt;O site da MetaReciclagem passou o domingo fora do ar. Acusava &amp;quot;erro 500 - erro interno do servidor&amp;quot;.&amp;nbsp;Entrei no servidor e constatei que n&amp;atilde;o tinha mais espa&amp;ccedil;o em disco. Fui direto no diret&amp;oacute;rio /var/log, que estava com mais de 3Gb. O maior culpado era o log de acesso do lighttpd: tinha dois arquivos com mais de 1Gb cada. Fiz uma limpa no servidor, tirei algumas coisas antigas e os arquivos de log arquivados (sim, o logrotate est&amp;aacute; funcionando, mas com arquivos mais de 1Gb n&amp;atilde;o tem muito que se possa fazer, tem?).&lt;/p&gt;
+&lt;p&gt;Aproveitei que estava logado por l&amp;aacute; e atualizei a vers&amp;atilde;o do &lt;a href=&quot;http://drupal.org&quot; rel=&quot;nofollow&quot;&gt;drupal 6&lt;/a&gt; para a mais recente - 6.22.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/31-07-11/Outros-500#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/rede">rede</category>
+ <category domain="http://rede.metareciclagem.org/tags/site">site</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Sun, 31 Jul 2011 23:58:08 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2059 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>EventosEtc</title>
+ <link>http://rede.metareciclagem.org/wiki/EventosEtc</link>
+ <description>&lt;p&gt;MetaReciclagem cada vez mais aparece por a&amp;iacute; em eventos como a semana de c&amp;amp;t, campus party e outras coisas. &amp;Eacute; legal, mas sempre tem aquela quest&amp;atilde;o de uma vis&amp;atilde;o limitada do que &amp;eacute; a MetaReciclagem. Eu continuo achando que pra chamar qualquer coisa de MetaReciclagem tem que no m&amp;iacute;nimo informar na lista. E a&amp;iacute; fica a d&amp;uacute;vida,&amp;nbsp; deixamos rolar? Metemos o p&amp;eacute; pra ocupar melhor os espa&amp;ccedil;os?&lt;/p&gt;
+&lt;p&gt;Tem horas que acho que dependendo de quem &amp;eacute; o p&amp;eacute; tem mais &amp;eacute; que meter. Ao mesmo tempo fico pensando que o lance todo &amp;eacute; saber como a Metareciclagem chegou l&amp;aacute;, se h&amp;aacute; algu&amp;eacute;m da lista envolvidx, porque a&amp;iacute; fica tudo mais f&amp;aacute;cil. Sei que n&amp;atilde;o tem como ter esse &amp;quot;controle&amp;quot;, imagina o tanto de gente que j&amp;aacute; assistiu oficina com algu&amp;eacute;m da lista e n&amp;atilde;o interagiu com a lista em si etc... Mas se tiver um logo da coca-cola ou da intel eu apoio um questionamento sobre o uso do nome. Ou coisa do tipo: se a cria &amp;eacute; filha de pai inc&amp;oacute;gnito resta saber se o pai &amp;eacute; mesmo quem cria.&lt;/p&gt;
+&lt;p&gt;O pior de tudo &amp;eacute; que os caras utilizam o nome mas n&amp;atilde;o documentam nada e nem permitem que participemos deste processo para auxiliar na dissemina&amp;ccedil;&amp;atilde;o dos corretos ideais do conceito, que v&amp;atilde;o al&amp;eacute;m do simples reuso e descarte para empresas especializada no e-lixo. Quem dera podermos realizar v&amp;aacute;rios Bailux pelo pa&amp;iacute;s, mas precisamos que o pessoal abra as portas para podermos falar.&lt;/p&gt;
+&lt;p&gt;Seria legal termos um &lt;em&gt;how-to&lt;/em&gt; explicativo e enviar para as pessoas que utilizam o nome,&amp;nbsp; solicitando o porque n&amp;atilde;o participarem da lista e da documenta&amp;ccedil;&amp;atilde;o. &amp;Eacute; que l&amp;aacute; fora (da lista),&amp;nbsp; no &amp;quot;disse e me disse&amp;quot;,&amp;nbsp; a MetaReciclagem se resume a sucata funcionando.&lt;/p&gt;
+&lt;p&gt;Me lembro uma atividade que organizamos na Taina, junto com EL, estava o Cris, Jean Habbib e outros. Vimos um tal de evento do Jovem.Com que tinha a logo Metarec e da Microsoft. Foi foda ver isso e questionamos na &amp;eacute;poca. Vejo em muitos eventos o pessoal falando de metarec, mas sem a propriedade devida e &amp;agrave;s vezes cada besteirada que sai que eu fico sempre na d&amp;uacute;vida:&amp;nbsp; &amp;quot;sera que dou um toque pro camarada ou sera que o cara &amp;eacute; do coletivo?&amp;quot; J&amp;aacute; que temos muitos aqui na lista que n&amp;atilde;o se conhecem bem. Estou falando dos ativos e tamb&amp;eacute;m os n&amp;atilde;o ativos na lista. Ai entro mudo e saio calado das atividades, nunca sei o que falar de fato para esses caras. Seria de bom tamanho pelo menos eles darem refer&amp;ecirc;ncia de onde surgiu o movimento e os grupos ativos e como entrar em contato. Eu fa&amp;ccedil;o isso quando tenho que dar alguma palestra e cito os coletivos. &amp;Eacute; deste jeito que contribuo para o crescimento do conceito e da coopera&amp;ccedil;&amp;atilde;o. Mas, independente das minhas a&amp;ccedil;&amp;otilde;es me parece que alguns se confundem com o livre e o que fazer&amp;nbsp; com o livre. P&amp;ocirc;, parte do &amp;quot;livre&amp;quot; &amp;eacute; dar atribui&amp;ccedil;&amp;atilde;o de autoria.&lt;/p&gt;
+&lt;p&gt;Acho mesmo que parte significativa das apropria&amp;ccedil;&amp;otilde;es &amp;quot;indevidas&amp;quot; se devem ao fato de n&amp;atilde;o comunicarmos claramente alguns princ&amp;iacute;pios m&amp;iacute;nimos. A gente fez um bate-papo sobre isso no &amp;uacute;ltimo fisl, na conversa com o povo do Est&amp;uacute;dio Livre, e houve algumas cr&amp;iacute;ticas &amp;agrave; forma como o metarec se posiciona em rela&amp;ccedil;&amp;atilde;o a isso. Acho que as cr&amp;iacute;ticas tinham sentido e a que mais me tocou tem rela&amp;ccedil;&amp;atilde;o com n&amp;atilde;o deixar t&amp;atilde;o claro essa quest&amp;atilde;o de relacionamento com o nome. Na real, eu nunca liguei muito pra isso, pois sempre achei que o conceito ia sendo apropriado de formas diferentes e que deixar isso flex&amp;iacute;vel favorecia muito seu pr&amp;oacute;prio espalhamento. &amp;Eacute; isso? Faz sentido?&lt;/p&gt;
+&lt;p&gt;MetaReciclagem virou hype e isso j&amp;aacute; faz alguns anos. D&amp;aacute; para fazer algo em rela&amp;ccedil;&amp;atilde;o a isso? acho que d&amp;aacute;, mas acho que vale a pena puxar uma thread na lista explicitando o que seria esse m&amp;iacute;nimo que gostar&amp;iacute;amos de deixar mais expl&amp;iacute;cito sobre como funcionamos e os processos em que nos regulamos por aqui. Acho que at&amp;eacute; para a pr&amp;oacute;pria lista seria uma din&amp;acirc;mica interessante.&amp;nbsp; Por isso acho que vale ser um pouco mais expl&amp;iacute;cito nisso no site e fazer um certo &lt;em&gt;how-to&lt;/em&gt; para explicar passo-a-passo como gostar&amp;iacute;amos que fosse feito. E isso t&amp;aacute; ligado tamb&amp;eacute;m &amp;agrave; gente documentar mais nossos trabalhos,&amp;nbsp; pra servir como material de apoio. Esse &lt;em&gt;how-to&lt;/em&gt; ficaria em uma mesma p&amp;aacute;gina com o hist&amp;oacute;rico da rede MetaReciclagem e a origem do nome, em um link &amp;uacute;nico para ser facilmente divulgado, mesmo que seja a posteriori.&lt;/p&gt;
+&lt;p&gt;Na verdade acho tamb&amp;eacute;m que as apropria&amp;ccedil;&amp;otilde;es n&amp;atilde;o s&amp;atilde;o exatamente indevidas, elas tem de acontecer mesmo,&amp;nbsp; a quest&amp;atilde;o &amp;eacute; que elas s&amp;atilde;o muito superficiais. Podemos falar sobre o meta coisas al&amp;eacute;m de recuperar pc velho e dispensar sucata no lugar certo. Al&amp;eacute;m disso, eu acho bobeira total&amp;nbsp; usar o nome metareciclagem pra promover a&amp;ccedil;&amp;otilde;es insustent&amp;aacute;veis (como aqueles editais de meta que s&amp;atilde;o na verdade um lix&amp;atilde;o). Isso n&amp;atilde;o &amp;eacute; metareciclagem, nem chega a ser reciclagem na real, pura confus&amp;atilde;o, muito oportunismo e muitas a&amp;ccedil;&amp;otilde;es que al&amp;eacute;m de fugir do escopo da rede s&amp;atilde;o muito bizarras, como a do projeto de descarte de lixo na bahia que discutimos na tredi passada, as pessoas consomem mais porque agora descartam de consci&amp;ecirc;ncia tranquila j&amp;aacute; que tem uma galera m&amp;oacute; legal catando lixo pra fazer arte, p&amp;eacute;ssimo criar essa mentalidade,&amp;nbsp; n&amp;eacute;?&lt;/p&gt;
+&lt;p&gt;N&amp;oacute;s podemos comunicar princ&amp;iacute;pios m&amp;iacute;nimos da rede, do conceito e das a&amp;ccedil;&amp;otilde;es, mas ainda assim nem todo mundo vai entender, normal !&amp;nbsp; Faz parte de tudo n&amp;oacute;s sermos os bra&amp;ccedil;os pegajosos que v&amp;atilde;o contaminando as a&amp;ccedil;&amp;otilde;es com aquilo que faz parte da nossa filosofia. E poder&amp;iacute;amos escrever uma licen&amp;ccedil;a de uso e atribui&amp;ccedil;&amp;atilde;o pensando nisso.&lt;/p&gt;
+&lt;p&gt;Outra coisa interessante &amp;eacute; ver alguns anarquistas falando de apropria&amp;ccedil;&amp;atilde;o indevida. &amp;Eacute; engra&amp;ccedil;ado apenas quando tu n&amp;atilde;o entende o que &amp;eacute; anarquismo. Mas n&amp;atilde;o entendo essa tr&amp;eacute;di, ela sempre volta. Acho que agora &amp;eacute; por causa das elei&amp;ccedil;&amp;otilde;es.&amp;nbsp; Tem gente que vai nos lugares e fala que &amp;quot;inventou a metareciclagem&amp;quot; com a mesma propriedade que se apropria de tudo que a gente escreve, inventa, pensa, brincando. Fica arrotando no bar e chamando de &amp;quot;porra loca&amp;quot; pelas costas. J&amp;aacute; vi listas e moderadores irem e virem. Me lembro quando a internet era um telefone. N&amp;atilde;o precisa responder n&amp;atilde;o, escolhe uma m&amp;uacute;sica e p&amp;otilde;e na vitrola pra galera que t&amp;aacute; facinho.&lt;/p&gt;
+&lt;p&gt;Penso que posso ser mal interpretado por alguns, principalmente quem n&amp;atilde;o me conhece direito pessoalmente. Pe&amp;ccedil;o desculpa pela ansiedade e pela vertigem. N&amp;atilde;o queria ser destrutivo com as propostas que t&amp;atilde;o rolando na lista. Por favor,&amp;nbsp; continuemos. Vou tentar colaborar mais. N&amp;atilde;o encarem como pessimismo. Foi um desabafo. A babaquice toda de guerra santa da elei&amp;ccedil;&amp;atilde;o essa semana e outros problemas no entorno ajudaram na ebuli&amp;ccedil;&amp;atilde;o. Espero que compreendam e n&amp;atilde;o levem pro lado pessoal. &amp;Eacute; uma vertigem mesmo, de quem ta envolvido de alma com isso tudo. Quem t&amp;aacute; sabe do que estou falando,&amp;nbsp; sabe sim e espero que ajude a elucidar isso tudo pra n&amp;oacute;s,&amp;nbsp; bando. E se falei de Carnaval de Finados falei dessa vertigem toda mesmo, de encarar de frente, sapeateando na frente do azar, que isso aqui n&amp;atilde;o &amp;eacute; brincadeira n&amp;atilde;o. Quem t&amp;aacute; junto t&amp;aacute; mesmo. &amp;Eacute; pra muito al&amp;eacute;m. Quem ainda n&amp;atilde;o me conhece espero conhecer mais, de carne osso,&amp;nbsp; e quem eu ja conhe&amp;ccedil;o e levo comigo: saudades sempre!&lt;/p&gt;
+&lt;p&gt;Voc&amp;ecirc; &amp;eacute; uma grande inspira&amp;ccedil;&amp;atilde;o!! Controle, que controle? controle remoto &amp;eacute; o icone na pregui&amp;ccedil;a!! No mais a quest&amp;atilde;o &amp;eacute; como a gente sensibiliza mais as pessoas que o nome metareciclagem est&amp;aacute; relacionado com um conceito que elas n&amp;atilde;o t&amp;atilde;o captando...&amp;nbsp; ou to boiando?&lt;/p&gt;
+&lt;p&gt;Mesmo as palavras amor, flores e carinho podem gerar in&amp;uacute;meras interpreta&amp;ccedil;&amp;otilde;es. E felizmente isso &amp;eacute; algo incontrol&amp;aacute;vel, assim como &amp;lt;&amp;lt;&amp;eacute; bom e incontrolavel&amp;gt;&amp;gt; n&amp;atilde;o existe amarras que amarrem o termo gambiarra e impe&amp;ccedil;am gambiarra ser desde a cordinha que o cara coloca para sustentar uma antena at&amp;eacute; um capacete que algu&amp;eacute;m amarra uns fiozinhos e manda para o Itau Cultural dizendo ser uma grande gambiarra tecnol&amp;oacute;gica. Vai da interpreta&amp;ccedil;&amp;atilde;o de cada um achar que isso ou aquilo &amp;eacute; ou n&amp;atilde;o &amp;eacute; gambiarra. Ou que tipo... v&amp;aacute;rios meandros.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Quanto a &amp;quot;tem gente que vai nos lugares e fala que &amp;quot;inventou a metareciclagem&amp;quot;&amp;quot; esse &amp;eacute; outro tipo de discuss&amp;atilde;o que acho importante, afinal de contas em &amp;quot;&amp;quot;uma rede onde malucxs conversam, jogam bola, mandam emails, discutem e fazem as pazes, filosofam sobre vida e morte, colabora&amp;ccedil;&amp;atilde;o, apropria&amp;ccedil;&amp;atilde;o de tecnologia, como as coisas s&amp;atilde;o por dentro, de onde viemos e para onde vamos&amp;quot; &amp;eacute; estranho falarem que inventaram e come&amp;ccedil;aram e bl&amp;aacute;bl&amp;aacute;bl&amp;aacute;. R&amp;aacute;r&amp;aacute;r&amp;aacute;..muitos metarec &#039;s no s&amp;eacute;culo 16..como eles ficam?&lt;/p&gt;
+&lt;p&gt;Tirei meu chap&amp;eacute;u e fiquei angustiado nos &amp;uacute;ltimos dias de ler esse monte de conversas gostosas pelo celular e n&amp;atilde;o conseguir responder muito. &amp;Eacute; bom ver que tem movimento forte por aqui quando a gente encontra uns focos. Temos pot&amp;ecirc;ncia,&amp;nbsp; a for&amp;ccedil;a aparece quando alguns fatores se alinham. Felizmente, n&amp;atilde;o temos uma f&amp;oacute;rmula pronta (e descobrir &amp;eacute; o que move).&lt;/p&gt;
+&lt;p&gt;Acho que existe uma linha t&amp;ecirc;nue entre o raquear e o ser raqueadxs,&amp;nbsp; e a gente sempre precisa prestar aten&amp;ccedil;&amp;atilde;o a essa fronteira se quisermos continuar mantendo essa conversa livre que rola aqui em que nada &amp;eacute; offtopic e onde as pessoas chegam, se encontram e gostam de &amp;quot;conviver&amp;quot; (por mais que isso signifique encontrar as pessoas uma vez&amp;nbsp; por ano e passar os outros 360 dias lendo e escrevendo uma carajada de emails). Contralaborat&amp;oacute;rio a gente faz todo dia. Metareciclagem &amp;eacute; contralaborat&amp;oacute;rio continuado. Mobiliza&amp;ccedil;&amp;atilde;o t&amp;aacute; a&amp;iacute; acontecendo &amp;agrave; nossa&lt;br /&gt;
+volta. A metalicen&amp;ccedil;a pode ser criada para _garantir o descontrole_!&lt;/p&gt;
+&lt;p&gt;Talvez nessa discuss&amp;atilde;o de apropria&amp;ccedil;&amp;atilde;o indevida tenha um pouco de confus&amp;atilde;o entre o conceito de metareciclagem e a rede metareciclagem. Quando se fala de apropria&amp;ccedil;&amp;atilde;o indevida metarec sempre fico me perguntando se esta se falando de uma coisa ou de outra, e a&amp;iacute; faz toda diferen&amp;ccedil;a a meu ver. Porque metareciclar &amp;eacute; verbo,&amp;nbsp; MetaReciclagem &amp;eacute; rede. N&amp;atilde;o tem como colocar licen&amp;ccedil;a no verbo, mas tem como, de repente, colocar o que &amp;eacute; o que + ou&amp;nbsp; - explicadinho.&lt;/p&gt;
+&lt;p&gt;Tem uma quest&amp;atilde;o boa a&amp;iacute; porque talvez esteja na esfera das obviedades-n&amp;atilde;o-&amp;oacute;bvias.&amp;nbsp; O conceito de metareciclagem pressup&amp;otilde;e ou n&amp;atilde;o uma participa&amp;ccedil;&amp;atilde;o na rede metarec? d&amp;aacute; pra separar/delimitar isso?&lt;/p&gt;
+&lt;p&gt;Na verdade n&amp;atilde;o me importo tanto com os nomes e nem desejo encontrar o controle perdido num tempo que eu n&amp;atilde;o vivi. Ah, e n&amp;atilde;o acredito em apropria&amp;ccedil;&amp;atilde;o indevida, nem da metareciclagem, nem de coisa alguma. Apropria&amp;ccedil;&amp;atilde;o tem uma liberdade intr&amp;iacute;nseca que permite que as pessoas fa&amp;ccedil;am aquilo que desejam. Al&amp;eacute;m disso, a op&amp;ccedil;&amp;atilde;o da metarec tem sido &amp;quot;influenciar&amp;quot;&amp;nbsp; - pessoas, grupos, espa&amp;ccedil;os, contextos, situa&amp;ccedil;&amp;otilde;es, etc&amp;nbsp; etc. Influenciar &amp;eacute; agir no campo das sutilezas. nem sempre com combinados expl&amp;iacute;citos e conscientes, percebidos &amp;quot;no agora&amp;quot;. No mundo dos contratos, usualmente se faz licen&amp;ccedil;a ou pra se respaldar ou pra controlar. A gente tamb&amp;eacute;m pede/d&amp;aacute; licen&amp;ccedil;a quando (algu&amp;eacute;m) quer passar. Faz isso tamb&amp;eacute;m quando a gente vai na casa/ no espa&amp;ccedil;o do outro e quer ser educado. Metareciclagem j&amp;aacute; est&amp;aacute; no mundo, n&amp;atilde;o precisa de licen&amp;ccedil;a pra isso.&lt;/p&gt;
+&lt;p&gt;...................................................&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Se voc&amp;ecirc; leu esse neg&amp;oacute;cio todo e chegou at&amp;eacute; aqui acho que deu pra perceber &lt;strong&gt;que eu n&amp;atilde;o sou um, sou pelo menos alguns respondendo e propondo na lista metareciclagem&lt;/strong&gt;. Em algum lugar por a&amp;iacute;, acho que na pr&amp;oacute;pria lista, algu&amp;eacute;m registrou que tentou fazer esta organiza&amp;ccedil;&amp;atilde;o da &amp;quot;minha fala&amp;quot; e colocar aqui. S&amp;oacute; um exerc&amp;iacute;cio, mas &amp;eacute; bom deixar registrado.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/EventosEtc#comments</comments>
+ <category domain="http://rede.metareciclagem.org/tags/princ-pios">princípios</category>
+ <category domain="http://rede.metareciclagem.org/assunto/rede">rede</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Sat, 16 Oct 2010 20:26:25 +0000</pubDate>
+ <dc:creator>o2</dc:creator>
+ <guid isPermaLink="false">1964 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>A cara da infralógica</title>
+ <link>http://rede.metareciclagem.org/blog/17-03-10/cara-da-infral%C3%B3gica</link>
+ <description>&lt;p&gt;Alo metarecs. N&amp;atilde;o sei se todo mundo sabe, mas existe um grupo de pessoas trabalhando no site da MetaReciclagem. Existem alguns caminhos paralelos de deenvolvimento, mas agora estamos concentrando na interface e layout. Passamos algumas semanas elaborando uma proposta de interface, e agora &amp;eacute; a hora de ouvir as opini&amp;otilde;es e feedback das pessoas. Por favor, d&amp;ecirc;em uma olhada &lt;a href=&quot;http://rede.metareciclagem.org/wiki/PropostaInterFace&quot; rel=&quot;nofollow&quot;&gt;nessa p&amp;aacute;gina&lt;/a&gt;, que cont&amp;eacute;m uma introdu&amp;ccedil;&amp;atilde;o alguns estudos iniciais e a proposta atual de interface.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/17-03-10/cara-da-infral%C3%B3gica&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/17-03-10/cara-da-infral%C3%B3gica#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/interface">interface</category>
+ <category domain="http://rede.metareciclagem.org/assunto/layout">layout</category>
+ <category domain="http://rede.metareciclagem.org/assunto/rede">rede</category>
+ <category domain="http://rede.metareciclagem.org/tags/site">site</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Wed, 17 Mar 2010 00:43:00 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1887 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Links</title>
+ <link>http://rede.metareciclagem.org/blog/17-09-09/Links</link>
+ <description>&lt;p&gt;Adicionei aqui no &lt;a href=&quot;http://rede.metareciclagem.org/node/1532/aggregator&quot; rel=&quot;nofollow&quot;&gt;agregador da Rede Mexe&lt;/a&gt; os links com a tag &amp;quot;wireless&amp;quot; do &lt;a href=&quot;http://links.metareciclagem.org&quot; rel=&quot;nofollow&quot;&gt;scuttle da MetaReciclagem&lt;/a&gt;.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/17-09-09/Links#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/mesh">mesh</category>
+ <category domain="http://rede.metareciclagem.org/assunto/rede">rede</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Rede-Mexe" xmlns="http://drupal.org/project/og">Rede Mexe</group>
+ <pubDate>Thu, 17 Sep 2009 02:58:38 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1762 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>MutiraoApropriacao</title>
+ <link>http://rede.metareciclagem.org/wiki/MutiraoApropriacao</link>
+ <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;print-link&quot;&gt;&lt;em&gt;Publicado no Caderno Submidi&amp;aacute;tico #1, edi&amp;ccedil;&amp;atilde;o das transcri&amp;ccedil;&amp;otilde;es do primeiro debate da Submidialogia #1 (Campinas, outubro 2006).&lt;/em&gt;&lt;/span&gt;&lt;a rel=&quot;nofollow&quot; title=&quot;http://pub.descentro.org/apropriacao&quot; href=&quot;http://pub.descentro.org/apropriacao&quot; rel=&quot;nofollow&quot;&gt;http://pub.descentro.org/apropriacao&lt;/a&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/MutiraoApropriacao&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/MutiraoApropriacao#comments</comments>
+ <category domain="http://rede.metareciclagem.org/tags/apropria-o">apropriação</category>
+ <category domain="http://rede.metareciclagem.org/assunto/colabora%C3%A7%C3%A3o">colaboração</category>
+ <category domain="http://rede.metareciclagem.org/assunto/conversas">conversas</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mutir%C3%A3o-da-gambiarra">mutirão da gambiarra</category>
+ <category domain="http://rede.metareciclagem.org/assunto/rede">rede</category>
+ <category domain="http://rede.metareciclagem.org/tags/software-livre">software livre</category>
+ <category domain="http://rede.metareciclagem.org/tags/submidialogia">submidialogia</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Sat, 05 Sep 2009 16:26:53 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">1737 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>InterDependencia</title>
+ <link>http://rede.metareciclagem.org/wiki/InterDependencia</link>
+ <description>&lt;h1&gt;7/9/9&lt;/h1&gt;
+&lt;p&gt;Dia da in(ter)depend&amp;ecirc;ncia! A rede MetaReciclagem convoca todxs integrantes e interessadxs&amp;nbsp;a &lt;span&gt;postar&lt;/span&gt; sobre sensibilidade low-tech, aprendizados e trocas em rede, produ&amp;ccedil;&amp;atilde;o distribu&amp;iacute;da, gambiarra, fa&amp;ccedil;a-voc&amp;ecirc;-mesmx e qualquer outro assunto que esteja por perto. Nos interessam textos, causos, hist&amp;oacute;rias, imagens, v&amp;iacute;deos, links, ideias, insights. Enfim, qualquer coisa que voc&amp;ecirc; ache interessante no contexto da MetaReciclagem.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/InterDependencia&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/InterDependencia#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/blogagem-coletiva">blogagem coletiva</category>
+ <category domain="http://rede.metareciclagem.org/assunto/eventos">eventos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metablog">metablog</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mundo">mundo</category>
+ <category domain="http://rede.metareciclagem.org/assunto/pub">pub</category>
+ <category domain="http://rede.metareciclagem.org/assunto/rede">rede</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Sat, 22 Aug 2009 01:40:15 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1651 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Trocas em rede, propósito e produção</title>
+ <link>http://rede.metareciclagem.org/blog/15-08-09/Trocas-em-rede-prop%C3%B3sito-e-produ%C3%A7%C3%A3o</link>
+ <description>&lt;p&gt;O&amp;nbsp;projeto Mutir&amp;atilde;o da Gambiarra j&amp;aacute; vem sendo articulado h&amp;aacute; dois anos. Eu tinha a convic&amp;ccedil;&amp;atilde;o de que um elemento que faltava, n&amp;atilde;o s&amp;oacute; pra consolidar a rede MetaReciclagem, mas tamb&amp;eacute;m pra gente conseguir entender o que estava fazendo, era uma a&amp;ccedil;&amp;atilde;o editorial mais forte, no sentido de coletar material, organiz&amp;aacute;-lo e a partir da&amp;iacute; partir pra outros n&amp;iacute;veis de compreens&amp;atilde;o.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/15-08-09/Trocas-em-rede-prop%C3%B3sito-e-produ%C3%A7%C3%A3o&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/15-08-09/Trocas-em-rede-prop%C3%B3sito-e-produ%C3%A7%C3%A3o#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/engajamento">engajamento</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mutir%C3%A3o">mutirão</category>
+ <category domain="http://rede.metareciclagem.org/assunto/rede">rede</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Sat, 15 Aug 2009 00:41:00 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1640 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>EncontraoPerfil</title>
+ <link>http://rede.metareciclagem.org/wiki/EncontraoPerfil</link>
+ <description>&lt;p&gt;Perfil de quem compareceu...&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/EncontraoPerfil&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/EncontraoPerfil#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/encontr%C3%A3o">encontrão</category>
+ <category domain="http://rede.metareciclagem.org/assunto/rede">rede</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Campus-Party-2009" xmlns="http://drupal.org/project/og">Campus Party 2009</group>
+ <pubDate>Thu, 29 Jan 2009 19:27:40 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1525 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Activity</title>
+ <link>http://rede.metareciclagem.org/blog/22-12-08/Activity</link>
+ <description>&lt;p&gt;Testando aqui na rede.metareciclagem o m&amp;oacute;dulo &lt;a href=&quot;http://drupal.org/project/activity&quot; rel=&quot;nofollow&quot;&gt;activity&lt;/a&gt;, pra dar mais informa&amp;ccedil;&amp;atilde;o sobre o uso da rede. Aparentemente, ele n&amp;atilde;o indexa a movimenta&amp;ccedil;&amp;atilde;o retroativa, mas a partir de agora deve estar rolando. A ver.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/22-12-08/Activity#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/rede">rede</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Mon, 22 Dec 2008 16:52:32 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1511 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Criação de esporos</title>
+ <link>http://rede.metareciclagem.org/blog/24-11-08/Cria%C3%A7%C3%A3o-de-esporos</link>
+ <description>&lt;p&gt;Como este site est&amp;aacute; em eterna fase de testes, algumas coisas acabam ficando defasadas. Quando eu criei as estruturas de ConecTAZ e Esporo, n&amp;atilde;o queria que elas virassem alvo de spam ou de equ&amp;iacute;vocos no site. Da&amp;iacute; s&amp;oacute; tinha autorizado usu&amp;aacute;rixs de algumas roles criarem-nas. Depois, resolvi inverter o processo: liberar a cria&amp;ccedil;&amp;atilde;o dos grupos, mas deixar os rec&amp;eacute;m-criados em modera&amp;ccedil;&amp;atilde;o. S&amp;oacute; que na &amp;eacute;poca liberei s&amp;oacute; a cria&amp;ccedil;&amp;atilde;o de ConecTAZes.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/24-11-08/Cria%C3%A7%C3%A3o-de-esporos&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/24-11-08/Cria%C3%A7%C3%A3o-de-esporos#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metodologia">metodologia</category>
+ <category domain="http://rede.metareciclagem.org/assunto/rede">rede</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Mon, 24 Nov 2008 21:47:34 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1488 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

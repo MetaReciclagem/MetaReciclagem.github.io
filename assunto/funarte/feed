@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - funarte</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/855/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Editais - Funarte / Minc</title>
+ <link>http://rede.metareciclagem.org/blog/20-04-10/Editais-Funarte-Minc</link>
+ <description>&lt;p&gt;A Funarte e o Minc publicaram mais &lt;a href=&quot;http://www.cultura.gov.br/site/2010/04/20/editais-2010-da-funarteminc/&quot; rel=&quot;nofollow&quot;&gt;uma s&amp;eacute;rie de editais&lt;/a&gt;, estes mais voltados para produ&amp;ccedil;&amp;atilde;o art&amp;iacute;stica.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/20-04-10/Editais-Funarte-Minc#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/editais">editais</category>
+ <category domain="http://rede.metareciclagem.org/assunto/funarte">funarte</category>
+ <category domain="http://rede.metareciclagem.org/assunto/minc">minc</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/MetaRecursos" xmlns="http://drupal.org/project/og">MetaRecursos</group>
+ <pubDate>Tue, 20 Apr 2010 19:36:53 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1906 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - casas brasil</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/238/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>CasasBrasil</title>
+ <link>http://rede.metareciclagem.org/wiki/CasasBrasil</link>
+ <description>&lt;p&gt;A&amp;ccedil;&amp;otilde;es de MetaReciclagem no projeto Casas Brasil:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Curso online de MetaReciclagem&lt;/li&gt;&lt;li&gt;Laborat&amp;oacute;rios de MetaReciclagem&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Oficinas: &lt;a href=&quot;http://www.casabrasil.gov.br/index.php?option=com_content&amp;amp;task=view&amp;amp;id=87&quot; title=&quot;http://www.casabrasil.gov.br/index.php?option=com_content&amp;amp;task=view&amp;amp;id=87&quot; rel=&quot;nofollow&quot;&gt;http://www.casabrasil.gov.br/index.php?option=com_content&amp;amp;task=view&amp;amp;id=87&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/CasasBrasil#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/casas-brasil">casas brasil</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Casas-Brasil" xmlns="http://drupal.org/project/og">Casas Brasil</group>
+ <pubDate>Mon, 16 Jun 2008 14:46:55 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1237 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Casas Brasil</title>
+ <link>http://rede.metareciclagem.org/conectaz/Casas-Brasil</link>
+ <description>&lt;div class=&quot;form-item&quot;&gt;
+ &lt;label&gt;Descrição: &lt;/label&gt;
+ Ações de MetaReciclagem no projeto Casas Brasil
+&lt;/div&gt;
+&lt;p&gt;Participa&amp;ccedil;&amp;atilde;o da MetaReciclagem no projeto Casas Brasil&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-situacao-conectaz&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Situação desta ConecTAZ:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    funcionando        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/conectaz/Casas-Brasil#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/casas-brasil">casas brasil</category>
+ <pubDate>Mon, 16 Jun 2008 14:45:38 +0000</pubDate>
+ <dc:creator>pixel</dc:creator>
+ <guid isPermaLink="false">1236 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

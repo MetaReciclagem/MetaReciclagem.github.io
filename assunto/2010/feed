@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - 2010</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/853/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>MutSazReva</title>
+ <link>http://rede.metareciclagem.org/wiki/MutSazReva</link>
+ <description>&lt;p&gt;Mutir&amp;atilde;o Sazonal (MutSaz) primavera 2010. Edi&amp;ccedil;&amp;atilde;o n&amp;atilde;o-textual.&lt;/p&gt;
+&lt;p&gt;MutSazRevaPosts&lt;/p&gt;
+&lt;p&gt;MutSazRevaChamada&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/MutSazReva#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/2010">2010</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mutgamb">mutgamb</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mutsaz">mutsaz</category>
+ <category domain="http://rede.metareciclagem.org/assunto/primavera">primavera</category>
+ <category domain="http://rede.metareciclagem.org/assunto/primavera-2010">primavera 2010</category>
+ <category domain="http://rede.metareciclagem.org/assunto/reva">reva</category>
+ <pubDate>Thu, 04 Nov 2010 20:44:56 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1966 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>MutiraoBlogagemOutono</title>
+ <link>http://rede.metareciclagem.org/wiki/MutiraoBlogagemOutono</link>
+ <description>&lt;h1&gt;Blogagem Coletiva - Outono 2010&lt;img width=&quot;500&quot; height=&quot;148&quot; alt=&quot;&quot; src=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/BANNEROUTONO.png&quot; /&gt;&lt;/h1&gt;
+&lt;p&gt;&amp;nbsp;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/MutiraoBlogagemOutono&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/MutiraoBlogagemOutono#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/2010">2010</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mutir%C3%A3o-da-gambiarra">mutirão da gambiarra</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mutsaz">mutsaz</category>
+ <category domain="http://rede.metareciclagem.org/assunto/outono">outono</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/outono_final_2010.odt" length="54814" type="application/vnd.oasis.opendocument.text" />
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Mon, 19 Apr 2010 19:02:37 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1904 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

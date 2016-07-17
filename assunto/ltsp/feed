@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - ltsp</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/291/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>LTSP</title>
+ <link>http://rede.metareciclagem.org/wiki/LTSP</link>
+ <description>&lt;p&gt;&lt;br /&gt;Tradu&amp;ccedil;&amp;atilde;o &lt;a href=&quot;http://www.ltsp.org/documentation/ltsp-4.1/ltsp-4.1.3-en.html&quot; rel=&quot;nofollow&quot;&gt;desse aqui&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;em portugu&amp;ecirc;s:&lt;br /&gt;&lt;a href=&quot;http://twiki.im.ufba.br/bin/view/GAVRI/ProjetoDeTraducaoDaDocumentacaoDoLTSPV41&quot; title=&quot;http://twiki.im.ufba.br/bin/view/GAVRI/ProjetoDeTraducaoDaDocumentacaoDoLTSPV41&quot; rel=&quot;nofollow&quot;&gt;http://twiki.im.ufba.br/bin/view/GAVRI/ProjetoDeTraducaoDaDocumentacaoDo...&lt;/a&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;LtspTraducaoTati NECESSITA REVIS&amp;Atilde;O&lt;/li&gt;&lt;li&gt;LtspFejuada&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/LTSP#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/ltsp">ltsp</category>
+ <category domain="http://rede.metareciclagem.org/tags/software-livre">software livre</category>
+ <pubDate>Fri, 20 Jun 2008 13:29:30 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1341 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>LtspTraducaoTati</title>
+ <link>http://rede.metareciclagem.org/wiki/LtspTraducaoTati</link>
+ <description>&lt;p&gt;&lt;a href=&quot;/wiki/LTSP&quot; title=&quot;&quot; class=&quot;freelink freelink-nodetitle freelink-internal&quot; rel=&quot;nofollow&quot;&gt;LTSP&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/LtspTraducaoTati&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/LtspTraducaoTati#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/ltsp">ltsp</category>
+ <category domain="http://rede.metareciclagem.org/tags/software-livre">software livre</category>
+ <pubDate>Fri, 20 Jun 2008 13:11:33 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1340 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>LtspFejuada</title>
+ <link>http://rede.metareciclagem.org/wiki/LtspFejuada</link>
+ <description>&lt;p&gt;= &#039;&#039;&#039;Tutorial de como fazer um LTSP(Linux Terminal Server Project)&#039;&#039;&#039; =&lt;br /&gt;&lt;br /&gt;= Introdu&amp;ccedil;&amp;atilde;o: =&lt;br /&gt;Esse &amp;eacute; um tutorial que visa a instala&amp;ccedil;&amp;atilde;o e configura&amp;ccedil;ao do LTSP.&lt;br /&gt;Irei falar de como instalar os pacotes que est&amp;atilde;o dispon&amp;iacute;veis no site oficial que &amp;eacute; &amp;quot;http://www.ltsp.org&amp;quot;, e seu conceito de como fazer tamb&amp;eacute;m sem os pacotes que existem no site.&lt;br /&gt;Primeiro abordarei como fazer em um Slackware e Debian. Por consequ&amp;ecirc;ncia como fazer em qualquer distro.&lt;br /&gt;M&amp;atilde;os na massa.&lt;br /&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/LtspFejuada&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/LtspFejuada#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/ltsp">ltsp</category>
+ <category domain="http://rede.metareciclagem.org/tags/software-livre">software livre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/tutoriais">tutoriais</category>
+ <pubDate>Fri, 20 Jun 2008 13:07:04 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1339 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

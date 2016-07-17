@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - eventos</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/279/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>WSL - Workshop de Software Livre no FISL</title>
+ <link>http://rede.metareciclagem.org/blog/01-03-13/WSL-Workshop-de-Software-Livre-no-FISL</link>
+ <description>&lt;p&gt;Repercutindo por aqui... foi estendido o prazo para envio de trabalhos do Workshop de Software Livre, evento &amp;quot;cient&amp;iacute;fico&amp;quot; que vai acontecer durante o FISL. Eu vou enviar um trabalho, e acho que seria uma boa oportunidade para fazer uma reuni&amp;atilde;o do grupo AcademiaLivre da MetaReciclagem. Bora?&lt;/p&gt;
+&lt;p&gt;Mais info &lt;a href=&quot;http://softwarelivre.org/wsl&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;. Envio abaixo tamb&amp;eacute;m a descri&amp;ccedil;&amp;atilde;o e chamada de trabalhos.&lt;/p&gt;
+&lt;h2&gt;Apresenta&amp;ccedil;&amp;atilde;o&lt;/h2&gt;
+&lt;p&gt;Para al&amp;eacute;m das pioneiras comunidades de compartilhamento de software criadas em torno do Unix e da comunidade de hackers do Emacs, o desenvolvimento de Software Livre e de fonte aberta (FOSS) tem crescido exponencialmente, seguindo a populariza&amp;ccedil;&amp;atilde;o e ampla dissemina&amp;ccedil;&amp;atilde;o do uso de computadores pessoais e da Internet. N&amp;atilde;o apenas as comunidades FOSS se expandiram globalmente, mas tamb&amp;eacute;m o corpo de literatura a seu respeito, tornando-se extremamente relevante para cientistas e engenheiros da computa&amp;ccedil;&amp;atilde;o, bem como para pesquisadores das ci&amp;ecirc;ncias humanas. Na &amp;uacute;ltima d&amp;eacute;cada, a pesquisa em FOSS consolidou-se em torno de quest&amp;otilde;es como motiva&amp;ccedil;&amp;otilde;es individuais, pr&amp;aacute;ticas colaborativas, quest&amp;otilde;es de escala, governan&amp;ccedil;a e coordena&amp;ccedil;&amp;atilde;o de esfor&amp;ccedil;os de desenvolvimento, assim como em torno de problemas de economia pol&amp;iacute;tica envolvendo o estudo de modelos econ&amp;ocirc;micos e formas de mobiliza&amp;ccedil;&amp;atilde;o pol&amp;iacute;tica em torno do Software Livre.&lt;br /&gt;
+	&lt;br /&gt;
+	Nosso principal objetivo nesse workshop &amp;eacute; avaliar o estado da arte da pesquisa interdisciplinar, explorando aspectos t&amp;eacute;cnicos, legais, socioecon&amp;ocirc;micos e culturais do FOSS. Deteremo-nos sobre os t&amp;oacute;picos de pesquisa mencionados, discutindo contribui&amp;ccedil;&amp;otilde;es recentes &amp;agrave; literatura. Convidamos pesquisadores de qualquer disciplina acad&amp;ecirc;mica nos t&amp;oacute;picos seguintes e assemelhados a submeterem seus artigos:&lt;br /&gt;
+	&lt;br /&gt;
+	- Licenciamento e aspectos legais relacionados, disputas de direito autoral, patentes de software, adequa&amp;ccedil;&amp;atilde;o &amp;agrave; GPL, propriedade individual ou coletiva de c&amp;oacute;digo;&lt;br /&gt;
+	&lt;br /&gt;
+	- Engenharia de Software Livre, desenvolvimento de metodologias, m&amp;eacute;tricas de c&amp;oacute;digo-fonte e avalia&amp;ccedil;&amp;atilde;o da qualidade de software;&lt;br /&gt;
+	&lt;br /&gt;
+	- Estudos culturais, sociais e econ&amp;ocirc;micos envolvendo abordagens qualitativas e quantitativas de comunidades ativistas e de desenvolvimento;&lt;br /&gt;
+	&lt;br /&gt;
+	- Estudos de caso: an&amp;aacute;lise aprofundada de casos de implementa&amp;ccedil;&amp;atilde;o, migra&amp;ccedil;&amp;atilde;o, sucesso ou fracasso de projetos de FOSS em v&amp;aacute;rias partes do mundo;&lt;br /&gt;
+	&lt;br /&gt;
+	- Expans&amp;atilde;o e transforma&amp;ccedil;&amp;atilde;o do Software Livre em curso: para al&amp;eacute;m do desenvolvimento de software e em dire&amp;ccedil;&amp;atilde;o &amp;agrave; Cultura Livre, Hardware Aberto, Open Access, jornalismo online independente e projetos colaborativos baseados na Internet.&lt;br /&gt;
+	Sobre o FISL e o &lt;span class=&quot;il&quot;&gt;WSL&lt;/span&gt;&lt;br /&gt;
+	&lt;br /&gt;
+	O Workshop Internacional de Software Livre (&lt;span class=&quot;il&quot;&gt;WSL&lt;/span&gt;) &amp;eacute; um evento cient&amp;iacute;fico que acontece no &amp;acirc;mbito do F&amp;oacute;rum Internacional Software Livre (FISL). Desde 2000, o FISL &amp;eacute; organizado por ativistas do software livre em Porto Alegre, Brasil, e representa uma das maiores e mais importantes confer&amp;ecirc;ncias de FOSS do mundo.&lt;br /&gt;
+	&lt;br /&gt;
+	O &lt;span class=&quot;il&quot;&gt;WSL&lt;/span&gt; aceita papers advindos de diferentes tradi&amp;ccedil;&amp;otilde;es disciplinares, oferecendo oportunidade para professores, pesquisadores, estudantes e outros profissionais de apresentarem e discutirem pesquisas originais desenvolvidas em centros de pesquisas, empresas e universidades que usam, disseminam e/ou refletem criticamente sobre FOSS em seus aspectos t&amp;eacute;cnicos, legais, socioecon&amp;ocirc;micos e culturais.&lt;br /&gt;
+	Informa&amp;ccedil;&amp;otilde;es para os Autores&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;- Os papers devem ser escritos em Ingl&amp;ecirc;s, Portugu&amp;ecirc;s ou Espanhol&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;- Os papers devem conter no m&amp;aacute;ximo 20 p&amp;aacute;ginas impressas, incluindo resumo, figuras e refer&amp;ecirc;ncias&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;- As submiss&amp;otilde;es devem ser feitas em PDF (utilizando o template da SBC: &lt;a href=&quot;http://tux.gseis.ucla.edu/template_SBC/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://tux.gseis.ucla.edu/template_SBC/&lt;/a&gt;)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;- Os papers devem ser enviados por email a luisfelipe/*/arroba/*/&lt;a href=&quot;http://ucla.edu&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;ucla.edu&lt;/a&gt;&lt;br /&gt;
+	&lt;br /&gt;
+	Os papers ser&amp;atilde;o avaliados por pareceristas acad&amp;ecirc;micos com experi&amp;ecirc;ncia de pesquisa em FOSS, considerando seu conte&amp;uacute;do t&amp;eacute;cnico e relev&amp;acirc;ncia para o workshop. Todos os papers aceitos ser&amp;atilde;o publicados nos anais do &lt;span class=&quot;il&quot;&gt;WSL&lt;/span&gt; e estar&amp;atilde;o dispon&amp;iacute;veis em um reposit&amp;oacute;rio aberto contido na p&amp;aacute;gina da comunidade &lt;span class=&quot;il&quot;&gt;WSL&lt;/span&gt; (&lt;a href=&quot;http://softwarelivre.org/wsl&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://softwarelivre.org/&lt;span class=&quot;il&quot;&gt;wsl&lt;/span&gt;&lt;/a&gt;) sob a licen&amp;ccedil;a Creative Commons Attribution 3.0 unported (CC-BY-3.0).&lt;br /&gt;
+	&lt;br /&gt;
+	Para os papers redigidos em co-autoria, os autores dever&amp;atilde;o definir um apresentador para o &lt;span class=&quot;il&quot;&gt;WSL&lt;/span&gt;. O apresentador receber&amp;aacute; um c&amp;oacute;digo promocional para registrar-se gratuitamente no FISL. Despesas de hospedagem e acomoda&amp;ccedil;&amp;atilde;o n&amp;atilde;o ser&amp;atilde;o pagas pelo FISL ou pelo &lt;span class=&quot;il&quot;&gt;WSL&lt;/span&gt;.&lt;br /&gt;
+	Datas Importantes&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;- Prazo para submiss&amp;atilde;o dos textos:&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;strike&gt;Dia 20 de fevereiro de 2013&lt;/strike&gt; 15 de mar&amp;ccedil;o de 2013&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;- Divulga&amp;ccedil;&amp;atilde;o dos papers aceitos:&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp; &amp;nbsp;Dia 29 de abril de 2013&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;- F&amp;oacute;rum Internacional Software Livre (FISL), Porto Alegre, Brasil&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp; &amp;nbsp;De 3 a 6 de julho de 2013&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;- Workshop Software Livre (&lt;span class=&quot;il&quot;&gt;WSL&lt;/span&gt;), Porto Alegre, Brasil&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp; &amp;nbsp;De 4 a 5 de julho de 2013&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;Comit&amp;ecirc; Organizador&lt;/h2&gt;
+&lt;p&gt;Coordenador Geral&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Carlos D. Santos (Universidade de Brasilia, Brazil)&lt;br /&gt;
+	Coordenador de Programa&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Luis Felipe R. Murillo (University of California, Los Angeles, USA)&lt;br /&gt;
+	Coordenador de Publica&amp;ccedil;&amp;otilde;es e Organiza&amp;ccedil;&amp;atilde;o Local&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp; Paulo Meirelles (Universidade de Sao Paulo, Brazil)&lt;br /&gt;
+	Coordenadores de Publicidade&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Imed Hammouda (Tampere University of Technology, Finland)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Gregorio Robles (Universidad Rey Juan Carlos, Spain)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Rafael Evangelista (Universidade Estadual de Campinas, Brazil)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Veronica Xhardez (Flacso/CONICET - SoLAr, Argentina)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Yuri Takhteyev &amp;nbsp;(University of Toronto, Canada)&lt;/p&gt;
+&lt;h2&gt;Comit&amp;ecirc; de Programa&lt;/h2&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp; Ana Cristina Matte (Universidade Federal de Minas Gerais, Brazil)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Andre Leme Fleury (Universidade de Sao Paulo)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Anthony Wasserman (Carnegie Mellon University, USA)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Antonio Terceiro (Universidade Federal da Bahia, Brazil)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;C&amp;eacute;lia Ralha (Universidade de Brasilia, Brazil)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Christiana Freitas (Universidade de Brasilia, Brazil)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Christopher Kelty (University of California, Los Angeles, USA)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Daniel Batista (Universidade de Sao Paulo, Brazil)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Fabio Kon (Universidade de Sao Paulo, Brazil)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Gabriella Coleman (McGill University, Canada)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Islena Garcia (Universidade Estadual de Campinas, Brazil)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Jelena Karanovic (New York University, USA)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Lilly Nguyen (University of California, Los Angeles, USA)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Masayuki Hatta (Surugadai University, Japan)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Tim Davies (University of Southampton, UK)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Stefan Koch (Bogazici University, Turkey)&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/01-03-13/WSL-Workshop-de-Software-Livre-no-FISL#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/academialivre">academialivre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/eventos">eventos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/fisl">fisl</category>
+ <category domain="http://rede.metareciclagem.org/assunto/porto-alegre">porto alegre</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/AcademiaLivre" xmlns="http://drupal.org/project/og">AcademiaLivre</group>
+ <pubDate>Fri, 01 Mar 2013 04:52:43 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2213 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Metareciclando em um HiperTropicalizado céu de ideias</title>
+ <link>http://rede.metareciclagem.org/blog/24-06-12/Metareciclando-em-um-HiperTropicalizado-ceu-de-ideias</link>
+ <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;div&gt;&lt;img alt=&quot;Tux na praia&quot; src=&quot;http://wiki.nosdigitais.teia.org.br/images/d/dc/Tux_praia_de_ubatuba_maio_2012-encontrao-hipertropical-metareciclagem.JPG&quot; /&gt;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;rtejustify&quot;&gt;
+	&lt;div&gt;Nos dias 25, 26 e 27 de Maio de 2012, na cidade de Ubatuba (conhecida ironicamente como Ubachuva, mas n&amp;atilde;o dessa vez) aconteceu o &lt;a href=&quot;http://rede.metareciclagem.org/wiki/EncontraoHiperTropical&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;Encontr&amp;atilde;o HiperTRopical da Rede MetaReciclagem&lt;/strong&gt;&lt;/a&gt;. Acompanhei com entusiasmo, &lt;a href=&quot;http://ubalab.org/blog/primeira-chamada-encontrao-hipertropical-de-metareciclagem&quot; rel=&quot;nofollow&quot;&gt;desde outubro de 2011&lt;/a&gt; atrav&amp;eacute;s da &lt;strong&gt;&lt;a href=&quot;https://lists.riseup.net/www/info/metareciclagem&quot; rel=&quot;nofollow&quot;&gt;lista de discuss&amp;atilde;o dessa rede&lt;/a&gt;&lt;/strong&gt;, as movimenta&amp;ccedil;&amp;otilde;es, empreendidas sobretudo por &lt;strong&gt;&lt;a href=&quot;http://efeefe.no-ip.org&quot; rel=&quot;nofollow&quot;&gt;Felipe Fonseca&lt;/a&gt;&lt;/strong&gt;, para a realiza&amp;ccedil;&amp;atilde;o deste encontro.&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;Participar disto foi minha maior inser&amp;ccedil;&amp;atilde;o presencial nesta rede que j&amp;aacute; h&amp;aacute; algum tempo me provoca a refletir sobre algumas estruturas sociais presentes no Brasil e a fun&amp;ccedil;&amp;atilde;o da tecnologia na promo&amp;ccedil;&amp;atilde;o de condi&amp;ccedil;&amp;otilde;es mais sustent&amp;aacute;veis de viver.&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;&lt;img alt=&quot;&quot; src=&quot;http://wiki.nosdigitais.teia.org.br/images/0/09/2012_05_25-26-27_Encontra_HiperTropical_metareciclagem0076.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;Mas antes de continuar, vale dizer que desde meados 2008 tenho dedicado parte consider&amp;aacute;vel da minha vida a um projeto chamado &lt;a href=&quot;http://www.nosdigitais.teia.org.br&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;&lt;em&gt;N&amp;oacute;s Digitais&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; e que por conta disso, sempre que posso, me meto a tocar algum processo de forma&amp;ccedil;&amp;atilde;o (curso, oficina, palestra, roda de bate-papo, etc) voltado ao ensino de tecnologias de c&amp;oacute;digo aberto. Est&amp;aacute; no escopo do N&amp;oacute;s Digitais a ideia de que n&amp;atilde;o existe um eu-digital se relacionando com a tecnologia em separado de outros sujeitos pensantes de uma mesma comunidade (seja ela virtual ou real), mas sim, acreditamos que toda experi&amp;ecirc;ncia de digital &amp;eacute; precedida por um &amp;quot;n&amp;oacute;s&amp;quot;, isto &amp;eacute;, toda experi&amp;ecirc;ncia &amp;eacute; norteada (ainda que n&amp;atilde;o-conscientemente) por uma liga&amp;ccedil;&amp;atilde;o com um coletivo no qual o &amp;quot;Eu&amp;quot; &amp;eacute; parte. &amp;quot;N&amp;oacute;s&amp;quot; tamb&amp;eacute;m podem ser pontos de circuito ligados a dois ou mais elementos, da&amp;iacute; toda filosofia trocadilhesca da coisa... e esse projeto &amp;eacute; voltado, em sobremedida, a forma&amp;ccedil;&amp;atilde;o de outros atores visando empoderamento e autonomia operacional na utiliza&amp;ccedil;&amp;atilde;o der sistemas e aplicativos open source.&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;Dada a ocasi&amp;atilde;o do Encontr&amp;atilde;o HiperTropical, nada mais instigante do que gerar alguma a&amp;ccedil;&amp;atilde;o de forma&amp;ccedil;&amp;atilde;o partindo desse lugar de apoio. E foi isso que acabou acontecendo. Chegamos l&amp;aacute; pela madruga de quinta-feira (24/05), com a providencial e generosa carona de Talita Maiani, e j&amp;aacute; na sexta-feira estivemos na &lt;em&gt;&lt;strong&gt;&lt;a href=&quot;http://www.etecubatuba.com&quot; rel=&quot;nofollow&quot;&gt;ETEC Ubatuba&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt; para uma interven&amp;ccedil;&amp;atilde;o sobre Tecnologias Livres e Sustent&amp;aacute;veis, TecnoMetaRedes, Futuros Tecnol&amp;oacute;gicos Poss&amp;iacute;veis e Software Livre. Sessenta jovens, de dezesseis a cinquenta anos, estiveram com a gente (Eu, Felipe Fonseca, Chico Sim&amp;otilde;es e prof. Alvaro). Da parte institucional, Alvaro Gol&amp;ccedil;alves, professor da ETEC Ubatuba, junto com Felipe Fonseca imaginaram a possibilidade dessa a&amp;ccedil;&amp;atilde;o desde um encontro na &lt;a href=&quot;http://viradadigital.com.br&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;Virada Digital&lt;/strong&gt;&lt;/a&gt;, em Paraty-RJ, dias antes. Ali&amp;aacute;s, vale aqui um agradecimento pela receptividade. A ETEC Ubatuba n&amp;atilde;o s&amp;oacute; esteve de portas abertas como disponibilizou uma estrutura bem adequada para a oficina.&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;div class=&quot;rtecenter&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://wiki.nosdigitais.teia.org.br/images/6/67/Fonseca.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;Felipe Fonseca abriu a atividade apresentando a rede MetaReciclagem e na sequencia falou um pouco sobre os desafios de pensar o uso da tecnologia num tempo no qual cada vez mais h&amp;aacute; descarte de equipamentos fruto de uma obsolescencia mercadol&amp;oacute;gica. Falou tamb&amp;eacute;m sobre apropria&amp;ccedil;&amp;atilde;o cultural da tecnologia e os trabalhos que muitos dos membros da rede ajudaram a empreender.&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;&lt;img alt=&quot;&quot; src=&quot;http://wiki.nosdigitais.teia.org.br/images/3/3d/2012_05_25-26-27_Encontra_HiperTropical_metareciclagem0012.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;Na sequencia, eu o o Chico falamos um pouco sobre nosso trabalho no N&amp;oacute;s Digitais e sobre o &lt;strong&gt;&lt;a href=&quot;http://wiki.nosdigitais.teia.org.br/Lab_Macambira&quot; rel=&quot;nofollow&quot;&gt;Lab Macambira&lt;/a&gt;&lt;/strong&gt; e propusemos uma atividade pr&amp;aacute;tica de instala&amp;ccedil;&amp;atilde;o e configura&amp;ccedil;&amp;atilde;o de sistemas linux em m&amp;aacute;quinas antigas.&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;Veja um pouco de como foi no v&amp;iacute;deo abaixo:&lt;/div&gt;&lt;object height=&quot;281&quot; width=&quot;500&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/XsL8qE53uaw?version=3&amp;amp;hl=pt_BR&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot; /&gt;&lt;embed allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; height=&quot;281&quot; src=&quot;http://www.youtube.com/v/XsL8qE53uaw?version=3&amp;amp;hl=pt_BR&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;500&quot;&gt;&lt;/embed&gt;&lt;/object&gt;
+	&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;Em Ubatuba, at&amp;eacute; a presente data, n&amp;atilde;o h&amp;aacute; quase cursos universit&amp;aacute;rios ent&amp;atilde;o s&amp;oacute; resta aos habitantes locais poucas op&amp;ccedil;&amp;otilde;es privadas de gradua&amp;ccedil;&amp;atilde;o (ao que consta &amp;agrave; dist&amp;acirc;ncia em EAD) &amp;nbsp;ou cursos t&amp;eacute;cnicos se assim desejarem algum tipo de forma&amp;ccedil;&amp;atilde;o para al&amp;eacute;m da escola (ou mudar de cidade). Situa&amp;ccedil;&amp;atilde;o dificil, em diversos aspectos. Por essa ocasi&amp;atilde;o da oficina, fizemos o que chamei de &amp;quot;GiantIntallFest&amp;quot;. Abrimos m&amp;aacute;quinas, instalamos mini-distros linux (&lt;strong&gt;&lt;a href=&quot;http://www.lubuntu.net&quot; rel=&quot;nofollow&quot;&gt;Lubuntu&lt;/a&gt;&lt;/strong&gt;, &lt;strong&gt;&lt;a href=&quot;http://xubuntu.org&quot; rel=&quot;nofollow&quot;&gt;Xubuntu&lt;/a&gt;, &lt;a href=&quot;http://fedoraproject.org/pt/&quot; rel=&quot;nofollow&quot;&gt;Fedora&lt;/a&gt;&lt;/strong&gt;), entregamos alguns equipamentos nas m&amp;atilde;os dos alunos a fim de que eles pr&amp;oacute;prios pudesse registras seus processos fazendo assim um registro mais colaborativo (parte das fotos e dos v&amp;iacute;deos do encontro foram registrados por eles).... foi bem interessante esse movimento.&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;&lt;img alt=&quot;&quot; src=&quot;http://wiki.nosdigitais.teia.org.br/images/d/d7/2012_05_25-26-27_Encontra_HiperTropical_metareciclagem0019.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;No s&amp;aacute;bado (26/05), fomos todos para a &lt;strong&gt;&lt;a href=&quot;http://fundacaoalavancadeubatuba.blogspot.com.br&quot; rel=&quot;nofollow&quot;&gt;Funda&amp;ccedil;&amp;atilde;o Alavanca&lt;/a&gt;&lt;/strong&gt;, um espa&amp;ccedil;o social voltado para atividades educacionais e art&amp;iacute;stico-culturais que tem estado fechado por falta de corpo humano e recursos financeiros para funcionar. A ideia de fazer o Encontr&amp;atilde;o l&amp;aacute; foi pra casar duas oportunidades: dar conta de receber o grande n&amp;uacute;mero de pessoas que ia a Ubatuba, membros da rede MetaReciclagem, e dar apoio ao espa&amp;ccedil;o fornecendo Internet 3g como contrapartida do uso do local, conectando-os.&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;Neste dia, houve converg&amp;ecirc;ncia de uma s&amp;eacute;rie de assuntos, bate-papos e diversas situa&amp;ccedil;&amp;otilde;es simult&amp;acirc;neas a tarde. Peixe fresco na brasa, comida vegetariana preparada a muitas m&amp;atilde;os, antenas ouvindo sat&amp;eacute;lites, adolescentes da ETEC ocupando o espa&amp;ccedil;o para colaborar... N&amp;atilde;o h&amp;aacute; palavras suficientes pra descrever. Corre um pequeno veio d&amp;#39;&amp;aacute;gua, quase um rio-nascente dentro da propriedade! &amp;Aacute;gua corrente no meio de uma propriedade incrustada no P&lt;a href=&quot;http://pt.wikipedia.org/wiki/Parque_Estadual_da_Serra_do_Mar&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;arque Estadual da Serra do Mar&lt;/strong&gt;&lt;/a&gt;, local frequentado por beija-flores e colibris, com 5 coretos edificados em formato de hexagono, alguns cobertos de placas de caixa de leite reciclado, outros de garrafa pet, sendo um deles espa&amp;ccedil;o de uma biblioteca com livros de ocultismo, ufologia, magia e xamanismo.&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;&lt;img alt=&quot;&quot; src=&quot;http://wiki.nosdigitais.teia.org.br/images/d/dd/2012_05_25-26-27_Encontra_HiperTropical_metareciclagem0030.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;&lt;img alt=&quot;&quot; src=&quot;http://wiki.nosdigitais.teia.org.br/images/9/93/2012_05_25-26-27_Encontra_HiperTropical_metareciclagem0129.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;Reverberando em boas sensa&amp;ccedil;&amp;otilde;es, ganhei um grande presente: o Vince, um italiano da Sicilia que est&amp;aacute; de volta ao Brasil fazendo trabalhos com a &lt;em&gt;&lt;strong&gt;&lt;a href=&quot;http://www.mocambos.org&quot; rel=&quot;nofollow&quot;&gt;Rede Mocambos&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;, me apresentou ao trabalho do &lt;em&gt;&lt;strong&gt;&lt;a href=&quot;http://www.tinariwen.com&quot; rel=&quot;nofollow&quot;&gt;Tinariwen&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;. Eles fazem parte de um povo de uma dinastia muito antiga de moradores dos desertos da m&amp;atilde;e &amp;Aacute;frica. O entoar de suas palmas, atabaques, cordas, de suas vozes e c&amp;acirc;nticos, conversa com as for&amp;ccedil;as da cria&amp;ccedil;&amp;atilde;o num mantra profundo e ritmado. Atrav&amp;eacute;s desses sons eles conversam com estrelas e com as energias da cria&amp;ccedil;&amp;atilde;o. Vale a pena ouvir e assistir:&lt;/div&gt;&lt;object height=&quot;281&quot; width=&quot;500&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/5P0oO8nphMY?version=3&amp;amp;hl=pt_BR&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;param name=&quot;allowscriptaccess&quot; value=&quot;always&quot; /&gt;&lt;embed allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; height=&quot;281&quot; src=&quot;http://www.youtube.com/v/5P0oO8nphMY?version=3&amp;amp;hl=pt_BR&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;500&quot;&gt;&lt;/embed&gt;&lt;/object&gt;
+	&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;&lt;strong&gt;&lt;a href=&quot;http://youtu.be/5P0oO8nphMY&quot; rel=&quot;nofollow&quot;&gt;http://youtu.be/5P0oO8nphMY&lt;/a&gt;&lt;/strong&gt;&lt;/div&gt;
+	&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;No s&amp;aacute;bado fim da tarde, nos reunimos todos numa grande roda, ao ar livre, debaixo de um c&amp;eacute;u bonito e estrelado, com uma lua que n&amp;atilde;o se intimidou em aparecer. Um verdadeiro #CeudeIdeias que, se a imagina&amp;ccedil;&amp;atilde;o deixar correr nessa escrita, foi um dos respons&amp;aacute;veis pelas converg&amp;ecirc;ncias positivas do encontro. Conversamos sobre de como as tecnologias mudaram ordens dadas, do desejo de cidades de c&amp;oacute;digo aberto e de como precisamos de mais conex&amp;otilde;es, entre pessoas, entre espa&amp;ccedil;os, entre sensa&amp;ccedil;&amp;otilde;es, entre afetos, pra buscar o tal mundo novo poss&amp;iacute;vel, terra prometida, por n&amp;oacute;s mesmos, que queremos. E no fim de tudo ainda aconteceu um ritual com palmas nas costas, circular, roda gira, roda gira.&lt;/div&gt;
+	&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;&lt;img alt=&quot;&quot; src=&quot;http://wiki.nosdigitais.teia.org.br/images/2/27/2012_05_25-26-27_Encontra_HiperTropical_metareciclagem0158.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;&lt;img alt=&quot;&quot; src=&quot;http://wiki.nosdigitais.teia.org.br/images/1/18/2012_05_25-26-27_Encontra_HiperTropical_metareciclagem0156.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;&lt;img alt=&quot;&quot; src=&quot;http://wiki.nosdigitais.teia.org.br/images/3/33/2012_05_25-26-27_Encontra_HiperTropical_metareciclagem0155.jpg&quot; /&gt;&lt;/div&gt;
+	&lt;div&gt;No domingo explora&amp;ccedil;&amp;otilde;es. Dia de pedalar em bando. BikeBeach com o BikeTux. Percorremos quase 30 km do parque da Serra do Mar at&amp;eacute; a Praia Vermelha ao som do cora&amp;ccedil;&amp;atilde;o batendo forte. Foi bom demais!&amp;nbsp;&lt;/div&gt;
+	&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;div class=&quot;rteleft&quot;&gt;Outros registros podem ser lidos aqui: &lt;a href=&quot;http://rede.metareciclagem.org/wiki/HiperTropicalDocumentando&quot; rel=&quot;nofollow&quot;&gt;http://rede.metareciclagem.org/wiki/HiperTropicalDocumentando&lt;/a&gt;&lt;/div&gt;
+	&lt;div class=&quot;rteleft&quot;&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;div class=&quot;rteleft&quot;&gt;Fotos aqui:&amp;nbsp;&lt;/div&gt;
+	&lt;div class=&quot;rteleft&quot;&gt;&lt;a href=&quot;http://fotos.nosdigitais.teia.org.br/oficinas-abertas-encontrao-angaa/&quot; rel=&quot;nofollow&quot;&gt;http://fotos.nosdigitais.teia.org.br/oficinas-abertas-encontrao-angaa/&lt;/a&gt;&lt;/div&gt;
+	&lt;div class=&quot;rteleft&quot;&gt;&amp;nbsp;&lt;/div&gt;
+	&lt;div class=&quot;rteleft&quot;&gt;&lt;img alt=&quot;&quot; src=&quot;http://wiki.nosdigitais.teia.org.br/images/3/30/Tux2.JPG&quot; /&gt;&lt;/div&gt;
+	&lt;div class=&quot;rteleft&quot;&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/24-06-12/Metareciclando-em-um-HiperTropicalizado-ceu-de-ideias#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/ceudeideias">céudeideias</category>
+ <category domain="http://rede.metareciclagem.org/assunto/encontr%C3%A3o">encontrão</category>
+ <category domain="http://rede.metareciclagem.org/assunto/eventos">eventos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/hipertropical">hipertropical</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ubalab">ubalab</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ubatuba">ubatuba</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Encontrao-Hipertropical" xmlns="http://drupal.org/project/og">Encontrão Hipertropical</group>
+ <pubDate>Mon, 25 Jun 2012 02:31:39 +0000</pubDate>
+ <dc:creator>felipehistory</dc:creator>
+ <guid isPermaLink="false">2114 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>HiperTropicalPraticidades</title>
+ <link>http://rede.metareciclagem.org/wiki/HiperTropicalPraticidades</link>
+ <description>&lt;p&gt;&lt;strong&gt;Ubatuba&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ubatuba fica no litoral norte do estado de S&amp;atilde;o Paulo, a cerca de 210 km da capital. Faz divisa com Paraty (RJ) ao norte e Caraguatatuba ao sul. &amp;Eacute; cortada pela rodovia Rio-Santos e pelo Tr&amp;oacute;pico de Capric&amp;oacute;rnio. &amp;Eacute; conhecida pela costa recortada, que forma mais de oitenta praias contando continente e ilhas. Quase noventa por cento de seu territ&amp;oacute;rio &amp;eacute; composto por Mata Atl&amp;acirc;ntica preservada, a maioria dela dentro do Parque Estadual da Serra do Mar.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Contatos&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Quaisquer d&amp;uacute;vidas, entre em contato com:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Felipe Fonseca, Ubalab/MetaReciclagem - (11) 8536.8091, @&lt;a href=&quot;http://twitter.com/efeefe&quot; rel=&quot;nofollow&quot;&gt;efeefe&lt;/a&gt;,&lt;/li&gt;
+	&lt;li&gt;Milena Franceschinelli, Funda&amp;ccedil;&amp;atilde;o Alavanca, (12) 9739-9422&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Locais do Encontr&amp;atilde;o&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Funda&amp;ccedil;&amp;atilde;o Alavanca - vai sediar a maior parte das atividades do Encontr&amp;atilde;o. Fica no Horto Florestal, a oito quil&amp;ocirc;metros do centro da cidade, na beira da Serra do Mar. O acesso &amp;agrave; internet &amp;eacute; prec&amp;aacute;rio (estamos instalando uma rede wifi baseada em 3G como contrapartida do Encontr&amp;atilde;o), mas o entorno natural &amp;eacute; delicioso.&lt;/li&gt;
+	&lt;li&gt;Ruas de Ubatuba: ser&amp;atilde;o percorridas por grupos de metarecicleirxs sem destino.&lt;/li&gt;
+	&lt;li&gt;Programa&amp;ccedil;&amp;atilde;o paralela:
+		&lt;ul&gt;
+			&lt;li&gt;C&amp;acirc;mara Municipal - local onde ser&amp;aacute; lan&amp;ccedil;ado o programa &lt;a href=&quot;http://www.cidadessustentaveis.org.br/&quot; rel=&quot;nofollow&quot;&gt;Cidades Sustent&amp;aacute;veis&lt;/a&gt; na noite de sexta-feira. Fica bem no centro da cidade, a poucos metros do Terminal Rodovi&amp;aacute;rio Urbano.&lt;/li&gt;
+			&lt;li&gt;ETEC - Centro Paula Souza Unitau - em paralelo ao Encontr&amp;atilde;o, o Pont&amp;atilde;o N&amp;oacute;s Digitais vai oferecer uma oficina fechada aos alunos da Escola T&amp;eacute;cnica Estadual, que ser&amp;atilde;o naturalmente convidados a participar do restante da programa&amp;ccedil;&amp;atilde;o na Funda&amp;ccedil;&amp;atilde;o Alavanca.&lt;/li&gt;
+			&lt;li&gt;(Centro de Visitantes do Projeto Tamar - sedia no s&amp;aacute;bado &amp;agrave; noite a abertura do Festival da Mata Atl&amp;acirc;ntica, com show de Xangai. Fica no Itagu&amp;aacute;.)&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Mapa de pontos relevantes para o Encontr&amp;atilde;o em Ubatuba&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://g.co/maps/nu6pq&quot; title=&quot;http://g.co/maps/nu6pq&quot; rel=&quot;nofollow&quot;&gt;http://g.co/maps/nu6pq&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hospedagem&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;A Funda&amp;ccedil;&amp;atilde;o Alavanca oferece espa&amp;ccedil;o para quem quiser acantonar (nos quiosques) ou acampar (no gramado). &amp;Eacute; necess&amp;aacute;rio levar colchonetes, sacos de dormir, toalhas e no caso de acampar, barracas. As instala&amp;ccedil;&amp;otilde;es t&amp;ecirc;m banheiro e cozinha. Pre&amp;ccedil;o: na faixa.&lt;/li&gt;
+	&lt;li&gt;Para quem vem de carro, um amigo ofereceu hospedagem solid&amp;aacute;ria para quatro pessoas na Praia Vermelha do Sul. &amp;Eacute; uma casa-laborat&amp;oacute;rio, totalmente voltada &amp;agrave; Permacultura. Mas fica relativamente longe da Funda&amp;ccedil;&amp;atilde;o Alavanca, ent&amp;atilde;o &amp;eacute; invi&amp;aacute;vel para quem depende do transporte p&amp;uacute;blico.&lt;/li&gt;
+	&lt;li&gt;A Leda, aluna da&amp;nbsp; ETEC, ofereceu hospedagem para parte do grupo, no Itagu&amp;aacute;.&amp;nbsp; Interessados entrem em contato com Felipe Fonseca.&lt;/li&gt;
+	&lt;li&gt;Pousada recomendada: &lt;a href=&quot;http://www.pousadarecantodospassaros.com.br/&quot; rel=&quot;nofollow&quot;&gt;Recanto dos P&amp;aacute;ssaros&lt;/a&gt;, Rodovia Oswaldo Cruz, 6719 Km 87,5 - Horto Florestal - Tel.: (12) 3833-6313. Falem com Ver&amp;ocirc;nica. Fechamos um pacote em quartos triplos ou qu&amp;aacute;druplos, por volta de cem reais por pessoa o fim de semana inteiro. Caf&amp;eacute; da manh&amp;atilde; inclu&amp;iacute;do. Fica ao lado da Funda&amp;ccedil;&amp;atilde;o Alavanca. A pousada tem piscina e fica bem perto da borda do Parque Estadual da Serra do Mar (mas longe da entrada do Parque). Tanto a pousada quanto a Funda&amp;ccedil;&amp;atilde;o est&amp;atilde;o a mais ou menos sete quil&amp;ocirc;metros do centro da cidade, oito quil&amp;ocirc;metros do mar.&lt;/li&gt;
+	&lt;li&gt;Para quem prefere ficar na cidade, recomendamos o &lt;a href=&quot;http://www.aldeiahostel.com.br/&quot; rel=&quot;nofollow&quot;&gt;Aldeia Hostel&lt;/a&gt;. Rua Cunhambebe, 979, Centro. Fone 12 3832.2031. Falem com o Rubens. Ele disse que est&amp;atilde;o com pre&amp;ccedil;o de temporada: dormit&amp;oacute;rio coletivo R$ 30 a di&amp;aacute;ria; quarto coletivo (6 pessoas) com banheiro R$ 35. Como vantagem, est&amp;aacute; mais perto da praia, das rodovi&amp;aacute;rias e de outras facilidades da cidade. Talvez seja op&amp;ccedil;&amp;atilde;o melhor para quem quer sair &amp;agrave; noite. Mas&amp;nbsp; &amp;eacute; longe do Encontr&amp;atilde;o e tem um clima mais de cidade interior do que de natureza.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Alimenta&amp;ccedil;&amp;atilde;o&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;O centro da cidade tem boas op&amp;ccedil;&amp;otilde;es de comida por quilo a pre&amp;ccedil;os variados. Indicamos alguns no &lt;a href=&quot;http://g.co/maps/nu6pq&quot; rel=&quot;nofollow&quot;&gt;mapa&lt;/a&gt; (Ismael I e II, Sabor do Mar, Alentejano), mas existem muitas outras op&amp;ccedil;&amp;otilde;es. No s&amp;aacute;bado, o plano &amp;eacute; fazer um almo&amp;ccedil;o coletivo na Funda&amp;ccedil;&amp;atilde;o Alavanca, financiado pela &lt;a href=&quot;/wiki/HiperTropicalAjude&quot; rel=&quot;nofollow&quot;&gt;vaquinha&lt;/a&gt;. Para as outras refei&amp;ccedil;&amp;otilde;es, podemos armar expedi&amp;ccedil;&amp;otilde;es de busca de mantimentos, encomendar quentinhas ou outros acordos coletivos a combinar. Encontre pessoas que gostem do mesmo tipo de comida e organizem-se a esse respeito.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Outras coisas a visitar&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Alguns pontos interessantes de Ubatuba, mas muito distantes para incluir na programa&amp;ccedil;&amp;atilde;o do Encontr&amp;atilde;o. Se estiver interessadx, entre em contato diretamente e verifique a disponibilidade de agendamento de visita.&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://novo.ipemabrasil.org.br/&quot; rel=&quot;nofollow&quot;&gt;Instituto de Permacultura da Mata Atl&amp;acirc;ntica&lt;/a&gt;;&lt;/li&gt;
+	&lt;li&gt;Casa da Farinha, fica no &lt;a href=&quot;http://quilombodafazenda.org.br/&quot; rel=&quot;nofollow&quot;&gt;Quilombo da Fazenda&lt;/a&gt; - que tamb&amp;eacute;m tem um telecentro e um Ponto de Cultura, e foi tema do v&amp;iacute;deo &amp;quot;&lt;a href=&quot;https://vimeo.com/24629934&quot; rel=&quot;nofollow&quot;&gt;Inven&amp;ccedil;&amp;otilde;es Democr&amp;aacute;ticas no Quilombo&lt;/a&gt;&amp;quot;;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Precau&amp;ccedil;&amp;otilde;es e dicas&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;N&amp;atilde;o esque&amp;ccedil;am de trazer:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;em&gt;Roupa de banho e protetor solar&lt;/em&gt;. Ubatuba tem mais de oitenta praias, uma mais bonita que a outra;&lt;/li&gt;
+	&lt;li&gt;&lt;em&gt;Repelente de insetos&lt;/em&gt;. Ubatuba tem bilh&amp;otilde;es de mosquitos, muitos deles transmissores de Dengue;&lt;/li&gt;
+	&lt;li&gt;&lt;em&gt;Capa de chuva ou guarda-chuva&lt;/em&gt;. Ou ambos. Ubatuba tem duas esta&amp;ccedil;&amp;otilde;es: a molhada e a menos molhada. Teoricamente, maio e junho est&amp;atilde;o entre os meses em que menos chove. Ainda assim, podemos ter um fim de semana bem molhado. Estamos negociando com os deuses da chuva, Tup&amp;atilde;, S&amp;atilde;o Pedro e Yans&amp;atilde; - mas ainda n&amp;atilde;o conseguimos assinar o contrato.&lt;/li&gt;
+	&lt;li&gt;Alguma roupa mais quente para o caso de chover bastante e uma frente fria nos pegar.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Clima&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Acompanhem a previs&amp;atilde;o do tempo ao longo da semana. Como a Funda&amp;ccedil;&amp;atilde;o fica perto da Serra, estimem um ou dois graus cent&amp;iacute;grados a menos na estimativa de temperatura.&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.climatempo.com.br/previsao-do-tempo/cidade/570/ubatuba-sp&quot; rel=&quot;nofollow&quot;&gt;Climatempo&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://br.weather.com/weather/local/BRXX0251&quot; rel=&quot;nofollow&quot;&gt;Weather.com&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Transporte em Ubatuba&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Existem &amp;ocirc;nibus de linha que conectam o centro da cidade ao Horto, onde fica a Funda&amp;ccedil;&amp;atilde;o. O &amp;ocirc;nibus sai do terminal rodovi&amp;aacute;rio, na rua Hans Staden 488. A linha chama-se HORTO. Tem um &amp;ocirc;nibus por hora. Leva cerca de quinze minutos at&amp;eacute; a Funda&amp;ccedil;&amp;atilde;o. O trajeto percorre a rodovia Oswaldo Cruz em dire&amp;ccedil;&amp;atilde;o &amp;agrave; serra. Descer no ponto ap&amp;oacute;s o posto da Pol&amp;iacute;cia Rodovi&amp;aacute;ria.&lt;/li&gt;
+	&lt;li&gt;O centro pode ser todo percorrido a p&amp;eacute;. De l&amp;aacute; at&amp;eacute; o Itagu&amp;aacute; (onde fica a ETEC e o Tamar), s&amp;atilde;o uns quinze minutos caminhando - o melhor e mais bonito caminho &amp;eacute; pela orla. Andando mais uns quinze ou vinte minutos, d&amp;aacute; pra ir at&amp;eacute; a Praia do Ten&amp;oacute;rio e a Vermelha do Centro. Para o outro lado, a praia Perequ&amp;ecirc;-A&amp;ccedil;u fica a cerca de dez minutos a p&amp;eacute; desde o Terminal.&lt;/li&gt;
+	&lt;li&gt;Existem algumas (menos do que o ideal) empresas que alugam bicicletas em Ubatuba. A &lt;a href=&quot;http://www.ubasadventure.com.br/&quot; rel=&quot;nofollow&quot;&gt;Ubasadventure&lt;/a&gt; tem servi&amp;ccedil;o de delivery: entrega e retira as bicicletas em algum lugar combinado, e j&amp;aacute; aluga com cadeado. Cobra R$ 20 por dia, mas o Renato topou fechar pacotes de R$ 15 se houver pelo menos cinco interessados em ter as bicicletas por tr&amp;ecirc;s dias. Telefones dele: 12 3842.3947 e 12 9751.4631. Para quem vai ficar perto da Alavanca, as bicicletas podem ser uma op&amp;ccedil;&amp;atilde;o cansativa: s&amp;atilde;o oito quil&amp;ocirc;metros at&amp;eacute; o centro. Mas d&amp;aacute; pra tentar alugar as bicicletas s&amp;oacute; por meio per&amp;iacute;odo para andar pelo centro e praias, ou encontrar algum lugar para estacion&amp;aacute;-las perto do terminal de &amp;ocirc;nibus (isso pode inclusive ser combinado com o pr&amp;oacute;prio Renato).&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Transporte de/para Ubatuba&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. S&amp;atilde;o Paulo- Ubatuba - S&amp;atilde;o Paulo&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Companhia &lt;a href=&quot;http://www.litoranea.com.br/&quot; rel=&quot;nofollow&quot;&gt;Litor&amp;acirc;nea&lt;/a&gt; (associada &amp;agrave; P&amp;aacute;ssaro Marron). Verificar hor&amp;aacute;rios no &lt;a href=&quot;http://www.litoranea.com.br/&quot; rel=&quot;nofollow&quot;&gt;site&lt;/a&gt; ou por telefone: 0800 285 3047, 11 3775 38 50. As passagens tamb&amp;eacute;m podem ser compradas pelo pr&amp;oacute;prio site, ou direto na rodovi&amp;aacute;ria. A viagem costuma demorar quatro horas. Se n&amp;atilde;o houver um hor&amp;aacute;rio adequado, &amp;eacute; poss&amp;iacute;vel tomar o &amp;ocirc;nibus at&amp;eacute; Caraguatatuba (existem alguns hor&amp;aacute;rios expressos, sem paradas) e depois outro at&amp;eacute; Ubatuba, que deve demorar cerca de uma hora.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aeroporto de Guarulhos - Ubatuba - Aeroporto de Guarulhos&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Eles levam mais tempo do que saindo do Terminal Tiet&amp;ecirc; de Sampa porque t&amp;ecirc;m uma escala em S&amp;atilde;o Jos&amp;eacute; dos Campos, fica mais ou menos meia hora parado l&amp;aacute;. O &amp;ocirc;nibus chega em Ubatuba no Terminal Rodovi&amp;aacute;rio da Litor&amp;acirc;nea, a &amp;quot;nova rodovi&amp;aacute;ria&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Guarulhos - Ubatuba: 5h10 de viagem&lt;br /&gt;
+	9h, 18h30.&lt;br /&gt;
+	Ubatuba - Guarulhos: 5h10 de viagem&lt;br /&gt;
+	5h50, 14h50.&lt;br /&gt;
+	&lt;br /&gt;
+	Op&amp;ccedil;&amp;atilde;o: Guarulhos - Caraguatatuba, demora umas 4h ou menos. Precisa depois ir de Caragu&amp;aacute; para Ubatuba - mais ou menos uma hora de viagem, tem &amp;ocirc;nibus quase toda hora.&lt;br /&gt;
+	7h, 9h, 16h30, 18h30, 20h.&lt;br /&gt;
+	Caraguatatuba - Guarulhos&lt;br /&gt;
+	6h15, 7h20, 11h20, 15h20, 16h20, 20h20.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/HiperTropicalPraticidades#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/encontr%C3%A3o">encontrão</category>
+ <category domain="http://rede.metareciclagem.org/assunto/eventos">eventos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/hipertropical">hipertropical</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ubalab">ubalab</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ubatuba">ubatuba</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Encontrao-Hipertropical" xmlns="http://drupal.org/project/og">Encontrão Hipertropical</group>
+ <pubDate>Sun, 20 May 2012 23:36:28 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2111 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Vaquinha - resultados parciais</title>
+ <link>http://rede.metareciclagem.org/blog/19-05-12/Vaquinha-resultados-parciais</link>
+ <description>&lt;p&gt;No come&amp;ccedil;o da semana, lan&amp;ccedil;amos uma &lt;a href=&quot;/wiki/HiperTropicalAjude&quot; rel=&quot;nofollow&quot;&gt;vaquinha&lt;/a&gt; para ajudar a realiza&amp;ccedil;&amp;atilde;o do EncontraoHiperTropical, que acontece na semana que vem em Ubatuba. At&amp;eacute; o momento, j&amp;aacute; arrecadamos &lt;em&gt;R$ 500&lt;/em&gt; de contrapartida em infraestrutura para a Funda&amp;ccedil;&amp;atilde;o Alavanca (oferecida pelo projeto &lt;a href=&quot;http://ubalab.org&quot; rel=&quot;nofollow&quot;&gt;Ubalab&lt;/a&gt;), algum recurso (ainda a definir) para a reuni&amp;atilde;o de trabalho do &lt;a href=&quot;http://mutgamb.org&quot; rel=&quot;nofollow&quot;&gt;Mutgamb&lt;/a&gt; que vai acontecer por l&amp;aacute;, al&amp;eacute;m de &lt;em&gt;R$ 1859&lt;/em&gt; em doa&amp;ccedil;&amp;otilde;es pessoais (mais ou menos metade em doa&amp;ccedil;&amp;otilde;es online e a outra metade prometida para ser entregue em esp&amp;eacute;cie durante o Encontr&amp;atilde;o), oferecidas por:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Conectiva;&lt;/li&gt;
+	&lt;li&gt;Felipe Cabral;&lt;/li&gt;
+	&lt;li&gt;Jeraman;&lt;/li&gt;
+	&lt;li&gt;Bruno Vianna;&lt;/li&gt;
+	&lt;li&gt;Dalton e os Brother;&lt;/li&gt;
+	&lt;li&gt;Regis Bailux;&lt;/li&gt;
+	&lt;li&gt;Drica Guzzi;&lt;/li&gt;
+	&lt;li&gt;Daisy Braun;&lt;/li&gt;
+	&lt;li&gt;Hernani Dimantas;&lt;/li&gt;
+	&lt;li&gt;Ricardo Poppi;&lt;/li&gt;
+	&lt;li&gt;Paulo Bicarato;&lt;/li&gt;
+	&lt;li&gt;Hudson Augusto;&lt;/li&gt;
+	&lt;li&gt;Leo BR.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Marcelo Bueno e Roque Gonzalez ofereceram apoio direto: hospedagem e mantimentos.&lt;/p&gt;
+&lt;p&gt;Para realizar tudo que queremos durante o Encontr&amp;atilde;o, ainda precisamos mais. &lt;em&gt;Gostar&amp;iacute;amos de chegar &amp;agrave; sexta-feira que vem com oito mil reais em doa&amp;ccedil;&amp;otilde;es&lt;/em&gt;, mas sabemos que &amp;eacute; uma longa corrida. Temos, &amp;eacute; claro, planos alternativos - conseguir&amp;iacute;amos fazer o Encontr&amp;atilde;o mesmo sem nenhum dinheiro. Mas quanto mais arrecadarmos, mais poderemos cobrir os custos que as pessoas v&amp;atilde;o ter para chegar a Ubatuba e ficar por l&amp;aacute;. Ainda n&amp;atilde;o descartamos, tamb&amp;eacute;m, a presen&amp;ccedil;a do &lt;a href=&quot;http://onibushacker.org/&quot; rel=&quot;nofollow&quot;&gt;Bus&amp;atilde;o Hacker&lt;/a&gt;, mas para isso precisamos acelerar as doa&amp;ccedil;&amp;otilde;es. Vamo l&amp;aacute; pessoal, libera aquele vint&amp;atilde;o que j&amp;aacute; faz alguma diferen&amp;ccedil;a!&lt;/p&gt;
+&lt;p&gt;Enquanto isso, a &lt;a href=&quot;/wiki/HiperTropicalProgramacao&quot; rel=&quot;nofollow&quot;&gt;programa&amp;ccedil;&amp;atilde;o do Encontr&amp;atilde;o&lt;/a&gt; est&amp;aacute; aparecendo.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/19-05-12/Vaquinha-resultados-parciais#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/encontr%C3%A3o">encontrão</category>
+ <category domain="http://rede.metareciclagem.org/assunto/eventos">eventos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/hipertropical">hipertropical</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metarecursos">metarecursos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ubalab">ubalab</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ubatuba">ubatuba</category>
+ <category domain="http://rede.metareciclagem.org/assunto/vaquinha">vaquinha</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/MetaRecursos" xmlns="http://drupal.org/project/og">MetaRecursos</group>
+ <group domain="http://rede.metareciclagem.org/conectaz/Encontrao-Hipertropical" xmlns="http://drupal.org/project/og">Encontrão Hipertropical</group>
+ <pubDate>Sat, 19 May 2012 03:26:06 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2109 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>HiperTropicalProgramacao</title>
+ <link>http://rede.metareciclagem.org/wiki/HiperTropicalProgramacao</link>
+ <description>&lt;p&gt;Programando o EncontraoHiperTropical de MetaReciclagem, maio de 2012, em Ubatuba.&lt;/p&gt;
+&lt;p&gt;O Encontr&amp;atilde;o ser&amp;aacute; realizado em diferentes espa&amp;ccedil;os: Funda&amp;ccedil;&amp;atilde;o Alavanca, C&amp;acirc;mara Municipal, Escola T&amp;eacute;cnica / Unitau. Confira no &lt;a href=&quot;http://g.co/maps/nu6pq&quot; rel=&quot;nofollow&quot;&gt;mapa&lt;/a&gt; a localiza&amp;ccedil;&amp;atilde;o desses pontos e de outros pontos relevantes. Saiba mais na p&amp;aacute;gina HiperTropicalPraticidades.&lt;/p&gt;
+&lt;p&gt;O Encontr&amp;atilde;o de MetaReciclagem n&amp;atilde;o prev&amp;ecirc; uma agenda fechada de atividades. Muito pelo contr&amp;aacute;rio: assumimos propositalmente poucos compromissos justamente para permitir a deriva, a auto-organiza&amp;ccedil;&amp;atilde;o e os desvios. Nesse sentido, temos menos uma programa&amp;ccedil;&amp;atilde;o do que sugest&amp;otilde;es de percursos. Todxs participantes s&amp;atilde;o livres para participarem do que quiserem nesses tr&amp;ecirc;s dias.&lt;/p&gt;
+&lt;p&gt;Por quest&amp;otilde;es de praticidade na log&amp;iacute;stica e atendimento, n&amp;atilde;o precisamos estar todos juntos o tempo todo. &amp;Eacute; melhor que as pessoas se organizem em grupos de 4 a 8 pessoas para gerenciar deslocamentos, refei&amp;ccedil;&amp;otilde;es e passeios. Procure sua turma. Mas mude de turma no dia seguinte, ou quando achar melhor ;)&lt;/p&gt;
+&lt;p&gt;Sugira outras atividades - &lt;a href=&quot;/wiki/HiperTropicalProgramacao/edit&quot; rel=&quot;nofollow&quot;&gt;editando diretamente esta p&amp;aacute;gina&lt;/a&gt;, enviando um &lt;a href=&quot;http://lista.metareciclagem.org&quot; rel=&quot;nofollow&quot;&gt;email na lista de discuss&amp;atilde;o&lt;/a&gt; ou mandando uma &lt;a href=&quot;/contact&quot; rel=&quot;nofollow&quot;&gt;mensagem por aqui&lt;/a&gt;.&lt;/p&gt;
+&lt;h1&gt;
+	25/5, Sexta-feira&lt;/h1&gt;
+&lt;p&gt;O primeiro dia &amp;eacute; para ambientar-se, (re)conhecer as pessoas e o contexto. Comece o dia devagar, pegue leve e vamos l&amp;aacute;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MANH&amp;Atilde;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		10h - Funda&amp;ccedil;&amp;atilde;o Alavanca - recep&amp;ccedil;&amp;atilde;o de participantes, apresenta&amp;ccedil;&amp;otilde;es pessoais e discuss&amp;atilde;o da agenda do Encontr&amp;atilde;o.&lt;/li&gt;
+	&lt;li&gt;
+		12h - Almo&amp;ccedil;o livre, a caminho do Centro/Itagu&amp;aacute;. Sugest&amp;atilde;o: tomar &amp;ocirc;nibus de linha, at&amp;eacute; o Terminal Rodovi&amp;aacute;rio, e almo&amp;ccedil;ar em algum lugar no Centro da cidade.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;TARDE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		&lt;strong&gt;Trilha 1:&lt;/strong&gt; 14h &amp;agrave;s 18h - Oficina de recondicionamento de computadores - Escola T&amp;eacute;cnica Estadual, no Itagu&amp;aacute;. A oficina &amp;eacute; fechada aos 60 alunos do curso de inform&amp;aacute;tica da &lt;a href=&quot;http://www.etecubatuba.com&quot; rel=&quot;nofollow&quot;&gt;ETEC Ubatuba&lt;/a&gt;.
+		&lt;ul&gt;
+			&lt;li&gt;
+				Felipe Cabral est&amp;aacute; respons&amp;aacute;vel, e aceita volunt&amp;aacute;rixs. Felipe Fonseca quer participar da primeira conversa com o pessoal, e depois vai acompanhar outras trilhas.&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;strong&gt;Trilha 2:&lt;/strong&gt; 14h &amp;agrave;s 18h - Derivas pelo centro da cidade. Mais para o fim da tarde, percorrer a orla at&amp;eacute; a altura da C&amp;acirc;mara Municipal para a atividade seguinte. Sugest&amp;otilde;es para as derivas:
+		&lt;ul&gt;
+			&lt;li&gt;
+				Biograffitti, com Maira Begalli.&lt;/li&gt;
+			&lt;li&gt;
+				Captura de trilhas para oficina de Openstreetmap, com Wille.&lt;/li&gt;
+			&lt;li&gt;
+				Alugar bicicletas (ver sugest&amp;atilde;o em HiperTropicalPraticidades) e se perder em Ubatuba - por exemplo, ir da Ponta Grossa at&amp;eacute; o Perequ&amp;ecirc;-A&amp;ccedil;u, percorrendo a ciclovia da orla.&lt;/li&gt;
+			&lt;li&gt;
+				Ir a p&amp;eacute; ou de bicicleta at&amp;eacute; as praias do Ten&amp;oacute;rio e Vermelha do Centro, ou at&amp;eacute; o Perequ&amp;ecirc;-A&amp;ccedil;u.&lt;/li&gt;
+			&lt;li&gt;
+				Visitar o &lt;a href=&quot;http://www.aquariodeubatuba.com.br/&quot; rel=&quot;nofollow&quot;&gt;Aqu&amp;aacute;rio de Ubatuba&lt;/a&gt; e/ou o &lt;a href=&quot;http://projetotamar.org.br/centros_visitantes.php?cod=9&quot; rel=&quot;nofollow&quot;&gt;projeto Tamar&lt;/a&gt;, no Itagu&amp;aacute;.&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;strong&gt;Trilha 3 (EM CASO DE MUITA CHUVA):&lt;/strong&gt; 14h &amp;agrave;s 18h - Voltar &amp;agrave; Funda&amp;ccedil;&amp;atilde;o Alavanca, preparando instala&amp;ccedil;&amp;otilde;es e atividades para os dias seguintes. Resolver estrutura na Funda&amp;ccedil;&amp;atilde;o (ilumina&amp;ccedil;&amp;atilde;o, utensilios de cozinha, instala&amp;ccedil;&amp;atilde;o el&amp;eacute;trica).&lt;/li&gt;
+	&lt;li&gt;
+		&lt;strong&gt;Trilha 4:&lt;/strong&gt; Escutando navios petroleiros - AIS e VHF&amp;nbsp; (sistemas abertos de localiza&amp;ccedil;&amp;atilde;o e comunica&amp;ccedil;&amp;atilde;o mar&amp;iacute;tima), em algum lugar da orla. Por Bruno Vianna&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;NOITE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		19h Lan&amp;ccedil;amento do programa &lt;a href=&quot;http://www.cidadessustentaveis.org.br/&quot; rel=&quot;nofollow&quot;&gt;Cidades Sustent&amp;aacute;veis&lt;/a&gt; - C&amp;acirc;mara Municipal.&lt;/li&gt;
+	&lt;li&gt;
+		21h Cerveja em algum boteco na Orla ou no centro. Lembrar que os &amp;ocirc;nibus acabam cedo, e s&amp;oacute; retornam por volta das cinco da manh&amp;atilde;. Planejar o retorno com anteced&amp;ecirc;ncia: negociar com taxi ou van.&lt;/li&gt;
+	&lt;li&gt;
+		Conversas sobre Democracia Direta Digital e encaminhamentos de acao e revisao da &lt;a href=&quot;http://us5.campaign-archive.com/?u=2da6f83c97d18dc2b8641b5b5&amp;amp;id=1232e111c1&quot; rel=&quot;nofollow&quot;&gt;Carta Democracia Direta&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;
+	26/5, S&amp;aacute;bado&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;MANH&amp;Atilde;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		8h - Livre - Passeios pela cidade.&lt;/li&gt;
+	&lt;li&gt;
+		10h - Compra dos ingredientes do almo&amp;ccedil;o: Feira Municipal e Ilha dos Pescadores. Volunt&amp;aacute;rixs:
+		&lt;ul&gt;
+			&lt;li&gt;
+				Felipe Fonseca&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		11h - Fim da manh&amp;atilde;: Prepara&amp;ccedil;&amp;atilde;o do almo&amp;ccedil;o coletivo na Funda&amp;ccedil;&amp;atilde;o Alavanca. Volunt&amp;aacute;rixs:
+		&lt;ul&gt;
+			&lt;li&gt;
+				Felipe Fonseca&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;TARDE&lt;/strong&gt; - Funda&amp;ccedil;&amp;atilde;o Alavanca&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		&lt;strong&gt;Trilha 1:&lt;/strong&gt; 14h - 17h - Oficinas e a&amp;ccedil;&amp;otilde;es
+		&lt;ul&gt;
+			&lt;li&gt;
+				Redes e software livre - Felipe Cabral;&lt;/li&gt;
+			&lt;li&gt;
+				Openstreetmap - Wille Marcel;&lt;/li&gt;
+			&lt;li&gt;
+				&lt;a href=&quot;http://abcdesign.com.br/por-area/sustentabilidade/o-graffiti-na-onda-verde/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Biografitti @ Metarec&lt;/a&gt;, por Maira Begalli.&lt;/li&gt;
+			&lt;li&gt;
+				&lt;a href=&quot;http://nuvem.tk&quot; rel=&quot;nofollow&quot;&gt;LabNuvem&lt;/a&gt; - pela Nuvem&lt;/li&gt;
+			&lt;li&gt;
+				Escutando navios petroleiros - AIS e VHF&amp;nbsp; (sistemas abertos de localiza&amp;ccedil;&amp;atilde;o e comunica&amp;ccedil;&amp;atilde;o mar&amp;iacute;tima), por Bruno Vianna&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/li&gt;
+	&lt;li&gt;
+		&lt;strong&gt;Trilha 2:&lt;/strong&gt; 14h - 17h - Desconfer&amp;ecirc;ncia
+		&lt;ul&gt;
+			&lt;li&gt;
+				Bate-papo &amp;quot;Tecnologias sociais e modos de organiza&amp;ccedil;&amp;atilde;o social&amp;quot;, moderado por Henrique Parra/Pimentalab (participantes confirmados: Gisella Hiche e Floriana Breyer-EIA, Alexandre Abdo-Wikimedia-BR, Flavia Vivacqua-Rede Coro, Anna Maria Andrade-Antrop&amp;oacute;loga).&lt;/li&gt;
+			&lt;li&gt;
+				Tecnologias livres e meio ambiente: planejando a Cigac Mar (2013) - Felipe Fonseca, Maira Begalli, Orlando Silva.&lt;/li&gt;
+			&lt;li&gt;
+				Verso, metaversos e tecno-magia, com mBraz: da formiga &amp;agrave; evers&amp;atilde;o.&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		17h - Apresenta&amp;ccedil;&amp;atilde;o do projeto Labm&amp;oacute;vel;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;NOITE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		&lt;strong&gt;Trilha 1: &lt;/strong&gt;19h - Programa paralelo: show de Xangai no centro de visitantes do projeto Tamar (abertura do Festival da Mata Atl&amp;acirc;ntica). Recordar que o transporte entre o Horto e o centro rareia &amp;agrave; noite. Planejar de antem&amp;atilde;o a ida e a volta ao centro, com &amp;ocirc;nibus, t&amp;aacute;xi ou van.&lt;/li&gt;
+	&lt;li&gt;
+		&lt;strong&gt;Trilha 2:&lt;/strong&gt; continuar pela funda&amp;ccedil;&amp;atilde;o, fazer uma vaquinha para comprar cerveja. raquear noite adentro.&lt;/li&gt;
+	&lt;li&gt;
+		Conversas sobre Mocambos e &lt;a href=&quot;http://ubuntuone.com/4FKs4kBDGXPMRWTpPSllIs&quot; rel=&quot;nofollow&quot;&gt;tenda ecumenica/universalista puxada pelos Povos Tradicionais de Terreiro&lt;/a&gt; na Cupula dos Povos (Rio+20)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;
+	27/5, Domingo&lt;/h1&gt;
+&lt;p&gt;&amp;lt;MAIRA DOCUMENTA&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MANH&amp;Atilde;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		8h - Livre - Passeios pela cidade.&lt;/li&gt;
+	&lt;li&gt;
+		12h Almo&amp;ccedil;o livre.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;lt;MAIRA DOCUMENTA/&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;TARDE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		15h - 18h - Desconfer&amp;ecirc;ncia
+		&lt;ul&gt;
+			&lt;li&gt;
+				Metarecursos: sustentabilidade de projetos, com Felipe Fonseca e Tatiana Prado.&lt;/li&gt;
+			&lt;li&gt;
+				MetaReciclagem e Centro de Recondicionamento de Computadores do Recife. com Isaac Filho,.&lt;/li&gt;
+			&lt;li&gt;
+				Mutsaz Cu&amp;ntilde;&amp;aacute; e futuros do Mutgamb: Maira Begalli, Felipe Fonseca, Orlando Silva, Tatiana Prado, Silia Moan.&lt;/li&gt;
+		&lt;/ul&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;NOITE&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;
+		19h Encerramento: confraterniza&amp;ccedil;&amp;atilde;o na Funda&amp;ccedil;&amp;atilde;o Alavanca (ou algum boteco?) (ou metabar?)&lt;/li&gt;
+	&lt;li&gt;
+		Desdobramentos tecnomagicos para a Cupula dos Povos.&lt;/li&gt;
+&lt;/ul&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/HiperTropicalProgramacao#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/encontr%C3%A3o">encontrão</category>
+ <category domain="http://rede.metareciclagem.org/assunto/eventos">eventos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/hipertropical">hipertropical</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ubalab">ubalab</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ubatuba">ubatuba</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Encontrao-Hipertropical" xmlns="http://drupal.org/project/og">Encontrão Hipertropical</group>
+ <pubDate>Tue, 15 May 2012 20:02:54 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2106 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Encontrão Hipertropical</title>
+ <link>http://rede.metareciclagem.org/conectaz/Encontrao-Hipertropical</link>
+ <description>&lt;div class=&quot;form-item&quot;&gt;
+ &lt;label&gt;Descrição: &lt;/label&gt;
+ Encontrão Hipertropical de MetaReciclagem, Ubatuba, Maio 2012
+&lt;/div&gt;
+&lt;p&gt;O Encontr&amp;atilde;o Hipertropical de MetaReciclagem vai acontecer de 25 a 27 de Maio de 2012, em Ubatuba. Est&amp;aacute; sendo articulado entre a rede MetaReciclagem, o projeto Ubalab, a Associa&amp;ccedil;&amp;atilde;o Gaivota e a Funda&amp;ccedil;&amp;atilde;o Angaa. O encontro &amp;eacute; auto-organizado, e estamos abertos a propostas de participa&amp;ccedil;&amp;atilde;o.&lt;/p&gt;
+&lt;p&gt;Saiba mais sobre o Encontr&amp;atilde;o &lt;a href=&quot;/wiki/EncontraoHiperTropical&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;. Contribua para a viabiliza&amp;ccedil;&amp;atilde;o dele, &lt;a href=&quot;/wiki/HiperTropicalAjude&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Para mais informa&amp;ccedil;&amp;otilde;es, &lt;a href=&quot;/contato&quot; rel=&quot;nofollow&quot;&gt;entre em contato&lt;/a&gt;.&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-situacao-conectaz&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Situação desta ConecTAZ:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    funcionando        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/conectaz/Encontrao-Hipertropical#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/encontr%C3%A3o">encontrão</category>
+ <category domain="http://rede.metareciclagem.org/assunto/eventos">eventos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ubalab">ubalab</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ubatuba">ubatuba</category>
+ <pubDate>Mon, 26 Mar 2012 20:47:41 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2102 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>HiperTropicalIrcJaneiro</title>
+ <link>http://rede.metareciclagem.org/wiki/HiperTropicalIrcJaneiro</link>
+ <description>&lt;p&gt;EncontraoHiperTropical &amp;gt; HiperTropicalJaneiro&lt;/p&gt;
+&lt;p&gt;Reuni&amp;atilde;o no IRC sobre o EncontraoHiperTropical que estamos planejando para maio de 2012.&lt;/p&gt;
+&lt;p&gt;Presentes: um bando.&lt;/p&gt;
+&lt;p&gt;Falamos sobre: contexto, trilhas de programa&amp;ccedil;&amp;atilde;o, capta&amp;ccedil;&amp;atilde;o, parcerias.&lt;/p&gt;
+&lt;p&gt;Log &lt;a href=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/2012-01-30.215559-0200BRST.txt&quot; rel=&quot;nofollow&quot;&gt;em anexo&lt;/a&gt;.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/HiperTropicalIrcJaneiro#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/agenda">agenda</category>
+ <category domain="http://rede.metareciclagem.org/assunto/encontrao-hipertropical">encontrão hipertropical</category>
+ <category domain="http://rede.metareciclagem.org/assunto/eventos">eventos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/irc">irc</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ubalab">ubalab</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ubatuba">ubatuba</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/2012-01-30.215559-0200BRST.txt" length="43291" type="text/plain" />
+ <group domain="http://rede.metareciclagem.org/esporo/UbaLab" xmlns="http://drupal.org/project/og">UbaLab</group>
+ <group domain="http://rede.metareciclagem.org/conectaz/Encontrao-Hipertropical" xmlns="http://drupal.org/project/og">Encontrão Hipertropical</group>
+ <pubDate>Tue, 31 Jan 2012 02:16:40 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2095 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Uma data</title>
+ <link>http://rede.metareciclagem.org/blog/28-06-11/Uma-data</link>
+ <description>&lt;p&gt;28 de junho outra vez. Hoje fazem exatos nove anos que, em uma noite de resfriado &amp;amp; frustra&amp;ccedil;&amp;atilde;o, trocando conversas com um subcomandante, jogamos no mundo uma semente que se chamava projeto Met&amp;aacute;:Fora. A semente brotou, viveu, apodreceu &amp;amp; virou adubo. Mas essa hist&amp;oacute;ria j&amp;aacute; foi contada mil vezes.&lt;/p&gt;
+&lt;p&gt;Hoje estou quietinho, mas quero propor uma festa para daqui a um ano. A d&amp;eacute;cada de met&amp;aacute;:fora vai ser comemorada com brincadeiras, homenagens e inven&amp;ccedil;&amp;otilde;es. Todxs est&amp;atilde;o convidadxs.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/28-06-11/Uma-data#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/datas">datas</category>
+ <category domain="http://rede.metareciclagem.org/assunto/eventos">eventos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metafora-0">metá:fora</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Tue, 28 Jun 2011 23:40:55 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2047 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Agenda 2011</title>
+ <link>http://rede.metareciclagem.org/wiki/Agenda-2011</link>
+ <description>&lt;p&gt;AgendaMetaRec &amp;gt; Agenda-2011&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Agenda colaborativa da MetaReciclagem.&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p&gt;&lt;em&gt;Edite esta p&amp;aacute;gina e insira abaixo eventos relacionados &amp;agrave; MetaReciclagem ou outras oportunidades para nos encontrarmos. Por favor siga a ordem cronol&amp;oacute;gica e n&amp;atilde;o esque&amp;ccedil;a de detalhes sobre o local e acesso.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Campus Party -&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;17/01 a 21/01&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Centro de Conven&amp;ccedil;&amp;otilde;es Imigrantes,&amp;nbsp;S&amp;atilde;o Paulo/SP.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.campus-party.com.br/2011/index.html&quot; rel=&quot;nofollow&quot;&gt;http://www.campus-party.com.br/&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Debate com &lt;a href=&quot;/pessoa/felipefonseca&quot; rel=&quot;nofollow&quot;&gt;Felipe Fonseca&lt;/a&gt;: Laborat&amp;oacute;rios e Centros de Fomento &amp;agrave; Cultura Digital - 18/1, 14h15, &amp;aacute;rea de Criatividade.&lt;/li&gt;
+	&lt;li&gt;Oficina de &lt;a href=&quot;/pessoa/rbrazileiro&quot; rel=&quot;nofollow&quot;&gt;Ricardo Brazileiro&lt;/a&gt;: &lt;a href=&quot;http://cpbrasil.ism.org.br/?page_id=400&quot; rel=&quot;nofollow&quot;&gt;introdu&amp;ccedil;&amp;atilde;o &amp;agrave; programa&amp;ccedil;&amp;atilde;o em Pure Data&lt;/a&gt;&amp;nbsp;- 22/01, 9h30, &amp;aacute;rea de Criatividade.&lt;/li&gt;
+	&lt;li&gt;O acesso &amp;agrave; Campus Party &amp;eacute; teoricamente restrito, mas um pedido de ajuda na &lt;a href=&quot;https://lists.riseup.net/www/info/metareciclagem&quot; rel=&quot;nofollow&quot;&gt;lista de discuss&amp;atilde;o&lt;/a&gt; pode resolver isso.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Laboca - 26/01 a 04/02&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;SESC Belenzinho, S&amp;atilde;o Paulo/SP.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Oficina com &lt;a href=&quot;/pessoa/rbrazileiro&quot; rel=&quot;nofollow&quot;&gt;Ricardo Brazileiro&lt;/a&gt;, Jeraman e Jarbas J&amp;aacute;come.&lt;/p&gt;
+&lt;p&gt;19h &amp;agrave;s 21h.&lt;/p&gt;
+&lt;p&gt;Flyer + info &lt;a href=&quot;http://rbrazileiro.info/blog/laboca-sesc-belenzinho-janfev-2011/&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Reuni&amp;atilde;o online&amp;nbsp;&amp;quot;o momento e os futuros&amp;quot; - 01/02&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;IRC freenode, #metareciclagem.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Convocada por &lt;a href=&quot;/pessoa/felipefonseca&quot; rel=&quot;nofollow&quot;&gt;efeefe&lt;/a&gt;, para debater poss&amp;iacute;veis caminhos de atua&amp;ccedil;&amp;atilde;o da rede MetaReciclagem na conjuntura atual. Log publicado em ReuniaoIrcMomentosFuturos.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Reuni&amp;atilde;o online &amp;quot;propostas de curto prazo&amp;quot; - 08/02&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;IRC freenode, #metareciclagem.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Convocada por &lt;a href=&quot;/pessoa/andreasaraiva&quot; rel=&quot;nofollow&quot;&gt;Andrea Saraiva&lt;/a&gt;, para debater formatos de sustentabilidade a curto prazo para projetos de MetaReciclagem. Conversa documentada &lt;a href=&quot;http://rede.metareciclagem.org/blog/10-02-11/Reuniao-Propostas-de-curto-prazo-para-sustentabilidade&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FISL - 29/06 a 02/07&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;PUCRS, Porto Alegre/RS.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://softwarelivre.org/fisl12&quot; title=&quot;http://softwarelivre.org/fisl12&quot; rel=&quot;nofollow&quot;&gt;http://softwarelivre.org/fisl12&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Encontrinho de MetaReciclagem - &lt;strike&gt;sexta-feira, 01/07, na sala da Transpar&amp;ecirc;ncia Hacker&lt;/strike&gt;. A sala foi requisitada para outros usos. O encontrinho rolou &amp;agrave; tarde no futuro Memorial do FSM, e continuou &amp;agrave; noite no Caf&amp;eacute; Bonobo.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Agora &amp;Aacute;gora - 02/07/11&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Santander Cultural, Porto Alegre/RS&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://agora.art.br/&quot; rel=&quot;nofollow&quot;&gt;http://agora.art.br/&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Debate sobre &amp;quot;Estrat&amp;eacute;gias para Autonomia: Tecnologia e Inova&amp;ccedil;&amp;atilde;o Social&amp;quot; com &lt;a href=&quot;/pessoa/felipefonseca&quot; rel=&quot;nofollow&quot;&gt;Felipe Fonseca&lt;/a&gt;, Karla Brunet, Juan Freire e outros.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Ciclo Hack - 9 e 10/07/11&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Sesc Pompeia e Serralheria - S&amp;atilde;o Paulo, SP&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://giulianobici.blogspot.com/2011/07/ciclo-hack.html&quot; rel=&quot;nofollow&quot;&gt;http://giulianobici.blogspot.com/2011/07/ciclo-hack.html&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Oficinas com Glerm Soares (&lt;a href=&quot;http://devolts.org&quot; rel=&quot;nofollow&quot;&gt;devolts&lt;/a&gt;/&lt;a href=&quot;http://organismo.art.br&quot; rel=&quot;nofollow&quot;&gt;organismo&lt;/a&gt;/MSST), Fred Paulino e Lucas Mafra (&lt;a href=&quot;http://gambiologia.net&quot; rel=&quot;nofollow&quot;&gt;Gambiologia&lt;/a&gt;), Jarbas J&amp;aacute;come e Jeraman (&lt;a href=&quot;http://olaboca.wordpress.com/&quot; rel=&quot;nofollow&quot;&gt;LabOCA&lt;/a&gt;), Oriel Frigo e Vilson Vieira (&lt;a href=&quot;http://www.musa.cc/&quot; rel=&quot;nofollow&quot;&gt;MUSA&lt;/a&gt;).&lt;/li&gt;
+	&lt;li&gt;Debate com &lt;a href=&quot;/pessoa/felipefonseca&quot; rel=&quot;nofollow&quot;&gt;Felipe Fonseca&lt;/a&gt;, &lt;a href=&quot;http://desvirtual.com&quot; rel=&quot;nofollow&quot;&gt;Giselle Beiguelman&lt;/a&gt; e Marcelo Bressanin.&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;
+&lt;div&gt;&lt;strong&gt;Networked Hacklab - 4 a 11/08/11&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;em&gt;Casar&amp;atilde;o Cultural Floresta Sonora e Parque dos Igarap&amp;eacute;s - Bel&amp;eacute;m, PA; Casa Puraqu&amp;eacute; - Santar&amp;eacute;m, PA.&lt;/em&gt;&lt;/div&gt;
+&lt;ul&gt;
+	&lt;li&gt;Laborat&amp;oacute;rio colaborativo &amp;quot;por uma cartografia cr&amp;iacute;tica da Amaz&amp;ocirc;nia&amp;quot;, com Felipe Fonseca, Tati Wells, Giseli Vasconcelos, Jader Gama e outros.&lt;/li&gt;&lt;/ul&gt;
+&lt;div&gt;&lt;strong&gt;Turing Clube - Guifi.net - 14/09/11&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;em&gt;Garoa Hacker Clube / Casa de Cultura Digital - S&amp;atilde;o Paulo, SP.&lt;/em&gt;&lt;/div&gt;
+&lt;ul&gt;
+	&lt;li&gt;Apresenta&amp;ccedil;&amp;atilde;o de Efra&amp;iacute;n Foglia sobre o projeto Guifi.net (rede wifi comunit&amp;aacute;ria da Catalunya). Mais infos &lt;a href=&quot;/blog/09-09-11/Guifinet-apresentacao-no-GHC&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;
+&lt;div&gt;&lt;strong&gt;Ciclo Novas Profiss&amp;otilde;es - 15/09/11&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&lt;em&gt;Instituto Vivo - S&amp;atilde;o Paulo, SP.&lt;/em&gt;&lt;/div&gt;
+&lt;ul&gt;
+	&lt;li&gt;Debate sobre novas profiss&amp;otilde;es, com Felipe Fonseca e outros. Mais informa&amp;ccedil;&amp;otilde;es &lt;a href=&quot;http://efeefe.no-ip.org/blog/ciclo-novas-profissoes&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;
+&lt;div&gt;&lt;strong&gt;Casamento de Uir&amp;aacute; e Gec&amp;iacute;ola - 17/09/11&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;em&gt;Aquiraz, Cear&amp;aacute;.&lt;/em&gt;&lt;/div&gt;
+&lt;ul&gt;
+	&lt;li&gt;Festan&amp;ccedil;a com presen&amp;ccedil;a de muitos nomes da MetaReciclagem e redes irm&amp;atilde;s.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Encontro Educarede - 28/09/11&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Funda&amp;ccedil;&amp;atilde;o Vanzolini, S&amp;atilde;o Paulo, SP.&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Debate &amp;quot;&lt;a href=&quot;http://encuentro2011.educared.org/group/lixo-eletronico&quot; rel=&quot;nofollow&quot;&gt;Lixo Eletr&amp;ocirc;nico - Desafios do S&amp;eacute;culo XXI&lt;/a&gt;&amp;quot; com &lt;a href=&quot;/pessoa/felipefonseca&quot; rel=&quot;nofollow&quot;&gt;Felipe Fonseca&lt;/a&gt;, &lt;a href=&quot;/pessoa/mairabegalli&quot; rel=&quot;nofollow&quot;&gt;Maira Begalli&lt;/a&gt; e &lt;a href=&quot;/pessoa/mbraz&quot; rel=&quot;nofollow&quot;&gt;Marcelo Braz&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;F&amp;oacute;rum da Internet no Brasil - 13 e 14/10/2011&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Expo Center Norte, S&amp;atilde;o Paulo, SP.&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Participa&amp;ccedil;&amp;atilde;o de diversos integrantes da rede MetaReciclagem. Mais infos sobre o f&amp;oacute;rum &lt;a href=&quot;http://forumdainternet.cgi.br/&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Encontrinho de MetaReciclagem - 15/10/2011&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sesc Vila Mariana, S&amp;atilde;o Paulo/SP&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;Encontro da rede MetaReciclagem e visita&amp;ccedil;&amp;atilde;o &amp;agrave; exposi&amp;ccedil;&amp;atilde;o &amp;quot;Peda&amp;ccedil;os da Terra&amp;quot;. Na pauta, as participa&amp;ccedil;&amp;otilde;es no Festival de Cultura Digital e os preparativos para o EncontraoHiperTropical de MetaReciclagem em 2012.&lt;/li&gt;&lt;/ul&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Agenda-2011#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/agenda">agenda</category>
+ <category domain="http://rede.metareciclagem.org/assunto/encontros">encontros</category>
+ <category domain="http://rede.metareciclagem.org/assunto/eventos">eventos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/programacao">programação</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Wed, 19 Jan 2011 01:16:22 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1992 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>MetaReciclando o Fórum de Cultura Digital</title>
+ <link>http://rede.metareciclagem.org/blog/10-11-10/MetaReciclando-o-Forum-de-Cultura-Digital</link>
+ <description>&lt;p&gt;Semana que vem vai ter o &lt;a href=&quot;http://culturadigital.br/forum2010/&quot; rel=&quot;nofollow&quot;&gt;F&amp;oacute;rum da Cultura Digital Brasileira&lt;/a&gt; na &lt;a href=&quot;http://cinemateca.org.br/&quot; rel=&quot;nofollow&quot;&gt;Cinemateca&lt;/a&gt;, em S&amp;atilde;o Paulo. Al&amp;eacute;m de ser uma oportunidade de rever um monte de gente boa e de conhecer projetos e a&amp;ccedil;&amp;otilde;es interessantes do mundo inteiro, vai ser mais um espa&amp;ccedil;o de articula&amp;ccedil;&amp;atilde;o para a MetaReciclagem e assuntos correlatos.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/10-11-10/MetaReciclando-o-Forum-de-Cultura-Digital&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/10-11-10/MetaReciclando-o-Forum-de-Cultura-Digital#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/bailux">bailux</category>
+ <category domain="http://rede.metareciclagem.org/assunto/cultura-digital">cultura digital</category>
+ <category domain="http://rede.metareciclagem.org/assunto/culturadigitalbr">culturadigitalbr</category>
+ <category domain="http://rede.metareciclagem.org/assunto/eventos">eventos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/lixoeletronico">lixoeletronico</category>
+ <category domain="http://rede.metareciclagem.org/assunto/redelabs">redelabs</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Thu, 11 Nov 2010 00:37:32 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1968 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

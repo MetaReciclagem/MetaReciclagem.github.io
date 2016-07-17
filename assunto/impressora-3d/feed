@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - impressora 3d</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/869/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>3d setas</title>
+ <link>http://rede.metareciclagem.org/blog/04-07-11/3d-setas</link>
+ <description>&lt;p&gt;No fim do ano passado publiquei aqui um relato do &lt;a href=&quot;/blog/03-12-10/Exercicio-de-Identidade-MetaRecicleira&quot; rel=&quot;nofollow&quot;&gt;Exerc&amp;iacute;cio de Identidade MetaRecicleira&lt;/a&gt; que rolou durante o segundo F&amp;oacute;rum de Cultura Digital, em S&amp;atilde;o Paulo. Naquele post, contei sobre a brincadeira que a &lt;a href=&quot;/pessoa/fabs&quot; rel=&quot;nofollow&quot;&gt;F4bs&lt;/a&gt; e o Pitanga possibilitaram, modelando e depois fabricando na makerbot o logo da MetaReciclagem. No dia, pedi ao pitanga que copiasse os arquivos para meu pendrive, mas algumas semanas depois percebi que o pendrive tinha dan&amp;ccedil;ado. A F4bs tamb&amp;eacute;m n&amp;atilde;o encontrou os arquivos, e s&amp;oacute; meses depois lembrei de pedir ao Pitanga que tentasse encontr&amp;aacute;-los. Pois bem, ele achou.&lt;/p&gt;
+&lt;p&gt;Est&amp;aacute; em anexo um &lt;a href=&quot;/sites/rede.metareciclagem.org/midia/3d_setas.zip&quot; rel=&quot;nofollow&quot;&gt;arquivo .zip&lt;/a&gt; com todos os arquivos, para quem quiser fazer suas pr&amp;oacute;prias explora&amp;ccedil;&amp;otilde;es. Pitanga explica:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;blend &amp;eacute; o arquivo do blender&lt;/li&gt;
+	&lt;li&gt;.stl &amp;eacute; o arquivo 3D exportado do blender e que pode ser importado no&amp;nbsp;replicatorg para imprimir&lt;/li&gt;
+	&lt;li&gt;.gcode &amp;eacute; simplesmente o .stl &amp;quot;compilado&amp;quot; para a impressora (s&amp;oacute;&amp;nbsp;funcionaria em um modelo equivalente ao nosso)&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Atualizando em 08/02/2012:&lt;/strong&gt; publiquei tamb&amp;eacute;m o .stl no &lt;a href=&quot;http://www.thingiverse.com/thing:17258&quot; rel=&quot;nofollow&quot;&gt;thingiverse&lt;/a&gt; e no &lt;a href=&quot;http://www.shapeways.com/model/452396/logo_metareciclagem.html?gid=ug59938&quot; rel=&quot;nofollow&quot;&gt;shapeways&lt;/a&gt;.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/04-07-11/3d-setas#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/3d">3d</category>
+ <category domain="http://rede.metareciclagem.org/assunto/identidade">identidade</category>
+ <category domain="http://rede.metareciclagem.org/assunto/impressora-3d">impressora 3d</category>
+ <category domain="http://rede.metareciclagem.org/assunto/makerbot">makerbot</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Tue, 05 Jul 2011 02:46:20 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2050 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Duas conversas em Manchester</title>
+ <link>http://rede.metareciclagem.org/blog/25-05-10/Duas-conversas-em-Manchester</link>
+ <description>&lt;h2&gt;Hulme - arc Space&lt;/h2&gt;
+&lt;p&gt;Vicky Sinclair &amp;eacute; uma norte-irlandesa baseada em Manchester que j&amp;aacute; veio algumas vezes ao Brasil. Eu a conheci em 2006 na padaria em frente &amp;agrave; &lt;a href=&quot;http://www.estudiolivre.org/SampaLab&quot; rel=&quot;nofollow&quot;&gt;Casinha&lt;/a&gt;, antiga base de articula&amp;ccedil;&amp;atilde;o da &lt;a href=&quot;http://culturadigital.org.br&quot; rel=&quot;nofollow&quot;&gt;Cultura Digital&lt;/a&gt; e do &lt;a href=&quot;http://estudiolivre.org&quot; rel=&quot;nofollow&quot;&gt;Estudio Livre&lt;/a&gt; em sampa.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/25-05-10/Duas-conversas-em-Manchester&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/25-05-10/Duas-conversas-em-Manchester#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/fablab">fablab</category>
+ <category domain="http://rede.metareciclagem.org/assunto/impressora-3d">impressora 3d</category>
+ <category domain="http://rede.metareciclagem.org/assunto/manchester">manchester</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metareciclagem">metareciclagem</category>
+ <category domain="http://rede.metareciclagem.org/assunto/reprap">reprap</category>
+ <category domain="http://rede.metareciclagem.org/assunto/trip">trip</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Tue, 25 May 2010 23:25:52 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1920 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - mustaz</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/913/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Como realizar inclusão utilizando pc&#039;s antigos com sistema GNU/Linux </title>
+ <link>http://rede.metareciclagem.org/blog/25-08-10/Como-realizar-inclus%C3%A3o-utilizando-pcs-antigos-com-sistema-GNULinux</link>
+ <description>&lt;p&gt;&amp;nbsp;Transcrevendo a discuss&amp;atilde;o desta semana sobre este tema:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;MsoListParagraphCxSpFirst&quot;&gt;&lt;b&gt;Isaac Filho: &lt;/b&gt;&lt;/p&gt;
+&lt;p class=&quot;MsoListParagraphCxSpMiddle&quot;&gt;Ent&amp;atilde;o gente e gent@, eu j&amp;aacute; havia me apresentado antes, mas creio que agora este &amp;eacute; meu primeiro e-mail importante pra lista :P&lt;/p&gt;
+&lt;p class=&quot;MsoListParagraphCxSpMiddle&quot;&gt;Ent&amp;atilde;o, vamos l&amp;aacute;...&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/25-08-10/Como-realizar-inclus%C3%A3o-utilizando-pcs-antigos-com-sistema-GNULinux&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/25-08-10/Como-realizar-inclus%C3%A3o-utilizando-pcs-antigos-com-sistema-GNULinux#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/gnu">gnu</category>
+ <category domain="http://rede.metareciclagem.org/tags/linux">linux</category>
+ <category domain="http://rede.metareciclagem.org/assunto/lixoeletronico">lixoeletronico</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metareciclagem">metareciclagem</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mustaz">mustaz</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <group domain="http://rede.metareciclagem.org/esporo/MetaSorocaba" xmlns="http://drupal.org/project/og">MetaSorocaba</group>
+ <group domain="http://rede.metareciclagem.org/esporo/Bailux" xmlns="http://drupal.org/project/og">Bailux</group>
+ <group domain="http://rede.metareciclagem.org/conectaz/Lixo-Eletr%C3%B4nico" xmlns="http://drupal.org/project/og">Lixo Eletrônico</group>
+ <pubDate>Wed, 25 Aug 2010 13:19:58 +0000</pubDate>
+ <dc:creator>hudson</dc:creator>
+ <guid isPermaLink="false">1948 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

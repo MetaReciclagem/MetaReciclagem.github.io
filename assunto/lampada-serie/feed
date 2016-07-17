@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - lâmpada serie</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/1160/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Como posso evitar que um aparelho eletrônico estoure na minha cara quando estiver testando?</title>
+ <link>http://rede.metareciclagem.org/wiki/Como-posso-evitar-que-um-aparelho-eletronico-estoure-na-minha-cara-quando-estiver-testando</link>
+ <description>&lt;p&gt;&amp;Eacute; um circuito bem antigo, mas &amp;eacute; acessivel, pratico e muito seguro&lt;/p&gt;
+&lt;p&gt;Acho que esta pergunta e feita por muitas pessoas que tem de testar alguns equipamentos que chegaram para ser &amp;quot;reciclados&amp;quot; mas ainda existe um esperan&amp;ccedil;a que estejam funcionado, tais como fontes de computadores, monitores etc ..&lt;/p&gt;
+&lt;p&gt;Construa passo a passo uma lampada s&amp;eacute;rie para a sua bancada de consertos de aparelhos eletr&amp;ocirc;nicos, este circuito garante maior seguran&amp;ccedil;a na hora de ligar &amp;agrave; rede el&amp;eacute;trica as suas montagens experimentais ou consertos realizados em aparelhos eletr&amp;ocirc;nicos.&lt;/p&gt;
+&lt;p&gt;Veja mais em :&amp;nbsp;&lt;a href=&quot;http://metamontes.blogspot.com.br/2012/09/como-fazer-uma-circuito-para-teste.html&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;http://metamontes.blogspot.com.br/2012/09/como-fazer-uma-circuito-para-teste.html&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Como-posso-evitar-que-um-aparelho-eletronico-estoure-na-minha-cara-quando-estiver-testando#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/lampada-serie">lâmpada serie</category>
+ <group domain="http://rede.metareciclagem.org/esporo/MetaMontes" xmlns="http://drupal.org/project/og">MetaMontes</group>
+ <pubDate>Wed, 12 Sep 2012 22:53:23 +0000</pubDate>
+ <dc:creator>Josenetomg</dc:creator>
+ <guid isPermaLink="false">2127 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

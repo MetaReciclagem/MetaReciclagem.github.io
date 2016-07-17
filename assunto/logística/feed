@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - logística</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/387/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Doacoes</title>
+ <link>http://rede.metareciclagem.org/wiki/Doacoes</link>
+ <description>&lt;p&gt;Projetos de MetaReciclagem que podem receber doa&amp;ccedil;&amp;otilde;es de equipamentos:&lt;/p&gt;
+&lt;h2&gt;Curitiba - PR&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://rede.metareciclagem.org/esporo/Loucos-por-Bits&quot; rel=&quot;nofollow&quot;&gt;Loucos por Bits&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;S&amp;atilde;o Paulo - SP&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://rede.metareciclagem.org/esporo/weblab-social&quot; rel=&quot;nofollow&quot;&gt;Weblab Social&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Doacoes#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/log%C3%ADstica">logística</category>
+ <category domain="http://rede.metareciclagem.org/assunto/log%C3%ADstica-distribu%C3%ADda">logística distribuída</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Mon, 01 Dec 2008 13:45:31 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1495 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>O ciclo do lixo eletrônico</title>
+ <link>http://rede.metareciclagem.org/blog/03-10-08/O-ciclo-do-lixo-eletr%C3%B4nico</link>
+ <description>&lt;p&gt;Estou escrevendo uma s&amp;eacute;rie de posts no Lixo Eletr&amp;ocirc;nico sobre uma vis&amp;atilde;o estruturada do ciclo dos eletr&amp;ocirc;nicos. Por enquanto escrevi uma &lt;a href=&quot;http://lixoeletronico.org/blog/o-ciclo-do-lixo-eletr%C3%B4nico-vis%C3%A3o-geral&quot; rel=&quot;nofollow&quot;&gt;introdu&amp;ccedil;&amp;atilde;o&lt;/a&gt;, um post sobre &lt;a href=&quot;http://lixoeletronico.org/blog/o-ciclo-do-lixo-eletr%C3%B4nico-1-produ%C3%A7%C3%A3o-e-consumo&quot; rel=&quot;nofollow&quot;&gt;produ&amp;ccedil;&amp;atilde;o e consumo&lt;/a&gt; e outro sobre &lt;a href=&quot;http://lixoeletronico.org/blog/o-ciclo-do-lixo-eletr%C3%B4nico-2-descarte-e-reuso&quot; rel=&quot;nofollow&quot;&gt;descarte e reuso&lt;/a&gt;.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/03-10-08/O-ciclo-do-lixo-eletr%C3%B4nico&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/03-10-08/O-ciclo-do-lixo-eletr%C3%B4nico#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/log%C3%ADstica">logística</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Fri, 03 Oct 2008 16:49:43 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1449 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>LogisticaDistribuida</title>
+ <link>http://rede.metareciclagem.org/wiki/LogisticaDistribuida</link>
+ <description>&lt;p&gt;Voc&amp;ecirc; tem equipamentos e quer doar para um esporo em outra cidade? Precisa de um equipamento que outra pessoa pode ceder? Abaixo v&amp;atilde;o algumas dicas enviadas na lista sobre como enviar ou receber doa&amp;ccedil;&amp;otilde;es sem precisar gastar muito.&lt;/p&gt;
+&lt;p&gt;Gustavo Lujon mandou a sugest&amp;atilde;o de envio a cobrar por transportadoras:&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/LogisticaDistribuida&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/LogisticaDistribuida#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/log%C3%ADstica">logística</category>
+ <pubDate>Tue, 23 Sep 2008 14:22:13 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1443 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,633 @@
+Conversation with #metareciclagem at Seg 17 Ago 2009 17:09:58 BRT on efeefe@irc.freenode.org (irc)
+(17:10:01) fer: como assim? eu n?o entendo essas linguagens :-P
+(17:10:38) dpadua: tudo bem. não sou um bot mais. sou uma pessoa normal. :)
+(17:10:45) fer: ahhh bom
+(17:10:57) fer: e ai queridos, tudo bem com todos?
+(17:11:50) efeefe: holas
+(17:11:53) efeefe: que tales?
+(17:12:40) fer: posso comecar a falar sobre o site?
+(17:12:48) fer: ou esperamos mais agregados?
+(17:13:09) efeefe: pode falar
+(17:13:17) efeefe: na real nem tinhamos marcado uma reuniao tao formal
+(17:13:18) efeefe: manda ver
+(17:13:38) dpadua: talk, fer
+(17:13:48) fer: achei que era uma coisa meio ja marcada (toda segunda, cinco horas)
+(17:13:55) fer: seguinte
+(17:14:08) fer: eu comecei a fazer o organograma do site todo
+(17:14:14) fer: e pra variar e mais coisa que eu pensei, ne
+(17:14:22) fer: entao nao terminei ainda - ta quase
+(17:14:36) fer: e dali estou ja gerando uma tabela com as specs de cada area
+(17:14:46) efeefe: tá
+(17:14:49) fer: eu geralmente trabalho largando la no google docs, ai todo mundo pode mexer
+(17:14:53) efeefe: eu quero insistir em a gente tentar tratar como plataforma
+(17:14:59) fer: mas esse e o meu jeito, se alguem quiser fazer de outro jeito...
+(17:15:09) fer: como assim, efefe
+(17:15:53) dpadua: "plataforma"? entendi tbm nao..
+(17:16:03) efeefe: ops
+(17:16:06) efeefe: entao
+(17:16:33) efeefe: o organograma do site como tah agora me parece menos importante do que entender como vao interagir as estruturas que a gente imagina necessarias 
+(17:16:56) fer: ta, vou me explicar entao
+(17:17:04) efeefe: ou seja, pensar na onda de narrativas e casos de usuarixs, e aí derivar pra estruturas
+(17:17:06) fer: nao estou fazendo um organograma do bixim como ele ta agora
+(17:17:20) fer: mas como queremos que ele fique
+(17:17:56) fer: concordo, efeefe1, esse e o caminho e ? o que vamos fazer
+(17:17:59) uira [n=uira@201009227164.user.veloxzone.com.br] entrou na sala.
+(17:18:19) dpadua: hum... entendi, efe. de acordo.
+(17:18:27) uira: duvido
+(17:18:39) dpadua: a gente não ia seguir o roteiro da fer?
+(17:18:47) efeefe: sim
+(17:18:48) efeefe: manda ver
+(17:18:49) tatirp [i=bd645fa6@gateway/web/freenode/x-tqosgyiafnunszmp] entrou na sala.
+(17:18:50) efeefe: tá certo
+(17:18:55) dpadua: especificar muito bem as "historinhas" dos "papéis"?
+(17:18:57) efeefe: soh tirei uma duvida ;)
+(17:18:58) tatirp: oi, gente
+(17:19:09) dpadua: ei tati
+(17:19:09) fer: e assim, efeefe1
+(17:19:12) fer: oi tati
+(17:19:16) fer: oi uira
+(17:19:28) fer: e o meu jeito de trabalhar
+(17:19:52) fer: eu preciso ver o organograma montado, saber o que a gente tem e o que a gente quer fazer
+(17:20:10) fer: a historia das narrativas entra na hora de fazer os wireframes
+(17:20:29) efeefe: acho que as narrativas ajudam a moldar o que a gente quer fazer
+(17:20:31) efeefe: nao?
+(17:21:05) fer: sim...eu vejo como um dialogo
+(17:21:05) dpadua: então, fer
+(17:21:20) fer: uma coisa ajuda a outra...mas por algum lado eu tinha que comecar
+(17:21:35) dpadua: vc tá fazendo organograma e vai levantar as historinhas pra fazer wireframe. quer dizer - vc tá projetando um site. é isso?
+(17:22:02) uira: oi fer, dpadua, efeefe1, liquuid, tatirp e ChanServ...
+(17:22:05) fer: isso, dpadua
+(17:22:06) efeefe: oi uira
+(17:22:10) dpadua: ok, fer.
+(17:22:15) tatirp: oi, uira
+(17:22:25) dpadua: bom, então quando o organograma estiver montado, mostra pra nóis.
+(17:22:42) dpadua: vou tentar colaborar com requisitos que imagino pra esse site.
+(17:22:52) fer: dpadua, isso que quero fazer
+(17:23:10) dpadua: e ao mesmo tempo descrever como imagino a infralogica num paradigma diferente, menos dependente de site
+(17:23:10) uira: dpadua: isso, a idéia é remontar o site do zero, com um projeto profissa by fer
+(17:23:22) fer: vou largar o organograma e tambem a lista de specs, dai a gente mexe em conjunto nisso
+(17:23:30) dpadua: massa demais
+(17:23:33) dpadua: lets vamos
+(17:23:56) uira: dpadua: legal esse segundo ponto, temos que desenhar todo o contexto... e na minha visão o site é o primeiro passo.
+(17:23:57) fer: na real nao vamos montar o site do zero, mas vamos projetar como se fosse
+(17:24:15) dpadua: uira, acho o site o último passo
+(17:24:23) uira: fer: foi o que eu quis dizer...
+(17:24:39) uira: dpadua: disserte sobre isso...
+(17:24:40) efeefe: ok. e como imaginas o dialogo disso com a infralogicaideal?
+(17:24:42) dpadua: acho o instant messaging com os metarecicleiros da rede a função mais básica para a troca
+(17:24:51) efeefe: eu joguei umas ideias lah, mas acho que tem que aprofundar mais.
+(17:25:00) fer: efeefe1, esse projetar ? visando a infralogicaideal
+(17:25:24) efeefe: sim, entendo. mas a infralogicaideal eh o que?
+(17:25:25) fer: efeefe1, o organograma e as specs que eu to montando estao ate agora usando de base TODOS os links que tu largou la
+(17:25:45) dpadua: eu vejo assim: o centro da rede é uma lista de contatos, pra comunicação em tempo real. as pessoas se mobilizam, agem, produzem coisas. essas "atividades" têm cara - se manifestam em algum espaço, como sites.
+(17:25:50) fer: ahhhh...a infralogicaideal estamos comecando a montar
+(17:26:33) fer: isso que eu quis dizer com dialogo
+(17:26:36) dpadua: daí os múltiplos espaços e interfaces, que inclusive nao precisam estar no mesmo servidor, estao, por tras de tudo, conectados atraves da rede de pessoas
+(17:26:42) fer: um dialogo entre as fases
+(17:26:58) fer: dpadua, boa, mais um quesito para se ter em mente
+(17:26:59) efeefe: eu vejo muito de ambiente de projetos, esquema souceforge. o padua ve muito de IM e conversacoes entre avatares. cad1 tem algumas sugestoes.
+(17:27:05) VJ_VARGA [n=varga@189.38.229.137] entrou na sala.
+(17:27:12) VJ_VARGA: Boa tarde
+(17:27:19) efeefe: boua
+(17:27:20) fer: oi varga
+(17:27:31) VJ_VARGA: t?o falando sobre oq?
+(17:28:28) dpadua: fer e efeefe1, eu penso que precisamos levantar esse muitos "esquemas" pelos quais a infralogica é vista, e extrair dos pontos comuns os componentes mínimos, pra se criar uma infralogica em cima da qual multiplos esquemas de experiencia possam florescer
+(17:28:42) efeefe: ok
+(17:28:46) dpadua: eu nao vejo necessariamente IM
+(17:28:55) fer: dpadua, entendi
+(17:28:56) dpadua: só acho que TUDO gira em torno da sua lista de contatos
+(17:29:00) efeefe: mas eu to pensando em deixar a fer trabalhar um pouco nisso e apresentar aqui pra gente um comeco de conversa
+(17:29:08) efeefe: pra sair da inercia
+(17:29:11) dpadua: seja num drupal, no orkut, no seu celular, na sua escola
+(17:29:15) efeefe: e a partir dai a gente passa ao dialogo
+(17:29:18) efeefe: certo?
+(17:29:26) dpadua: sim, sim. só to fazendo observações.
+(17:29:32) dpadua: continua o trampo, fer fofinha :)
+(17:29:48) fer: efeefe1, acho isso uma boa, queria ter terminado pra hoje, mas ? bem complexo, ta ficando maior do que eu pensei :-P
+(17:30:01) fer: ? que eu estou procurando pensar do ponto de vista de todos
+(17:30:10) dpadua: fer, pense do SEU ponto de vista.
+(17:30:18) fer: specs para conceitos de intera??o, mas tamb?m para o pessoal do desenvolvimento
+(17:30:23) dpadua: aí a gente adiciona o nosso ponto de vista e assim a coisa vai evoluindo.
+(17:30:43) fer: farei isso, dpadua
+(17:31:16) fer: bom, ja que eu tenho coisas a fazer antes de podermos iniciar uma conversa mais efetiva, quero lan?ar a duvida que tive na lista
+(17:31:20) tatirp: como eu não entenddo disso, preciso "ver" algo pra poder contribuir. eqto isso, fico na observação aqui...
+(17:31:50) efeefe: lanca a duvida na lista
+(17:31:57) fer: sobre imagens e links. o efeefe1 me respondeu j? o que queria saber, mas ainda me resta a d?vida de como vamos organizar isso
+(17:32:06) fer: por exemplo
+(17:32:10) efeefe: a na real acho que nao faria mal fazer as pessoas dialogarem com o que eu comecei lah na pagina de infralogicaideal.
+(17:32:58) tatirp: fer, fala mais sobre o que vc pensa das imagens
+(17:33:23) fer: j? entro na infralogicaideal efeefe1
+(17:33:38) dpadua: como é nossa realidade de limites em termos de armazenamento/
+(17:33:40) dpadua: ?
+(17:33:57) dpadua: imagens, videos, audios... tudo isso - se potencializado - pode consumir mais do que temos, nao?
+(17:34:05) fer: at? hoje imagens e links est?o separados do agregador
+(17:34:21) efeefe: dpadua: hoje temos pouca coisa. eh um vserver no slicehost, que ateh hoje eu paguei muito menos do que deveria (tah na conta da chuva-inc). mas podemos prever um upgrade e investir nisso.
+(17:34:38) efeefe: video eu acho besteira a gente armazenar
+(17:34:44) fer: dpadua, me parece que toda essa multimidia nao precisa ficar necessariamente hospedada no metarec, n?o, efeefe1?
+(17:35:02) efeefe: fer: isso. imagem nao eh tanto, mas video e audio acho besteira.
+(17:35:09) tatirp: apesar dos limites, a galera tem muito mais dificuldade com o texto...
+(17:35:11) wundo [n=wundo@dhcp77164.ime.unicamp.br] entrou na sala.
+(17:35:13) efeefe: ourmedia.org, archive.org, estudiolivre, youtube, etc
+(17:35:20) fer: isso.
+(17:35:33) fer: pra mim, o que tem que ser bem articulado ? o agregador
+(17:35:43) dpadua: bão. eu também acho que temos de jogar multimídia em open archives. só perguntei porque não vi ninguém conversar sobre armazenamento.
+(17:35:45) dpadua: ;)
+(17:35:46) tatirp: mas se o link pro audio é aquele do estúdio livre, desanima um pouco... demora uma vida...
+(17:35:53) dpadua: wundo THE MAN is in the house
+(17:35:59) efeefe: ideal eh o audio ser transcrito ;)
+(17:36:05) wundo: da boss
+(17:36:13) efeefe: da boss tah na area?
+(17:36:21) efeefe: (falem isso em voz alta)
+(17:36:21) wundo: heuaheuaea
+(17:36:34) wundo: video bobo do youtube
+(17:36:44) VJ_VARGA: que video?
+(17:36:45) wundo: primeiro
+(17:36:53) fer: atrav?s do agregador (dai junto imagens e links) a gente trabalha todas as narrativas que queremos
+(17:36:56) wundo: desculpa meu atraso sai da aula agora
+(17:37:03) wundo: e desculpa a falta do lourenzo
+(17:37:06) wundo: ele varou a noite
+(17:37:08) wundo: e foi durmir as 10am
+(17:37:15) dpadua: wundo, desculpa não. 40 polichinelos agora
+(17:37:33) wundo: puta, nem fala isso, hoje já pedalei uns 10 km e andei pra lá e pra cá
+(17:37:34) VJ_VARGA: que nada 100 negativas p/ cada lado
+(17:37:35) wundo: to quebrado
+(17:38:01) dpadua: humm... então tá bom, wundo. tá desculpado. \o/
+(17:38:47) dpadua: fer e efeefe1, o que mais acham importante conversar?
+(17:39:11) fer: eu tava falando sobre essa quest?o de imagens e links, de tratar daqui pra frente como parte do agregador
+(17:39:14) wundo: VJ_VARGA: http://www.youtube.com/watch?v=NisCkxU544c&feature=SeriesPlayList&p=ED9441CFC963F147
+(17:39:15) fer: pode isso?
+(17:39:24) dpadua: (queria sugerir esse artigo pra vcs entenderem mais a minha linha de pensamento: http://dashes.com/anil/2009/07/the-pushbutton-web-realtime-becomes-real.html)
+(17:39:46) dpadua: fer, também acho que imagens e links -> agregador
+(17:39:47) uira: eu acho que vcs tinha que ficar calados e deixar a fer acabar de falar... PORRA!
+(17:40:00) ***uira ama todo mundo!
+(17:40:01) fer: rsrsrs
+(17:40:21) tatirp: rsrsrs uira é um cavalheiro às avessas
+(17:40:35) uira: tatirp: obrigado :)
+(17:40:47) uira: fer, por favor...
+(17:40:48) fer: t?, vou tratar imagens e links como parte de agregador, depois a gente segue na conversa disso, tamb?m tem o que foi feito at? hoje com imagens e links, como o efeefe1 explicou
+(17:41:04) fer: n?o queremos perder isso
+(17:41:13) fer: a outra d?vida que eu tenho
+(17:41:30) fer: ? la na infralogicaideal o efeefe1 falou em syndicating standards
+(17:41:45) fer: gostaria que ele dissertasse um pouco mais sobre isso
+(17:42:10) dpadua: hum... também queria saber mais disso
+(17:42:16) efeefe: links jah tao no agregador.
+(17:42:32) efeefe: imagens ainda nao. como fazemos? dentro de conecaz? fora?
+(17:42:45) fer: wundo, pode ajudar nisso?
+(17:42:46) efeefe: syndicatin standards
+(17:43:03) efeefe: na real eh uma aplicacao ali, mas acho que tem um caminho interessante
+(17:43:10) wundo: efeefe1: como assim imagens?
+(17:43:12) efeefe: que eh o site dialogar com as multiplas redes que tem por aih
+(17:43:19) efeefe: wundo: RTFL
+(17:43:20) efeefe: (lista)
+(17:43:20) fer: efeefe1, antes de falar disso, vamos fechar esse das imagens
+(17:43:21) efeefe: ;)
+(17:43:24) efeefe: ok
+(17:43:26) efeefe: imagens
+(17:43:28) efeefe: dsk\ngd
+(17:43:36) fer: como assim "dentro de conectaz"
+(17:43:41) fer: o que tu quis dizer com isso
+(17:43:45) wundo: porra
+(17:43:47) wundo: to tudo confuso
+(17:43:54) efeefe: entao
+(17:43:56) wundo: imagens tem a ver com o que a fer tava falando?
+(17:43:59) fer: calma wundo, j? vamos esclarecer, hehehe
+(17:44:01) wundo: o link eu semi li
+(17:44:02) efeefe: o que a gente tem no site hoje eh o modulo image do drupal
+(17:44:02) fer: sim
+(17:44:13) efeefe: ele tem aquela estrutura de albuns
+(17:44:28) efeefe: mas como o site tah estruturado em esporos e conectazes, os albuns nao fazem muito sentido
+(17:44:37) fer: e hoje isso ? isolado, ou esta ligado aos grupos?
+(17:44:48) efeefe: talvez o lance seja o regis poder entrar lah e criar um album "2009" no esporo bailux
+(17:44:53) fer: (grupos = conectazes e esporos)
+(17:44:55) efeefe: nao tah ligado aos grupos
+(17:45:01) efeefe: digo
+(17:45:06) efeefe: hoje eu posso mandar uma imagem dentro de um grupo
+(17:45:07) efeefe: mas
+(17:45:13) efeefe: nao posso criar albuns
+(17:45:23) efeefe: talvez faca sentido cada grupo poder criar multiplos albuns
+(17:45:33) fer: ok
+(17:45:46) fer: ent?o isso ? uma coisa que temos que repensar
+(17:45:51) efeefe: ou nao, deixar que o proprio grupo seja um album, o que quer dizer que a gente muda aquelas fotos que tao lah no link hoje pra dentro de conetqazes
+(17:45:56) fer: e a outra, ? o que fazer com o que J? existe
+(17:46:01) uira: acho que faz sentido as pessoas publicarem imagens em albuns, e poder agregar e reorganizar isso dentro dos grupos
+(17:46:39) efeefe: sim
+(17:46:46) uira: como disse o pádua, tudo parte das pessoas... e é agregado, remixado e reoganizado
+(17:46:46) efeefe: os grupos precisam ser mais relevantes, de certa forma
+(17:47:02) fer: me parece isso, os principais n?s da rede seriam as pessoas (perfis) e conectazes e esporos (grupos)
+(17:47:15) efeefe: ok
+(17:47:17) efeefe: go ahead
+(17:47:21) uira: então uirá sobe as imagens, e monta o album do grupo com essas e outras imagens (de outros metarecs)
+(17:47:53) fer: e a gente tem que estruturar o conte?do e possibilitar a cria??o, intera??o, cruzamento, acesso, etc desse conte?do ? esses n?s
+(17:48:10) uira: *fer, evita usar acentos*
+(17:48:31) fer: uira, eu nao tava usando!!! dai vi o efeefe1 usando la em cima, e comecai a usar tambem...
+(17:48:35) fer: :-P
+(17:48:37) VJ_VARGA: acho que ideial seria poder criar os albuns de dizer qual conectaz faz parte
+(17:48:56) efeefe: mau exemplo, eu
+(17:49:11) tatirp: a questao me parece ser: "imagem" e um tipo de texto
+(17:49:29) fer: como assim, tatirp
+(17:49:40) uira: fer: precisa ver as duas perspectivas. eu publicando coisas individualmente. e eu agregando coisas coletivamente (seja publicadas por mim ou pelos outros)
+(17:50:06) tatirp: nao dá pra pensar imagem desvinculada, como um adorno ou coisa do tipo
+(17:50:08) fer: uira, isso mesmo...por isso e complicado a gente definir como vai estruturar isso, ne
+(17:50:16) uira: é sim, complexo
+(17:50:25) fer: nao tatirp, nao e essa a ideia
+(17:50:30) uira: mas acho que vc definiu bem, são dois nós
+(17:50:38) VJ_VARGA: FF, no drupal a gente pode criar livros
+(17:50:38) uira: o lance é desamarra-los... hehe
+(17:50:53) fer: uira, entendi, vamos manter isso em mente
+(17:51:03) VJ_VARGA: a? na hora que criar o album ou postar imagem diz de que livro faz parte
+(17:51:03) efeefe: VJ_VARGA: nao quero pensar em drupal agora. e book eh #armadilhadesatanas
+(17:51:04) uira: VJ_VARGA: nesse momento, seria legal esquecer as ferramentas... pensar mais conceitualmente
+(17:51:09) fer: na verdade, pessoal, imagem para mim, foi so um exemplo
+(17:51:20) fer: imagem, audio, livros, video, etc
+(17:51:36) fer: uira, isso que quis dizer, estamos pensando conceitualmente
+(17:51:37) VJ_VARGA: t?
+(17:51:48) wundo: VJ_VARGA: entregue sua alma ao Organic Groups todo poderoso
+(17:51:51) dpadua: pessoal bonitão, eu tenho de ir aqui. fico aguardando o organograma, fer. o que eu conseguir colaborar no infralogicaideal, eu mando.
+(17:51:53) fer: usei o exemplo das imagens porque hoje no site e um item super isolado, la no menu principal
+(17:51:57) dpadua: beijão pra todo mundo. fui.
+(17:52:07) efeefe: dpadua: ajuda eu a levantar possibilidades llah
+(17:52:08) tatirp: bjs, dpadua
+(17:52:10) fer: bj, dpadua, nao te mata trabaiando homi
+(17:52:11) efeefe: na pagina do wiki
+(17:52:23) wundo: dpadua: segura ai
+(17:52:37) wundo: dpadua: foge não, queria dizer que criei o github da metarec :P
+(17:53:03) dpadua: opa.
+(17:53:04) fer: vcs ja me ajudaram nessa questao de organizacao de conteudo, agora por mim, podemos falar do syndicating standards...
+(17:53:13) uira: dpadua: manda um abraço pro 9 dedos
+(17:53:24) tatirp: fer, eu tb acho que imagens eh um item isolado, mas a nossa tendencia tem sido olhar pra esse grupo (audio, livros, video, etc) assim
+(17:53:31) dpadua: wundo, vc botou o site do meta no git?
+(17:53:37) wundo: fer: antes de mudar o assunto
+(17:53:40) wundo: dpadua: in progress
+(17:53:44) dpadua: wundo, i love you
+(17:53:48) wundo: baixei ele pra minha maquina
+(17:53:48) dpadua: <3 (coração
+(17:53:49) wundo: nao botei no git
+(17:53:54) dpadua: hum.
+(17:53:57) wundo: mas vou faze-lo
+(17:54:00) dpadua: ótimo
+(17:54:04) uira: eu tenho que sair também, companheirofffss...
+(17:54:05) dpadua: controle de versao, galera
+(17:54:07) dpadua: :)
+(17:54:10) dpadua: bom, to indo entao
+(17:54:14) wundo: dpadua: bug tracker tb
+(17:54:20) uira: mas vou deixar aberto aqui, espiando de canto de olho....
+(17:54:21) VJ_VARGA: abracao dpadua
+(17:54:22) dpadua: a gente continua a ação
+(17:54:26) wundo: fer: pensa em algo assim
+(17:54:26) dpadua: falou varga
+(17:54:33) wundo: o fulano pode criar um "Album"
+(17:54:37) dpadua: bug tracker ROCKZ
+(17:54:39) dpadua: bom, to indo entao
+(17:54:40) dpadua: fui!
+(17:54:43) dpadua: :*
+(17:54:45) fer: tatirp, vamos parar de olhar como itens isolados para esse grupo e comecar a olhar como partes integrantes da rede, din?micos
+(17:54:46) dpadua saiu da sala.
+(17:54:52) uira: Pra quem tiver curiosidade, estou trabalhando nisso: http://acao.culturadigital.org.br/wikka.php?wakka=Desenvolvimento cito a rede metarec algumas vezes. fui!
+(17:55:04) fer: wundo, fale mais entao, antes de mudarmos de assunto
+(17:55:11) wundo: e relacionar nele tudo que a gente chamar de midia (video, musica, foto)
+(17:55:29) fer: certo
+(17:55:30) wundo: o album em si é um pedaço de informação (node), e pode pertencer a um, ou a vários grupos.
+(17:55:40) fer: aha
+(17:55:46) VJ_VARGA: eu pensei assim tb wundo
+(17:55:53) tatirp: sim, wundo
+(17:55:55) wundo: ai nosso trabalhjo é só listar o album nos grupos que ele pertence (conectazes), no perfil dos interessados/criador, onde quiser.
+(17:55:56) VJ_VARGA: tava vendo aqui o organics groups
+(17:56:03) wundo: não muda muito a estrutura atual
+(17:56:06) wundo: e é supimpa
+(17:56:14) wundo: (do ponto de vista tecnico)
+(17:56:42) wundo: e eu acho que contempla o que vcs pensaram
+(17:56:51) tatirp: wundo, se nao muda muito a estrutura que tá. o que muda pra quem vai "usar"?
+(17:57:13) efeefe: a maneira de visualizar
+(17:57:17) fer: tatirp, acho que dai e trabalho nosso, que estamos organizando a interface ver isso
+(17:57:19) efeefe: e talvez a maneira de subir a midia
+(17:57:24) wundo: tá tá. na verdade tecnicamente muda, tipo, vai deixar de ser taxonomia, pra ser algo mais flexivel.
+(17:57:34) fer: wundo, perfeito, era isso mesmo que eu queria
+(17:57:40) wundo: pra quem usa muda a interface, como subir a midia.
+(17:57:46) tatirp: mudar a maneira de subir pode ser importante...
+(17:57:57) wundo: a ideia é que voce vai poder subir um video
+(17:58:06) wundo: e dizer que ele faz parte de vários albums
+(17:58:14) wundo: tipo o flickr
+(17:59:00) fer: essa era a minha preocupacao, tornar o lance mais flexivel
+(17:59:11) fer: que voces tao achando disso?
+(17:59:15) wundo: outra coisa legal pode ser
+(17:59:26) tatirp: vcs curtem o flickr?
+(17:59:31) VJ_VARGA: eu curto
+(17:59:48) wundo: Voce sobe uma foto, e coloca no Album Arraial, que faz parte do grupo Infralógica por ex
+(17:59:59) efeefe: o flickr eh mais legal pra quem publcia do que pra quem acessa ;)
+(18:00:00) fer: wundo, que coisa legal?
+(18:00:00) VJ_VARGA: mas prefiro o esquema de labums do orkut
+(18:00:06) wundo: eu curto sua foto, vou lá e adiciono ela no meu album "Fotos do fabiano pelado"
+(18:00:06) VJ_VARGA: albuns*
+(18:00:07) tatirp: concordo, efefe
+(18:00:21) tatirp: pra quem acessa o flickr eh muito linear
+(18:00:51) wundo: tatirp: mas ai que tá, ao contrário do flickr nosso conteúdo não é só a midia
+(18:00:52) fer: mas isso e um problema de interface, a gente pode mudar (leia-se: melhorar)
+(18:00:58) wundo: é o perfil do fulano,
+(18:01:05) tatirp: e depende de uma navegacao quase investigativa
+(18:01:16) wundo: é o grupo
+(18:01:34) wundo: Se o cara for no meu perfil, ele pode ver os albuns que eu criei.
+(18:01:35) lourenzo [n=lourenzo@201.82.132.197] entrou na sala.
+(18:01:40) efeefe: legal
+(18:01:46) wundo: Se o cara for no grupo, ele ve os albuns do grupo
+(18:01:49) wundo: etc
+(18:01:49) efeefe: ok, acho que tem um caminho legal aih
+(18:01:54) efeefe: fer, tah suficiente pra ti?
+(18:01:57) wundo: lourenzo: acordou a margarida <3
+(18:02:00) efeefe: digo, pra ir adiante
+(18:02:04) efeefe: fala lourenzo
+(18:02:06) fer: sim, sim, tem bastante coisa
+(18:02:09) lourenzo: opa
+(18:02:24) fer: wundo, podemos falar mais a fundo sobre isso depois
+(18:02:24) efeefe: entao, eu queria soh explorar umas coisas aqui
+(18:02:24) lourenzo: 4 horas de sono foram suficientes para conseguir bootar de novo
+(18:02:39) efeefe: 4 horas de sono eh luxo
+(18:02:44) wundo: lourenzo: eu to terminando a migração
+(18:02:47) fer: vai la efeefe1
+(18:02:53) wundo: deu uns paus mas resolveu
+(18:02:59) wundo: mas isso é assunto pra #chuva
+(18:03:04) tatirp: explorai
+(18:03:43) efeefe: na linha do papo do dpadua, de perfil/contato ser um elemento central, e voltando na nossa conversa de nao criar mais um walled garden, e tentar integrar com diversas possibilidades da rede...
+(18:04:10) wundo: explica pro tio que perdeu parte da conversa o conceito de walled garden?
+(18:04:13) efeefe: queria saber o que voces acham daquela ideia, de o agreador ter feeds especificos, mas tambem alguns feeds gerais triangulando com os perfis
+(18:04:35) efeefe: tio, a onda eh; nao queremos criar mais um orkut
+(18:04:39) efeefe: ou culturadigital.br
+(18:04:42) efeefe: ou softwarelivre.org 
+(18:04:42) VJ_VARGA: explica melhor isso do feeds, para mim t? confuso isso
+(18:04:43) efeefe: ;
+(18:04:45) efeefe: ;)
+(18:04:53) efeefe: tipo isso
+(18:04:54) efeefe: http://rede.metareciclagem.org/blog/12-08-09/Jardins-e-infral%C3%B3gica-metarecicleira
+(18:05:01) efeefe: perai que jah continuo VJ_VARGA
+(18:05:11) efeefe: walled gardens sao alienados do contexto
+(18:05:26) efeefe: meu jardinzinho feliz num terraço da marginal tiete
+(18:05:33) efeefe: a gente quer uma coisa mais permeavel
+(18:05:43) efeefe: entao, sobre os feeds
+(18:05:57) tatirp: marginal em dia de caos...
+(18:06:19) efeefe: eu vou no meu perfil e conto pro site da rede metareciclagem que meu usuario no youtube e flickr eh felipefonseca, que no identi.ca e twitter sou efeefe, e por aih vai
+(18:06:59) efeefe: a partir daih, cada vez que aparecer lah no agregador um post de algum desses sistemas que use a tag "metareciclagem", o site da rede metareciclagem vai saber que fui eu que subi
+(18:07:30) wundo: efeefe1: lindo isso
+(18:07:35) wundo: eu topo
+(18:07:42) efeefe: aih quando alguem entrar no meu perfil no site, vai ver, alem das paginas e posts e comments que eu subi no proprio site, tambem o que eu falei fora. e se pans cada item desses pode ter comments, virar mais uma conversacao.
+(18:08:08) efeefe: wundo: agora pensa numa logica semelhante pro historico da lista
+(18:08:23) tatirp: beleza, efeefe. existe alguma preocupacao ou intencao de contemplar quem nao ta nesse circuito de conversacao?
+(18:08:34) wundo: efeefe1: eu fiz isso pra um projeto #chuva a 1,5 meses atrás no D6
+(18:08:39) wundo: não era pra uma lista
+(18:08:41) wundo: mas o esquema é
+(18:08:45) wundo: chega um email
+(18:08:52) tatirp: tipo: o que o dpadua chamou de usuarios de web pra papel?
+(18:08:53) wundo: baseado no autor tu cria um novo node
+(18:09:20) efeefe: tatirp: nao sei se a infralogica pode se propor a resolver o lance pra esse usuario
+(18:09:32) wundo: quem exatamente é esse usuario?
+(18:09:34) efeefe: wundo: isso tudo bem, eh na linha do que o finado mailhandler fazia, neh?
+(18:09:44) efeefe: wundo: mas tem o historico da lista de uns 4 anos
+(18:09:52) wundo: efeefe1: pros antigos
+(18:10:06) wundo: voce dá uma semana e meia pra eu e o lourenzo
+(18:10:09) wundo: e a gente migra eles.
+(18:10:14) efeefe: ;)
+(18:10:27) tatirp: e o usuario que ta no paradigma site como repositorio de conteudos acessaveis do jeito mais facil possivel
+(18:10:29) efeefe: soh pra constar: duvido do prazo ;)
+(18:10:30) efeefe: mas vqv
+(18:10:33) wundo: tu tem o historico em algum lugar né
+(18:10:34) wundo: hauhauhauauha
+(18:10:41) wundo: efeefe1: uma semana full time seria verdade
+(18:10:54) efeefe: tatirp: fer: aih acho que talvez a gente tenha uma outra conversa
+(18:11:05) efeefe: wundo: tem no gmane.org
+(18:11:10) fer: ok
+(18:11:34) efeefe: tatirp: fer: o que a gente tem hoje eh o site rede.metareciclagem.org como ambiente social e de comunicacao generica
+(18:11:35) wundo: tatirp: pra esse usuario nao muda muito, é só ele clicar no link que ele vai pra fonte do conteudo
+(18:11:57) tatirp: efeefe, vc acha que quem ta na lista, por ex. se vira desse jeito integrado via agregador e afins?
+(18:12:02) efeefe: nada impede que a gente separe, tenha o site rede.metareciclagem.org como ambiente de gestao de projetos e integracao, e um site www.metareciclagem.org mais estatico
+(18:12:09) efeefe: ou o contrario
+(18:12:17) wundo: eu gosto de tudo misturado
+(18:12:18) uira: wundo, uma semana fulltime é uma semana sem eventos de drupal pelo mundo? noway...
+(18:12:20) wundo: no maximo
+(18:12:38) efeefe: ou podemos ateh tematizar
+(18:12:41) wundo: uira: uma semana fulltime é uma semana só fazendo metarec (sem outros projetos pagantes)
+(18:12:41) uira: eu acho legal a idéia de um site capa e da rede...
+(18:12:42) efeefe: material.metareciclagem.org
+(18:12:45) efeefe: comecando.metareciclagem.org
+(18:12:48) efeefe: iniciando.metareciclagem.org
+(18:12:54) tatirp: rsrsrs
+(18:12:55) efeefe: aprendendo.metareciclagem.org
+(18:13:01) efeefe: se pans cada um apontando pra uma parte diferente do site
+(18:13:01) uira: trollando.metareciclagem.orb
+(18:13:02) wundo: efeefe1: eu acho que metareciclagem.org devia ser algo na ideia do drupal.com
+(18:14:51) efeefe: fer: tatirp: que acham?
+(18:14:57) efeefe: podemos ter entradas multiplas
+(18:15:07) efeefe: mesmo que seja pro mesmo site, em partes diferentes
+(18:15:20) efeefe: tipo essas cameras que tem modo "facil" e "avancado"
+(18:15:23) efeefe: ou automatico e manual
+(18:15:27) efeefe: perfis de interface
+(18:15:28) tatirp: uma coisa e entrasdas mutiplas (que eu acho legal), outra e separar
+(18:15:54) tatirp: curto essa ideia da camera - modo manual e automatico
+(18:16:30) tatirp: e a mesma camera
+(18:16:56) fer: perfis de interface, eu gosto disso, e a minha ideia de personas.
+(18:17:08) fer: conforme o perfil do cara, o site e mostrado de uma maneira. e isso?
+(18:17:44) tatirp: personas, avatares... la atras acho que mbraz sugeriu a home com entrada para apocalipticos e integrados
+(18:17:58) efeefe: eh isso
+(18:18:05) markun__ [n=pedro@201-27-3-198.dsl.telesp.net.br] entrou na sala.
+(18:18:18) markun__: opa. desculpem o atraso?
+(18:18:34) wundo: heheheh
+(18:18:37) wundo: nao fui o ultimo
+(18:18:38) wundo: :P
+(18:20:05) efeefe: nao tem desculpa
+(18:21:11) fer: wundo, como funcionaria esse "dependendo do perfil, o site e mostrado de  uma maneira"?
+(18:21:37) wundo: o jeito mais coxa é a gente criar temas diferentes
+(18:21:43) wundo: e o cara escolhe que tema ele quer ver
+(18:22:16) uira: não, precisa ser automático
+(18:22:30) wundo: ahh qualé
+(18:22:36) fer: uira, como far?amos isso?
+(18:22:37) wundo: pode ser por url então
+(18:22:40) wundo: mas isso é bad seo
+(18:22:42) uira: uma coisa que, de acordo com as atividades do cara no site, ele sobe de nível e a interface dele muda...
+(18:22:51) fer: n?o, por url nao curti..
+(18:22:52) wundo: tipo noob.metarec.org
+(18:22:54) efeefe: para!
+(18:22:56) fer: naaaaaao
+(18:23:01) wundo: e 31337.metarec.org
+(18:23:05) wundo: mas eu acho horrivel
+(18:23:08) efeefe: nao acho que a interface tenha que mudar
+(18:23:12) tatirp: por url tb nao curto
+(18:23:22) uira: o cara que entra de primeira, sem nem cookie gravado, vê a página mais didática possível...
+(18:23:23) wundo: eu nao acho que o sistema tenha que decidir o nivel do usuario
+(18:23:30) wundo: isso parece coisa de jogo
+(18:23:31) fer: hum...uira, gostei
+(18:23:35) wundo: que via passando de fase
+(18:23:39) VJ_VARGA: a interface n?o muda mas como os blocos s?o apresentados
+(18:23:41) wundo: e se eu tiver criando um alter-ego novo
+(18:23:42) fer: nao, wundo, veja so
+(18:23:49) wundo: vou ter que começar do zero?
+(18:23:50) uira: aquele cara de ip gravado, tipo o ff, entra no site como admin... com todas as funções no modo 'manual'
+(18:24:02) fer: se eu nao sei nada de metareciclagem, um site mais limpo, e n?o t?o complexo ? melhor
+(18:24:23) wundo: fer: e se eu sei mas estou num computador novo?
+(18:24:34) efeefe: fer: pode ser. mas isso pode se diferenciado se o cara tah logado ounao.
+(18:24:38) wundo: vai ter um grande formulario piscante roxa choque e verde pra eu me logar né?
+(18:24:42) uira: aí vc faz o login e ele reconhece que vc é master mester plus
+(18:24:43) efeefe: uira: essa coisa de sem cookie eh besteira
+(18:24:51) fer: mas ? por perfil, se tu te loga..(imagino que todos os mais viejos vao se logar no site, ne)
+(18:24:52) efeefe: converse flashback
+(18:25:03) efeefe: pois eh
+(18:25:04) uira: efeefe1: são as maneiras de identificar, sss
+(18:25:14) efeefe: se o cara tah vendo o site sem logar, tem menos informacao
+(18:25:19) efeefe: se logou, tem acesso a mais recursos
+(18:25:25) efeefe: jah eh assim
+(18:25:28) uira: isso, carai
+(18:25:39) efeefe: a pergunta era sobre os outros publicos
+(18:25:44) efeefe: galera menos habituada a web
+(18:25:56) efeefe: aih eu digo de novo: nao acho que o site vai resolver isso.
+(18:26:05) markun__: efe, n?o rola pensar em disposi??es (e hiearquias) diferentes para cada um desses 'perfis'?
+(18:26:11) uira: eu acho que à primeira vista, o site tinha que ser acessível pra esse público... o www
+(18:26:30) uira: pq quem já tá na parada entra pelo rede., que cai no multi agregador
+(18:26:33) tatirp: nao precisa ser menos habituada a web. sao os modos de relacao e estar na web que mudam
+(18:26:47) ***uira pede pra não usarem acentuação....
+(18:26:51) uira: hahaha
+(18:27:09) uira: eu to usando acentuacao pra caraio
+(18:27:14) markun__: ?
+(18:27:37) wundo: uira: exato, pede pra nao usar mas ta usando :P
+(18:27:42) efeefe: markun__: fala mais disso
+(18:27:49) efeefe: uira eh hipocrita
+(18:27:59) uira: efeefe1: e quem nao eh?
+(18:28:22) efeefe: ;)
+(18:28:31) tatirp: tem uma dose de hopocrisia que eh necssaria para mantuencao da sociedade. ;)
+(18:28:34) efeefe: markun__: lance eh que os perfis nao sao claros
+(18:28:55) markun__: efe, mesmo tema, mas muda a hiearquia e disposicao. dependendo do perfil de uso.
+(18:29:02) efeefe: e agora contradizendo minha hipotese anterior: criar URLs diferentes eh besteira porque na real grande maioria chega pelo google
+(18:29:08) efeefe: hierarquia de que?
+(18:29:20) wundo: efeefe1: foi o que eu disse, urls diferentes é bad seo
+(18:29:25) fer: urls diferentes...blergh
+(18:29:38) efeefe: ok
+(18:30:02) markun__: nao precisa de url diferente. no form de cadastro o cara ja seleciona o 'perfil' que melhor representa as necessidades dele na rede
+(18:30:02) fer: urls diferentes #meganao
+(18:30:08) efeefe: entao, o importante eh: pagina inicial, nao-logada, ser mais informacao pra newcomers
+(18:30:22) efeefe: e assim que nego loga, tem mais coisas
+(18:30:22) wundo: markun__: técnicamente isso é o que eu sugeri de temas diferentes, se o layout é o mesmo ou não é detalhe
+(18:30:31) efeefe: markun__: nao sabemos quem sao esses perfis
+(18:30:40) efeefe: e acredito que quem chega agora nao vai saber onde se enquadra
+(18:30:41) fer: eu acho que e perfeitamente possivel desenhar um site que sirva pra todos os perfis
+(18:30:42) markun__: nao quer dizer que nao existam
+(18:30:58) tatirp: bom, fer :)
+(18:31:00) markun__: mas fico pensando, por exemplo, nos nossos jardineiros
+(18:31:02) efeefe: markun__: mas talvez nao sejam tao relevantes
+(18:31:02) fer: efeefe1, concordo
+(18:31:06) markun__: talvez
+(18:31:28) efeefe: acho que a gente precisa ter uma pagina inicial pra eremildos
+(18:31:37) fer: eremildos??
+(18:31:39) efeefe: e assim que o cara loga jah pode diferenciar, se for o caso
+(18:31:51) markun__: o jardineiro precisa de um toolbox
+(18:31:58) efeefe: elio gaspari
+(18:32:05) efeefe: markun__: sim. aih eh outro papo.
+(18:32:09) tatirp: hj ja eh assim, efeefe? com adquele lance admin, editorxs, etc?
+(18:32:11) efeefe: na real isso eh a excecao.
+(18:32:16) VJ_VARGA saiu da sala (quit: ).
+(18:32:33) fer: essa coisa de toolbox eu vejo la na hora de discutir dashboard
+(18:32:37) efeefe: hoje tah assim. na coluna da esquerda tem blocos diferenciados pra todxs, editorxs e admins
+(18:32:43) efeefe: fer: era o que eu ia dizr
+(18:33:11) efeefe: sabem que uma das coisas que me fez demorar pra trocar o wp pelo drupal no meu blog eh o ambiente de edicao do wp
+(18:33:15) tatirp: entao o lance eh explicar o que e cada categoria?
+(18:33:23) efeefe: que simplifica e dah acesso direto a tudo ali
+(18:33:53) tatirp: alem de pensar nos modos de documentar e apresentar as infos?
+(18:34:06) fer: sim, nao sei como e no drupal, no wp existem niveis de edicao e a area de admin e mostrada de acordo, ne
+(18:34:43) efeefe: ele tem um ambiente de edicao e admin separado 
+(18:35:09) efeefe: entao
+(18:35:21) efeefe: acho que temos que ter uma pagina inicial MUITO simples, pra nao-logados. 
+(18:35:37) efeefe: assim que cadastra/loga, tem uma pagina parecida, com mais coisas. 
+(18:35:41) efeefe: e alem disso, um dashboard
+(18:36:01) markun__: +1 dashboard
+(18:36:54) efeefe: que liste atividade recente nas minhas coisas (grupos de que participo, paginas de wiki que editei, posts em que comentei) e eventualmente cruzamentos de metainfo (pessoas que usam as mesmas tags pessoais que eu, ou paginas que usem as mesmas tags que eu usei)
+(18:38:02) fer: todos esses elementinhos sao parte das specs de cada area, efeefe1
+(18:38:02) markun__: tenho duvidas sobre infos de mim mesmo.
+(18:38:21) markun__: prefiro ter info dos outros, coisas que podem se relacionar comigo.
+(18:38:23) fer: que eu quero listar e depois criar wireframes pra gente testar la no encontrao
+(18:38:24) efeefe: markun__: p q?
+(18:38:27) efeefe: fer: ok
+(18:38:44) markun__: saber qual foi meu ultimo comentario me parece redundante. quero saber da ultima resposta pra ele. p.ex.
+(18:38:53) tatirp: concordo, markun. pq eu tenho mais nocao do que eu fiz
+(18:39:29) efeefe: por isso falei "atividade recente nas minhas coisas"
+(18:39:35) tatirp: eh mais facil lembrar do que a gente faz e mais interessante descobrir o que os outros estao fazendo. ai rolam as trocas, nao?
+(18:39:38) markun__: isso
+(18:39:40) fer: markun_, mas tem que estar la o meu ultimo comentario, nao? e se eu esquecer?
+(18:39:48) efeefe: o que tah entre parentesis sao as "minhas coisas"
+(18:39:55) fer: eu acho que tem que ter as duas coisas
+(18:39:58) tatirp: entendi, efeefe
+(18:40:00) markun__: fer, precisa estar em algum lugar. mas nao daria espaco privilegiado pra isso.
+(18:40:14) fer: ah bom, isso e outra coisa, como a gente organiza a interface
+(18:40:19) fer: (por isso os wireframes)
+(18:40:20) markun__: queria poder entrar no site e entender onde eh que eu posso atuar. onde a rede precisa de mim?
+(18:40:41) markun__: (ai o lance das tags pode ser muito legal)
+(18:40:47) fer: markun_, bom insight esse para pensarmos nas visualiza??es dos elementos.
+(18:40:57) tatirp: curto esse caminho do markun
+(18:41:12) efeefe: sim, legal
+(18:41:27) efeefe: com o tempo dah pra prever desvios, do tipo usar a tag "preciso"
+(18:41:30) efeefe: "ofereço"
+(18:42:05) tatirp: depois vou desenvolver melhor o lance da minimal tag e postar lah na conectaz...
+(18:42:09) fer: acho muito importante a gente pensar na utilidade das tags como maneira de navegar de forma organica pelo site
+(18:42:18) efeefe: sim!
+(18:42:25) efeefe: hoje as tags estao subutilizadas
+(18:42:39) tatirp: ou inutilizadas
+(18:42:44) fer: e importante ensinar como usar
+(18:42:46) tatirp: em alguns casos
+(18:42:59) markun__: acho que a tag podia ser um processo transparente
+(18:43:17) tatirp: minimal tag e um pouco isso: tornar transparente sua estrutura
+(18:43:18) wundo: gentes
+(18:43:23) wundo: eu preciso ir me
+(18:43:24) wundo: :(
+(18:43:33) fer: markun_, como assim processo transparente?
+(18:43:38) tatirp: daqui a pouco, tb preciso
+(18:43:56) fer: eu daqui a 15 min tenho outra reuniao (socorro)
+(18:44:27) efeefe: wundo: papo migracao tah como?
+(18:44:36) markun_ [n=pedro@200-171-89-68.dsl.telesp.net.br] entrou na sala.
+(18:44:39) efeefe: jah estamos no github?
+(18:44:42) wundo: pausada
+(18:44:56) wundo: o lourenzo ta terminando uma outra
+(18:44:58) markun_: fck.
+(18:45:01) wundo: e depois vamos fazer essa
+(18:45:07) wundo: efeefe1: já estamos no github
+(18:45:07) fer: markun_, repetindo, nao vi que tinhas caido: como assim processo transparente?
+(18:45:49) markun_: fer, o cara se cadastra e define tags primarias. essas tags ajudam a orientar e priorizar o que eh exibido no dashboard.
+(18:46:00) wundo: gents
+(18:46:06) wundo: fico online denovo em 34 minutos
+(18:46:10) wundo: patroa vindo me buscar
+(18:46:17) markun_: mas alem disso, voce tem um processo onde as tags surgem e somem de forma transparente. Seja por indicacao/inducao de outros users. Seja por uso ou falta de uso das tags.
+(18:46:35) markun_: ou seja, se eu tenho a tag infralogica, mas nao participo do grupo, nao discuto, nao comento... ela vai perdendo forca
+(18:47:15) markun_: com isso voce consegue mapear os individuos ativos - dentro de uma determinada tag - e isso ajuda a orientar 'preciso' e 'ofereco' entre outros
+(18:48:09) wundo saiu da sala (quit: ).
+(18:48:11) fer: ahh, legal
+(18:48:22) fer: MUITO legal isso, hein
+(18:49:58) efeefe: fer: markun_ interessante mesmo.
+(18:50:09) tatirp: curto isso tb
+(18:50:40) fer: entao, vou seguir montando a estrutura com essas coisas todas na mente. quem salva esse log? o outro se perdeu, ne
+(18:50:52) efeefe: eu salvo e mando no site e aviso na lsita
+(18:51:11) markun_: ? brincar um pouco com o que o last.fm, blip e amazon fazem... a partir dos interesses e intera??es sugerir novos interesses e intera??es
+(18:51:32) fer: certo...adoro o last.fm nesse quesito
+(18:52:17) fer: acho que se seguirmos nessa linha, o site se torna mais relevante para quem acessa
+(18:52:22) markun__ saiu da sala (quit: Read error: 145 (Connection timed out)).
+(18:52:32) efeefe: fim entao: fer vai continuar o levantamento e exploracao de estruturas do site. wundo daqui a pouco faz a migracao. conversamos sobre algumas hipoteses de agregacao de conteudo de diversos sites e cruzamento com os perfis no site; sobre importar o historico da lista e cruzar com os perfis; sobre maneiras de mostrar informacao diferenciada pra pessoas de perfis diferentes; sobre o dashboard.
+(18:52:35) efeefe: algo mais pra constar na ata?
+(18:52:39) fer: pois o conteudo sera mais de acordo com o perfil
+(18:53:03) efeefe: markun_: fer: concordo. cruzamentos interessantes, e mais relevancia pro site.
+(18:53:29) fer: ok!!
+(18:53:36) fer: eu estou legal de informacoes para seguir ja.
+(18:54:49) efeefe: beleza
+(18:54:57) efeefe: quando eh a proxima iteracao?
+(18:55:04) efeefe: continuamos pela lista?
+(18:55:07) fer: eu vou largando as coisas na lista
+(18:55:25) fer: e acho que conversamos de novo no mesmo bate horario semana que vem
+(18:55:30) tatirp: acompanhamos pela lista, wikis e afins
+(18:56:55) tatirp: mesmo batehorario e batecanal semana que vem
+(18:57:34) efeefe: ok
+(18:57:46) efeefe: queria dialogar a infralogicaideal com a lista
+(18:58:08) fer: acho que ainda e muito cedo, efeefe1
+(18:58:40) fer: acho que para fins de opinioes e sugestoes, mais vale largar os wireframes junto, para fins de visualizacao
+(18:58:52) efeefe: beleza
+(18:59:06) fer: acho que fica bem mais facil de entender para o pessoal que nao esteve nessas reunioes que estamos tendo
+(18:59:12) efeefe: concordo
+(18:59:20) tatirp: eu ainda nao pude pensar na infralogica ideal com o cuidado que o tema merece
+(18:59:56) fer: na verdade, acho que no momento que os wireframes existirem, todo mundo vai conseguir pirar em cima, tatirp
+(19:01:05) fer: lembra daquelas pilhas de cartas que a o balao magico, xuxa e afins ficavam jogando pra cima?
+(19:01:23) fer: eu to me sentindo como se cada carta e uma spec e eu tenho que organizar todas :-P
+(19:01:31) efeefe: tem a ver
+(19:01:37) efeefe: bom, encerrando aqui?
+(19:01:59) fer: sim, um beijo a todos!!!
+(19:02:15) fer saiu da sala.
+(19:02:15) tatirp: sim, bjs. jogar as cartas eh bem no fim do programa ;)
+(19:03:14) tatirp saiu da sala (quit: "Page closed").

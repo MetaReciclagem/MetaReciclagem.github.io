@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - wiki</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/417/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Jardins e a infralógica metarecicleira</title>
+ <link>http://rede.metareciclagem.org/blog/12-08-09/Jardins-e-infral%C3%B3gica-metarecicleira</link>
+ <description>&lt;p&gt;Mandei um post na &lt;a href=&quot;http://lista.metareciclagem.org&quot; rel=&quot;nofollow&quot;&gt;lista&lt;/a&gt; na thread que o mbraz come&amp;ccedil;ou sobre &lt;a href=&quot;http://thread.gmane.org/gmane.politics.organizations.metareciclagem/30726&quot; rel=&quot;nofollow&quot;&gt;Bauman&lt;/a&gt;, trazendo um pouco a conversa sobre jardinagem pro contexto da infral&amp;oacute;gica metarecicleira:&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/12-08-09/Jardins-e-infral%C3%B3gica-metarecicleira&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/12-08-09/Jardins-e-infral%C3%B3gica-metarecicleira#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/jardinagem">jardinagem</category>
+ <category domain="http://rede.metareciclagem.org/assunto/wiki">wiki</category>
+ <category domain="http://rede.metareciclagem.org/assunto/xemele">xemele</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Wed, 12 Aug 2009 17:42:21 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1634 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>problemas resolvidos</title>
+ <link>http://rede.metareciclagem.org/wiki/problemas-resolvidos</link>
+ <description>&lt;p&gt;diz qu meu post causa problemas, que &amp;eacute; um spam, mas n&amp;atilde;o diz qual o problema..&lt;/p&gt;
+&lt;p&gt;&amp;quot;Your submission has triggered the installed spam filter and will not be accepted.&amp;quot;&lt;/p&gt;
+&lt;p&gt;o q tentei enviar;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/problemas-resolvidos&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/problemas-resolvidos#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/wiki">wiki</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Wed, 22 Apr 2009 22:35:05 +0000</pubDate>
+ <dc:creator>t</dc:creator>
+ <guid isPermaLink="false">1582 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Drupalwikizando a metareciclagem</title>
+ <link>http://rede.metareciclagem.org/blog/27-10-08/Drupalwikiizando-metareciclagem</link>
+ <description>&lt;p&gt;Demorei pra documentar as solu&amp;ccedil;&amp;otilde;es que encontrei pra algumas coisas que a gente quer fazer com esse site. Como foram um monte de coisinhas, resolvi documentar em partes. Hoje vou falar sobre como montei o wiki aqui (que &amp;eacute; basicamente o mesmo processo que eu fiz no &lt;a href=&quot;http://mutirao.metareciclagem.org&quot; rel=&quot;nofollow&quot;&gt;mutir&amp;atilde;o da gambiarra&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PS&lt;/strong&gt; pra muita gente esse post vai parecer grego. Desculpem, e se quiserem saber mais &amp;eacute; s&amp;oacute; me perguntar.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/27-10-08/Drupalwikiizando-metareciclagem&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/27-10-08/Drupalwikiizando-metareciclagem#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/og">og</category>
+ <category domain="http://rede.metareciclagem.org/assunto/panels">panels</category>
+ <category domain="http://rede.metareciclagem.org/assunto/wiki">wiki</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Mon, 27 Oct 2008 18:31:37 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1465 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

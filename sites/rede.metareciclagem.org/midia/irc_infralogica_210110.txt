@@ -1,0 +1,539 @@
+Conversation with #metareciclagem at Qui 21 Jan 2010 18:08:03 BRST on efeefe@irc.freenode.org (irc)
+(...)
+(18:43:18) efeefe: mas vamo lah
+(18:43:30) efeefe: eu tambem tenho uma noticia
+(18:43:33) efeefe: falei com o ike
+(18:43:37) efeefe: a grana do premio entrou
+(18:43:54) tatirp: caraca, dia de noticias bombasticas
+(18:43:54) efeefe: acho que podemos pensar em usar a partir de fevereiro
+(18:44:06) efeefe: tatirp: tu acha que tah chovendo tanto em sampa por que?
+(18:44:10) fescur: hihihi
+(18:44:20) efeefe: mas o lance eh
+(18:44:23) tatirp: eh ;)
+(18:44:40) efeefe: aqui, como tambem no mutirao e na microreciclagem, o dinheiro eh pouco pra tudo que a gente quer fazer
+(18:45:04) efeefe: queria pensar em alguma logica que funcionasse, pra deixar todo mundo feliz e trabalhando
+(18:45:13) efeefe: e ver quais sao os gargalos que nao estao rolando
+(18:45:34) efeefe: acho que tem duas vertentes do trampo que andaram mais do que costumavam andar, mas ainda falta
+(18:45:45) efeefe: o drupal e a interface
+(18:46:13) tatirp: sim
+(18:46:17) efeefe: acho que agora precisa pegar a base que jah rolou, e desdobrar
+(18:46:17) fescur: concordo
+(18:46:37) efeefe: fe, quero saber o que precisa pra gente conseguir dar um gas na interface
+(18:46:56) fescur: olha...vou dar a real...
+(18:47:00) efeefe: chamar mais gente, ter mais feedback, conversar mais, ter mais tempo
+(18:47:14) efeefe: sei que nao tens nem vais ter tanto tempo assim
+(18:47:15) fescur: ter mais tempo
+(18:47:30) fescur: e tamb?m adoraria ter mais feedback, principalmente dos designers
+(18:47:33) efeefe: fescur: como a gente faz isso?
+(18:47:38) tatirp: nao sei se chamar mais gente, mas feedbacks melhores ajudariam muito, nao?
+(18:47:44) fescur: sim, tati
+(18:47:50) fescur: ajudariam mais que chamar mais gente
+(18:47:53) efeefe: o que sao feedbacks melhores?
+(18:47:54) fescur: nessa fase pelo menos
+(18:48:14) fescur: na verdade s?o conversas brainstorm?sticas
+(18:48:15) tatirp: opinioes que vao aem do tah legal ou nao gostei dessa minucia aqui?
+(18:48:17) fescur: disso que sinto falta
+(18:48:19) efeefe: nao seria o caso de a gente pensar em pacotes legitimaveis?
+(18:48:30) fescur: t? muito sozinha fazendo esse neg?cio (saudade, dpadua)
+(18:48:34) efeefe: nem fala
+(18:48:38) fescur: explique, efeefe
+(18:48:44) efeefe: alias, amanha eh aniversario do dpadua
+(18:48:49) fescur: eu vi
+(18:48:57) efeefe: fescur: na real acho que isso que falei eh depois, entao
+(18:49:17) tatirp: efeefe: acabei de falar do niver lah na lista
+(18:49:20) efeefe: fescur: tu acha que esses brainstorms rolam via chat?
+(18:49:28) fescur: com certeza
+(18:49:36) fescur: em cima da interface que eu j? enviei
+(18:49:55) tatirp: acho que se a gente conseguisse manter uma rotina de encontros no irc ajudaria bastante
+(18:50:01) fescur: argh, acentos de novo, desculpa
+(18:50:11) fescur: pode ser, tatirp
+(18:50:14) efeefe: relaxe
+(18:50:15) tatirp: pelo menos a manter a infralogica na linha de frente das prioridades
+(18:50:24) efeefe: legal
+(18:50:27) fescur: eu to com um probleminha so...
+(18:50:33) fescur: que e financeiro
+(18:50:41) efeefe: entao vamo tentar marcar uma rotina de encontros no irc a partir de depois da cparty?
+(18:50:46) fescur: desde dezembro to em funcao dessa bolsa da usp
+(18:50:50) efeefe: fescur: entendi
+(18:50:50) tatirp: (tudo bem que eu mesma to dando a ideia e tenho dificuldades de cumprir, pois nem consigo almocar e jantar todo dia)
+(18:50:52) fescur: que AINDA nao se concretizou
+(18:50:54) fescur: mas vai
+(18:51:06) fescur: so que ta uma lenda e como achei que ia iniciar os trabalhos em janeiro
+(18:51:11) wundo: efeefe:  eu topo a rotina sim
+(18:51:14) efeefe: fescur: to contando com uma verba pra ti do recurso do premio
+(18:51:20) efeefe: mas eh aquela coisa
+(18:51:23) fescur: nao peguei projetos pra janeiro, e nao entrou a bolsa
+(18:51:26) fescur: pindaiba total
+(18:51:36) wundo: fescur: se faz o que da vida
+(18:51:40) fescur: e estou tentada a ir buscar projeto com grana
+(18:51:42) wundo: a gente tem umas vagas na chuva
+(18:51:47) fescur: webdesign, wundo
+(18:51:58) efeefe: o que a gente precisa do teu trabalho sao X horas ao longo do tempo, e o que a gente consegue pagar vai ser uma parcela unica de X/5 horas
+(18:52:03) fescur: design de interface, usabilidade, blablabla
+(18:52:13) fescur: sim, efeefe
+(18:52:27) fescur: vou te dizer, que se tiver um estimulo financeiro envolvido, melhora...
+(18:52:33) efeefe: se pintar essa parcela no comeco de fevereiro, ajuda?
+(18:52:36) fescur: antes nao dava nada porque eu tava com projeto e grana entrando
+(18:52:38) fescur: agora secou
+(18:52:45) fescur: obvio que ajuda
+(18:52:48) efeefe: entendo, totalmente
+(18:52:50) wundo: fescur:  manda um portifolio/curriculo pra chuva+vagas@chuva-inc
+(18:53:01) fescur: valeu wundo, farei
+(18:53:07) efeefe: oh o wundo transformando a chuva em para-raios
+(18:53:17) tatirp: fescur, manda pro meu email tb
+(18:53:35) fescur: ok, tatirp!
+(18:53:48) fescur: entao, eu achei que ja ia agora pra sampa pela bolsa, e aproveitar pra encontrar voces
+(18:53:52) efeefe: sobre webdesign, a gente vai poder contar mais com a yaso tambem
+(18:53:56) fescur: mas nao foi o que aconteceu...
+(18:54:02) efeefe: ela tah muito na correria agora, mas em breve ela vai aparecer mais
+(18:54:02) fescur: sim, achei que ela ia estar aqui hoje
+(18:54:15) fescur: a ajuda dela vai ser muito bem vinda...
+(18:54:20) efeefe: eh a primeira semana dela no minc
+(18:54:29) efeefe: muita correria por enquanto
+(18:54:30) tatirp: fescur, sabes que nao eh bom viajar de aviao nos primeiros meses neh?
+(18:54:43) fescur: tatirp, fechei 13 semanas hoje
+(18:54:48) fescur: ja to no segundo trimestre
+(18:54:55) fescur: ;-)
+(18:54:57) efeefe: 13 semanas, jah pode ateh jogar futebol de novo
+(18:55:02) fescur: isso mesmo!!!
+(18:55:04) efeefe: haha
+(18:55:11) efeefe: wundo: nao desaparece, hein?
+(18:55:16) tatirp: eu sei querida, mas tenho amigas que tiveram problemas mesmo assim ;)
+(18:55:26) efeefe: fescur: depois a gente conversa em PVT sobre detalhes
+(18:55:35) fescur: ok
+(18:55:37) uira saiu da sala (quit: "Leaving.").
+(18:55:38) efeefe: quero agilizar esse lance em fevereiro
+(18:55:43) efeefe: daquele jeito
+(18:55:51) efeefe: tah longe de ser pagamento justo por servicos prestados
+(18:55:54) tatirp: qual jeito?
+(18:56:02) efeefe: eh mais mesmo uma extensao da ideia de premio
+(18:56:09) fescur: certo, efeefe
+(18:56:13) tatirp: ah... sobre grana...pensei que era o nosso jeito de "trabalhar"
+(18:56:15) efeefe: um reconhecimento mais simbolico, numa parcela soh
+(18:56:24) efeefe: nosso jeito de trabalhar muda a cada semana ;)
+(18:56:35) tatirp: ;) por isso a pergunta
+(18:56:40) efeefe: hehe
+(18:56:42) efeefe: "qual deles"
+(18:56:46) efeefe: o wundo sumiu?
+(18:56:49) fescur: tatirp, depois me conta o que aconteceu com as tuas amigas...
+(18:56:58) fescur: bobeia vou ter que ir de onibus pra sampa
+(18:57:04) efeefe: acho que ele soh vai aparecer se eu invocar o nome dele
+(18:57:07) efeefe: wundo: tah aih?
+(18:57:09) fescur: ele ta em outra reuniao, nao?
+(18:57:09) tatirp: blz, fe - vamos pro pvt tb
+(18:57:34) fescur: alias, tati,
+(18:57:35) wundo: eu to lendo
+(18:57:41) efeefe: eu queria por um lance em discussao aqui
+(18:57:41) wundo: nao to conseguindo escrever
+(18:57:43) fescur: te adicionei la no gtalk e nada?
+(18:57:55) wundo: me adicionou?
+(18:58:05) fescur: wundo, era pra tatirp
+(18:58:08) efeefe: wundo: nao, ela tah falando com tatirp
+(18:58:13) tatirp: como assim, fe? tu tah lah "verdinha" sempre
+(18:58:20) fescur: ue? cade tu??
+(18:58:38) tatirp: vamos voltar entao, com o wundo
+(18:59:17) efeefe: voltando... a gente tinha combinado duas coisas lah no comeco. uma era que todo mundo daquelxs 12 iniciais ia receber uma graninha de ajuda de custo pelo "planejamento" do site. outra era que a gente ia usar outro valor igual para ir pra arraial, fazer uma reuniao.
+(18:59:39) wundo: ceuto
+(19:00:04) tatirp: e os planos mudaram
+(19:00:05) efeefe: pensei em oferecer agora para quem quiser receber esse trocado inicial, mas tambem quem quiser recusar a gente realocar a grana pra fazer um encontro
+(19:00:21) efeefe: acho que quem acha que merece, que trabalhou e tal, tem que receber pelo planejamento
+(19:00:23) efeefe: eu nao quero
+(19:00:34) tatirp: tb nao
+(19:00:39) fescur: eh, eu nao vou pra arraial provavelmente
+(19:00:44) efeefe: isso independe agora
+(19:00:49) fescur: bom, o trabalho que eu fiz ate agora nao foi muito...
+(19:00:50) efeefe: eram duas coisas, planejamento e arraial
+(19:01:00) efeefe: mas enfim
+(19:01:27) efeefe: acho que a gente tem um momento de correr atras, um de estabelecer bases e outro de comecar a implementar as coisas novas
+(19:01:34) efeefe: acho que antes do terceiro momento a gente precisava se encontrar
+(19:01:44) tatirp: sim
+(19:01:56) efeefe: wundo: podemos pensar em fazer isso em campinas nos proximos meses?
+(19:02:00) fescur: mas em arraial? putz, eh longe pra mim
+(19:02:01) wundo: eu dispenso
+(19:02:04) efeefe: arraial nao
+(19:02:12) efeefe: arraial era pra rolar ano passado
+(19:02:14) tatirp: nao, fe, arraial seria no encontrao que rolou
+(19:02:17) wundo: campinas é firmeza
+(19:02:20) efeefe: podia ser em campinas
+(19:02:21) fescur: ah ta
+(19:02:23) efeefe: ou aqui em ubatuba ;)
+(19:02:24) wundo: tem que pensar em local e tal
+(19:02:27) wundo: a chuva abre as partes
+(19:02:29) fescur: ubatuba!
+(19:02:31) wundo: mas ela é pequenininha
+(19:02:33) tatirp: aqui em sp?
+(19:02:37) fescur: (sem chuva)
+(19:02:38) markun: pode ser aqui na casa, efe
+(19:02:39) efeefe: vamos ser cerca de uma duzia
+(19:02:47) efeefe: legal tambem, markun
+(19:02:57) efeefe: wundo: "abrir as partes" pega meio mal
+(19:03:07) markun: ou ainda no meu sitio. ~70km daqui e coloquei uma conexão por lá agora.
+(19:03:07) wundo: era pra ser portas
+(19:03:08) wundo: foi mal
+(19:03:15) efeefe: ;)
+(19:03:29) tatirp: hehehe
+(19:03:31) efeefe: bom, temos 4 lugares bons propostos
+(19:03:35) efeefe: nao precisamos decidir agora
+(19:03:41) efeefe: soh acho que validar a ideia na listinha
+(19:04:10) efeefe: daih a gente concentra um pouco em terminar aquela migracao eterna lah e terminar a proposta de interface
+(19:04:14) efeefe: aih fazemos uma reuniao
+(19:04:24) efeefe: e depois tocamos a implementacao dessas coisas
+(19:04:32) fescur: parece razoavel...
+(19:04:32) efeefe: de acuerdo?
+(19:04:47) tatirp: tipo... em qto tempo isso tudo?
+(19:04:56) efeefe: aih nao decido sozinho
+(19:05:13) tatirp: posso dizer o que eh dificil pra mim?
+(19:05:14) efeefe: fe, do teu lado, que achas?
+(19:05:21) efeefe: tatirp: nao sei se pode ;)
+(19:05:36) fescur: efeefe, acho o que, do tempo?
+(19:05:44) tatirp: td bem, jah entendi!
+(19:05:51) efeefe: fescur: quanto tempo pra terminar a proposta de interface
+(19:06:03) efeefe: contando com reunioes toda semana e imaginando uma participacao maior dos designers 
+(19:06:09) fescur: aiaiai...posso pensar...
+(19:06:12) fescur: ?
+(19:06:42) efeefe: talvez ateh abrir um pouco mais. se as reunioes tiverem hora marcada e forem bem objetivas, acho que tem mais gente que pode ajudar.
+(19:06:45) efeefe: pode pensar um pouco
+(19:06:48) fescur: a droga toda eh que sem saber o lance da bolsa, as coisas podem mudar
+(19:06:52) efeefe: enquanto isso, tati fala o que eh dificil pra ti
+(19:07:02) tatirp: posso pelo menos dizer que ter a busca de novo no site me ajudaria?
+(19:07:15) efeefe: tatirp: vai ter
+(19:07:20) efeefe: continua tendo, soh tah meio escondia
+(19:07:37) fescur: tatirp: vai ter a busca, bem grande
+(19:07:39) tatirp: o que eu to fazendo agora eh usando o google pra chegar no site
+(19:08:00) efeefe: vai ter
+(19:08:06) efeefe: acho que isso eh ponto pacifico
+(19:08:18) tatirp: mas mesmo que ela nao esteja resolvida, jah ajuda mapear algumas coisas que nao precisam esperar a proposta da interface terminar
+(19:08:33) markun: alias, alguma chance de usar solr? a busca do drupal é meio xarope. wundo?
+(19:08:47) efeefe: tatirp: vamos pautar isso na conversa com o wundo, jaja
+(19:08:52) efeefe: markun: que eh solr
+(19:09:00) wundo: voltei
+(19:09:00) efeefe: a busca do drupal eh tosca mesmo
+(19:09:24) markun: um buscador opensource em java, integra legal com drupal por conta de um modulo da acquia
+(19:09:39) wundo: efeefe:  podemos usar o solr
+(19:09:42) efeefe: nao eh pesado no?
+(19:09:48) wundo: E O modulo solr NAO É DA ACQUIA!
+(19:09:56) goa [n=fabiana@189.104.31.254] entrou na sala.
+(19:09:59) tatirp: efeefe: onde ela tah escondida exatamente?
+(19:10:09) markun: po, mal ae. (e nao eh pra ser pesado nao)
+(19:10:19) goa: buenas pessoal
+(19:10:27) tatirp: oi, goa!
+(19:10:28) efeefe: oi goa
+(19:10:30) wundo: o pessoal tem mania de dizer que tudo é da acquia :P
+(19:10:34) wundo: fala goa
+(19:10:36) fescur: oi goa
+(19:10:43) goa: :-)
+(19:11:05) goa: to aqui me arrumando pra ir ver vcs
+(19:11:10) efeefe: fescur: um mes, com conversas semanais, pra terminar?
+(19:11:15) efeefe: goa: cparty?
+(19:11:19) goa: isso
+(19:11:24) goa: vou amanha pra sampa
+(19:11:28) efeefe: legal
+(19:13:15) tatirp: entao... sobre a busca, o que eu falo agora eh soh pra achar coisas basicas do historico que ajudam pensar em estruturas
+(19:13:37) markun: (diz na pagina do projeto que é sponsored pela acquia, wundo. mas enfim)
+(19:14:21) efeefe: tatirp: fica tranquila que depois te passo as dicas
+(19:14:21) wundo: sponsored nao quer dizer que é da acquia
+(19:14:27) wundo: mas é birra miha
+(19:14:30) wundo: mal markun
+(19:14:34) efeefe: wundo: seu birento
+(19:14:38) efeefe: entao
+(19:14:38) tatirp: efeefe: blz!
+(19:14:38) markun: pois
+(19:14:45) efeefe: fescur: um mes pra andar com isso?
+(19:14:57) tatirp: fescur foi pensar
+(19:14:59) efeefe: ok
+(19:15:00) efeefe: entao
+(19:15:01) efeefe: wundo
+(19:15:14) efeefe: minha conversa com a chuva eh parecida com a conversa com a fe
+(19:15:27) fescur: efeefe,
+(19:15:30) efeefe: comecamos um processo de estabelecer bases, que precisamos terminar antes de ir pra frente
+(19:15:35) fescur: o que queres ver daqui a um mes?
+(19:15:53) efeefe: uma proposta mais desenvolvida de cara pro site
+(19:15:58) efeefe: arquitetura & telas
+(19:16:05) efeefe: balizada com mais gente
+(19:16:09) efeefe: pra apresentar pra rede
+(19:16:26) fescur: a arquitetura j? pode ser analisada pelos outros da lista do site
+(19:16:38) fescur: nao rolou feedback daquilo praticamente
+(19:16:40) efeefe: sim
+(19:16:47) efeefe: vamos pegar mais pesado nisso
+(19:16:49) tatirp: eh verdade
+(19:16:52) fescur: enquanto isso, mexo na interface
+(19:16:57) efeefe: mas daqui a um mes quero apresentar pra lista metarec
+(19:17:22) fescur: nao esquece que tem carnaval
+(19:18:15) efeefe: hm, eh
+(19:18:20) efeefe: ok, um mes e pouco
+(19:18:34) efeefe: que seja um pouco mais
+(19:18:38) efeefe: carnaval eh uma semana
+(19:18:51) efeefe: que seja no fim de fevereiro ou comeco de março
+(19:18:54) fescur: inicio de marco entao
+(19:19:55) efeefe: cool
+(19:20:32) tatirp: fesxcur: como acha que podemos avancar com o feedback da arquitetura?
+(19:20:48) tatirp: sxcur eh o seu novo nome, pra mim
+(19:21:02) fescur: sxcur eh otimo
+(19:21:13) fescur: pois...deu pra entender o que eu fiz ali?
+(19:21:29) fescur: na verdade as alternativas sao
+(19:21:33) tatirp: deu pra entender o que vc fez, sim
+(19:21:34) fescur: a)dizer amem pra tudo
+(19:21:41) fescur: b) sugerir mudancas
+(19:21:54) efeefe: a)
+(19:21:55) efeefe: haah
+(19:22:00) fescur: hahahaha
+(19:22:06) efeefe: acho que isso a gente nao define agora
+(19:22:21) efeefe: vamos construir o processo, com reunioes periodicas a partir de depois da cparty
+(19:22:21) fescur: na verdade fiz aquilo sempre me baseando nas discussoes anteriores
+(19:22:27) fescur: nao inventei da minha cabeca
+(19:22:37) efeefe: e aih fazer bem focadas, chamar gente pra opinar
+(19:22:41) tatirp: sim, isso tah claro
+(19:22:42) fescur: e a ideia era ajudar os meninos para o desenvolvimento disso...
+(19:22:50) efeefe: quero tambem chamar u mpessoal que se afastou um pouco
+(19:22:55) tatirp: como assim, efe?
+(19:23:34) efeefe: a gente fazer uma serie de reunioes via irc pra brainstorm, balizamento e validacao da interface nova do site
+(19:23:42) tatirp: eu to perguntando pq acho dificil opinar por partes (qdo eu nao sei bem ateh onde vai uma parte)
+(19:23:43) efeefe: e nessas reunioes chamar colaboradores antigos
+(19:23:54) efeefe: alguns dos quais se afastaram da gente por conta de uma suposta falta de foco
+(19:23:56) efeefe: imagina
+(19:23:56) efeefe: ;)
+(19:24:05) tatirp: imagina ;)
+(19:24:23) efeefe: tem gente que ajudou a estabelecer as bases, que influenciou a maneira como a gente acabou vendo a necessisdade do site, mas que depois nao conseguiu manter o ritmo
+(19:24:32) tatirp: pra mim, falando serio, nao falta foco, falta ritmo
+(19:24:40) fescur: concordo com a tatirp
+(19:24:44) efeefe: acho que a gente organizando de outra forma, com a fe liderando e eu ajudando, dah pra chamar essa galera
+(19:24:46) efeefe: que seja
+(19:24:49) efeefe: toda semana
+(19:24:51) efeefe: hora da interface
+(19:24:58) fescur: "liderando", tatirp? putz
+(19:25:08) fescur: bem a minha cara, liderar
+(19:25:20) efeefe: relax
+(19:25:26) efeefe: tu jah tah fazendo isso
+(19:25:32) fescur: vcs tem que entender, que na minha condicao...
+(19:25:37) fescur: (to usando essa frase pra tudo)
+(19:25:38) efeefe: oh o papo
+(19:25:39) efeefe: hahah
+(19:25:40) tatirp: fescur: efe quis dizer "fescur fazendo e eu liderando"
+(19:25:52) fescur: ah, claro
+(19:25:55) tatirp: ele sabe fazer isso bem
+(19:25:56) fescur: ditatura disfa?ada
+(19:25:57) fescur: blz
+(19:26:00) efeefe: o de sempre ;)
+(19:26:09) fescur: agora faz sentido
+(19:26:10) tatirp: ;)
+(19:26:14) fescur: estou meio devagar, sao os hormonios
+(19:26:21) fescur: parece que melhora agora  ;-)
+(19:26:22) efeefe: falsarias!
+(19:26:29) tatirp: hahaha
+(19:26:41) efeefe: entao, combinados ateh aqui
+(19:26:45) tatirp: vingativas e peçonhentas, com orgulho!
+(19:26:56) fescur: ;-)
+(19:27:23) efeefe: 1) vamos trampar nas bases (propsota de interface e migracao) e valida-las com a rede
+(19:27:23) efeefe: 2) vamos fazer um encontro presencial para acertar detalhes
+(19:27:23) efeefe: 3) vamos implementar tudo ;)
+(19:27:34) uira [n=uira@201009253018.user.veloxzone.com.br] entrou na sala.
+(19:27:34) wundo: ff me dá 20 minutos
+(19:27:37) wundo: e eu sou todo seu
+(19:27:40) wundo: (ui)
+(19:27:41) tatirp: viu, como efe consegue?
+(19:27:42) uira: vortei
+(19:27:49) fescur: opa, achei que era "20 minutos e ta tudo pronto"
+(19:28:04) tatirp: 3 passos e tah tudo resolvido ;)
+(19:28:12) efeefe: wundo: nao quero isso aih tudo nao
+(19:29:12) efeefe: uira: tu tah escalado pra reunioes toda semana, pra ajudar a fe a terminar a proposta de interface ateh o fim de fevereiro
+(19:29:19) tatirp: e o que a gente vai fazer na cparty?
+(19:29:30) fescur: ahhhh queria tanto ir
+(19:29:34) fescur: so pra ver vcs
+(19:29:39) fescur: e dar umas risadas
+(19:29:56) fescur: olha, acho legal voces se reunirem la,
+(19:29:56) efeefe: tatirp: vamo jogar esses planos de hoje fora e fazer outros
+(19:30:11) fescur: darem uma olhada na arquitetura e na interface, e anotarem ideias que surgirem
+(19:30:22) fescur: para de planejar e vamos adiante ;-)
+(19:30:26) tatirp: fescur: jah disse pro efe que eu nem sei se vou na cp, pq vc nao vai estar e eu vou ser discriminada sozinha ;)
+(19:30:38) tatirp: efeefe: combinado!
+(19:30:58) fescur: tatirp: sinto a sua dor
+(19:31:03) efeefe: tatirp: tah cheio de losers usando windows lah, relaxe
+(19:31:19) fescur: bom isso, a gente ta ajudando e ainda nos chamam de losers
+(19:31:25) tatirp: mas eles nao sofrem...
+(19:31:39) efeefe: tatirp: sofrem de outras coisas ;)
+(19:31:51) efeefe: fescur: acho que estamos combinadxs entao?
+(19:32:02) efeefe: agora preciso esperar os 17 minutos ateh o wundo ser meu
+(19:32:07) fescur: vou colocar la no footer do site mrec: "feito numa plataforma windows"
+(19:32:16) fescur: efeefe: combinados
+(19:32:19) efeefe: hehehe
+(19:32:28) tatirp: boua, fe! adoro provocacoes
+(19:32:36) fescur: ;-)
+(19:32:39) efeefe: nao comecem, falsarias
+(19:32:47) tatirp: tah bom, voltando pra cp
+(19:33:00) wundo: 1hehehehee
+(19:33:05) tatirp: qdo a conversa bacana - olho no olho - sobre a infralogica?
+(19:33:07) fescur: quando o site for um sucesso, estivermos bombando nos tapetes vermelhos da comunidade software livre, largarei a bomba
+(19:33:32) efeefe: fescur: eu deleto tua conta do site, ninguem vai te creditar
+(19:33:40) tatirp: hm... provocacao estrategica, saquei!
+(19:33:47) fescur: hahaha ditador
+(19:33:50) efeefe: tatirp: onversa bacana soh depois que tivermos as coisas prontas
+(19:34:05) tatirp: mas nao podemos falar das estruturas pro wiki, por ex?
+(19:34:25) efeefe: tatirp: isso eh outra conversa
+(19:34:28) fescur: nao, tatirp: falei da arquitetura do site e da interface soh
+(19:34:30) efeefe: "conteudo"
+(19:34:39) efeefe: vamos deixar pra depois
+(19:34:45) fescur: proibo de falarem de outra coisa ate o inicio de marco
+(19:34:46) tatirp: sim, mas por que eles nao podem ser paralelas?
+(19:34:54) efeefe: podem
+(19:35:06) tatirp: eu, por ex, nao to fazendo nada de util pra infralogica nos ultimos meses
+(19:35:52) efeefe: tatirp: entao, vamos marcar papos especificos sobre isso tambem?
+(19:36:02) tatirp: nesse meio tempo que a fe desenvolve a proposta, posso pelo menos olhar pra isso com mais atencao
+(19:36:04) efeefe: mapear o conteudo que existe e sugerir temas pro wiki
+(19:36:16) efeefe: tu e a tatiw fizeram alguma coisa nesse sentido, neh?
+(19:36:36) fescur: to liberada, pessoal?
+(19:36:40) fescur: (preciso comer)
+(19:36:41) tatirp: efeefe: o que a gente fez foi discutir 1 dia no irc
+(19:36:47) efeefe: fescur: vai comer, jah!
+(19:36:48) efeefe: ;)
+(19:37:03) efeefe: tatirp: ok, vamos retomar esse assunto
+(19:37:09) efeefe: eu acho que agora vou ter mais tempo pra isso
+(19:37:09) tatirp: e aih a tatiw alterou sensivelmente a estrutura antiga naquele dia mesmo
+(19:37:18) fescur: beijo entao pessoal! vou lah. qualquer coisa nova mandem na lista
+(19:37:26) efeefe: eu fiz uma vez uma grande reorganizacao de um wiki
+(19:37:32) tatirp: bj, fesxcur!
+(19:37:43) fescur saiu da sala (quit: "Java user signed off").
+(19:37:44) efeefe: comecei mapeando as paginas que existiam, abstraindo temas em comum e fazendolistagens delas
+(19:37:53) efeefe: depois fui editar cada uma, inserindo indices pras estruturas
+(19:37:57) tatirp: e foi bom pra vc, efe?
+(19:37:58) efeefe: pode ser um caminho
+(19:38:01) efeefe: foidivertido
+(19:38:07) efeefe: passei a conhecer todo o wiki
+(19:38:07) efeefe: ;)
+(19:38:17) efeefe: caraca, tah ventando MUITO aqui
+(19:38:29) tatirp: eu sou adepta dessa metodologia virginiana tb
+(19:38:45) efeefe: eu sou estupido... esqueci minha jaqueta impermeavel em sampa
+(19:38:46) tatirp: mas o meu problema eh que tem varios conteudos que eu nao sei com o que se relacionam,
+(19:38:52) tatirp: putz
+(19:38:56) efeefe: tatirp: conta comigo. eu sei tudo ;)
+(19:39:06) tatirp: daih a importancia de ter alguem das antigas junto
+(19:39:22) tatirp: voce eh o maximo!
+(19:39:22) efeefe: tenho barbas brancas na metareciclagem
+(19:39:30) efeefe: maximo eh meu cavalo de pelucia
+(19:39:32) tatirp: hehehe
+(19:39:45) efeefe: tatirp: semana que vem a gente combina isso
+(19:39:46) tatirp: falando serio agora
+(19:40:09) tatirp: quero saber se me aperto no trampo pra estar na cp ou nem vale a pena
+(19:40:21) efeefe: tatirp: apareça na quinta
+(19:40:27) efeefe: mais pro fim da tarde
+(19:40:28) efeefe: ateh a noite
+(19:40:32) tatirp: tinha pensado em tirar folga no dia 29, mas nao sei se ajuda
+(19:40:44) efeefe: 29 acho que vai ser rssaca
+(19:40:54) efeefe: 28 tem micrometragens e gambiologia
+(19:41:01) efeefe: quero conversar contigo depois
+(19:41:05) tatirp: no dia 28 eu jah ia mesmo
+(19:41:09) efeefe: digo, depois de agora
+(19:41:10) efeefe: ;)
+(19:41:15) tatirp: blz
+(19:41:17) efeefe: 28 eh o mais importante
+(19:41:28) efeefe: nao precisa se esforcar demais nao
+(19:41:36) efeefe: ok?
+(19:41:39) efeefe: wundo: cade?
+(19:41:42) tatirp: ok
+(19:42:35) wundo: ainda nao deu 20 min
+(19:42:47) tatirp: wundo tah se fazendo de dificil
+(19:42:53) wundo: to terminando a reuniao
+(19:42:54) wundo: perdao
+(19:43:02) efeefe: eu tenho que sair logologo
+(19:43:11) uira: efeefe: não rola a fescur ir e o premio bancar?
+(19:43:48) efeefe: acho que ateh rola, mas acho que era mais util a gente guardar pra fazer a reuniao presencial depois de fazer o dever de casa
+(19:43:59) efeefe: aproveitar os recursos ao maximo
+(19:44:15) tatirp: tb acho que eh cedo
+(19:45:45) uira: efeefe: entendi
+(19:45:55) uira: vi o papo sobre grana e tal.
+(19:46:12) uira: acho que o mínimo é ter alguém completamente dedicado pra isso, pensando em produto...
+(19:46:25) wundo: cou precisar de mais 10 minutos
+(19:46:26) uira: acho que seria massa a scur
+(19:46:39) efeefe: uira: defina "isso"
+(19:46:58) efeefe: wundo: tenho que sair. podes me ligar depois?
+(19:47:09) efeefe: uira: alguem dedicado aa interface?
+(19:47:12) uira: Interface do Site: AI, wireframes e telas
+(19:47:23) efeefe: sim, concordo
+(19:47:38) efeefe: tambm acho que tem que ser a fe
+(19:47:39) wundo: ligo sim éfe
+(19:47:40) wundo: desculpa
+(19:47:42) uira: por mim, dava metade da grana pra isso e um poquinho pra chuva, pra eles codarem ;)
+(19:47:44) efeefe: wundo: relaxa
+(19:47:58) efeefe: uira: acho que o que vai rolar eh mais ou menos isso
+(19:48:03) uira: doido
+(19:48:08) efeefe: mas a fe tambem nao pode se dedicar soh a isso
+(19:48:19) efeefe: se sair a bolsa dela, ela vai ter menos tempo
+(19:48:20) uira: então, pensando na scur, seria legal ela fazer um orçamento mesmo, pra pegar como um freela comum
+(19:48:28) uira: aí a gente chora um pouco, mas contrata o trampo
+(19:48:37) efeefe: orçamento sempre vai ser 3x mais do que a gente precisa ;)
+(19:48:38) uira: e ela vai ter ajuda dos consultores voluntários ;)
+(19:48:39) efeefe: mesmo com o choro
+(19:49:06) efeefe: mas pode deixar que eu vou conversar com ela e chegar em termos satisfatorios pra todo mundo
+(19:49:11) uira: eu não sei se consigo fechar agenda de reuniões, mas me disponibilizo a fazer longas conversas por skype ou tim infinity
+(19:49:18) tatirp: nao eh mais facil falarmos dos valores reais
+(19:49:21) tatirp: ?
+(19:49:28) tatirp: efeefe: ah, isso!
+(19:49:33) uira: legal, é só a pegada mermo.
+(19:49:33) efeefe: acho que isso vareia
+(19:49:49) uira: valores reais mudam do ceará pro RS
+(19:50:06) uira: e de desaineu pra desaineu
+(19:50:33) tatirp: sim, mas se a gente nao sabe qto vai gastar, nao sabe qto falta ou sobra
+(19:50:47) tatirp: ateh pra correr atras de mais grana...
+(19:50:57) wundo saiu da sala (quit: ).
+(19:50:58) efeefe: tatirp: pode correr atras de mais grana, sempre ;)
+(19:51:18) tatirp: efeefe: eu sou a pior pessoa pra vc pedir isso ;)
+(19:51:36) efeefe: hahah
+(19:51:54) tatirp: mas o que eu to falando eh de ver se eh caso pra edital, patrocinio, vaquinha, voluntariado...
+(19:52:18) tatirp: eu realmente nao tenho ideia do quao mais precisamos
+(19:53:08) efeefe: tatirp: acho que nessa primeira fase a gente tah tranquilo
+(19:53:42) uira: efeefióte
+(19:53:56) efeefe: fala, uira
+(19:53:58) uira: eu acho que podia rolar uns orçamentos
+(19:54:03) uira: pra ter essa base
+(19:54:17) uira: tentei fazer isso aqui, pra fazer os projetos da Teia
+(19:54:24) uira: mas a empresa me deu o bolo
+(19:54:39) uira: o lance era ter um orçamento pra calcular uma base, de quanto custa isso 'no mercado'
+(19:54:49) efeefe: pode ateh ser
+(19:55:10) efeefe: mas como a gente tah lidando com um lance que eh 90% coraçao, me pergunto se vale a pena
+(19:55:26) uira: com essa base, a gente chora, faz volutário, paga do bolso e se vira...
+(19:55:27) efeefe: por exemplo, eu fechei com a maira um lance pro mutirao que eu nem comento
+(19:55:32) efeefe: semi-escravidao
+(19:55:36) efeefe: e ela que sugeriu
+(19:55:39) uira: hehe
+(19:55:46) uira: pois é, mas ela deve estar podendo
+(19:55:52) efeefe: entao, acho que nao devemos nos referenciar ao jeito de sempre de fazer as coisas
+(19:56:01) efeefe: ah nada
+(19:56:18) efeefe: eh coracao
+(19:56:34) efeefe: aih se comecar a se basear em valor de mercdo, a gente entra numa logica que nao eh a nossa
+(19:56:38) efeefe: de merecimento e valor
+(19:56:53) uira: eu digo isso, pq já passei aperreio de grana. e a melhor coisa é trampar com o coração e poder pagar o aluguel sem problemas
+(19:56:55) tatirp: mas efe, a gente pode criar outro tipo de "economia"
+(19:56:59) efeefe: se eu for cobrar em valor de mercado o que jah fiz pra metareciclagem em 7 anos, acabou o dinheiro do premio
+(19:57:08) uira: hehehe
+(19:57:11) uira: isso
+(19:57:14) efeefe: uira: concordo, mas aih vai da negociacao pessoal
+(19:57:18) uira: isso
+(19:57:20) uira: é isso
+(19:57:23) tatirp: que a base de calculo nao precisa ser essa - relacao horas trabalhadas x quantidade de trampo, essas coisas
+(19:57:27) uira: a base do mercado é pra pedir dinheiro
+(19:57:28) efeefe: acho que nao precisamos entrar na logica de orcamento pra isso
+(19:57:34) uira: pra pagar, pro bróda, é outra conversa...
+(19:57:43) uira: sim, concordo
+(19:57:51) efeefe: o que eu quero eh falar com cada pessoa que vai trampar, pessoalmente, e acertar o lance
+(19:57:55) efeefe: como fiz com a maira
+(19:57:56) uira: mas, tipo, por mim tinha que ser uma troca
+(19:58:10) efeefe: se a gente entrar na logica do mercado, nao vai valer
+(19:58:13) uira: tranquilizar a situação de grana da scur e ela tranquilizar a situação da interface ;)
+(19:58:14) efeefe: que tipo de troca?
+(19:58:21) efeefe: sim
+(19:58:23) tatirp: isso, uira, tb acho que a base do mercado serve pra saber qto pedir de dinheiro
+(19:58:27) efeefe: mas relaxe que eu vou conversar com ela
+(19:58:36) uira: beleza
+(19:58:45) efeefe: deixa comigo
+(19:58:47) uira: relaxado eu sempre fui.... :P
+(19:58:58) uira: hehehe
+(19:59:04) tatirp: vamo nessa?
+(19:59:13) efeefe: eh nada, tu ficou nervoso uma epoca
+(19:59:17) efeefe: mas sim tatirp, vamo lah
+(19:59:25) efeefe: to com meu irmao aqui, vou dar um pouco de atencao pra ele
+(20:00:00) tatirp: blz, depois a gente continua a conversar (sobre o que eu jah nem sei mais)...
+(20:00:01) tatirp: ;)
+(20:00:45) efeefe: beleza
+(20:00:48) efeefe: uira, nao some
+(20:00:55) efeefe: vem pra ubatuba depois da cparty?
+(20:01:06) efeefe: to saindo
+(20:01:09) efeefe: abrz

@@ -1,0 +1,659 @@
+Conversation with #metareciclagem at Ter 09 Fev 2010 21:12:57 BRST on efeefe@irc.freenode.org (irc)
+(21:16:26) efeefe: vamos comecar
+(21:16:30) tatirp: eu tô jantando eqto conversamos
+(21:16:31) efeefe: fe, leva?
+(21:16:36) VJ_VARGA: j? se passaram 15 minutos
+(21:16:38) fescur: eu vou mandar uma tela pra lista agora
+(21:16:39) fescur: abram la
+(21:16:59) VJ_VARGA: pera?
+(21:17:09) efeefe: mande
+(21:17:18) fescur: foi
+(21:17:20) fescur: seguinte
+(21:17:41) fescur: eh a mesma tela que eu ja tinha mandado, mas dei mais umas trabalhadas no visual, uma refinada
+(21:17:48) fescur: mas serve pra discutir algumas coisas
+(21:18:00) fescur: alem, claro, de pitacos de visual
+(21:18:04) efeefe: legal
+(21:18:07) tatirp: aqui ainda nao chegou
+(21:18:20) fescur: eu queria discutir o miolo, o conteudo
+(21:18:33) fescur: essa eh a pagina que seria o dashboard do usuario
+(21:18:41) fescur: eu estou tendo dificuldade em preencher ela
+(21:18:42) efeefe: eu ainda tenho em mente aquela ideia que te falei fe, de convocar alguns aliados antigos pra brainstormar sobre a proposta de interface
+(21:18:44) fescur: esta tudo muito igual
+(21:18:50) efeefe: ok
+(21:19:02) fescur: eu acho essa ideia otima, efeefe
+(21:19:04) efeefe: chegou aqui
+(21:19:10) fescur: porque nao adianta a gente definir um visual
+(21:19:21) fescur: o pessoal do desenvolvimento nao vai saber o que programar
+(21:19:38) tatirp: fe, nao vi essa nova ainda
+(21:19:40) efeefe: vai sim ;)
+(21:19:42) fescur: detalhes: os icones sao temporarios....tem que criar uns proprios...
+(21:19:43) VJ_VARGA: eu achei muito cara de orkut
+(21:19:50) fescur: hahaha, varga
+(21:19:53) fescur: putz
+(21:20:07) efeefe: acho que tem um lance que a gente quer, que eh a coisa da rede
+(21:20:09) efeefe: isso nao me incomoda
+(21:20:10) tatirp: mas se a base eh a anterior, pra mim a ideia eh ter estrutura de rede com cara de site
+(21:20:24) efeefe: acho que precisamos de icones melhores sim, mas isso pra mim eh detalhe
+(21:20:29) VJ_VARGA: mas ficou legal
+(21:20:32) VJ_VARGA: t? bem intuitiva
+(21:20:34) fescur: isso efeefe, detalhe
+(21:20:49) fescur: quero dizer que vamos usar icones com isso, dai tenho (temos) que criar uns proprios
+(21:21:01) fescur: isso tb compoem o visu
+(21:21:26) fescur: o footer, gostaria de fazer com bastante informacao tb, mas isso podemos ver depois
+(21:21:30) fescur: estou preocupada com a area de conteudo
+(21:21:50) tatirp: pq fe?
+(21:21:58) fescur: voces acham que ta legal daquele jeito?
+(21:22:04) tatirp: (aqui ainda nao chegou)
+(21:22:08) fescur: eu nao consigo diferenciar uma caixa da outra
+(21:22:19) fescur: nao sei se esse e o tipo de conteudo que tem que estar ali
+(21:22:26) efeefe: eu acho que tem que ser mais generico
+(21:22:28) fescur: (putz, ta lento mesmo hein)
+(21:22:41) VJ_VARGA: A textura que vc usou no cabe?alho e no rodap? eu acho q ficaria melhor como background
+(21:22:51) VJ_VARGA: curti aquele verde
+(21:22:52) efeefe: nao necessariamente todo o conteudo de tal esporo ou tag, mas o conteudo "nos esporos que voce participa" ou algo assim
+(21:23:13) fescur: o tal verde inclusive a gente pode trocar de cor toda hora, n?o precisa ser esse verde...
+(21:23:13) efeefe: VJ_VARGA: eu gostei da texturs soh nas bordas
+(21:23:15) VJ_VARGA: o fundo do conteudo t? sem cor
+(21:23:22) fescur: a textura, ? de steampunk
+(21:23:26) efeefe: yaso tah chegando
+(21:23:28) fescur: eu prefiro assim varga
+(21:23:39) fescur: sen?o fica muito poluido, porque o foco deve ser no conteudo
+(21:23:40) efeefe: fescur: +1
+(21:23:44) fescur: vai ter muita informa??o
+(21:24:04) tatirp: fe, pode mandar pro tatianarprado@yahoo.com.br
+(21:24:07) fescur: efeefe, sobre as caixas, ?, tb acho
+(21:24:10) tatirp: por favor?
+(21:24:39) tatirp: ops, chegou
+(21:24:48) VJ_VARGA: ? que viagei aqui no conteudo como uma camada flutuante
+(21:24:52) fescur: agora mandei j? tati
+(21:25:10) fescur: vj_varga, acho que isso ainda nao vai ter
+(21:25:35) VJ_VARGA: mas a camada na? vai ser flutuante
+(21:25:46) VJ_VARGA: ? s? efeito na imagem
+(21:25:48) VJ_VARGA: css
+(21:26:02) fescur: efeefe, na caixinha por exemplo "atividades recentes no esporo tal", minha id?ia ? que seja justamente um esporo que o cara acompanhe
+(21:26:24) efeefe: fescur: eu saquei, mas aih se o cara participar de muitos esporos, acho que pode ficar meio caotico
+(21:26:26) tatirp: para, mas a gente vai discutir visu ou nao?
+(21:26:38) tatirp: ops, pera (e nao para)
+(21:26:38) VJ_VARGA: vou fazer a imagem aqui p/ mostrar como t? imaginando
+(21:26:52) efeefe: pensei em mesclar num soh box o conteudo novo de todos os grupos que o cara participa
+(21:26:58) VJ_VARGA: t? confuso p/ mim
+(21:27:05) efeefe: ou pelo menos um box pra conteudo de todos esporos e um pra conteudo de todas as conectazes
+(21:27:08) VJ_VARGA: v?rios assuntos ao mesmo tempo
+(21:27:12) efeefe: o que tah confuso, VJ_VARGA
+(21:27:19) efeefe: VJ_VARGA: para de usar acentos
+(21:27:20) tatirp: mas o "usuario" nao personaliza sua pagina?
+(21:27:34) VJ_VARGA: a tati t? falando do q?
+(21:27:58) VJ_VARGA: entendi
+(21:28:07) tatirp: varga, to falando da "quantidade" de conteudo
+(21:28:12) efeefe: tatirp: personaliza no que a gente deixar ;)
+(21:28:23) VJ_VARGA: e oq a gente vai deixar?
+(21:28:33) fescur: efeefe, pensei que o usuario podia escolher que esporos ele quer ter no dashboard
+(21:28:36) fescur: nao seriam todos
+(21:28:44) tatirp: na boa, eu nao curto esse foco soh nas atividades recentes, comentarios e afins
+(21:28:46) fescur: para isso, ele entra na tab esporos
+(21:28:50) fescur: dai ele ve tudo
+(21:28:51) Yaso [~bd7b1599@gateway/web/freenode/x-kdoqswpkeimsmzek] entrou na sala.
+(21:28:52) tatirp: ;)
+(21:28:52) fescur: SE ele quiser
+(21:29:08) efeefe: tatirp: essa pagina eh soh o dashboard
+(21:29:09) VJ_VARGA: entendi
+(21:29:21) efeefe: que eh justamente pra dar acesso direto as coisas que a galera mais acessa, teoricamente
+(21:29:28) Yaso: Mals o atraso, to num pc com windows :(
+(21:29:28) efeefe: conteudo filtrado pelo perfilde usuario
+(21:29:31) efeefe: oi Taso!
+(21:29:34) efeefe: Yaso!
+(21:29:34) efeefe: hfshdfh
+(21:29:49) fescur: rsrsrs
+(21:29:50) Yaso: "Taso"
+(21:29:54) fescur: oi yaso
+(21:29:56) Yaso: oh meu deuso
+(21:29:56) VJ_VARGA: seria tipo vc adicionar as comunidades no orkut
+(21:30:02) VJ_VARGA: s? q c/ esperos
+(21:30:32) fescur: hum, mais ou menos, vj_varga
+(21:30:40) efeefe: tatirp: nessa pagina, que eh uma pagina "pessoal", a gente pode listar quais sao os grupos em que a pessoa tah cadastrada, qual eh o conteudo recente nesses grupos, quais sao os ultimos posts com tags que batem com as tags pessoais, etc.
+(21:30:49) tatirp: oi, yaso!
+(21:31:12) fescur: Yaso: da uma olhada na tela que eu mandei, do dashboard do usuario la na lista, eh isso que estamos discutindo
+(21:31:13) efeefe: a gente pode inclusive usar um recurso de favoritos: eu posso selecionar paginas "favoritas" e elas aparecem em outro box ali
+(21:31:20) tatirp: efeefe: eu entedi, mas eu nao arrumaria a "minha pagina" assim ;)
+(21:31:22) Yaso: oioi a todxs!
+(21:31:26) Yaso: eu to vendo ela aqui
+(21:31:31) efeefe: tatirp: como arrumarias tua pagina?
+(21:32:08) fescur: boa pergunta, efeefe
+(21:32:27) tatirp: com uma mescla entre os conteudos que eu curto e o movimento da rede/das pessoas
+(21:32:35) efeefe: todo o movimento da rede?
+(21:32:43) efeefe: legal
+(21:32:49) fescur: como seria isso?
+(21:32:51) efeefe: a gente pode usar a logica de widgets
+(21:33:02) efeefe: tatirp: mas em boxes separados te incomoda?
+(21:33:31) efeefe: porque na real tudo que a gente tah falando aqui eh que existe um grande fluxo de conversacoes de tipos variados, e estamos criando filtros pra acessar essa info
+(21:33:33) tatirp: efeefe: o que me incomoda talvez seja o mesmo que a fe disse no inicio - nao haver diferenciancao entre as coisas
+(21:33:47) efeefe: se a gente pensar que eu posso configurar meu painel, e selecionar quais boxes quero ter
+(21:34:20) efeefe: dah pra ter essa coisa: eu escolho ver tudo que entra, ou conteudo filtrado por tags de meu interesse, ou conteudo dos grupos que eu participo
+(21:34:27) efeefe: ou conteudo de pessoas que estao nos grupos que eu particip
+(21:34:30) efeefe: ixe, vai longe
+(21:34:38) Yaso: então, eu to vendo muitos menus iguais aqui... Se der uma secada sobra espaço pra muita coisa...
+(21:34:50) fescur: yaso: nao sao menus iguais
+(21:35:00) Yaso: era isso q eu ia perguntar
+(21:35:03) fescur: vc viu a AI?
+(21:35:06) Yaso: Se o conteudo eh diferente
+(21:35:16) fescur: as sub-tabs sao referentes ao conteudo do usuario em questao
+(21:35:22) efeefe: Yaso: a principio, cad um dos boxes eh um tipo de filtragem diferente de conteiudo
+(21:35:22) Yaso: Vi sim :)
+(21:35:26) fescur: os esporos que ele participa, as tags que ele curte, etc
+(21:35:29) tatirp: faz de conta, eu poderia considerar esses quatro boxes estruturais e deixar um pra tags, outro pra imagens/videos/novidades do agreagdor, outro pros comentarios das pessoas (dos grupos que eu nao participo) e os outros doi pras coisas que eu acesso mais
+(21:35:33) fescur: o menu principal, eh do site geral
+(21:35:56) efeefe: fescur: o menu da esquerda?
+(21:36:03) fescur: efeefe, sim
+(21:36:03) efeefe: ou o de cima?
+(21:36:11) fescur: o de cima ? do site geral
+(21:36:17) fescur: o da esquerda, ? do usuario
+(21:36:26) fescur: quando for um esporo, vai ser um menu do esporto
+(21:36:31) fescur: e assim por diante
+(21:36:39) efeefe: tipo aquele que fica na direita nos esporos hoje?
+(21:36:50) fescur: deixe-me ver
+(21:37:22) fescur: efeefe: nao to vendo nenhum menu
+(21:37:27) wundo [~fabiano@drupal.org/user/25523/view] entrou na sala.
+(21:37:46) tatirp: efeefe: eh aquele - enviar post de blog, pagina de wiki, etc?
+(21:37:53) efeefe: esse
+(21:38:06) efeefe: http://rede.metareciclagem.org/conectaz/Infra-Logica
+(21:38:12) efeefe: primeiro menu da direita
+(21:38:22) efeefe: pensei que a gente podia ter tambem um painelzinho que acompanhasse a navegacao pelo site e possibilitasse cruzamentos
+(21:38:40) efeefe: tipo adicionar a favoritos, etc.
+(21:38:41) efeefe: oi wundo
+(21:38:47) wundo: salve salve
+(21:38:55) tatirp: oi, wundo
+(21:39:11) efeefe: wundo: tamo falando sobre a tela que a fe mandou na lista infralogica
+(21:39:48) fescur: efeefe: aquele painelzinho amarelinho teria essa funcao
+(21:40:18) efeefe: ele fia ali enquanto navega pelo site?
+(21:40:38) fescur: bom, ali tem um especifico para a pagina de dashboard
+(21:40:47) fescur: mas imagino que nas outras paginas possa ter tb, com outros links
+(21:40:53) efeefe: entendi
+(21:40:58) fescur: acoes a serem feitas naquela pagina especifica
+(21:41:09) fescur: como adicionar aos favoritos, adicionar ao meu dashboard, etc
+(21:42:04) efeefe: ok
+(21:42:06) wundo: fescur: eu achei a imagem linda
+(21:42:10) efeefe: menu de contexto
+(21:42:14) fescur: yaso: sobre os menus iguais ainda, imagina que sou eu vendo o meu perfil, portanto o meu dashboard
+(21:42:17) wundo: só nao gostei tanto mto dos links
+(21:42:45) fescur: mas quando eu estiver vendo outro perfil ou outra pagina, la em cima meu login continua, com alguns links rapidos que eu escolhi, mas a pagina embaixo seria outra
+(21:42:54) fescur: por isso ta tao repetitivo nessa pagina
+(21:43:03) Yaso: Hum. Eu saquei que os menus são de conteudo diferente, mas as ações tão redundantes. Tipos o editar do quadradinho amarelinho mesmo, por exemplo, facilmetnte sera confundido com o editar dos boxes abaixo
+(21:43:09) efeefe: fescur: eu acho que a gente podia desenhar uns quatro widgets diferentes pra essa pagina
+(21:43:11) fescur: wundo: valeu!
+(21:43:26) tatirp: concordo com a yaso
+(21:43:29) Yaso: talvez seja so um problema de rotulos
+(21:43:34) fescur: yaso: na verdade esse conteudo ta meio ficticio ainda
+(21:43:39) efeefe: pois eh
+(21:43:43) fescur: isso mesmo, nao ta tudo pensado, saca?
+(21:43:47) Yaso: porque tem por exemplo, a palavra conectazes em 3 lugares diferentes
+(21:43:49) efeefe: vamo fazer um exercicio aqui pra definir os boxes dessa tela?
+(21:44:10) efeefe: to procurando o terceiro ;)
+(21:44:23) VJ_VARGA: desculpa gente
+(21:44:26) Yaso: laaaaaaaaaaaa no pé
+(21:44:27) VJ_VARGA: tive q sair
+(21:44:32) VJ_VARGA: meu pai me chamou aqui
+(21:44:32) wundo: alias, salve Yaso
+(21:44:35) efeefe: arra!
+(21:44:36) fescur: efeefe: eu devia ter feito uma tela, tipo, eu vendo o perfil de outra pessoa...
+(21:44:38) Yaso: Opa opa
+(21:44:44) efeefe: fescur: pode ser
+(21:44:57) fescur: yaso: t? mas la no pe ? de praxe, navegacao
+(21:45:03) VJ_VARGA: depois eu pego oq perdi no log
+(21:45:04) efeefe: fescur: acentosss
+(21:45:16) fescur: uma pagina longa, rodei ate la embaixo, nao preciso subir pra entrar em conectazes
+(21:45:23) fescur: efeefe: sorry
+(21:45:44) efeefe: mas achei interessante a logica de la em cima ser o link pra listagem geral de conectazes, e da esquerda ser pra aquelas em que eu estou cadastrado
+(21:45:49) efeefe: me pergunto se tem como isso ficar mais claro
+(21:46:04) wundo: fescur:  o que acontece quando eu clico em editar nos paineis?
+(21:46:06) efeefe: o menu superior ser o geral do site e o da esquerda o do usuario
+(21:46:14) VJ_VARGA: e no rodap? vai ser geral ou cadastradas?
+(21:46:14) fescur: wundo: sei l?
+(21:46:19) fescur: ops, desculpa o acento
+(21:46:21) VJ_VARGA: rodape
+(21:46:21) Yaso: duvida cruel.
+(21:46:24) tatirp: efeefe: concordo com a logica de cima e esquerda.
+(21:46:36) VJ_VARGA: tb
+(21:46:40) fescur: vj_varga: rodape e navegacao principal
+(21:46:47) VJ_VARGA: s? colocar um minhas no da esquerda
+(21:46:50) tatirp: efeefe: respondo que sim, tem que ficar mais claro (apesar de vc ter perguntado pra vc mesmo)
+(21:46:56) efeefe: todomundo: o que a gente quer definir um pouco mais hoje eh justamente o conteudo especifico dessa pagina
+(21:47:00) fescur: wundo: na verdade, o editar esta ali porque falamos de widgets, lembra?
+(21:47:05) efeefe: eu me pregunto pra mim mermo sempre
+(21:47:16) tatirp: ;)
+(21:47:17) efeefe: entao deixa eu propor aqiu
+(21:47:18) wundo: fescur: ahh okidoki
+(21:47:21) efeefe: puedo?
+(21:47:29) Yaso: mas e pq nao ficar tudo do usuario no mesmo lugar? Tipos: ele ta no amarelinho, mas ele tem outro menu só dele
+(21:47:46) Yaso: ops
+(21:47:47) Yaso: pode
+(21:47:48) efeefe: Yaso: eh, eu acho que o amarelinho nao tinha que ser do usuario
+(21:48:08) fescur: yaso, efeefe: amarelinho eh do usuario
+(21:48:24) wundo: OMG a Globo tá falando de blogs
+(21:48:25) fescur: eu falei antes, ta em esporo, ele tem links ali para agir naquela pagina
+(21:48:31) wundo: (sim, eu to vendo a novela)
+(21:48:37) wundo: he he he
+(21:48:56) efeefe: fescur: entao, eh do usuario, mas sao acoes relacionadas a pagina atual, neh
+(21:49:07) efeefe: wundo: se eu fosse op te expulsava da sala agora. globo??
+(21:49:07) Yaso: e o editar perfil la de cima?
+(21:49:09) tatirp: [wundo, vc eh normal ;)]
+(21:49:09) fescur: efeefe: isso
+(21:49:38) wundo: efeefe: pega globo e rede tv em casa
+(21:49:39) efeefe: lah em cima tambem nao sei se precisa
+(21:49:41) fescur: yaso:
+(21:49:43) VJ_VARGA: so dava um autokick
+(21:49:46) efeefe: wundo: vende a tv que isso resolve
+(21:49:47) efeefe: ;)
+(21:49:49) wundo: as vezes cultura
+(21:49:51) wundo: hauhauhauhauaa
+(21:49:52) fescur: la em cima eh a area do usuario logado
+(21:50:03) fescur: nao precisam ser aqueles links, o cara vai escolher que links rapidos ele quer ali
+(21:50:09) efeefe: ahn
+(21:50:13) fescur: mas aquele retangulo ficaria sempre, quando o cara ta logado
+(21:50:14) tatirp: efeefe: calma, vc jah estah confiante demais antes da hora
+(21:50:24) fescur: TODOS OS LINKS ALI EU INVENTEI
+(21:50:29) fescur: so os dos menus que nao
+(21:50:42) efeefe: hehe
+(21:50:44) efeefe: entao
+(21:50:49) fescur: certo? imaginem que eh a minha pagina, e eu que configurei ela desse jeito redundante, pronto
+(21:50:57) efeefe: vamos definir por enquanto o seguinte
+(21:51:04) tatirp: ok, fe. viva a liberdade!
+(21:51:11) efeefe: o menu superior na direita eh geral do site. leva pras listagens de conteudo
+(21:51:31) efeefe: o menu da esquerda eh contexto de usuario. leva pras coisas do proprio usuario.
+(21:51:31) fescur: meus hormonios estao a mil, desculpe o surto, hehehe
+(21:51:52) efeefe: o menu amarelinho eh de contexto, oferece acoes pro usuario na pagina atual
+(21:51:56) efeefe: oks?
+(21:52:17) efeefe: o menu pequeninho ali em cima, vamos ignorar por enquanto?
+(21:52:18) tatirp: efeefe: ok, cima - direita e esquerda
+(21:52:26) fescur: efeefe: menu da esquerda eh referente a pagina em questao. se for do usuario, coisas do usuario. se for esporo, esporo
+(21:52:33) fescur: o amarelinho, eh isso mesmo
+(21:52:45) VJ_VARGA: qual ? amerlinho
+(21:52:51) VJ_VARGA: n?o to vendo nenhum amarelo
+(21:52:54) efeefe: ueh
+(21:52:59) fescur: o menu pequeninho e o login, se quiser eu tiro os links que botei ali
+(21:52:59) efeefe: tah num monitor pb?
+(21:53:00) efeefe: ;)
+(21:53:09) tatirp: varga... ?
+(21:53:19) efeefe: fescur: acho que pode deixar ali soh login e logout entao
+(21:53:25) efeefe: mas talvez mais claro ainda
+(21:53:50) VJ_VARGA: o amrelinho e oq tem o coracao??
+(21:53:52) efeefe: agora, eu quero definir meia duzia de boxes pra ter nessa pagina de dashboard, e que usuarix pode escolher quais quer ver. ok?
+(21:53:56) efeefe: VJ_VARGA: isso
+(21:53:58) fescur: efeefe: mas imagina se tu gosta muito de ver as tuas contribuicoes...porque nao colocar um link ali?
+(21:54:08) fescur: vj_varga: eh
+(21:54:23) fescur: por isso que tem um link que se chama "outro link customizado"
+(21:54:23) tatirp: fescur: pra evitar o narcisismo
+(21:54:25) VJ_VARGA: qual e o da direita?
+(21:54:27) efeefe: fescur: sei lah, acho que tu pode entrar no teu perfil e clicar em contribuicoes
+(21:54:35) VJ_VARGA: oq tem a busca?
+(21:54:36) efeefe: mas enfim, deixamos pra depois
+(21:54:40) fescur: humpf, tah bom
+(21:54:42) efeefe: qual direita, VJ_VARGA?
+(21:54:57) efeefe: bora pros boxes?
+(21:55:04) fescur: ok
+(21:55:04) VJ_VARGA: vc tava falando do menu da direita
+(21:55:09) VJ_VARGA: oq teria
+(21:55:16) ***Yaso continua em duvida sobre se tem "minhas contribuições" no meu porque precisa de novo no "13 contribuições"
+(21:55:26) VJ_VARGA: tava tendo visualizar na imagem da fe
+(21:55:28) ***Yaso e lá em cima de novo
+(21:55:34) efeefe: rebobinando: a logica dessa pagina eh ser um painel de entrada do usuario. como my.yahoo, como o google personalized homepage, como o...
+(21:55:35) efeefe: como chama?
+(21:55:37) efeefe: netvibs
+(21:55:39) fescur: yaso: seriam links customizados....
+(21:55:50) Yaso: os de cima. Os de baixo tb?
+(21:55:57) fescur: nao, os debaixo nao
+(21:56:05) VJ_VARGA: os da esquerda
+(21:56:09) fescur: os debaixo seriam pra mostrar aqueles numeros mesmo
+(21:56:23) efeefe: os de baixo sao tipo contagem de contribuicoes no site?
+(21:56:24) Yaso: e pq nao colocar os numeros na lateral?
+(21:56:28) fescur: o cara tem 5 posts, 6 tags, fez tantas contribuicoes, blablabla
+(21:56:30) efeefe: lah vou eu pros tres digitos em cada um ;)
+(21:56:34) fescur: yaso: boa ideia
+(21:56:43) fescur: vou anotar aqui
+(21:56:49) efeefe: meio inbox
+(21:56:53) VJ_VARGA: vai ter hanking de quem faz mais contribucao?
+(21:57:06) efeefe: VJ_VARGA: nao sei se precisamos disso
+(21:57:11) efeefe: soh por motivos estatisticos, acho
+(21:57:13) VJ_VARGA: tb acho q nao
+(21:57:16) VJ_VARGA: por isso perguntei
+(21:57:16) efeefe: mas entao
+(21:57:25) efeefe: ainda na logica do dashboard
+(21:57:29) fescur: entao vou adicionar uma sub tab "blog" pra aparecer o numero de posts tb
+(21:57:32) efeefe: o site vai engolir feed de tudo que eh canto
+(21:57:34) wundo: VJ_VARGA:  se precisar a gente faz uma query no banco
+(21:57:38) tatirp: nao acho que eh o caso de ranking de contribuicoes por pessoa, mas acho legal visualizarmos o movimento das conectazes
+(21:57:45) VJ_VARGA: acho n?o precisa
+(21:58:27) VJ_VARGA: perguntei pq a fe falou de numerar a quantidade de cotribui??es
+(21:58:33) VJ_VARGA: contribuicoes
+(21:58:43) efeefe: entao, vai ter nao soh o que eh contribuicao direto pro site (paginas de wiki, blogs) mas tambem tudo que vem de fora: flickr, twitter, identi.ca, youtube, etc
+(21:58:43) VJ_VARGA: desculpa os acentos, e automatico
+(21:58:53) fescur: vj_varga: assim eu sei o que eu andei fazendo
+(21:58:57) efeefe: (que o wundo nao leia agora, mas tudo isso vai ser cruzado com perfil de usuarixs)
+(21:59:02) efeefe: aih o seguinte
+(21:59:08) VJ_VARGA: desculpa, f?
+(21:59:21) efeefe: os boxes da dashboard sao filtros em cima de toda essa massa de conteudo que vai entrar
+(21:59:40) VJ_VARGA: gente tenho q ir
+(21:59:47) fescur: vj_varga: desculpa porque?
+(21:59:48) VJ_VARGA: ja sao 10
+(22:00:01) efeefe: minhas sugestoes de boxes:
+(22:00:02) fescur: efeefe: isso...
+(22:00:04) wundo: HU?!
+(22:00:05) efeefe: 1) "conteudo novo nos grupos em que eu estou cadastrado"
+(22:00:05) VJ_VARGA: <fescur> vj_varga: assim eu sei o que eu andei fazendo
+(22:00:33) VJ_VARGA: eu li o assim como sim
+(22:00:33) efeefe: 2) "conteudo novo usando tags que eu escolhi acompanhar no meu perfil"
+(22:00:47) fescur: vj_varga hahaha
+(22:00:50) wundo: efeefe:  voce quis dizer agregar o conteudo de todos esses servicos?
+(22:00:55) efeefe: 3) "conteudo novo de pessoas que fazem parte de grupos que eu tambem participo"
+(22:01:05) efeefe: wundo: depois a gente chega nisso, o papo hoje eh interface ;)
+(22:01:20) efeefe: mas soh esclarecendo: agregar a gente jah agrega
+(22:01:27) efeefe: eu quero eh associar a perfis de usuarix
+(22:01:34) VJ_VARGA: gente
+(22:01:45) VJ_VARGA: tenho q ir
+(22:01:49) efeefe: ok
+(22:01:54) tatirp: falou varga!
+(22:01:54) efeefe: depois eu mando o log
+(22:01:56) VJ_VARGA: depois eu leio o log
+(22:01:57) fescur: tchau varga!
+(22:01:57) VJ_VARGA: falow
+(22:02:06) VJ_VARGA saiu da sala (quit: ).
+(22:02:11) efeefe: 4) "todo o conteudo novo adicionado diretamente no site"
+(22:02:20) efeefe: 5) todo o conteudo que eu listei como favorito
+(22:02:27) efeefe: 6) todo o conteudo que eu mandei pro site
+(22:02:33) efeefe: e por ai vai
+(22:02:47) efeefe: na real tudo isso eh filtro em cima do que entra de conteudo no site
+(22:03:01) efeefe: e o usuario escolhe quais quer ver no dashboard dele
+(22:03:26) fescur: efeefe: blz. acha que temos que diferenciar visualmente os boxes?
+(22:03:36) fescur: hoje, naquele layout, estao todas iguais
+(22:03:54) tatirp: efeefe: blz, mas tem algum momento que ele eh "obrigado" a ver algo que nao escolheu e nao esteja relacionado apenas a ele?
+(22:04:17) efeefe: tatirp: em todas as outras paginas do site
+(22:04:18) tatirp: tipo: focos indivíduo-coletivo
+(22:04:20) efeefe: nao na dashboard
+(22:04:34) tatirp: ops, foi mal o acento
+(22:04:39) fescur: efeefe: mas eu gostaria de ver as atividades de um esporto que me interessa, por exemplo
+(22:05:05) fescur: imagina que eu quero seguir o bailux
+(22:05:12) efeefe: ok, visualizar o conteudo de um grupo especifico
+(22:05:31) fescur: porque nao posso ter lah no meu dashboard uma lista das atividades ocorrendo naquele esporto em particular
+(22:05:43) fescur: isso, a liberdade eh total
+(22:06:00) fescur: sei la, e se eu quiser ver o mapa de conectazes no meu dashboard?
+(22:06:02) fescur: eu poderia?
+(22:06:14) efeefe: tambem
+(22:06:15) efeefe: mais um
+(22:06:26) fescur: eu imagino que a diferenciacao desses boxes se daria nisso, no conteudo
+(22:06:27) efeefe: acho que a gente pode desenhar cada uma dessas 8, 9 
+(22:06:31) efeefe: ser plugavel
+(22:06:33) tatirp: entao vamos inverter a pergunta: o que eu nao veria aih?
+(22:06:37) fescur: um tem mapa, outro e uma lista, outro tem foto
+(22:07:06) efeefe: tatirp: acho que nao dah pra ver listagens de teaser de conteudo
+(22:07:19) efeefe: como isso http://rede.metareciclagem.org/blog
+(22:07:53) tatirp: efeefe: saquei
+(22:08:22) efeefe: e acho que eh justamente aih que o cara sai do seu jardim controlado e se perde no site
+(22:08:44) efeefe: na real acho que a nocao exata de quais widgets a gente vai querer soh vai comecar depois 
+(22:08:46) fescur: efeefe: mas imagino que as outras paginas seguirao essa logica tambem, nao?
+(22:08:57) fescur: so que com widgets especificos, nao customizaveis?
+(22:09:06) efeefe: eu posso por exemplo listar todos os emails que mandei pra lista, pra escolher alguns que quero taguear
+(22:09:08) fescur: efeefe: eu tambem acho
+(22:09:12) tatirp: efeefe: esse se perder eh que eu acho legal (pelo menos manter um pouco da premissa)
+(22:09:27) efeefe: tatirp: dah pra se perder tambem
+(22:09:31) fescur: tatirp: pode ter certeza que isso nao vai deixar de acontecer
+(22:09:38) efeefe: (lembrem da conversa com o Orlando em arraial ;))
+(22:09:41) efeefe: muitas portas de entrada pro site
+(22:09:44) fescur: hahahaha
+(22:10:00) efeefe: a dashboard eh soh o lugar onde tem atalhos pra colecao de dentes guardados de cada 1
+(22:10:00) tatirp: hm...
+(22:10:02) fescur: lembrei que a gente ta discutindo so um pedacinho ainda, o dashboard
+(22:10:05) efeefe: mas ainda fica a possibilidade de se perder
+(22:10:07) efeefe: fescur: isso
+(22:10:10) efeefe: tem muito mais pra definir
+(22:10:21) tatirp: eu digo "se perder", mas nao o bastante pra que a pessoa desista de procurar
+(22:10:23) fescur: MUITO MAIS
+(22:10:24) Yaso: eh tudo cadastrar atividades de "entidades" - pessoas, grupos, blogs, etc
+(22:10:29) Yaso: ??
+(22:10:49) fescur: entao, tatirp, pra isso tb que vamos trabalhar nessas questoes de usabilidade, mas sem engessar o conteudo
+(22:11:02) fescur: yaso, nao entendi bem
+(22:11:34) fescur: ou, se entendi, acho que eh por ai sim
+(22:11:42) efeefe: Yaso: acho que eu nao chamaria de "cadastrar", mas de "conversacionar"
+(22:11:47) Yaso: entao, se levar em consideracao q tem atividades/entidades
+(22:11:49) efeefe: ou alguma outra palavra inexistente que seja estranha
+(22:12:34) tatirp: palavra inexistente vai soar estranha por um tempo
+(22:12:39) efeefe: tipo, o lance nao eh soh cadastrar o esporo de metareciclagem no arraial d'ajuda, mas de alguma forma usar a pagina desse esporo pra convergir tudo que o pessoal de lah fala sobre metareciclagem: no blog deles, no twitter, no flickr, na lista
+(22:12:45) Yaso: entidades podem ser "bosts" (blogs, sites, feeds, pessoas)?? isso e moh vasto mundo \O/
+(22:12:45) tatirp: depois, qdo a galera se acostuma eh porque virou um conceito
+(22:13:26) Yaso: ainao tem nada q a pessoa nao possa fazer, no sentido de acompanhar... Se diferenciar por cores vai  virar moh arco-iris infinito
+(22:13:27) efeefe: Yaso: porque a gente tem unidades de articulacao, e tah tentando fazer o site girar em torno disso
+(22:13:41) efeefe: grupos (esporos e conectazes), perfil de usuarixs, tags
+(22:13:56) Yaso: entendi, achei mo legal
+(22:14:11) fescur: yaso: falei la em cima que o conteudo de cada box eh que seria o diferencial, e nao alguma caracteristica visual, tipo cor
+(22:14:33) fescur: tipo, um mapa numa, lista noutra, foto, etc, dependendo da caracteristica de cada conteudo
+(22:14:59) Yaso: e tem limite de widget na tela?
+(22:15:06) efeefe: Yaso: boa pergunta
+(22:15:07) efeefe: nao sei
+(22:15:10) fescur: fescur: nao sei
+(22:15:12) efeefe: eu acho que nao tem que ter limite
+(22:15:13) fescur: putz
+(22:15:15) fescur: falei comigo mesma
+(22:15:23) efeefe: fescur: tah falando sozinha!
+(22:15:28) fescur: to com fome!
+(22:15:28) Yaso: se a gente usar um grid fluido dá pra ajustar de acordo com um numero de colunas
+(22:15:56) fescur: yaso: podemos usar um grid fluido sim, eu gosto
+(22:15:57) Yaso: ou deixar o cara a vontade ate o limite da fonte
+(22:16:28) wundo: putz, grid fluido é dor de cabeça
+(22:16:32) fescur: hahaha
+(22:16:34) wundo: mas blz, blz
+(22:16:35) fescur: eu tava esperando isso
+(22:16:49) wundo: é meu lado desenvolvedor/gerente de projetos sofrendo
+(22:16:50) efeefe: shhh
+(22:16:54) efeefe: ninguem perguntou
+(22:16:55) efeefe: ;)
+(22:16:59) Yaso: wundo: eu sei, eu sei...
+(22:16:59) fescur: pra mim tanto faz.
+(22:16:59) wundo: pira ai na interface que depois a gente implementa
+(22:17:04) Yaso: http://www.designinfluences.com/fluid960gs/
+(22:17:10) efeefe: superego soh mais tarde
+(22:17:11) wundo: só vai levar maaais tempo
+(22:17:20) efeefe: mais ainda?
+(22:17:21) efeefe: ;)
+(22:17:24) wundo: superego naaaada
+(22:17:30) wundo: efeefe: AFE!
+(22:17:32) wundo: ahuahuahuaa
+(22:17:42) Yaso: e se a gente usar um pronto, tipo esse ae?
+(22:17:50) Yaso: -yaso nao separa layout de interface
+(22:18:15) Yaso: porque ai influencia, o n. de colunas, tamanhos dos icones nos widgets, larala, essa coisa toda.
+(22:18:38) Yaso: mas neh. aqui tb deu fome
+(22:18:47) wundo: Yaso:  http://drupal.org/project/ninesixty
+(22:19:30) wundo: a base mais comum nos projetos que eu boto a mao é o zen
+(22:19:46) fescur: efeefe: proximos passos?
+(22:19:48) wundo: mas acho que o novesessenta deve ser deboa
+(22:19:51) efeefe: wundo: acho que foi esse tema que a gente usou no mutirao
+(22:19:52) Yaso: wundo: <>
+(22:19:56) fescur: (a janta tah ficando pronta)
+(22:19:56) tatirp: yaso - curto a nao fronteira entre layout e interface
+(22:20:07) wundo: Yaso:  <> ?
+(22:20:07) fescur: wundo: esse nao eh o grid do meta hoje?
+(22:20:10) efeefe: proximos passos, acho que pegar as sugestoes de hoje
+(22:20:36) wundo: fescur: tenho que dar uma olhada
+(22:20:42) efeefe: wundo: nem, viajei
+(22:21:04) efeefe: tah ficando grego pra mim
+(22:21:05) efeefe: entao
+(22:21:39) wundo: Yaso:  o que ser <>?
+(22:22:10) efeefe: proximos passos: dar uma repassada nesses detalhes de links e menus, etc. desenhar alguns widgets. mandar isso na lista e esquecer o dashboard por um tempo, passar pras proximas telas pra ver se as bases se sustentam.
+(22:22:19) efeefe: algo assim?
+(22:22:38) fescur: ok, mas o que vem a ser uma repassada nesses detalhes de links e menus?
+(22:22:43) tatirp: proximos passos: pegar as sugestoes de hoje, rever e ver onde elas se encaixam nas outras estruturas?
+(22:23:22) Yaso: wundo: sao as maozinhas unidas pelos dedos, com a palma virada pra fora: eh yaso humilde
+(22:23:41) fescur: manda esse log pra lista, que eu sigo as sugestoes que fizemos
+(22:23:56) fescur: faco alguns widgets desses
+(22:24:06) fescur: depois passamos para outras telas pra ver se fecha.
+(22:24:13) efeefe: fescur: repassar eh eu e tu dedicarmos um par de horas pra chegar mais nos detalhes
+(22:24:17) fescur: layout liquido ou fixo?
+(22:24:23) fescur: efeefe: ok
+(22:24:25) ***wundo virando a cabeça pra ver as maozinhas
+(22:24:32) Yaso: lol
+(22:24:41) fescur: efeefe, marcamos outra reuniao eu e tu entao?
+(22:24:46) tatirp: fescur: gelatinoso
+(22:24:51) wundo: maozinha unidas pelo dedo virada pra fora nao é simbolo pra "to de mal"?
+(22:24:58) fescur: tatirp: uiiiiii
+(22:25:10) efeefe: fescur: isso
+(22:25:17) fescur: quando?
+(22:25:17) Yaso: wundo: nao nao. eh tipo quando fica um coracao de cabeça pra baixo
+(22:25:22) wundo: ahhh tá
+(22:25:26) fescur: amanha?
+(22:25:29) efeefe: fescur: amanha a tarde?
+(22:25:30) wundo: tipo um s2?
+(22:25:34) tatirp: fescur: plasmatico, melhora?
+(22:25:41) fescur: efeefe: que hora?
+(22:25:52) efeefe: decida que eu topo
+(22:25:57) fescur: tatirp: pergunta pro wundo a essa altura
+(22:26:03) fescur: entao la pelas duas, tu pode?
+(22:26:12) fescur: ou pode ser pela manha tb
+(22:26:13) Yaso: wundo: nanana, porque soh as pontas dos dedos q se unem.
+(22:26:49) tatirp: wundo tem que fazer aulas de danca...
+(22:26:56) wundo: mas dá pra fazer um <3 só unindo os dedos
+(22:27:01) efeefe: pode ser pelas duas
+(22:27:02) wundo: depois eu mando o orkut da minha prima pra vcs
+(22:27:03) Yaso: essa questao do fluido ou nao eh decisiva pro n. de widgets q pode adicionar
+(22:27:09) wundo: ela é cheia de fotos com esse coracaozinho
+(22:27:11) Yaso: hahahaha
+(22:27:16) ***wundo não dança nada
+(22:27:23) Yaso: mas esse <> nasceu de um quadro do hermes e renato
+(22:27:25) efeefe: wundo: Yaso: nao consegui visualizar maozinha nenhuma :P
+(22:27:34) efeefe: sou ruim nisso
+(22:27:47) wundo: efeefe:  o que voce ve nesse aqui?
+(22:27:47) fescur: efeefe: duas entao
+(22:27:48) wundo: orz
+(22:27:48) tatirp: efeefe vai com o wundo pras aulas de danca e no camarim resolve o site...
+(22:27:51) fescur: marcado
+(22:27:53) Yaso: os "pedreiros da puta q pariu" - quando o pedreiro diz "quem sou eu" ele faz o coracaozinho virado de cabeca pra baixo
+(22:28:02) Yaso: lol
+(22:28:25) fescur: yaso: mais dicas no layout/interface serao bem-vindas
+(22:28:25) efeefe: ;D
+(22:28:34) tatirp: tres pro camarim e o site vai ficar protno em dois palitos ;)
+(22:28:41) fescur: se tiver outras observacoes, manda pro meu email
+(22:28:41) wundo: orz foi o emoction que eu levei mais tempo pra entender
+(22:28:43) efeefe: o camarim tem ar condicionado?
+(22:28:46) Yaso: fescur: e comofas? eu escrevo montes e te mando
+(22:28:48) Yaso: iss
+(22:28:50) efeefe: tah foda aqui
+(22:28:53) efeefe: que eh orz?
+(22:28:53) wundo: arcondicionado faz bem aqui tb
+(22:29:00) efeefe: Yaso: manda na lista ;)
+(22:29:08) Yaso: isso: o que eu orz
+(22:29:11) fescur: pode mandar pra lista entao
+(22:29:16) tatirp: efeefe: tuh tah muito exigente, quer chuva e ar condicionado
+(22:29:23) wundo: orz é um carinha de quatro
+(22:29:23) Yaso: mando sim - ateh amanha de manha, certo?
+(22:29:25) wundo: de depressão
+(22:29:27) efeefe: efeefe: eu peco muito
+(22:29:31) efeefe: wundo: poutz
+(22:29:33) wundo: é tipo o contrario de lol
+(22:29:44) fescur: yaso: isso, seria bom
+(22:29:53) wundo: http://en.wikipedia.org/wiki/Emoticon#Orz
+(22:29:59) efeefe: lol nao eh laughing out loud?
+(22:30:16) efeefe: falei, sou pessimo de visualizar coisas
+(22:30:24) efeefe: sou mais literal que visual :P
+(22:30:31) tatirp: efeefe: concentra!
+(22:30:33) wundo: lol é
+(22:30:37) tatirp: ;)
+(22:30:41) wundo: e orz é putz tá foda vou chorar
+(22:30:55) efeefe: confesso que demorei ateh pra entender <o/
+(22:31:09) efeefe: saque
+(22:31:09) fescur: putz, eu nunca tentei descobrir o que eh isso
+(22:31:10) efeefe: i
+(22:31:12) fescur: explica agora
+(22:31:22) efeefe: arrah, nao sou soh eu
+(22:31:34) efeefe: olha ali
+(22:31:38) wundo: <o/ é voce com um braco na cabeça
+(22:31:41) wundo: e o outro levantado
+(22:31:48) tatirp: a gente concentra e mentaliza. se não entender, inventa
+(22:31:48) Yaso: tipo continencia
+(22:31:50) efeefe: fescur: um bagual abanando, como diriam por aih
+(22:31:51) fescur: uau!!!!!!!!!!!
+(22:32:06) fescur: vejo o mundo com outros olhos agora
+(22:32:14) efeefe: \o/
+(22:32:17) wundo: \o/ YAY!
+(22:32:24) fescur: geeeente
+(22:32:26) efeefe: tem tambem o lml
+(22:32:28) efeefe: hah
+(22:32:30) wundo: \o\ |o| /o/
+(22:32:37) tatirp: :P
+(22:32:38) efeefe: wundo: fazendo alongamento?
+(22:32:39) wundo: lml eu nao conheco
+(22:32:39) Yaso: \O\|O|/O/
+(22:32:47) wundo: efeefe: tava fazenod um ola
+(22:32:50) fescur: to tonta
+(22:32:50) efeefe: hehe
+(22:32:54) efeefe: bom, chega
+(22:32:55) efeefe: comer
+(22:32:57) wundo: Yaso: tu é cabeçuda hein? hehehehe
+(22:33:00) efeefe: vou mandar o log daqui a pouco
+(22:33:00) wundo: (ou tem braço curto)
+(22:33:03) tatirp: wundo na aula de axeh
+(22:33:07) Yaso: lol
+(22:33:08) efeefe: hahaha!!!!
+(22:33:08) fescur: hahahaha
+(22:33:22) Yaso: mais uma vez <>
+(22:33:35) efeefe: Yaso: putz, esse eu ainda nao entendi
+(22:33:36) fescur: bom, galerinha, o papo ta bom...mas vou comer
+(22:33:40) Yaso: e pra terminar de dispersar o link do quadro dos pedreiros
+(22:33:40) Yaso: http://www.youtube.com/watch?v=Z6mCUetxXZA&feature=related
+(22:33:41) efeefe: ficou pra proxima ;)
+(22:33:43) efeefe: hahah
+(22:33:44) efeefe: vou ver
+(22:33:49) efeefe: galera, valeu pela presenca
+(22:33:50) Yaso: pronto. yaso estragou final da reuniao.
+(22:33:51) efeefe: bora continuar
+(22:33:59) fescur: bora
+(22:34:01) efeefe: o lance agora eh a gente fazer pelo menos uma reuniao dessas por semana
+(22:34:01) fescur: bjs a todos
+(22:34:05) tatirp: bora
+(22:34:07) Yaso: sim
+(22:34:13) efeefe: pra chegar no comeco de marco com uma proposta mais detalhada
+(22:34:27) fescur: tah, mas na semana de carnavas eu to fora...
+(22:34:37) tatirp: ateh a proxima semana - depois do carnaval vamos ter varios emoticons novos!
+(22:34:39) fescur: tipo, podemos deixar marcado pro dia 23/02
+(22:34:40) efeefe: ah, eh
+(22:34:46) efeefe: semana de carnaval nao conta
+(22:34:48) fescur: (a terca depois)
+(22:34:58) efeefe: ok
+(22:35:08) efeefe: eu falei hoje com o schepop
+(22:35:11) tatirp: sim, depois mesmo
+(22:35:18) fescur: galera!!! a massa ta pronta, tenho que ir
+(22:35:20) efeefe: nao sei se ces sabem quem eh
+(22:35:28) tatirp: quem eh?
+(22:35:33) fescur: putz, quem eh?
+(22:35:35) efeefe: pedi pra ele tambem dar ideias pro site
+(22:35:40) fescur: (fe querendo sair e nao consegue)
+(22:35:49) efeefe: eh o designer de interface que tava com a gente no comeco
+(22:35:56) tatirp: (tchau fer)
+(22:35:56) efeefe: nunca fez nosso site mas desenhou o logo do meta ;)
+(22:36:08) fescur: legal
+(22:36:14) efeefe: foi o cara que tatuou no braco o logo do memelab, a empresa que ele ia montar
+(22:36:19) efeefe: que depois virou uso design
+(22:36:22) efeefe: mineiro tambem
+(22:36:23) efeefe: amigao
+(22:36:26) fescur: mostra a tela pra ele e pede umas observacoes...
+(22:36:29) efeefe: sim, vou
+(22:36:40) efeefe: mas quero escrever pra contextualizar toda a reflexao do site e tal
+(22:36:53) fescur: tah, agora fui...manda na lista o log
+(22:36:54) efeefe: (nao sou visual, bla bla)\
+(22:36:56) efeefe: mando sim
+(22:37:06) efeefe: beijos a todxs
+(22:37:07) fescur: bjs
+(22:37:09) wundo: efeefe: nunca ouvi falar dele
+(22:37:21) efeefe: wundo: bernardo van de schepop
+(22:37:23) fescur saiu da sala (quit: Quit: Java user signed off).
+(22:37:37) efeefe: foi fazer mestrado na holanda
+(22:38:02) efeefe: ultimo trampo dele foi estagio na lego, na dinamarca
+(22:38:16) tatirp: divertido...
+(22:38:30) Yaso: o dani me disse q ele era fodao - certa vez
+(22:39:01) efeefe: eh sim
+(22:39:05) efeefe: enfim
+(22:39:16) efeefe: to convocando tambem essa galera das antigas pra dar um feedback
+(22:39:29) efeefe: bom, isso ai pessoal
+(22:39:31) efeefe: valeu mesmo
+(22:39:41) efeefe: to felizao aqui de ter comecado a trampar ;)
+(22:39:43) tatirp: bjs a todxs, neh?
+(22:39:49) tatirp: feliz2
+(22:39:57) Yaso: \(^_^)/
+(22:40:10) tatirp: da-lhe yaso!
+(22:41:25) efeefe: fui
+(22:41:36) wundo: bjos pros ceis

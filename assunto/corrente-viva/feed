@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - corrente viva</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/263/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>CorrenteViva</title>
+ <link>http://rede.metareciclagem.org/wiki/CorrenteViva</link>
+ <description>&lt;p&gt;O que aconteceu na parceria metareciclagem / correnteviva foi o desenvolvimento do site da corrente viva por Daniel P&amp;aacute;dua, e a OficinaColaboracaoCorrenteViva, realizada no dia 20 de outubro de 2004 no esporo Olido. Nesta oficina, Felipe Fonseca e Elly Chagas aplicaram alguns conceitos de MetacolaboracaoLowTech com a participa&amp;ccedil;&amp;atilde;o de 27 membros de ONGs de S&amp;atilde;o Paulo.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/CorrenteViva&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/CorrenteViva#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/corrente-viva">corrente viva</category>
+ <category domain="http://rede.metareciclagem.org/assunto/s-o-paulo">são paulo</category>
+ <category domain="http://rede.metareciclagem.org/assunto/sp">sp</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Corrente-Viva" xmlns="http://drupal.org/project/og">Corrente Viva</group>
+ <pubDate>Tue, 17 Jun 2008 18:57:04 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1283 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Corrente Viva</title>
+ <link>http://rede.metareciclagem.org/conectaz/Corrente-Viva</link>
+ <description>&lt;div class=&quot;form-item&quot;&gt;
+ &lt;label&gt;Descrição: &lt;/label&gt;
+ Ações de MetaReciclagem junto à Corrente Viva
+&lt;/div&gt;
+&lt;p&gt;A Corrente Viva pode ser vista como uma incubadora de ONGs. Para&amp;nbsp; entender realmente, &amp;eacute; bom visitar a p&amp;aacute;gina da corrente: &lt;a href=&quot;http://www.corrente.org.br/&quot; title=&quot;http://www.corrente.org.br/&quot; rel=&quot;nofollow&quot;&gt;http://www.corrente.org.br/&lt;/a&gt;&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-situacao-conectaz&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Situação desta ConecTAZ:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    encerrada        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/conectaz/Corrente-Viva#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/corrente-viva">corrente viva</category>
+ <category domain="http://rede.metareciclagem.org/assunto/s-o-paulo">são paulo</category>
+ <category domain="http://rede.metareciclagem.org/assunto/sp">sp</category>
+ <pubDate>Tue, 17 Jun 2008 18:55:44 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1282 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

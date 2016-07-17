@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - mutsaz; encontrão 2; mídia livre</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/818/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Olhando pra trás</title>
+ <link>http://rede.metareciclagem.org/blog/10-01-10/Olhando-pra-tr%C3%A1s</link>
+ <description>&lt;p&gt;
+
+
+&lt;style type=&quot;text/css&quot;&gt;
+	&lt;/style&gt;  
+
+&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/10-01-10/Olhando-pra-tr%C3%A1s&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/10-01-10/Olhando-pra-tr%C3%A1s#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/mutsaz-encontr%C3%A3o-2-m%C3%ADdia-livre">mutsaz; encontrão 2; mídia livre</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/MetaRecursos" xmlns="http://drupal.org/project/og">MetaRecursos</group>
+ <pubDate>Sun, 10 Jan 2010 03:00:58 +0000</pubDate>
+ <dc:creator>tatirprado</dc:creator>
+ <guid isPermaLink="false">1835 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

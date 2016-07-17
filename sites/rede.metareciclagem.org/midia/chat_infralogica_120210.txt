@@ -1,0 +1,404 @@
+Conversation with #metareciclagem at Sex 12 Fev 2010 17:42:11 BRST on efeefe@irc.freenode.org (irc)
+(17:45:44) fescur: entao, te mandei uma telas, vamos dar uma olhada nelas.
+(17:46:10) efeefe: bora
+(17:46:25) efeefe: comecar pela painel e depois perfil?
+(17:46:49) fescur: isso
+(17:46:51) efeefe: gostei do cabecalho
+(17:47:01) efeefe: tah mais amarrado
+(17:47:02) fescur: acho que ficou melhor, n?
+(17:47:30) efeefe: si
+(17:47:38) fescur: deixei os links que a gente comentou na parte de login, e como ? painel, fica "ativado".
+(17:48:10) fescur: eu mudei os icones tb porque aqueles que eu tava usando estavam muito grandes e coloridos. acho que um estilo discreto fica melhor.
+(17:48:16) fescur saiu da sala (quit: Quit: Java user signed off).
+(17:49:38) fescur [~fescur@187.36.35.248] entrou na sala.
+(17:49:55) fescur: voltei
+(17:50:28) fescur: entao...
+(17:50:51) fescur: certo, por aqui entao
+(17:50:58) fescur: continuando
+(17:51:17) efeefe: bora
+(17:51:25) efeefe: voltando nas conversas da lista
+(17:51:34) fescur: hum
+(17:51:38) fescur: fale
+(17:53:03) efeefe: to pensando que nao eh necessario o numero de coisas na coluna da esquerda
+(17:53:24) fescur: ahhhh porque? (triste)
+(17:53:34) fescur: eu gosto desses numerozinhos...
+(17:53:35) efeefe: pensa assim
+(17:53:41) efeefe: eu estou no meu painel
+(17:53:56) efeefe: saber que eu mesmo mandei 82 posts no blog eh uma informacao que nao faz nenhuma diferenca pra mim
+(17:54:05) efeefe: ou que eu participo de 32 grupos
+(17:54:16) fescur: hum, e saber dos outros tb nao?
+(17:54:18) efeefe: aih a gente pode pensar que talvez esse numero possa significar outra coisa
+(17:54:28) efeefe: saber dos outros eh outra coisa, mas agora a gente tah no painel, neh?
+(17:54:30) efeefe: mas entao
+(17:54:33) fescur: certo...entendi.
+(17:54:53) efeefe: talvez, e isso a gente tem que ver se eh viavel, possa ateh existir os numeros, mas como contagem de inbox, manja?
+(17:54:56) fescur: ?...mas eu gosto de manter uma certa coerencia entre as paginas...ou bota numero em todas, ou nao bota
+(17:55:11) efeefe: saber que das minhas contribuicoes, tem 15 comentarios novos que eu ainda nao vi
+(17:55:13) fescur: bom, vou retirar entao.
+(17:55:20) efeefe: ou que nos meus grupos tem 32 posts novos que eu ainda nao li
+(17:55:25) efeefe: aih talvez faca sentido
+(17:55:35) efeefe: acho que no perfil essas coisas podem aparecer dentro da area de conteudo
+(17:55:43) fescur: olha ali na coluna da direita
+(17:55:50) efeefe: felipe, mandou 470 tweets, 12354 mensagens na lsita
+(17:55:58) efeefe: perai, vou soh mudar de lugar aqui mas pode ser que o wi-fi caia
+(17:56:01) efeefe: 1 minutos
+(17:57:00) efeefe: ainda to online?
+(17:57:01) efeefe: ;)
+(17:57:35) fescur: sim
+(17:57:56) fescur: "felipe mandou 470 tweets" esse era o proposito daquela linha que tinha na parte da info b?sica da pessoa (que eu tinha repetido no painel)
+(17:58:05) fescur: "tantos posts, tantos emails, etc"
+(17:58:10) fescur: certo?
+(17:58:15) efeefe: sim
+(17:58:20) efeefe: isso pode ir na area de conteudo
+(17:58:29) efeefe: nao precisa ficar na esquerda
+(17:58:43) efeefe: aih eu to pensando que talvez o menu da esquerda nao seja tao contextual
+(17:58:43) fescur: ta. ent?o vou "re-adicionar" ali, mas temos que definir o que vai aparecer
+(17:58:59) efeefe: que achas?
+(17:59:02) fescur: no sentido que tu n?o precisa dele?
+(17:59:07) efeefe: o menu da esquerda ser a extensao do painel
+(17:59:12) efeefe: nao, nao
+(17:59:24) efeefe: o menu da esquerda ser navegavao pelas areas em que o usuario tem contato
+(17:59:30) fescur: o menu da esquerda n?o ? uma extens?o do painel, mas do perfil eu acho
+(17:59:34) efeefe: gmail, labels
+(17:59:38) fescur: todos os usuarios tem
+(17:59:57) efeefe: como assim?
+(18:00:22) fescur: a minha id?ia ? que todas as paginas teriam um menu na esquerdea
+(18:00:26) fescur: perfis, grupos
+(18:00:44) fescur: ? a subnavega??o
+(18:01:05) fescur: acho que nao to entendendo o que tu quis dizer
+(18:02:08) efeefe: tambem nao to conseguindo explicar direito
+(18:02:13) efeefe: mas basicamente
+(18:02:25) efeefe: acho que existem duas maneiras diferentes de navegar no site
+(18:02:27) efeefe: uma eh quase anonima
+(18:02:30) efeefe: eh ver o que tem e tal
+(18:02:41) efeefe: a outra eh ver o que eu jah relacionei que eh do meu interesse
+(18:03:03) efeefe: pra essa segunda, acho que podia ser bem util ter ali do lado um menu que sempre desse acesso direto as minhas coisas
+(18:03:18) fescur: perai....
+(18:03:26) fescur: mas isso ? o papel do teu login ali em cima, saca?
+(18:03:29) efeefe: e aih acho que o menu de acoes de grupo poderia existir soh na home de grupo, em outro lugar
+(18:03:36) efeefe: entendo
+(18:03:49) efeefe: mas aih pra eu ir pras minhas conectazes preciso de dois cliques
+(18:03:55) fescur: o conteudo, ? do conteudo..o menu da esquerda, pertence aquele miolo ali.
+(18:04:02) fescur: no caso do painel, sao as tuas coisas.
+(18:04:07) fescur: mas olha a pagina de perfil
+(18:04:13) fescur: de um outro usuario
+(18:04:18) fescur: ali e a fernanda olhando o perfil do efe
+(18:04:27) fescur: aquele menu ali, sao das coisas do efe
+(18:04:48) fescur: eu quero dar uma olhada nos esporos que ele participa, eu quero ver as paginas de wiki que ele editou, etc
+(18:04:52) fescur: aquilo e um grupo
+(18:05:04) fescur: e essa coerencia deve ser mantida
+(18:05:14) fescur: as pessoas quando entram num site
+(18:05:23) fescur: sempre tem que aprender alguma coisa sobre a navegacao dele,
+(18:05:25) efeefe: perai
+(18:05:31) fescur: por mais simples que seja...
+(18:05:42) fescur: fale
+(18:05:53) efeefe: mas olhando o perfil de alguem tu nao tah vendo as paginas de wiki que ele editou ali na area de conteudo mesmo?
+(18:06:15) fescur: no perfil dele, eu vou ver as ultimas atualizacoes dele
+(18:06:23) fescur: mas nao tem como colocar TODAS as informacoes
+(18:06:25) efeefe: eu to concordando com teu raciocinio sobre a coerencia
+(18:06:28) fescur: porque isso e crescente
+(18:06:34) fescur: dai, os submenus
+(18:06:39) fescur: a mesma coisa vale para o painel
+(18:06:53) efeefe: mas to achando que pra manter a coerencia, esse menu da esquerda deveria sempre dar acesso as minhas coisas
+(18:07:00) fescur: tem que pensar no volume de informacao, que cresce
+(18:07:02) efeefe: como o menu da esquerda do gmail
+(18:07:05) fescur: nao
+(18:07:12) fescur: pelo menos nao era essa minha ideia
+(18:07:21) fescur: aquilo esta grudado no conteudo que eu estou vendo
+(18:07:26) fescur: se e esporo,
+(18:07:35) fescur: os submenus referem-se ao esporo
+(18:07:49) fescur: a minha entrada para as minhas coisas fica no login
+(18:07:54) fescur: la em cima
+(18:08:07) efeefe: soh
+(18:08:15) efeefe: isso eh uma escolha de prioridade, neh?
+(18:08:21) efeefe: nao sei o que eh melhor
+(18:08:40) fescur: eu acho que e uma escolha de usabilidade
+(18:08:49) fescur: entra no lastfm, facebook, ate o orkut
+(18:08:50) efeefe: eu vendo o perfil de alguem, nao sei se preciso de 5 paginas pra ver o que a pessoa mandou
+(18:08:53) efeefe: mesmo que seja um monte de conteudo
+(18:09:13) fescur: buscamos uma participacao maior das pessoas no site, nao?
+(18:09:23) efeefe: sim, claro
+(18:09:23) fescur: estou pensando no futuro
+(18:09:38) fescur: vai por mim, vai ser problematico ter uma pagina so
+(18:10:02) fescur: as 5 paginas nao sao para "ver o que a pessoa mandou"
+(18:10:15) fescur: sao para ver a contribuicao dela ao longo da historia dela cadastrada no site
+(18:10:21) fescur: na entrada do perfil dela,
+(18:10:34) fescur: sim, vemos as atualizacoes recentes (isso tem que ser melhor planejado, o que mais vai ali)
+(18:10:39) fescur: mas as sub-tabs
+(18:10:53) fescur: sao nao somente mais informacao sobre a historia dela nos grupos, no wiki, no blog
+(18:11:06) fescur: como tambem OUTRAS MANEIRAS de navegar pelo site
+(18:11:40) fescur: entrando na pagina de conectazes daquela pessoa, onde eu verei infos sobre aquelas conectazes, vou sair dali e organicamente navegando por outras partes do site
+(18:11:47) fescur: saca qual eh a minha ideia?
+(18:11:55) efeefe: to sacando
+(18:12:04) fescur: e isso a gente faz de uma maneira muito simples, que eh um padrao na verdade
+(18:12:08) efeefe: mas tambem sei que a maioria das pessoas vai participar de 1 esporo e 3 conectazes
+(18:12:16) fescur: como falei, o facebook usa, o lastfm usa, tantos outros.
+(18:12:17) efeefe: e aih a gente tah abrindo uma pagina pra cada uma dessas coisas...
+(18:12:30) fescur: primeiro que isso nao e trabalho
+(18:12:44) fescur: tipo, sao paginas repetidas, sabe?
+(18:12:57) fescur: depois, to pensando no futuro, como falei
+(18:13:05) fescur: a ideia e aumentar a participacao
+(18:13:06) fescur: ah
+(18:13:16) fescur: a gente pode mudar esse menu, se tu preferir
+(18:13:28) fescur: pode colocar outros itens
+(18:13:30) fescur: nao sei
+(18:13:42) efeefe: deixa eu ver melhor a pagina de perfil
+(18:13:51) fescur: os menus onde nao tem conteudo, nao aparecem no perfil daquela pessoa
+(18:13:56) fescur: ela teria menos tabs
+(18:14:11) fescur: ( o conteudo ta ruim, nao mexi nisso)
+(18:14:39) efeefe: hm
+(18:16:06) fescur: sei la, eu acho que assim e mais coerente... manter o submenu referente ao conteudo que o usuario esta vendo.
+(18:16:16) fescur: para as minhas coisas, eu clico na minha foto, no meu painel, etc
+(18:16:20) efeefe: mas tu entende qual foi a alternativa que eu sugeri?
+(18:16:39) fescur: que ali no submenu a gente coloque coisas referentes a mim, ? isso?
+(18:16:44) fescur: sempre as minhas tabs
+(18:16:51) efeefe: por que o arquivo eh 100211?
+(18:16:53) efeefe: pulou um ano?
+(18:16:54) fescur: foi o que eu entendi
+(18:16:54) efeefe: ;)
+(18:17:05) efeefe: sim, isso que eu sugeri
+(18:17:08) fescur: nao, eu boto a data ao contrario
+(18:17:15) fescur: ano, mes, dia
+(18:17:16) efeefe: ah, saquei ;)
+(18:17:20) efeefe: entao
+(18:17:32) efeefe: acho que eu to mais pra gmail e tu ta mais pra lastfm ;)
+(18:17:42) fescur: hum, eu nao gostaria de fazer assim...
+(18:18:10) fescur: acho que um menu do usuario ali ficaria desconectado quando eu to olhando um post no blog por exemplo
+(18:18:16) fescur: e eu acho que nao precisa
+(18:18:25) fescur: com um clique, eu volto pras minhas coisas
+(18:18:39) fescur: e blog, wiki, conectaz...precisam de um submenu
+(18:18:50) fescur: so quero manter a coerencia
+(18:18:58) efeefe: ok
+(18:19:00) fescur: mas, tu que manda...minha opiniao eh essa
+(18:19:35) efeefe: vou precisar (depois do carnaval) visualizar como isso vai desenrolar nos outros templates
+(18:19:44) efeefe: mas bele, por enquanto to contigo
+(18:19:49) efeefe: voltando entao
+(18:19:50) fescur: isso seria uma coisa natural
+(18:19:51) efeefe: painel
+(18:19:58) fescur: hum
+(18:20:13) efeefe: tudo ali sao areas configuraveis, neh?
+(18:20:16) efeefe: digo, dentro
+(18:20:19) fescur: sim, sim
+(18:20:25) efeefe: tu nao acha legal as duas primeiras colunas serem iguais?
+(18:20:31) efeefe: e achei a terceira muito estreita
+(18:20:32) fescur: nada fixo, cada usuario teria as suas
+(18:20:42) fescur: sim, tb achei...:-P
+(18:21:02) fescur: vou dar uma re-layoutada nisso
+(18:21:18) fescur: mas o principal aqui e que a minha ideia foi dar uma diferenciada em alguns box
+(18:21:21) fescur: boxes
+(18:21:35) fescur: tipo, caixas especificas (de uma tag, de um esporo, etc)
+(18:21:51) fescur: quis deixar mais emevidencia, imaginei que porque sao as favoritas do usuario
+(18:22:00) efeefe: sim, gostei da solucao com o degrade
+(18:22:20) fescur: dai tem uns boxes mais gerais - atividades de pessoas nos meus grupos, atividades gerais dos grupos, tudo que subiu no site
+(18:23:15) fescur: agora ta tudo muito igual, mas eh porque repeti conteudo
+(18:23:25) fescur: mas com conteudo diferente, dai e outra coisa
+(18:23:30) efeefe: sim, isso eu entendo
+(18:23:41) efeefe: nao sei se vai rolar videos direto no site, isso a gente vai ter que ver a estrutura do server
+(18:23:47) efeefe: mas de qq forma funciona como proposta
+(18:23:55) fescur: bom, inventei pra nao ficar todo o tempo com iconezinhos
+(18:23:58) efeefe: soh queria ver isso de equilibrar e alinhas os blocos
+(18:24:05) efeefe: e gostei do icone de wiki ;)
+(18:24:09) efeefe: nao entendi o outro ali
+(18:24:15) efeefe: ah, tweet?
+(18:24:19) fescur: eh...
+(18:24:30) efeefe: ok
+(18:24:45) fescur: bom, se for fixo o layout, a gente tem que definir essas colunas
+(18:24:50) fescur: elas nao vao poder variar
+(18:24:57) fescur: (a tati que nao vai gostar, ela queria curvas...)
+(18:25:01) efeefe: entao: cabecalho gostei, menu da esquerda acabei concordando, e area de conteudo do painel soh faco essa observacao, de alinhar e tal
+(18:25:23) fescur: teremos tres colunas com largura igual,
+(18:25:24) efeefe: ah, tu determinou as colunas ali com linhas curvas no fim
+(18:25:25) efeefe: ;)
+(18:25:32) efeefe: acho que podem ser duas maiores e uma menor
+(18:25:40) fescur: ah, eu achei que ela tava querendo uma coisa meio salvador dali
+(18:25:41) efeefe: se tiver espaco pra isso
+(18:25:43) fescur: ta
+(18:25:56) efeefe: e rodape tu disse que ainda vai mexer, neh?
+(18:26:00) fescur: vou dar uma diminuida nas outras duas e deixa-las da mesma largura
+(18:26:08) efeefe: acho que podia tambem por logos de purnima, chuva, weblab, etc.
+(18:26:13) fescur: si, ta horrivel aquilo, so larguei ali o conteudo (nao tratei aqueles logos)
+(18:26:23) fescur: mas os logos sao aqueles, ne?
+(18:26:34) efeefe: aqueles sao os do minc :P
+(18:26:41) efeefe: acho que podia por tambem mais alguns
+(18:26:44) fescur: ah, me passa tudo de info que tu acha que pode ir ali
+(18:26:55) efeefe: ou na real a gente poe todos (incluindo esses do minc) soh na pagina inicial
+(18:26:57) fescur: o rodape pode ter bastante informacao, vai sem medo
+(18:27:05) efeefe: eh?
+(18:27:05) efeefe: ok
+(18:27:06) efeefe: ;)
+(18:27:11) fescur: eu imagino que o rodape vai ser um include, nao?
+(18:27:17) efeefe: sim, geralmente eh
+(18:27:19) fescur: the footer is the new header, darling
+(18:27:27) efeefe: ;D
+(18:27:30) efeefe: eh tudo templatizado no drupal
+(18:27:33) fescur: pois e, dai vai repetir em tudo
+(18:27:37) efeefe: entao
+(18:27:38) efeefe: perfil
+(18:27:49) fescur: ah nao ser que a gente faca o footer separado desses logos do mink
+(18:27:53) fescur: minc, hehehe
+(18:27:59) fescur: eu to meio dislexica hoje
+(18:28:03) efeefe: ;)
+(18:28:05) fescur: perfil, vamos la
+(18:28:06) efeefe: nao, acho que pode ser junto
+(18:28:17) efeefe: perfil: nao sei se a gente vai ter como filtrar as atividades do usuario por tipo
+(18:28:47) fescur: na verdade eu nao mexi no conteudo, so adicionei a info basica
+(18:28:50) efeefe: acho que o maximo que a gente consegue eh diferenciar qual atividade eh interna ao site (entrar/sair de grupo, editar wiki, postar blog, comentar) e qual eh atividade externa (flickr, twitter, lista, etc.)
+(18:28:53) fescur: e na real fiquei em duvida do que botar ali
+(18:29:10) fescur: tipo, largar um feed daquele usuario ali?
+(18:29:18) fescur: externo e interno
+(18:29:24) efeefe: talvez soh isso
+(18:29:26) efeefe: dois blocos
+(18:29:29) fescur: certo
+(18:29:35) fescur: concordo
+(18:29:43) efeefe: um com "atividade" (dentro do site), outro com "conteudo agregado"
+(18:29:56) fescur: tah
+(18:30:09) efeefe: e aih, se quiser ver grupos, todas as contribuicoes, esporos, menu da esquerda
+(18:30:15) fescur: blz, por ali, o usuario ja navega para outras areas
+(18:30:17) fescur: isso
+(18:30:24) efeefe: continuo achando que o menu da esquerda eh um pouco demais pra perfil, mas enfim ;)
+(18:30:54) fescur: mas ai, acho que nao tem que ter nada
+(18:31:04) fescur: porque tu mataria a coerencia, saca?
+(18:31:08) efeefe: na real a gente precisa pensar tambem em quais campos tem que ter no perfil de usuario, ra configurar o site agora
+(18:31:16) efeefe: ok, saquei
+(18:31:19) fescur: sim...isso e um trabalho do cao, viu
+(18:31:25) fescur: eu odeio essa parte
+(18:31:30) fescur: :-P
+(18:31:34) efeefe: hehe
+(18:31:52) fescur: mas sim, tem todo esse backend que tem que ser pensado...
+(18:32:02) efeefe: nao acho que precise de muito mais do que bio, link, cadastro em outras redes sociais e tags
+(18:32:11) efeefe: ah! tem que exibir as tags
+(18:32:16) efeefe: palavras-chave
+(18:32:17) fescur: certo. da para adicionar mais depois, nao?
+(18:32:20) efeefe: interesses do usuario
+(18:32:25) efeefe: o backend vai vir tranquilo
+(18:32:30) fescur: no perfil?
+(18:33:09) efeefe: sim
+(18:33:10) efeefe: claro
+(18:33:14) fescur: ok
+(18:33:21) efeefe: eu vejo quais sao os interesses do usuario
+(18:33:36) efeefe: tambem pode ser relevante mostrar quais sao as tags que o cara usou em conteudo
+(18:33:51) fescur: certo
+(18:34:30) fescur: ok, mais alguma coisa?
+(18:34:51) efeefe: pensando
+(18:35:12) efeefe: tu colocou ali um item no menu da esquerda com tags, neh?
+(18:35:53) efeefe: acho que dah pra fazer as duas tagclouds ali
+(18:36:02) efeefe: de perfil do usuario e de conteudo que ele criou
+(18:36:08) fescur: naquela p?gina?
+(18:36:24) fescur: o que seria a tagcloud de perfil do usuario?
+(18:37:02) efeefe: quando o usuario edita o proprio perfil, ele escolhe algumas tags. assuntos que interessam.
+(18:37:12) efeefe: "arduino, ubuntu, wi-fi"
+(18:37:20) fescur: ahh saquei
+(18:37:30) fescur: "falsaria"
+(18:37:33) efeefe: mais tarde ele vai poder ter um box no painel dele com todo o conteudo com essas tags
+(18:37:53) efeefe: e a gente vai poder montar listagens de todos os usuarios que se taguearam como "falsarixs"
+(18:37:54) efeefe: ;)
+(18:38:11) fescur: aha
+(18:38:45) fescur: bele, entao. proximos passos?
+(18:39:52) efeefe: party on!
+(18:39:53) efeefe: ;)
+(18:40:03) fescur: ueba!!
+(18:40:05) efeefe: hehe
+(18:40:32) fescur: bom, dia 22 eu volto. finalizo essas telas, que eh rapido e lan?amos na lista pra discussao?
+(18:40:39) efeefe: pode ser
+(18:40:45) fescur: enquanto essa discussao, eu inicio as de listagens
+(18:40:47) efeefe: depois do carna: me pergunto se a gente passa pra outro template ou se explodimos as subtabs desses, detalhando
+(18:40:56) fescur: hum...
+(18:41:02) fescur: eu ia pras listagens como tu falou.
+(18:41:04) efeefe: na real pode ser de listagem tambem 
+(18:41:12) fescur: mas as subtabs desses vao ser simples, podemos fazer.
+(18:41:14) fescur: por exemplo,
+(18:41:19) efeefe: podia fazer uma de listagem de submenu
+(18:41:27) efeefe: lista as conectazes e esporos que eu participo
+(18:41:31) efeefe: eh uma listagem ;)
+(18:41:50) fescur: entao, a subtab conectaz de um usuario nao apresenta a lista de conectazes,
+(18:41:54) fescur: mas boxes, como os do painel
+(18:42:01) fescur: de atividades dessas conectazes
+(18:42:12) fescur: (essa eh a minha ideia)
+(18:42:29) fescur: dai o usuario pode clicar ali, e entrar na pagina especifica de alguma conectaz
+(18:42:35) fescur: e essa logica sera pra tudo
+(18:42:38) fescur: em contribuicoes,
+(18:42:47) fescur: serao boxes tb
+(18:42:59) efeefe: hm
+(18:43:01) efeefe: nao sei
+(18:43:03) fescur: posts no wiki, no blog, tags, etc
+(18:43:08) fescur: como nao sei!!!
+(18:43:18) fescur: why not?
+(18:43:34) fescur: (vamos para mais uma sessao de convencimento)
+(18:44:00) efeefe: hehe
+(18:44:04) efeefe: seguinte
+(18:44:10) efeefe: nao eh painel
+(18:44:21) efeefe: eu to navegando pelo perfil de um usuario
+(18:44:30) efeefe: tem um link ali "esporos"
+(18:44:38) efeefe: nao quero saber o que estah acontecendo no esporo
+(18:44:50) efeefe: quero links pros esporos que o cara tah cadastrado
+(18:45:04) fescur: mas eh isso que o usuario vai ter
+(18:45:08) fescur: so que nao so um link,
+(18:45:16) fescur: mas uma info mais visual disso
+(18:45:24) fescur: so isso.
+(18:46:04) fescur: se tu quer links para os esporos, eh porque tu quer chegar neles, e saber o que esta acontecendo por la, nao eh?
+(18:46:10) efeefe: tu ja viu de quantos esporos e conectazes eu participo?
+(18:46:14) efeefe: nao necessariamente
+(18:46:17) efeefe: pode ser pra saber onde é
+(18:46:20) fescur: jah, uns 30
+(18:46:21) efeefe: quem participa
+(18:46:22) efeefe: etc.
+(18:46:47) fescur: bom, nao precisa ser entao atividades recentes, pode ser so um "cartao" daquele esporo
+(18:46:51) fescur: info basica
+(18:47:14) efeefe: pode ser
+(18:47:23) efeefe: mas tu acha pratico ter 30 boxes no meu perfil?
+(18:47:26) fescur: porque uma pagina com uma lista...bom, dai concordo contigo, bota la no perfil e tira a subtab, porque uma pagina so com uma lista nao tem porque existir
+(18:47:33) fescur: aha
+(18:47:44) fescur: eh por isso que podemos colocar tb "tipo de visualizacao"
+(18:47:54) fescur: "lista" "detalhe".
+(18:47:58) fescur: sera que da?
+(18:48:34) efeefe: nao sei
+(18:48:46) fescur: quantas conectazes tu participa? e quantos esporos?
+(18:48:47) efeefe: talvez se for soh um box pequeno com a descricao do grupo
+(18:48:50) efeefe: um monte
+(18:48:51) efeefe: sei lah
+(18:48:52) fescur: lembra que eles estarao separados
+(18:48:56) fescur: nao numa pagina so juntos
+(18:49:02) fescur: como esta hoje (grupos)
+(18:49:58) fescur: outra coisa entao
+(18:50:17) fescur: podemos colocar um numero definido de conectazes pra ti como box, tipo, onde tu tem sido mais ativo
+(18:50:21) fescur: e o resto fica em lista
+(18:50:32) fescur: minha preocupacao eh so nao apresentar uma tripa, mas algo mais amigavel
+(18:50:48) fescur: uns tres boxes mais recentes (OU) pode ser ate randomico
+(18:51:02) fescur: e aquela lista enorme fica em tres ou mais colunas, pra facilitar leitura
+(18:51:04) efeefe: legal
+(18:51:06) efeefe: gostei
+(18:51:09) fescur: da pra colocar ordenacao,
+(18:51:12) fescur: tipo, por data,
+(18:51:15) fescur: por atividade, etc
+(18:51:41) efeefe: nao, foi demais
+(18:51:42) efeefe: ;)
+(18:51:50) efeefe: 4 esporos mais ativos e o resto em lista
+(18:52:05) fescur: hehehe, ta bom
+(18:52:13) fescur: (ainda na sessao convencimento)
+(18:52:39) fescur: ok, podemos entao explodir essas subtabs como proximo passo
+(18:52:43) fescur: tu que decide.
+(18:52:47) efeefe: acho que vamos por ai sim
+(18:53:04) efeefe: tags, grupos, contrib
+(18:53:21) fescur: ok entao
+(18:53:32) fescur: ajustes em painel e perfil, explodir o resto (hahahah)
+(18:53:42) efeefe: roquenrou
+(18:53:52) fescur: certo, era isso entao
+(18:54:16) efeefe: eventos acho que eh legal uma agenda
+(18:54:21) fescur: bom carnaval e falamos na volta (acho que ter?a tem uma reuniao com todos, ne)
+(18:54:21) efeefe: tipo rede.metareciclagem.org/event
+(18:54:23) fescur: sim, concordo
+(18:54:28) fescur: eventos tem que se mais elaborado
+(18:54:32) efeefe: sim
+(18:54:34) fescur: conectazes e esporos serao parecidas
+(18:54:38) efeefe: faltam coisas no backend tambem
+(18:54:41) efeefe: attendance pros eventos
+(18:54:53) efeefe: e reminders
+(18:55:08) fescur: isso tudo vai ter, ne
+(18:55:26) fescur: eh..essa parte dos requerimentos nao e meu forte...
+(18:55:38) fescur: mas eh super importante ter isso bem detalhado
+(18:55:47) efeefe: sim, isso eh com a chuva
+(18:56:09) fescur: na verdade a gente ta misturando as coisas um pouco, mas nada de mal nisso
+(18:56:44) efeefe: cross-pollination
+(18:57:10) fescur: oh yeah
+(18:57:29) efeefe: bom, entao encerramos aqui
+(18:57:35) efeefe: vou fazer o processo de sempre, publicar o log, etc.

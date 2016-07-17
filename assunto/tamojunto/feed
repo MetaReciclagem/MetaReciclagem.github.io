@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - tamojunto</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/996/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>metalogos</title>
+ <link>http://rede.metareciclagem.org/blog/18-07-11/metalogos</link>
+ <description>&lt;p&gt;&lt;img align=&quot;absMiddle&quot; width=&quot;520&quot; height=&quot;213&quot; alt=&quot;&quot; src=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/metalogossemtexto.png&quot; /&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/18-07-11/metalogos#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/3setas">3setas</category>
+ <category domain="http://rede.metareciclagem.org/assunto/logo">logo</category>
+ <category domain="http://rede.metareciclagem.org/assunto/logomarca">logomarca</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metareciclagem">metareciclagem</category>
+ <category domain="http://rede.metareciclagem.org/assunto/tamojunto">tamojunto</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/metalogossemtexto.png" length="1369143" type="image/png" />
+ <group domain="http://rede.metareciclagem.org/conectaz/Dpaduando" xmlns="http://drupal.org/project/og">Dpaduando</group>
+ <pubDate>Mon, 18 Jul 2011 05:35:38 +0000</pubDate>
+ <dc:creator>o2</dc:creator>
+ <guid isPermaLink="false">2055 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>blogs distribuidos</title>
+ <link>http://rede.metareciclagem.org/blog/07-02-11/blogs-distribuidos</link>
+ <description>&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://img683.imageshack.us/img683/1619/wblogs.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;N&amp;atilde;o blogo muito. Ali&amp;aacute;s, este &amp;eacute; o primeiro post escrito direto aqui nos pouco mais de 3 anos de site em drupal (meu blog do estudiolivre est&amp;aacute; no &lt;a href=&quot;http://rede.metareciclagem.org/agregador&quot; rel=&quot;nofollow&quot;&gt;agregador&lt;/a&gt;). Minhas contribui&amp;ccedil;&amp;otilde;es neste ambiente como um todo at&amp;eacute; agora tamb&amp;eacute;m foram poucas. Resumem-se a algumas p&amp;aacute;ginas wiki e alguns pitacos em projetos.&lt;/p&gt;
+&lt;p&gt;Mas mesmo n&amp;atilde;o blogando muito, eu consigo a proeza de publicar no blog de v&amp;aacute;rias redes (&lt;a href=&quot;http://estudiolivre.org&quot; rel=&quot;nofollow&quot;&gt;estudiolivre.org&lt;/a&gt;, &lt;a href=&quot;http://interfaceg2g.org&quot; rel=&quot;nofollow&quot;&gt;interfaceg2g.org&lt;/a&gt;, &lt;a href=&quot;http://bicicletadacuritiba.org&quot; rel=&quot;nofollow&quot;&gt;bicicletadacuritiba.org&lt;/a&gt; e &lt;a href=&quot;http://artebicimob.org&quot; rel=&quot;nofollow&quot;&gt;artebicimob.org&lt;/a&gt;). Microblogo tamb&amp;eacute;m no &lt;a href=&quot;http://identi.ca&quot; rel=&quot;nofollow&quot;&gt;identi.ca&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ent&amp;atilde;o quem sabe este ano minha escrita n&amp;atilde;o apare&amp;ccedil;a mais por aqui? Acho que demorou a metareciclagem de est&amp;uacute;dios livres ;-)&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/07-02-11/blogs-distribuidos#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/blogs">blogs</category>
+ <category domain="http://rede.metareciclagem.org/assunto/caos">caos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/f4bs">f4bs</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mistureba">mistureba</category>
+ <category domain="http://rede.metareciclagem.org/assunto/tamojunto">tamojunto</category>
+ <pubDate>Mon, 07 Feb 2011 09:52:03 +0000</pubDate>
+ <dc:creator>fabs</dc:creator>
+ <guid isPermaLink="false">2004 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>MetaReciclagem - porto alegre</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/301/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>HackDay Usina do Gasômetro</title>
+ <link>http://rede.metareciclagem.org/blog/19-03-13/HackDay-Usina-do-Gasometro</link>
+ <description>&lt;p&gt;MateHackers saindo da caixa e expondo o trabalho em &amp;aacute;rea p&amp;uacute;blica de Porto Alegre.&lt;/p&gt;
+&lt;p&gt;Documentado em: &lt;a href=&quot;http://www.matehackers.org/doku.php?id=hackday_usina_130316&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;hackday_usina_130316&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/19-03-13/HackDay-Usina-do-Gasometro&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/19-03-13/HackDay-Usina-do-Gasometro#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/gabinete-digital">gabinete digital</category>
+ <category domain="http://rede.metareciclagem.org/assunto/gasometro">gasometro</category>
+ <category domain="http://rede.metareciclagem.org/assunto/governo">governo</category>
+ <category domain="http://rede.metareciclagem.org/assunto/hackday">hackday</category>
+ <category domain="http://rede.metareciclagem.org/assunto/matehackers">matehackers</category>
+ <category domain="http://rede.metareciclagem.org/assunto/porto-alegre">porto alegre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/usina">usina</category>
+ <group domain="http://rede.metareciclagem.org/grupo/Matehackers" xmlns="http://drupal.org/project/og">Matehackers</group>
+ <pubDate>Tue, 19 Mar 2013 14:50:52 +0000</pubDate>
+ <dc:creator>iuriguilherme</dc:creator>
+ <guid isPermaLink="false">2223 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>WSL - Workshop de Software Livre no FISL</title>
+ <link>http://rede.metareciclagem.org/blog/01-03-13/WSL-Workshop-de-Software-Livre-no-FISL</link>
+ <description>&lt;p&gt;Repercutindo por aqui... foi estendido o prazo para envio de trabalhos do Workshop de Software Livre, evento &amp;quot;cient&amp;iacute;fico&amp;quot; que vai acontecer durante o FISL. Eu vou enviar um trabalho, e acho que seria uma boa oportunidade para fazer uma reuni&amp;atilde;o do grupo AcademiaLivre da MetaReciclagem. Bora?&lt;/p&gt;
+&lt;p&gt;Mais info &lt;a href=&quot;http://softwarelivre.org/wsl&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;. Envio abaixo tamb&amp;eacute;m a descri&amp;ccedil;&amp;atilde;o e chamada de trabalhos.&lt;/p&gt;
+&lt;h2&gt;Apresenta&amp;ccedil;&amp;atilde;o&lt;/h2&gt;
+&lt;p&gt;Para al&amp;eacute;m das pioneiras comunidades de compartilhamento de software criadas em torno do Unix e da comunidade de hackers do Emacs, o desenvolvimento de Software Livre e de fonte aberta (FOSS) tem crescido exponencialmente, seguindo a populariza&amp;ccedil;&amp;atilde;o e ampla dissemina&amp;ccedil;&amp;atilde;o do uso de computadores pessoais e da Internet. N&amp;atilde;o apenas as comunidades FOSS se expandiram globalmente, mas tamb&amp;eacute;m o corpo de literatura a seu respeito, tornando-se extremamente relevante para cientistas e engenheiros da computa&amp;ccedil;&amp;atilde;o, bem como para pesquisadores das ci&amp;ecirc;ncias humanas. Na &amp;uacute;ltima d&amp;eacute;cada, a pesquisa em FOSS consolidou-se em torno de quest&amp;otilde;es como motiva&amp;ccedil;&amp;otilde;es individuais, pr&amp;aacute;ticas colaborativas, quest&amp;otilde;es de escala, governan&amp;ccedil;a e coordena&amp;ccedil;&amp;atilde;o de esfor&amp;ccedil;os de desenvolvimento, assim como em torno de problemas de economia pol&amp;iacute;tica envolvendo o estudo de modelos econ&amp;ocirc;micos e formas de mobiliza&amp;ccedil;&amp;atilde;o pol&amp;iacute;tica em torno do Software Livre.&lt;br /&gt;
+	&lt;br /&gt;
+	Nosso principal objetivo nesse workshop &amp;eacute; avaliar o estado da arte da pesquisa interdisciplinar, explorando aspectos t&amp;eacute;cnicos, legais, socioecon&amp;ocirc;micos e culturais do FOSS. Deteremo-nos sobre os t&amp;oacute;picos de pesquisa mencionados, discutindo contribui&amp;ccedil;&amp;otilde;es recentes &amp;agrave; literatura. Convidamos pesquisadores de qualquer disciplina acad&amp;ecirc;mica nos t&amp;oacute;picos seguintes e assemelhados a submeterem seus artigos:&lt;br /&gt;
+	&lt;br /&gt;
+	- Licenciamento e aspectos legais relacionados, disputas de direito autoral, patentes de software, adequa&amp;ccedil;&amp;atilde;o &amp;agrave; GPL, propriedade individual ou coletiva de c&amp;oacute;digo;&lt;br /&gt;
+	&lt;br /&gt;
+	- Engenharia de Software Livre, desenvolvimento de metodologias, m&amp;eacute;tricas de c&amp;oacute;digo-fonte e avalia&amp;ccedil;&amp;atilde;o da qualidade de software;&lt;br /&gt;
+	&lt;br /&gt;
+	- Estudos culturais, sociais e econ&amp;ocirc;micos envolvendo abordagens qualitativas e quantitativas de comunidades ativistas e de desenvolvimento;&lt;br /&gt;
+	&lt;br /&gt;
+	- Estudos de caso: an&amp;aacute;lise aprofundada de casos de implementa&amp;ccedil;&amp;atilde;o, migra&amp;ccedil;&amp;atilde;o, sucesso ou fracasso de projetos de FOSS em v&amp;aacute;rias partes do mundo;&lt;br /&gt;
+	&lt;br /&gt;
+	- Expans&amp;atilde;o e transforma&amp;ccedil;&amp;atilde;o do Software Livre em curso: para al&amp;eacute;m do desenvolvimento de software e em dire&amp;ccedil;&amp;atilde;o &amp;agrave; Cultura Livre, Hardware Aberto, Open Access, jornalismo online independente e projetos colaborativos baseados na Internet.&lt;br /&gt;
+	Sobre o FISL e o &lt;span class=&quot;il&quot;&gt;WSL&lt;/span&gt;&lt;br /&gt;
+	&lt;br /&gt;
+	O Workshop Internacional de Software Livre (&lt;span class=&quot;il&quot;&gt;WSL&lt;/span&gt;) &amp;eacute; um evento cient&amp;iacute;fico que acontece no &amp;acirc;mbito do F&amp;oacute;rum Internacional Software Livre (FISL). Desde 2000, o FISL &amp;eacute; organizado por ativistas do software livre em Porto Alegre, Brasil, e representa uma das maiores e mais importantes confer&amp;ecirc;ncias de FOSS do mundo.&lt;br /&gt;
+	&lt;br /&gt;
+	O &lt;span class=&quot;il&quot;&gt;WSL&lt;/span&gt; aceita papers advindos de diferentes tradi&amp;ccedil;&amp;otilde;es disciplinares, oferecendo oportunidade para professores, pesquisadores, estudantes e outros profissionais de apresentarem e discutirem pesquisas originais desenvolvidas em centros de pesquisas, empresas e universidades que usam, disseminam e/ou refletem criticamente sobre FOSS em seus aspectos t&amp;eacute;cnicos, legais, socioecon&amp;ocirc;micos e culturais.&lt;br /&gt;
+	Informa&amp;ccedil;&amp;otilde;es para os Autores&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;- Os papers devem ser escritos em Ingl&amp;ecirc;s, Portugu&amp;ecirc;s ou Espanhol&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;- Os papers devem conter no m&amp;aacute;ximo 20 p&amp;aacute;ginas impressas, incluindo resumo, figuras e refer&amp;ecirc;ncias&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;- As submiss&amp;otilde;es devem ser feitas em PDF (utilizando o template da SBC: &lt;a href=&quot;http://tux.gseis.ucla.edu/template_SBC/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://tux.gseis.ucla.edu/template_SBC/&lt;/a&gt;)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;- Os papers devem ser enviados por email a luisfelipe/*/arroba/*/&lt;a href=&quot;http://ucla.edu&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;ucla.edu&lt;/a&gt;&lt;br /&gt;
+	&lt;br /&gt;
+	Os papers ser&amp;atilde;o avaliados por pareceristas acad&amp;ecirc;micos com experi&amp;ecirc;ncia de pesquisa em FOSS, considerando seu conte&amp;uacute;do t&amp;eacute;cnico e relev&amp;acirc;ncia para o workshop. Todos os papers aceitos ser&amp;atilde;o publicados nos anais do &lt;span class=&quot;il&quot;&gt;WSL&lt;/span&gt; e estar&amp;atilde;o dispon&amp;iacute;veis em um reposit&amp;oacute;rio aberto contido na p&amp;aacute;gina da comunidade &lt;span class=&quot;il&quot;&gt;WSL&lt;/span&gt; (&lt;a href=&quot;http://softwarelivre.org/wsl&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://softwarelivre.org/&lt;span class=&quot;il&quot;&gt;wsl&lt;/span&gt;&lt;/a&gt;) sob a licen&amp;ccedil;a Creative Commons Attribution 3.0 unported (CC-BY-3.0).&lt;br /&gt;
+	&lt;br /&gt;
+	Para os papers redigidos em co-autoria, os autores dever&amp;atilde;o definir um apresentador para o &lt;span class=&quot;il&quot;&gt;WSL&lt;/span&gt;. O apresentador receber&amp;aacute; um c&amp;oacute;digo promocional para registrar-se gratuitamente no FISL. Despesas de hospedagem e acomoda&amp;ccedil;&amp;atilde;o n&amp;atilde;o ser&amp;atilde;o pagas pelo FISL ou pelo &lt;span class=&quot;il&quot;&gt;WSL&lt;/span&gt;.&lt;br /&gt;
+	Datas Importantes&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;- Prazo para submiss&amp;atilde;o dos textos:&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;strike&gt;Dia 20 de fevereiro de 2013&lt;/strike&gt; 15 de mar&amp;ccedil;o de 2013&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;- Divulga&amp;ccedil;&amp;atilde;o dos papers aceitos:&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp; &amp;nbsp;Dia 29 de abril de 2013&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;- F&amp;oacute;rum Internacional Software Livre (FISL), Porto Alegre, Brasil&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp; &amp;nbsp;De 3 a 6 de julho de 2013&lt;br /&gt;
+	&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;- Workshop Software Livre (&lt;span class=&quot;il&quot;&gt;WSL&lt;/span&gt;), Porto Alegre, Brasil&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp; &amp;nbsp;De 4 a 5 de julho de 2013&lt;br /&gt;
+	&amp;nbsp;&lt;/p&gt;
+&lt;h2&gt;Comit&amp;ecirc; Organizador&lt;/h2&gt;
+&lt;p&gt;Coordenador Geral&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Carlos D. Santos (Universidade de Brasilia, Brazil)&lt;br /&gt;
+	Coordenador de Programa&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Luis Felipe R. Murillo (University of California, Los Angeles, USA)&lt;br /&gt;
+	Coordenador de Publica&amp;ccedil;&amp;otilde;es e Organiza&amp;ccedil;&amp;atilde;o Local&lt;br /&gt;
+	&amp;nbsp;&amp;nbsp; Paulo Meirelles (Universidade de Sao Paulo, Brazil)&lt;br /&gt;
+	Coordenadores de Publicidade&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Imed Hammouda (Tampere University of Technology, Finland)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Gregorio Robles (Universidad Rey Juan Carlos, Spain)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Rafael Evangelista (Universidade Estadual de Campinas, Brazil)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Veronica Xhardez (Flacso/CONICET - SoLAr, Argentina)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Yuri Takhteyev &amp;nbsp;(University of Toronto, Canada)&lt;/p&gt;
+&lt;h2&gt;Comit&amp;ecirc; de Programa&lt;/h2&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp; Ana Cristina Matte (Universidade Federal de Minas Gerais, Brazil)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Andre Leme Fleury (Universidade de Sao Paulo)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Anthony Wasserman (Carnegie Mellon University, USA)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Antonio Terceiro (Universidade Federal da Bahia, Brazil)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;C&amp;eacute;lia Ralha (Universidade de Brasilia, Brazil)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Christiana Freitas (Universidade de Brasilia, Brazil)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Christopher Kelty (University of California, Los Angeles, USA)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Daniel Batista (Universidade de Sao Paulo, Brazil)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Fabio Kon (Universidade de Sao Paulo, Brazil)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Gabriella Coleman (McGill University, Canada)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Islena Garcia (Universidade Estadual de Campinas, Brazil)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Jelena Karanovic (New York University, USA)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Lilly Nguyen (University of California, Los Angeles, USA)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Masayuki Hatta (Surugadai University, Japan)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Tim Davies (University of Southampton, UK)&lt;br /&gt;
+	&amp;nbsp; &amp;nbsp;Stefan Koch (Bogazici University, Turkey)&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/01-03-13/WSL-Workshop-de-Software-Livre-no-FISL#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/academialivre">academialivre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/eventos">eventos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/fisl">fisl</category>
+ <category domain="http://rede.metareciclagem.org/assunto/porto-alegre">porto alegre</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/AcademiaLivre" xmlns="http://drupal.org/project/og">AcademiaLivre</group>
+ <pubDate>Fri, 01 Mar 2013 04:52:43 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2213 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Matehackers</title>
+ <link>http://rede.metareciclagem.org/grupo/Matehackers</link>
+ <description>&lt;div class=&quot;form-item&quot;&gt;
+ &lt;label&gt;Descrição: &lt;/label&gt;
+ Coletivo de entusiastas da tecnologia e pesquisadores sociais
+&lt;/div&gt;
+&lt;p&gt;Site: &lt;a href=&quot;http://matehackers.org&quot; title=&quot;http://matehackers.org&quot; rel=&quot;nofollow&quot;&gt;http://matehackers.org&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Funcionando no esporo &lt;a href=&quot;http://rede.metareciclagem.org/grupo/Bunker360&quot; rel=&quot;nofollow&quot;&gt;Bunker360&lt;/a&gt;&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-situacao-conectaz&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Situação desta ConecTAZ:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    funcionando        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+  &lt;h3 class=&quot;location-locations-header&quot;&gt;Localização&lt;/h3&gt;
+  &lt;div class=&quot;location-locations-wrapper&quot;&gt;
+          &lt;div class=&quot;location vcard&quot;&gt;
+  &lt;div class=&quot;adr&quot;&gt;
+          &lt;span class=&quot;fn&quot;&gt;Bunker360&lt;/span&gt;
+              &lt;div class=&quot;street-address&quot;&gt;
+        Avenida Independência, nº 330, sala 206, Porto Alegre - RS                  &lt;span class=&quot;additional&quot;&gt;
+             ao lado do Hospital Beneficiência Portuguesa          &lt;/span&gt;
+              &lt;/div&gt;
+                          &lt;div class=&quot;country-name&quot;&gt;Brazil&lt;/div&gt;
+                                        &lt;span class=&quot;geo&quot;&gt;&lt;abbr class=&quot;latitude&quot; title=&quot;-30.029128&quot;&gt;30° 1&#039; 44.8608&quot; S&lt;/abbr&gt;, &lt;abbr class=&quot;longitude&quot; title=&quot;-51.218326&quot;&gt;51° 13&#039; 5.9736&quot; W&lt;/abbr&gt;&lt;/span&gt;
+            &lt;/div&gt;
+      &lt;div class=&quot;map-link&quot;&gt;
+      &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com.br?q=-30.029128+-51.218326+%28Bunker360%2CAvenida+Independ%C3%AAncia%2C+n%C2%BA+330%2C+sala+206%2C+Porto+Alegre+-+RS%2C+%2C+%2C+%2C+br%29&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/grupo/Matehackers#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/matehackers">matehackers</category>
+ <category domain="http://rede.metareciclagem.org/assunto/porto-alegre">porto alegre</category>
+ <georss:point>-30.029128 -51.218326</georss:point>
+ <pubDate>Tue, 15 Jan 2013 23:03:09 +0000</pubDate>
+ <dc:creator>iuriguilherme</dc:creator>
+ <guid isPermaLink="false">2197 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Oficinas de arduino - Matehackers 2012</title>
+ <link>http://rede.metareciclagem.org/blog/15-01-13/Oficinas-de-arduino-Matehackers-2012</link>
+ <description>&lt;p&gt;&lt;strong&gt;O que:&lt;/strong&gt;&amp;nbsp;N&amp;atilde;o tenho certeza, mas alguns chamam de &amp;quot;Oficina de arduino&amp;quot;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Como:&lt;/strong&gt; Com apoio do Webtronicos e do Matehackers, aconteceram estas oficinas na sala do Bunker360 em Porto Alegre.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Porque:&lt;/strong&gt; N&amp;atilde;o tenho certeza, mas acho que deve ter a ver com incentivar o pensamento e proporcionar um ambiente de tecnologias o mais pr&amp;oacute;ximo poss&amp;iacute;vel de &amp;quot;aberto&amp;quot; e &amp;quot;livre&amp;quot;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Documenta&amp;ccedil;&amp;atilde;o:&lt;/strong&gt; Pare de tomar minha palavra e olhe as fotos e a documenta&amp;ccedil;&amp;atilde;o nos links abaixo, ou melhor, participe presencialmente da oficina de 2013 e tire suas pr&amp;oacute;prias conclus&amp;otilde;es em vez de ficar satisfeitx com as minhas interpreta&amp;ccedil;&amp;otilde;es:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://matehackers.org/doku.php?id=arduino_beta_17_11_12&quot; title=&quot;http://matehackers.org/doku.php?id=arduino_beta_17_11_12&quot; rel=&quot;nofollow&quot;&gt;http://matehackers.org/doku.php?id=arduino_beta_17_11_12&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://matehackers.org/doku.php?id=arduino_24_11_12&quot; title=&quot;http://matehackers.org/doku.php?id=arduino_24_11_12&quot; rel=&quot;nofollow&quot;&gt;http://matehackers.org/doku.php?id=arduino_24_11_12&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://matehackers.org/doku.php?id=arduino_15_12_12&quot; title=&quot;http://matehackers.org/doku.php?id=arduino_15_12_12&quot; rel=&quot;nofollow&quot;&gt;http://matehackers.org/doku.php?id=arduino_15_12_12&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/15-01-13/Oficinas-de-arduino-Matehackers-2012#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/2012">2012</category>
+ <category domain="http://rede.metareciclagem.org/assunto/arduino">arduino</category>
+ <category domain="http://rede.metareciclagem.org/assunto/bunker360">bunker360</category>
+ <category domain="http://rede.metareciclagem.org/assunto/matehackers">matehackers</category>
+ <category domain="http://rede.metareciclagem.org/assunto/porto-alegre">porto alegre</category>
+ <group domain="http://rede.metareciclagem.org/grupo/Bunker360" xmlns="http://drupal.org/project/og">Bunker360</group>
+ <group domain="http://rede.metareciclagem.org/grupo/Matehackers" xmlns="http://drupal.org/project/og">Matehackers</group>
+ <pubDate>Tue, 15 Jan 2013 22:26:54 +0000</pubDate>
+ <dc:creator>iuriguilherme</dc:creator>
+ <guid isPermaLink="false">2195 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Porto Alegre</title>
+ <link>http://rede.metareciclagem.org/blog/07-07-11/Porto-Alegre</link>
+ <description>&lt;p&gt;Fui semana passada a Porto Alegre, minha terra natal, a convite do GT de Cultura do &lt;a href=&quot;http://softwarelivre.org/fisl12&quot; rel=&quot;nofollow&quot;&gt;FISL&lt;/a&gt;, o F&amp;oacute;rum Internacional de Software Livre. Fazia muito tempo que eu n&amp;atilde;o participava do f&amp;oacute;rum. A &amp;uacute;ltima foi em 2004, quando fui de carro com &lt;a href=&quot;/pessoa/dmartins&quot; rel=&quot;nofollow&quot;&gt;Dalton&lt;/a&gt; e Fejuada. Naquela vez conhecemos o &lt;a href=&quot;http://ianlawrence.info&quot; rel=&quot;nofollow&quot;&gt;Ian&lt;/a&gt;, junto com um monte de hackers do mundo todo que se reuniam na &lt;a href=&quot;http://debconf4.debconf.org&quot; rel=&quot;nofollow&quot;&gt;Debconf&lt;/a&gt;, visitamos o embrion&amp;aacute;rio projeto dos Maristas que se tornaria o CRC de Porto Alegre e encontramos um monte de gente e projetos interessantes. Era o auge da &amp;eacute;poca em que as redes ativistas de m&amp;iacute;dia, os produtores culturais, o software livre e pessoas envolvidas com pol&amp;iacute;ticas p&amp;uacute;blicas se aproximavam, em uma efervesc&amp;ecirc;ncia de ideias e ideais que posteriormente se mostrou muito produtiva (e problem&amp;aacute;tica, por certo).&lt;/p&gt;
+&lt;p&gt;Hoje os tempos s&amp;atilde;o outros. O impacto inicial passou, a inova&amp;ccedil;&amp;atilde;o foi assimilada e em alguns sentidos acomodada nas possibilidades da realpolitik. Um movimento forte de rea&amp;ccedil;&amp;atilde;o &amp;agrave;quele potencial libert&amp;aacute;rio est&amp;aacute; avan&amp;ccedil;ando a passos largos em quase todas as &lt;a href=&quot;http://desvio.cc/blog/inovacao-e-tecnologias-livres-parte-1-decada-que-foi&quot; rel=&quot;nofollow&quot;&gt;conquistas da &amp;uacute;ltima d&amp;eacute;cada&lt;/a&gt;. Pairam sobre n&amp;oacute;s as amea&amp;ccedil;as &amp;agrave; privacidade, &amp;agrave; neutralidade da rede, ao livre compartilhamento de conhecimento. O Minist&amp;eacute;rio da Cultura, mais do que desacelerar, engatou marcha &amp;agrave; r&amp;eacute;, relegando &amp;agrave; precariedade dezenas de projetos importantes de todo o pa&amp;iacute;s.&lt;/p&gt;
+&lt;p&gt;Perdi o primeiro dia de programa&amp;ccedil;&amp;atilde;o. Estava em tr&amp;acirc;nsito desde Ubatuba: carona at&amp;eacute; Caraguatatuba, &amp;ocirc;nibus com escala em S&amp;atilde;o Jos&amp;eacute; rumo ao aeroporto de Guarulhos, voo tranquilo at&amp;eacute; Porto Alegre. Nos dias seguintes fiquei flanando pela programa&amp;ccedil;&amp;atilde;o, feliz de reencontrar e conversar de novo com um monte de gente boa. MetaReciclagem est&amp;aacute; sempre nesses eventos, mesmo que impl&amp;iacute;cita (talvez naturalmente impl&amp;iacute;cita). Antes de tudo as redes de afetos, como profetizam &lt;a href=&quot;http://culturadigital.br/ruiz&quot; rel=&quot;nofollow&quot;&gt;Ruiz&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://bailux.wordpress.com&quot; rel=&quot;nofollow&quot;&gt;Bailux&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Participei meio na diagonal do debate sobre Recursos Educacionais Abertos, organizado pela Bianca Santana. Estava ali feliz assistindo &amp;agrave;s apresenta&amp;ccedil;&amp;otilde;es de &lt;a href=&quot;http://softwarelivre.org/samadeu/blog&quot; rel=&quot;nofollow&quot;&gt;Sergio Amadeu&lt;/a&gt;, &lt;a href=&quot;void(0);/*1310071544863*/&quot; rel=&quot;nofollow&quot;&gt;Nelson Pretto&lt;/a&gt; e &lt;a href=&quot;http://rejon.org/ &quot; rel=&quot;nofollow&quot;&gt;Rejon&lt;/a&gt; quando fui convidado a falar. N&amp;atilde;o tinha preparado nada, mas tentei comentar que mais importante do que disponibilizar material com licen&amp;ccedil;as livres &amp;eacute; incentivar a sensibilidade de compartilhar, estimular que as pessoas percam o medo de &amp;quot;mexer&amp;quot; nas &amp;quot;cria&amp;ccedil;&amp;otilde;es&amp;quot; alheias, percam o medo de apropriar-se efetivamente n&amp;atilde;o s&amp;oacute; dos objetos educacionais mas tamb&amp;eacute;m dos processos que eles sup&amp;otilde;em e engendram.&lt;/p&gt;
+&lt;p&gt;A &lt;a href=&quot;http://thacker.com.br&quot; rel=&quot;nofollow&quot;&gt;Transpar&amp;ecirc;ncia Hacker&lt;/a&gt; estava trabalhando em uma sala da PUC, e abriu espa&amp;ccedil;o para metarecicleirxs que quisessem mesas, cadeiras e um wifi n&amp;atilde;o t&amp;atilde;o ruim quanto nos audit&amp;oacute;rios. Aproveitamos para come&amp;ccedil;ar a debater por l&amp;aacute; alguns planos que a &lt;a href=&quot;http://elenaralelex.wordpress.com/&quot; rel=&quot;nofollow&quot;&gt;Lelex&lt;/a&gt; est&amp;aacute; come&amp;ccedil;ando a desenvolver junto ao Memorial do F&amp;oacute;rum Social Mundial que vai ser criado no centro de Porto Alegre.&lt;/p&gt;
+&lt;h1&gt;MCT Livre?&lt;/h1&gt;
+&lt;p&gt;A sexta-feira come&amp;ccedil;ou com boas perspectivas: Sergio Amadeu organizou uma &lt;a href=&quot;http://www.trezentos.blog.br/?p=6116&quot; rel=&quot;nofollow&quot;&gt;conversa&lt;/a&gt; de integrantes de diversos grupos, redes e coletivos presentes no FISL com o ministro da Ci&amp;ecirc;ncia e Tecnologia, Aloizio Mercadante. Alguns dias antes, o ministro j&amp;aacute; tinha dado uma declara&amp;ccedil;&amp;atilde;o importante em rela&amp;ccedil;&amp;atilde;o &amp;agrave; rea&amp;ccedil;&amp;atilde;o da imprensa depois dos supostos ataques a sites do governo: diferenciando hackers de crackers, defendendo a transpar&amp;ecirc;ncia e indicando que o MCT ia adotar medidas de transpar&amp;ecirc;ncia total nesse sentido. A conversa no FISL vinha embalada nessa perspectiva. Foi tamb&amp;eacute;m na sala da Transpar&amp;ecirc;ncia Hacker - que ficou lotada de gente - que encontramos o ministro para sugerir caminhos e possibilidades de apoio ao campo mais amplo do conhecimento livre no Brasil.&lt;br /&gt;
+Eu fui um dos primeiros a falar, e tentei trazer a perspectiva na qual tenho insistido, da &lt;a href=&quot;http://efeefe.no-ip.org/livro/laboratorios-pos-digital&quot; rel=&quot;nofollow&quot;&gt;inova&amp;ccedil;&amp;atilde;o baseada em tecnologias livres&lt;/a&gt;. Comentei rapidamente sobre as pesquisas do projeto &lt;a href=&quot;http://redelabs.org&quot; rel=&quot;nofollow&quot;&gt;redelabs&lt;/a&gt;, buscando estruturas e modelos para operar na fronteira entre arte, ci&amp;ecirc;ncia, tecnologia e educa&amp;ccedil;&amp;atilde;o. Chamei a aten&amp;ccedil;&amp;atilde;o para um aspecto espec&amp;iacute;fico: o modelo de inova&amp;ccedil;&amp;atilde;o. Enquanto ficarmos presos &amp;agrave; inova&amp;ccedil;&amp;atilde;o industrial, que &amp;eacute; orientada somente por crit&amp;eacute;rios de gera&amp;ccedil;&amp;atilde;o de patentes para explora&amp;ccedil;&amp;atilde;o comercial, estamos desperdi&amp;ccedil;ando um potencial criativo enorme. &amp;Eacute; importante estimular tamb&amp;eacute;m inova&amp;ccedil;&amp;atilde;o que tenha relev&amp;acirc;ncia social e educacional. Que trabalhe conhecimento de fronteira (o que eu comentei outro dia como &amp;quot;fazer o amanh&amp;atilde;, pensando o depois de amanh&amp;atilde;&amp;quot;). Comentei que existem iniciativas pequenas, granulares, que t&amp;ecirc;m um papel fundamental nos tempos atuais. E que na pol&amp;iacute;tica de inova&amp;ccedil;&amp;atilde;o falta geralmente o aspecto de experimenta&amp;ccedil;&amp;atilde;o: de agentes criativos travarem contato com tecnologias, mas tamb&amp;eacute;m de incorporarem as possibilidades de deriva, descoberta, do erro como mat&amp;eacute;ria prima. Questionei a necessidade de ter objetivos fechados antes mesmo de come&amp;ccedil;ar a pesquisar. Sugeri que alguns caminhos est&amp;atilde;o sendo sugeridos no mundo todo com os hackerspaces, hacklabs, fablabs - que n&amp;atilde;o desenvolvem somente hardware e software mas tamb&amp;eacute;m maneiras de entender as tecnologias e seu papel na sociedade. Tamb&amp;eacute;m propus pol&amp;iacute;ticas que tratem de tecnologia livre, em sentido amplo: n&amp;atilde;o somente computadores e software como tamb&amp;eacute;m linguagem, metodologias de aplica&amp;ccedil;&amp;atilde;o de conhecimento. Que incentivem a deriva, a descoberta, o erro. Que estabele&amp;ccedil;am meios de financiar projetos de fronteira, de maneira descentralizada e integrada.&lt;/p&gt;
+&lt;p&gt;Bastante gente falou naquela manh&amp;atilde; - eu destaco a contribui&amp;ccedil;&amp;atilde;o da Dani da Thacker, provocando uma reflex&amp;atilde;o sobre o projeto Cultura Viva que culminou com a ideia de &amp;quot;Pontos de C &amp;amp; T&amp;quot;. Vi Mercadante fazendo anota&amp;ccedil;&amp;otilde;es em seu caderno nesse momento, e me pareceu uma semente bem plantada. Houve tamb&amp;eacute;m contribui&amp;ccedil;&amp;otilde;es sobre dezenas de assuntos: hardware livre, fabrica&amp;ccedil;&amp;atilde;o, formaliza&amp;ccedil;&amp;atilde;o de atividades, o engessamento dos fundos de inova&amp;ccedil;&amp;atilde;o, e por a&amp;iacute; vai.&lt;/p&gt;
+&lt;p&gt;Ao fim, o ministro tomou de volta a palavra e comentou alguns pontos que tinham chamado a aten&amp;ccedil;&amp;atilde;o dele no discurso do pessoal. Em seguida, deu algumas sugest&amp;otilde;es de encaminhamento: apoio do CTI, medidas para desonerar a produ&amp;ccedil;&amp;atilde;o de hardware e software, para desburocratizar pequenos empreendimentos, para adequar os sistemas do minist&amp;eacute;rio aos princ&amp;iacute;pios de abertura e transpar&amp;ecirc;ncia. Comentou sobre a realiza&amp;ccedil;&amp;atilde;o de uma olimp&amp;iacute;ada de tecnologia, an&amp;aacute;loga &amp;agrave;s olimp&amp;iacute;adas de matem&amp;aacute;tica. Por fim, pediu que todas as nossas contribui&amp;ccedil;&amp;otilde;es fossem compiladas em uma proposta e apresentadas formalmente ao Minist&amp;eacute;rio.&lt;/p&gt;
+&lt;p&gt;Eu confesso que me surpreendi com o n&amp;iacute;vel de compreens&amp;atilde;o e abertura que Mercadante demonstrou ter sobre os temas. At&amp;eacute; ent&amp;atilde;o eu tinha a impress&amp;atilde;o, principalmente por conta do epis&amp;oacute;dio da Foxconn, de que ele estava totalmente alinhado com a posi&amp;ccedil;&amp;atilde;o que no limite submete o Brasil aos fundamentos da geopol&amp;iacute;tica atual - em que Europa e Estados Unidos projetam tecnologias e os BRICs fabricam coisas. Pela conversa, percebi que existe a possibilidade de criar estrat&amp;eacute;gias mais inteligentes e din&amp;acirc;micas. Resta saber se a burocracia vai potencializar essa vis&amp;atilde;o ou tornar-se obst&amp;aacute;culo.&lt;/p&gt;
+&lt;p&gt;A &amp;iacute;ntegra da conversa com Mercadante est&amp;aacute; dispon&amp;iacute;vel &lt;a href=&quot;http://adrianomelo.com/arquivos/thackday.ogg &quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt; (audio/ogg).&lt;/p&gt;
+&lt;h1&gt;Centro, FSM, fim de FISL&lt;/h1&gt;
+&lt;p&gt;&amp;Agrave; tarde, parti para o centro de Porto Alegre. Encontrei Lelex, Ruiz, Fernanda Scur e Adriano Belis&amp;aacute;rio no subsolo do Memorial do Rio Grande do Sul. Conhecemos o espa&amp;ccedil;o que vai sediar o Memorial do FSM, e ficamos algum tempo devaneando sobre possibilidades de ocupa&amp;ccedil;&amp;otilde;es metarecicleiras. O pr&amp;eacute;dio era a antiga sede dos Correios, e isso pode ser um elemento forte - comunica&amp;ccedil;&amp;atilde;o, circula&amp;ccedil;&amp;atilde;o de conhecimento, aproxima&amp;ccedil;&amp;atilde;o de dist&amp;acirc;ncias. Em momento oportuno a gente publiciza as ideias que surgiram, mas j&amp;aacute; adianto que s&amp;atilde;o joinha ;).&lt;/p&gt;
+&lt;p&gt;Na sa&amp;iacute;da, &lt;a href=&quot;http://barraponto.blog.br/&quot; rel=&quot;nofollow&quot;&gt;Capi Etheriel&lt;/a&gt; se juntou a n&amp;oacute;s. Ainda andamos um pouco pelo centro de Porto Alegre, em meio &amp;agrave;s minhas lembran&amp;ccedil;as de inf&amp;acirc;ncia e adolesc&amp;ecirc;ncia. Acabamos caindo na CCMQ para bebidas quentes. Sa&amp;iacute; de l&amp;aacute; para visitas de fam&amp;iacute;lia.&lt;/p&gt;
+&lt;p&gt;&amp;Agrave; noite, encontrinho espont&amp;acirc;neo no Caf&amp;eacute; Bonobo, no Bom Fim. Ambiente agrad&amp;aacute;vel, cervejas artesanais, comida vegetariana criativa. Microna&amp;ccedil;&amp;atilde;o metarecicleira se aproximando. Ficamos um bom tempo por l&amp;aacute;. F&amp;ecirc; Scur levou o pequeno L&amp;eacute;o, com seus onze meses rec&amp;eacute;m completos. Eu e Capi aproveitamos a chance para matar a saudade de beb&amp;ecirc;s de colo... conversas boas pela noite toda e a tradicional saideira na Lancheria do Parque.&lt;/p&gt;
+&lt;p&gt;S&amp;aacute;bado voltei ao FISL para circular um pouco e encontrar mais algumas pessoas. Assisti &amp;agrave; apresenta&amp;ccedil;&amp;atilde;o do Jon Philips sobre o &lt;a href=&quot;http://milkymist.org&quot; rel=&quot;nofollow&quot;&gt;Milkymist&lt;/a&gt;: um dispositivo para fazer efeitos de v&amp;iacute;deo em tempo real, baseado totalmente em software livre e cujos esquemas de fabrica&amp;ccedil;&amp;atilde;o s&amp;atilde;o tamb&amp;eacute;m livres. O Milkymist &amp;eacute; um projeto interessante em si, mas ainda mais importante &amp;eacute; o que ele representa: uma solu&amp;ccedil;&amp;atilde;o de hardware desenhada por uma equipe pequena e coesa, que pode ser fabricado em qualquer lugar do mundo. E baseado em conhecimento livre.&lt;/p&gt;
+&lt;p&gt;Sa&amp;iacute; do FISL com a impress&amp;atilde;o de que o f&amp;oacute;rum est&amp;aacute; mais s&amp;eacute;rio e objetivo. Em termos pr&amp;aacute;ticos isso pode ser positivo, mas sinto que aquele clima de fantasia, de inven&amp;ccedil;&amp;atilde;o de novos tempos, de &amp;aacute;reas nebulosas entre realidade e desejo, definitivamente se foi. Ressalvo somente a exce&amp;ccedil;&amp;atilde;o do improv&amp;aacute;vel canto cyberpunk dos &lt;a href=&quot;http://www.maristas.org.br/portal/pagina.asp?IDPag=68&quot; rel=&quot;nofollow&quot;&gt;maristas&lt;/a&gt;, que mant&amp;eacute;m viva a chama da gambiarra. No geral, entretanto, resta a fria efic&amp;aacute;cia da tecnologia como ferramenta. Espero que as pr&amp;oacute;ximas edi&amp;ccedil;&amp;otilde;es reativem a dimens&amp;atilde;o &lt;a href=&quot;http://tecnomagxs.wordpress.com&quot; rel=&quot;nofollow&quot;&gt;tecnom&amp;aacute;gica&lt;/a&gt; que tanto nos seduz &amp;amp; inspira.&lt;/p&gt;
+&lt;p&gt;A caminho da porta, ainda vi uma multid&amp;atilde;o de adolescentes com m&amp;aacute;scaras de V e assinaturas improvisadas de grupos de &amp;quot;seguran&amp;ccedil;a&amp;quot;. Sa&amp;iacute; sorrindo.&lt;/p&gt;
+&lt;h1&gt;A(&amp;aacute;)gora&lt;/h1&gt;
+&lt;p&gt;Para encerrar a tarde de s&amp;aacute;bado, voltei ao centro de Porto Alegre. H&amp;aacute; alguns meses, circulou nas redes uma &lt;a href=&quot;http://mutgamb.org/blog/Chamada-para-projetos-Agora-Criacoes-em-Rede&quot; rel=&quot;nofollow&quot;&gt;chamada&lt;/a&gt; por projetos de &amp;quot;tecnologias sociais&amp;quot; para a exposi&amp;ccedil;&amp;atilde;o do projeto &lt;a href=&quot;http://agora.art.br&quot; rel=&quot;nofollow&quot;&gt;Agora/&amp;Aacute;gora&lt;/a&gt;, curado por &lt;a href=&quot;http://nomada.blogs.com/&quot; rel=&quot;nofollow&quot;&gt;Juan Freire&lt;/a&gt; com o apoio da &lt;a href=&quot;http://karlabru.net/&quot; rel=&quot;nofollow&quot;&gt;Karla Brunet&lt;/a&gt;. Mandei um textinho sobre a MetaReciclagem, que acabou entrando. N&amp;atilde;o tivemos mais muito feedback sobre o evento. De qualquer forma, naquele s&amp;aacute;bado &amp;agrave; tarde, &amp;uacute;ltimo dia do FISL, ia rolar um debate sobre &amp;quot;Estrat&amp;eacute;gias para Autonomia: Tecnologia e Inova&amp;ccedil;&amp;atilde;o Social&amp;rdquo; com Juan e Karla, mais algumas pessoas de l&amp;aacute;. Uns dias antes, avisei que estava na cidade e me convidaram a participar.&lt;/p&gt;
+&lt;p&gt;Fiquei sabendo que eles chamaram um pessoal de Porto Alegre para criar uma instala&amp;ccedil;&amp;atilde;o sobre &amp;quot;MetaReciclagem&amp;quot;. Cheguei l&amp;aacute; e tinha uns tr&amp;ecirc;s computadores velhos rodando linux. N&amp;atilde;o foi t&amp;atilde;o ruim assim, mas pra chamar de MetaReciclagem faltou informar na rede. De todo modo, topei o debate. Eu n&amp;atilde;o conhecia o Santander Cultural, uma dessas megainstitui&amp;ccedil;&amp;otilde;es culturais ligadas a bancos que est&amp;atilde;o ficando comuns nos anos recentes. Dei uma volta pelo lugar, saquei a exposi&amp;ccedil;&amp;atilde;o do Agora/&amp;Aacute;gora, desci ao caf&amp;eacute; no subsolo para um chocolate quente (inverno ga&amp;uacute;cho &amp;eacute; frio).&lt;/p&gt;
+&lt;p&gt;Encontrei Karla no corredor e logo subi. Conheci finalmente Juan Freire, cujos textos eu leio e admiro desde que morei em Barcelona. O debate come&amp;ccedil;ou com Juan conceituando um pouco as &amp;quot;tecnologias sociais&amp;quot;, falando sobre a primavera &amp;aacute;rabe e os 15M espanhol. Karla contou um pouco sobre os projetos que foram selecionados para a mostra online. Tinha tamb&amp;eacute;m uma menina designer ou arquiteta, acho que da Unisinos, que mostrou um v&amp;iacute;deo sobre &amp;quot;tecnologias sociais&amp;quot; com musiquinha de elevador que quase me derrubou de sono. N&amp;atilde;o consegui prestar aten&amp;ccedil;&amp;atilde;o &amp;agrave; apresenta&amp;ccedil;&amp;atilde;o dela, de t&amp;atilde;o entediante.&lt;/p&gt;
+&lt;p&gt;Em seguida, tomou a palavra um professor da ESPM, Felipe Scherer. Falou tanta baboseira corporativa que eu fiquei me co&amp;ccedil;ando pra comentar. Usou como exemplo de inova&amp;ccedil;&amp;atilde;o a campanha para criar um sabor novo de Ruffles. E ele parecia falar s&amp;eacute;rio, como conv&amp;eacute;m a esse tipo de gente. Incorreu um monte de vezes em met&amp;aacute;foras militares ou da &amp;eacute;poca da revolu&amp;ccedil;&amp;atilde;o industrial (impacto, atingir, concorrer). Falou que para obter impacto na sociedade s&amp;atilde;o necess&amp;aacute;rias um monte de coisas (um daqueles slides de professor da ESPM). Entre elas, propriedade intelectual.&lt;/p&gt;
+&lt;p&gt;A&amp;iacute; chegou minha vez. Era tanta merda que meu xar&amp;aacute; tinha falado que decidi nem tentar rebater. Mais complicado do que o texto dele era todo o subtexto que ele implica, de legitima&amp;ccedil;&amp;atilde;o de um estilo de vida consumista, alienado, distanciado, desumano, materialista, individualista e mesquinho. Mas deixei pra l&amp;aacute;.&lt;/p&gt;
+&lt;p&gt;Acabei dando aquela geral sobre a hist&amp;oacute;ria da MetaReciclagem. Uma hist&amp;oacute;ria que eu repeti vezes sem conta, ent&amp;atilde;o n&amp;atilde;o preciso contar outra vez aqui. Mas fazia tempo que eu n&amp;atilde;o exercitava essa narrativa, e isso acabou trazendo alguns insights que vou explorar em outros posts no site da MetaReciclagem assim que der tempo.&lt;/p&gt;
+&lt;p&gt;O debate depois foi meio surreal, com um careca afirmando que Steve Jobs &amp;eacute; o rei da inova&amp;ccedil;&amp;atilde;o e besteiras parecidas. No fim, um garoto comentou que minha fala tinha deixado ele inquieto. Ele falou que n&amp;atilde;o tinha entendido se a MetaReciclagem era &amp;quot;uma ONG, um coletivo, uma empresa, uma a&amp;ccedil;&amp;atilde;o entre amigos...&amp;quot;. Comentei que se ele fez essa pergunta &amp;eacute; porque n&amp;atilde;o tinha entendido mesmo. Que a MetaReciclagem n&amp;atilde;o &amp;eacute; nada disso. E n&amp;atilde;o quer ser.&lt;/p&gt;
+&lt;p&gt;Gostei tamb&amp;eacute;m dos projetos que os dois organizadores do Agora/&amp;Aacute;gora, Aron e Daniel, est&amp;atilde;o come&amp;ccedil;ando a desenvolver, que t&amp;ecirc;m a ver com a valoriza&amp;ccedil;&amp;atilde;o do espa&amp;ccedil;o p&amp;uacute;blico, fazer as pessoas repensarem a rela&amp;ccedil;&amp;atilde;o que t&amp;ecirc;m com os espa&amp;ccedil;os e a cidade. Eles chamam isso de &lt;a href=&quot;http://estudionomade.wordpress.com/2011/05/04/manifesto-da-transvencao/&quot; rel=&quot;nofollow&quot;&gt;Transven&amp;ccedil;&amp;atilde;o&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Semana corrida, muita coisa pra digerir. No fim das contas, apesar das cr&amp;iacute;ticas pontuais que eu fa&amp;ccedil;o aos dois eventos, eles deram motivo pra pensar. Voltei querendo agitar umas coisas da MetaReciclagem que est&amp;atilde;o meio paradas.&lt;/p&gt;
+&lt;p&gt;Vamo que vamo!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Atualizando:&lt;/strong&gt;&amp;nbsp;encontrei os v&amp;iacute;deos da &lt;a href=&quot;http://www.youtube.com/watch?v=U_ZSgEnAggc&quot; rel=&quot;nofollow&quot;&gt;reuni&amp;atilde;o com o ministro&lt;/a&gt; e do &lt;a href=&quot;http://twitcasting.tv/agora_agora/movie/1955051&quot; rel=&quot;nofollow&quot;&gt;debate durante o Agora/&amp;Aacute;gora&lt;/a&gt;.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/07-07-11/Porto-Alegre#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/agora-agora">agora agora</category>
+ <category domain="http://rede.metareciclagem.org/assunto/fisl">fisl</category>
+ <category domain="http://rede.metareciclagem.org/assunto/MCT">MCT</category>
+ <category domain="http://rede.metareciclagem.org/assunto/pol%C3%ADtica-p%C3%BAblica">política pública</category>
+ <category domain="http://rede.metareciclagem.org/assunto/porto-alegre">porto alegre</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Thu, 07 Jul 2011 20:47:01 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2053 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>OficinaComunicacao</title>
+ <link>http://rede.metareciclagem.org/wiki/OficinaComunicacao</link>
+ <description>&lt;p&gt;Oficina de comuni&amp;ccedil;&amp;atilde;o em Porto Algre, de 18 a 20 de Novembro.&lt;br /&gt;&lt;br /&gt;Uma atividade com a realiza&amp;ccedil;&amp;atilde;o conjunta do Projeto Metareciclagem, Instituto TRI e Projeto Alice.&lt;br /&gt;&lt;br /&gt;entao pensa so... divididimos turmas... uma galera&lt;br /&gt;&amp;nbsp;aprende a fotografar, outra vai colher informacoes&lt;br /&gt;&amp;nbsp;na comunidade fazendo entrevista e buscando fatos,&lt;br /&gt;&amp;nbsp;depois um redacaozinha, outra galera faz diagramacao&lt;br /&gt;&amp;nbsp;e outra a migracao das maquinas, outra na publicacao&lt;br /&gt;&amp;nbsp;online do artigo, e oficina de html. na pratica temos&lt;br /&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/OficinaComunicacao&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/OficinaComunicacao#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/oficinas">oficinas</category>
+ <category domain="http://rede.metareciclagem.org/assunto/porto-alegre">porto alegre</category>
+ <pubDate>Wed, 25 Jun 2008 22:56:19 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1358 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

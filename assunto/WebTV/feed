@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>MetaReciclagem - WebTV</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/615/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>MagnificaT</title>
+ <link>http://rede.metareciclagem.org/conectaz/MagnificaT</link>
+ <description>&lt;div class=&quot;form-item&quot;&gt;
+ &lt;label&gt;Descrição: &lt;/label&gt;
+ Guia de como construir uma WebTV de forma simples. O objetivo é compartilhar conhecimento e auxiliar leigos a a fazerem TV via internet
+&lt;/div&gt;
+&lt;p&gt;____________________________________________________________________________________________&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img alt=&quot;&quot; src=&quot;http://magnificat.orgfree.com/help-faq.png&quot; /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;Sobre o MagnificaT&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;span&gt;O &lt;/span&gt;&lt;span&gt;MagnificaT&lt;/span&gt;&lt;span&gt; &amp;eacute; um ambiente web para discuss&amp;atilde;o, desenvolvimento e aperfei&amp;ccedil;coamento do guia&amp;nbsp;&amp;quot;WebTV: Da Ideologia &amp;agrave; constru&amp;ccedil;&amp;atilde;o&amp;quot;.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span&gt;Este guia &amp;eacute; fruto&amp;nbsp;do trabalho&amp;nbsp;final de curso de Pedro Ivo Freire Vieira e&amp;nbsp;&lt;/span&gt;&lt;span&gt;&lt;span&gt;Kati&amp;eacute;llen Bonfanti&lt;/span&gt;&lt;/span&gt;&lt;span&gt;, Jornalistas formados pela Universidade Federal de Goi&amp;aacute;s em 2008, e membros do&amp;nbsp;&lt;/span&gt;&lt;span&gt;coletivo de WebTV&amp;nbsp;laboratorial/comunit&amp;aacute;rio&amp;nbsp;&amp;quot;Magn&amp;iacute;fica Mundi&amp;quot;.&lt;/span&gt;&lt;span&gt; &lt;br /&gt;
+&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp;O guia desenvolvido&amp;nbsp;tem como objetivo principal, compartilhar&amp;nbsp;conhecimento sobre prepara&amp;ccedil;&amp;atilde;o e configura&amp;ccedil;&amp;atilde;o de pequenos est&amp;uacute;dios de WebTV,&amp;nbsp;auxiliando pessoas que queiram produzir seu pr&amp;oacute;prio conte&amp;uacute;do televisivo, mas que det&amp;ecirc;m pouco conhecimento na &amp;aacute;rea de inform&amp;aacute;tica e audiovisual. A inten&amp;ccedil;&amp;atilde;o &amp;eacute; possiblitar com que mais e mais&amp;nbsp;pessoas experimentem fazer televis&amp;atilde;o, criando um canal aberto de compartilhamento de produ&amp;ccedil;&amp;otilde;es, opini&amp;otilde;es e id&amp;eacute;ias, contribuindo assim&amp;nbsp;para uma forma&amp;ccedil;&amp;atilde;o&amp;nbsp;cr&amp;iacute;tica e mais participativa com rela&amp;ccedil;&amp;atilde;o&amp;nbsp;&amp;agrave;&amp;nbsp;fun&amp;ccedil;&amp;atilde;o social da televis&amp;atilde;o no Brasil.&amp;nbsp; &lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span&gt;Neste guia voce encontra informa&amp;ccedil;&amp;otilde;es sobre:&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; # Inform&amp;aacute;tica b&amp;aacute;sica de hardware e software (Windows e Linux)&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp; # Tutoriais para cria&amp;ccedil;&amp;atilde;o de servidores Linux (Apache, SSHD e Samba em sistemas SUSE Linux)&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp; # Tutoriais para divulga&amp;ccedil;&amp;atilde;o de v&amp;iacute;deo e &amp;aacute;udio ao vivo via&amp;nbsp;streaming (Windows media encoder / Flumotion)&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp; # Cat&amp;aacute;logo de t&amp;eacute;cnicas b&amp;aacute;sicas de grava&amp;ccedil;&amp;atilde;o em est&amp;uacute;dio (cenografia, capta&amp;ccedil;&amp;atilde;o de &amp;aacute;udio e fotografia)&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp; # Dicion&amp;aacute;rio de termos t&amp;eacute;cnicos em inform&amp;aacute;tica e TV&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp; &lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp; Desejamos que outros guias surjam &amp;agrave; partir deste. &lt;strong&gt;Use-o sabiamente.&lt;/strong&gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp; &amp;nbsp;Confira a &amp;uacute;ltima vers&amp;atilde;o &amp;quot;est&amp;aacute;vel&amp;quot; do guia na nossa sess&amp;atilde;o de &lt;a href=&quot;http://magnificat.orgfree.com/download.html&quot; rel=&quot;nofollow&quot;&gt;Download &lt;/a&gt;&lt;/span&gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;strong&gt;Para mais innform&amp;ccedil;&amp;otilde;es, acesse: &lt;/strong&gt;&lt;a href=&quot;http://www.magnificat.orgfree.com&quot; rel=&quot;nofollow&quot;&gt;&lt;strong&gt;www.magnificat.orgfree.com&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;span&gt;&lt;br /&gt;
+&lt;img alt=&quot;&quot; src=&quot;http://magnificat.orgfree.com/help-faq.png&quot; /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;Sobre a Magn&amp;iacute;fica Mundi&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; O projeto experimental Magn&amp;iacute;fica Mundi &amp;eacute; um complexo de comunica&amp;ccedil;&amp;atilde;o livre e comunit&amp;aacute;ria. Livre porque n&amp;atilde;o est&amp;aacute; vinculada a nenhum tipo de interesse pol&amp;iacute;tico. &amp;Eacute; independente de governos, partidos ou iniciativas privadas; sem interesses particulares ou classistas e comunit&amp;aacute;ria porque prev&amp;ecirc; a participa&amp;ccedil;&amp;atilde;o de diversos e diversificados setores de atua&amp;ccedil;&amp;atilde;o social. &lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;A id&amp;eacute;ia &amp;eacute;, assim como a da Escola Popular de Comunica&amp;ccedil;&amp;atilde;o Cr&amp;iacute;tica, criada pelo Observat&amp;oacute;rio de Favelas e diversas entidades da sociedade civil, buscar a forma&amp;ccedil;&amp;atilde;o de rep&amp;oacute;rteres populares &amp;ldquo;capazes de pensar e expressar uma vis&amp;atilde;o de mundo diferente da representada pela grande m&amp;iacute;dia. [...] Uma comunica&amp;ccedil;&amp;atilde;o comunit&amp;aacute;ria se faz importante para que a popula&amp;ccedil;&amp;atilde;o possa ser ativa e n&amp;atilde;o passiva na busca de informa&amp;ccedil;&amp;otilde;es, que seja capaz de realizar uma discuss&amp;atilde;o ampla da comunica&amp;ccedil;&amp;atilde;o e compreend&amp;ecirc;-la como instrumento de contra-hegemonia.&amp;rdquo; (Vitor Monteiro de Castro)&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&amp;nbsp; &lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&amp;nbsp;Para saber um pouco mais sobre o projeto Magn&amp;iacute;fica Mundi acesse: &lt;br /&gt;
+&lt;/span&gt;&lt;span&gt;&lt;a href=&quot;http://www.facomb.ufg.br/magnifica&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;www.facomb.ufg.br/magnifica&lt;/a&gt; ou&amp;nbsp;&lt;/span&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://www.magnificamundi.izfree.com/&quot; rel=&quot;nofollow&quot;&gt;&lt;span&gt;www.magnificamundi.izfree.com&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;____________________________________________________________________________________________&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;span&gt;&lt;img src=&quot;http://magnificat.orgfree.com/document-save.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;Download&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span&gt;&lt;span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;A proposta do guia &amp;eacute; nunca estar pronto e sim em constante aperfei&amp;ccedil;oamento. Nos auxilie a refinar ainda mais o nosso trabalho sugerindo mudan&amp;ccedil;as e apontando erros. Para d&amp;uacute;vidas ou sugest&amp;otilde;es, nos encontre atrav&amp;eacute;s da nossa sess&amp;atilde;o de &lt;a href=&quot;http://magnificat.orgfree.com/contato.html&quot; rel=&quot;nofollow&quot;&gt;contato&lt;/a&gt;.&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp; O nosso manual intitulado &amp;quot;WebTV da Ideologia &amp;agrave; constru&amp;ccedil;&amp;atilde;o&amp;quot; possui duas categorias oficias. Uma voltada para sistema Windows e outra para sistema Linux. &amp;nbsp;Cada uma dessas categorias, por sua vez, cont&amp;eacute;m duas vers&amp;otilde;es&amp;nbsp;diferentes:&lt;br /&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span&gt;&lt;span&gt;&lt;br /&gt;
+&lt;/span&gt;&lt;strong&gt;&lt;span&gt;V.1.01A&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&lt;span&gt;Vers&amp;atilde;o mais longa e com mais informa&amp;ccedil;&amp;otilde;es. Indicada para usu&amp;aacute;rios iniciantes.&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span&gt;&lt;img src=&quot;http://magnificat.orgfree.com/text-x-preview.png&quot; alt=&quot;&quot; /&gt;Windows: (&lt;a href=&quot;http://magnificat.orgfree.com/guia/pdf/MagnificaT_V.1.01.A_Windows.pdf&quot; rel=&quot;nofollow&quot;&gt;PDF&lt;/a&gt;, &lt;a href=&quot;http://magnificat.orgfree.com/guia/doc/MagnificaT_V.1.01.A_Windows.doc&quot; rel=&quot;nofollow&quot;&gt;DOC&lt;/a&gt;, &lt;a href=&quot;http://magnificat.orgfree.com/guia/odt/MagnificaT_V.1.01.A_Windows.odt&quot; rel=&quot;nofollow&quot;&gt;ODT&lt;/a&gt;)&lt;/span&gt; &lt;br /&gt;
+&lt;span&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;# Inform&amp;aacute;tica b&amp;aacute;sica de hardware e software &lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&amp;nbsp; &amp;nbsp; # Tutoriais para divulga&amp;ccedil;&amp;atilde;o de v&amp;iacute;deo e &amp;aacute;udio ao vivo via&amp;nbsp;streaming (Windows media encoder)&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;#Cat&amp;aacute;logo de t&amp;eacute;cnicas b&amp;aacute;sicas de grava&amp;ccedil;&amp;atilde;o em est&amp;uacute;dio (cenografia, capta&amp;ccedil;&amp;atilde;o de &amp;aacute;udio e fotografia)&lt;/span&gt;.&lt;br /&gt;
+&lt;span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; # Dicion&amp;aacute;rio de termos t&amp;eacute;cnicos em inform&amp;aacute;tica e TV&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span&gt;&lt;img src=&quot;http://magnificat.orgfree.com/text-x-preview.png&quot; alt=&quot;&quot; /&gt;Linux:&lt;/span&gt; &lt;span&gt;(&lt;a href=&quot;http://magnificat.orgfree.com/guia/pdf/MagnificaT_V.1.01.A_Linux.pdf&quot; rel=&quot;nofollow&quot;&gt;PDF&lt;/a&gt;, &lt;a href=&quot;http://magnificat.orgfree.com/guia/doc/MagnificaT_V.1.01.A._Linux.doc&quot; rel=&quot;nofollow&quot;&gt;DOC&lt;/a&gt;, &lt;a href=&quot;http://magnificat.orgfree.com/guia/odt/MagnificaT_V.1.01.A._Linux.odt&quot; rel=&quot;nofollow&quot;&gt;ODT&lt;/a&gt;)&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; # Inform&amp;aacute;tica b&amp;aacute;sica de hardware e software&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; # Tutoriais para cria&amp;ccedil;&amp;atilde;o de servidores Linux (Apache, SSHD e Samba em sistemas SUSE Linux)&lt;/span&gt;, &lt;br /&gt;
+&lt;span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; # Tutoriais para divulga&amp;ccedil;&amp;atilde;o de v&amp;iacute;deo e &amp;aacute;udio ao vivo via&amp;nbsp;streaming (Flumotion), &lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; # Cat&amp;aacute;logo de t&amp;eacute;cnicas b&amp;aacute;sicas de grava&amp;ccedil;&amp;atilde;o em est&amp;uacute;dio (cenografia, capta&amp;ccedil;&amp;atilde;o de &amp;aacute;udio e fotografia)&lt;/span&gt;. &lt;br /&gt;
+&lt;span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; # Dicion&amp;aacute;rio de termos t&amp;eacute;cnicos em inform&amp;aacute;tica e TV&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;strong&gt;&lt;span&gt;V.1.01B&lt;/span&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;span&gt;&amp;nbsp;Vers&amp;atilde;o mais objetiva e simplificada. Indicada&amp;nbsp;para usu&amp;aacute;rios&amp;nbsp;intermedi&amp;aacute;rios e avan&amp;ccedil;ados. &lt;/span&gt; &lt;br /&gt;
+&lt;span&gt;&lt;br /&gt;
+&lt;/span&gt;&lt;span&gt;&lt;img src=&quot;http://magnificat.orgfree.com/text-x-preview.png&quot; alt=&quot;&quot; /&gt;Windows:&lt;/span&gt;&amp;nbsp;&lt;span&gt;(&lt;a href=&quot;http://magnificat.orgfree.com/guia/pdf/MagnificaT_V1.01.B_Windows.pdf&quot; rel=&quot;nofollow&quot;&gt;PDF&lt;/a&gt;, &lt;a href=&quot;http://magnificat.orgfree.com/guia/doc/MagnificaT_V1.01.B_windows.doc&quot; rel=&quot;nofollow&quot;&gt;DOC&lt;/a&gt;, &lt;a href=&quot;http://magnificat.orgfree.com/guia/odt/MagnificaT_V1.01.B_windows.odt&quot; rel=&quot;nofollow&quot;&gt;ODT&lt;/a&gt;)&lt;/span&gt; &lt;br /&gt;
+&lt;span&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span&gt;# Tutoriais para divulga&amp;ccedil;&amp;atilde;o de v&amp;iacute;deo e &amp;aacute;udio ao vivo via&amp;nbsp;streaming (Windows media encoder)&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;#Cat&amp;aacute;logo de t&amp;eacute;cnicas b&amp;aacute;sicas de grava&amp;ccedil;&amp;atilde;o em est&amp;uacute;dio (cenografia, capta&amp;ccedil;&amp;atilde;o de &amp;aacute;udio e fotografia)&lt;/span&gt;.&lt;br /&gt;
+&lt;br /&gt;
+&lt;span&gt;&lt;img src=&quot;http://magnificat.orgfree.com/text-x-preview.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;&lt;span&gt;Linux:&lt;/span&gt;&lt;span&gt; (&lt;a href=&quot;http://magnificat.orgfree.com/guia/pdf/MagnificaT_V.1.01.B_Linux.pdf&quot; rel=&quot;nofollow&quot;&gt;PDF&lt;/a&gt;, &lt;a href=&quot;http://magnificat.orgfree.com/guia/doc/MagnificaT_V.1.01.B_Linux.doc&quot; rel=&quot;nofollow&quot;&gt;DOC&lt;/a&gt;, &lt;a href=&quot;http://magnificat.orgfree.com/guia/odt/MagnificaT_V.1.01.B_Linux.odt&quot; rel=&quot;nofollow&quot;&gt;ODT&lt;/a&gt;)&lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span&gt;# Tutoriais para cria&amp;ccedil;&amp;atilde;o de servidores Linux (Apache, SSHD e Samba em sistemas SUSE Linux)&lt;/span&gt;, &lt;br /&gt;
+&lt;span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; # Tutoriais para divulga&amp;ccedil;&amp;atilde;o de v&amp;iacute;deo e &amp;aacute;udio ao vivo via&amp;nbsp;streaming (Flumotion), &lt;/span&gt;&lt;br /&gt;
+&lt;span&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; # Cat&amp;aacute;logo de t&amp;eacute;cnicas b&amp;aacute;sicas de grava&amp;ccedil;&amp;atilde;o em est&amp;uacute;dio (cenografia, capta&amp;ccedil;&amp;atilde;o de &amp;aacute;udio e fotografia)&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;____________________________________________________________________________________________&amp;nbsp;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/conectaz/MagnificaT&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-situacao-conectaz&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Situação desta ConecTAZ:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    em planejamento        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+  &lt;h3 class=&quot;location-locations-header&quot;&gt;Localização&lt;/h3&gt;
+  &lt;div class=&quot;location-locations-wrapper&quot;&gt;
+          &lt;div class=&quot;location vcard&quot;&gt;
+  &lt;div class=&quot;adr&quot;&gt;
+          &lt;span class=&quot;fn&quot;&gt;UFG&lt;/span&gt;
+                  &lt;span class=&quot;locality&quot;&gt;Goiânia&lt;/span&gt;,               &lt;span class=&quot;region&quot;&gt;GO&lt;/span&gt;
+              &lt;span class=&quot;postal-code&quot;&gt;74001-970&lt;/span&gt;
+              &lt;div class=&quot;country-name&quot;&gt;Brazil&lt;/div&gt;
+                                        &lt;span class=&quot;geo&quot;&gt;&lt;abbr class=&quot;latitude&quot; title=&quot;-16.642391&quot;&gt;16° 38&#039; 32.6076&quot; S&lt;/abbr&gt;, &lt;abbr class=&quot;longitude&quot; title=&quot;-49.387449&quot;&gt;49° 23&#039; 14.8164&quot; W&lt;/abbr&gt;&lt;/span&gt;
+            &lt;/div&gt;
+      &lt;div class=&quot;map-link&quot;&gt;
+      &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com.br?q=-16.642391+-49.387449+%28UFG%2C%2C+Goi%C3%A2nia%2C+GO%2C+74001-970%2C+br%29&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/conectaz/MagnificaT#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/Goi%C3%A2nia">Goiânia</category>
+ <category domain="http://rede.metareciclagem.org/assunto/Magn%C3%ADfica-Mundi">Magnífica Mundi</category>
+ <category domain="http://rede.metareciclagem.org/assunto/Universidade-Federal-de-Goi%C3%A1s">Universidade Federal de Goiás</category>
+ <category domain="http://rede.metareciclagem.org/assunto/WebTV">WebTV</category>
+ <category domain="http://rede.metareciclagem.org/assunto/WebTV-comunit%C3%A1ria">WebTV comunitária</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/midia/MagnificaT_V1.01.B_Windows.pdf" length="1916953" type="application/pdf" />
+ <georss:point>-16.642391 -49.387449</georss:point>
+ <pubDate>Tue, 28 Apr 2009 15:19:37 +0000</pubDate>
+ <dc:creator>pedrivo</dc:creator>
+ <guid isPermaLink="false">1584 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - nave</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/620/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Nasce o conecTAZ &quot;MetaNave&quot;</title>
+ <link>http://rede.metareciclagem.org/blog/30-04-09/Nasce-o-conecTAZ-MetaNave</link>
+ <description>&lt;p&gt;O relato abaixo, &amp;eacute; do &amp;quot;nascimento&amp;quot; da garagem #metanave que ocorreu neste m&amp;ecirc;s:&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/30-04-09/Nasce-o-conecTAZ-MetaNave&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/30-04-09/Nasce-o-conecTAZ-MetaNave#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/metanave">metanave</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metareciclagem">metareciclagem</category>
+ <category domain="http://rede.metareciclagem.org/assunto/nave">nave</category>
+ <category domain="http://rede.metareciclagem.org/assunto/weblab">weblab</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/MetaNave" xmlns="http://drupal.org/project/og">MetaNave</group>
+ <pubDate>Thu, 30 Apr 2009 20:49:54 +0000</pubDate>
+ <dc:creator>hudson</dc:creator>
+ <guid isPermaLink="false">1586 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Nasce o conecTAZ metavae</title>
+ <link>http://rede.metareciclagem.org/blog/30-04-09/Nasce-o-conecTAZ-metavae</link>
+ <description>&lt;p&gt;O erelato do &amp;quot;nascimento&amp;quot; da garagem #metanave que ocorreu neste m&amp;ecirc;s:&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/30-04-09/Nasce-o-conecTAZ-metavae&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/30-04-09/Nasce-o-conecTAZ-metavae#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/metanave">metanave</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metareciclagem">metareciclagem</category>
+ <category domain="http://rede.metareciclagem.org/assunto/nave">nave</category>
+ <category domain="http://rede.metareciclagem.org/assunto/weblab">weblab</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/MetaNave" xmlns="http://drupal.org/project/og">MetaNave</group>
+ <pubDate>Thu, 30 Apr 2009 20:47:41 +0000</pubDate>
+ <dc:creator>hudson</dc:creator>
+ <guid isPermaLink="false">1585 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

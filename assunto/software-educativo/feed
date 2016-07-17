@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - software educativo</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/274/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>MathWar</title>
+ <link>http://rede.metareciclagem.org/wiki/MathWar</link>
+ <description>&lt;p&gt;Mathwar&lt;br /&gt;&lt;br /&gt;O MathWar &amp;eacute; o mais avan&amp;ccedil;ado dos tr&amp;ecirc;s. Possui uma interface bonita, com n&amp;uacute;meros bem grandes, que chamam logo a aten&amp;ccedil;&amp;atilde;o.&lt;br /&gt;&lt;br /&gt;Voc&amp;ecirc; precisa resolver as opera&amp;ccedil;&amp;otilde;es, s&amp;oacute; que dessa vez com alguns obst&amp;aacute;culos, como um cron&amp;ocirc;metro e as opini&amp;otilde;es do programa. Se voc&amp;ecirc; n&amp;atilde;o souber uma resposta, o programa indica uma e voc&amp;ecirc; precisa dizer se ele est&amp;aacute; certo ou errado. Se disser q est&amp;aacute; certo, ponto pra voc&amp;ecirc;, se n&amp;atilde;o, ponto pro computador.&lt;br /&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/MathWar&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/MathWar#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/software-educativo">software educativo</category>
+ <pubDate>Wed, 18 Jun 2008 21:42:29 +0000</pubDate>
+ <dc:creator>admin</dc:creator>
+ <guid isPermaLink="false">1308 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>GCompris</title>
+ <link>http://rede.metareciclagem.org/wiki/GCompris</link>
+ <description>&lt;p&gt;&lt;a href=&quot;http://www.ofset.org/uploadfiles/61/image/logoplane.jpg&quot; title=&quot;http://www.ofset.org/uploadfiles/61/image/logoplane.jpg&quot; rel=&quot;nofollow&quot;&gt;http://www.ofset.org/uploadfiles/61/image/logoplane.jpg&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;GCompris &amp;eacute; um software educacional que prop&amp;otilde;e atividades variadas para crian&amp;ccedil;as de 2 a 10 anos&lt;br /&gt;GCompris &amp;eacute; uma aplica&amp;ccedil;&amp;atilde;o de Linux para crian&amp;ccedil;as atividades educative diferentes desse includes/understands 20: Slate simples, jogos dos n&amp;uacute;meros, atividades da &amp;aacute;lgebra, um pulso de disparo para aprender as horas, enigma os formul&amp;aacute;rios e as figuras, de exerc&amp;iacute;cios das escalas, de exerc&amp;iacute;cios dos conicidencias, etc.&lt;br /&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/GCompris&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/GCompris#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/software-educativo">software educativo</category>
+ <category domain="http://rede.metareciclagem.org/tags/software-livre">software livre</category>
+ <pubDate>Tue, 17 Jun 2008 19:46:17 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1300 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

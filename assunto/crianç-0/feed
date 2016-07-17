@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - criança</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/772/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Doa-se</title>
+ <link>http://rede.metareciclagem.org/blog/14-10-09/Doa-se</link>
+ <description>&lt;p&gt;&lt;img width=&quot;500&quot; alt=&quot;&quot; src=&quot;\Documents and Settings\José Maria\Meus documentos\Tati&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+&lt;style type=&quot;text/css&quot;&gt;
+	
+	&lt;/style&gt;       
+
+&lt;/p&gt;
+&lt;p class=&quot;western&quot;&gt;&lt;img width=&quot;500&quot; src=&quot;\Documents and Settings\José Maria\Meus documentos\Tati\molecada_posts_1&quot; alt=&quot;&quot; /&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/14-10-09/Doa-se&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/14-10-09/Doa-se#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/crian%C3%A7-0">criança</category>
+ <category domain="http://rede.metareciclagem.org/assunto/molecada">molecada</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Wed, 14 Oct 2009 02:22:32 +0000</pubDate>
+ <dc:creator>tatirprado</dc:creator>
+ <guid isPermaLink="false">1781 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

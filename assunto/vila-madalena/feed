@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>MetaReciclagem - vila madalena</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/257/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>LabMadá</title>
+ <link>http://rede.metareciclagem.org/conectaz/LabMad%C3%A1</link>
+ <description>&lt;div class=&quot;form-item&quot;&gt;
+ &lt;label&gt;Descrição: &lt;/label&gt;
+ MetaLab da Vila Madalena - São Paulo - SP
+&lt;/div&gt;
+LabMadá
+
+Mini-encontros:
+
+- 6 de fevereiro, 19hrs.
+- 8 de março.
+
+Programação:
+
+- Cine Clube
+- RPG
+- Projeto FILE&lt;div class=&quot;field field-type-text field-field-situacao-conectaz&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Situação desta ConecTAZ:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    funcionando        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/conectaz/LabMad%C3%A1#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/labmad%C3%A1">labmadá</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metalab">metalab</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metareciclagem">metareciclagem</category>
+ <category domain="http://rede.metareciclagem.org/assunto/s-o-paulo">são paulo</category>
+ <category domain="http://rede.metareciclagem.org/assunto/vila-madalena">vila madalena</category>
+ <pubDate>Wed, 04 Feb 2009 19:43:57 +0000</pubDate>
+ <dc:creator>varga</dc:creator>
+ <guid isPermaLink="false">1531 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Casinha</title>
+ <link>http://rede.metareciclagem.org/esporo/Casinha</link>
+ <description>&lt;div class=&quot;form-item&quot;&gt;
+ &lt;label&gt;Descrição: &lt;/label&gt;
+ Esporo de MetaReciclagem na Casinha
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-situacao-esporo&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Situação do Esporo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    encerrado        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+  &lt;h3 class=&quot;location-locations-header&quot;&gt;Localização&lt;/h3&gt;
+  &lt;div class=&quot;location-locations-wrapper&quot;&gt;
+          &lt;div class=&quot;location vcard&quot;&gt;
+  &lt;div class=&quot;adr&quot;&gt;
+          &lt;span class=&quot;fn&quot;&gt;Casinha&lt;/span&gt;
+                  &lt;span class=&quot;locality&quot;&gt;São Paulo&lt;/span&gt;,               &lt;span class=&quot;region&quot;&gt;SP&lt;/span&gt;
+                  &lt;div class=&quot;country-name&quot;&gt;Brazil&lt;/div&gt;
+                                        &lt;span class=&quot;geo&quot;&gt;&lt;abbr class=&quot;latitude&quot; title=&quot;-23.548531&quot;&gt;23° 32&#039; 54.7116&quot; S&lt;/abbr&gt;, &lt;abbr class=&quot;longitude&quot; title=&quot;-46.688677&quot;&gt;46° 41&#039; 19.2372&quot; W&lt;/abbr&gt;&lt;/span&gt;
+            &lt;/div&gt;
+      &lt;div class=&quot;map-link&quot;&gt;
+      &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com.br?q=-23.548531+-46.688677+%28Casinha%2C%2C+S%C3%A3o+Paulo%2C+SP%2C+%2C+br%29&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/esporo/Casinha#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/s-o-paulo">são paulo</category>
+ <category domain="http://rede.metareciclagem.org/assunto/vila-madalena">vila madalena</category>
+ <georss:point>-23.548531 -46.688677</georss:point>
+ <pubDate>Tue, 17 Jun 2008 00:12:10 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1272 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

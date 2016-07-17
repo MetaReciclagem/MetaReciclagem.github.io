@@ -1,0 +1,527 @@
+Conversation with #metareciclagem at Qui 15 Abr 2010 19:02:02 BRT on efeefe@irc.freenode.org (irc)
+(19:02:04) #metareciclagem: Modo (+o efeefe) por ChanServ
+(19:02:14) efeefe: aloooou
+(19:03:05) maira: ehhhhhhhhhhhhhhhh
+(19:03:20) efeefe: enton
+(19:03:26) efeefe: vamo atrasar ou comecar logo?
+(19:03:29) efeefe: hehe
+(19:03:40) maira: atrasar
+(19:03:55) efeefe: hm
+(19:03:56) maira: nao podemos quebrar tradicao assim
+(19:04:02) maira: 12 minutos
+(19:04:07) efeefe: to na rua
+(19:04:09) maira: 19h15
+(19:04:13) maira: puts
+(19:04:13) efeefe: minha bateria nao vai durar muito
+(19:04:13) efeefe: ok
+(19:04:21) efeefe: 15min belez
+(19:04:25) maira: quer comecar agora?
+(19:04:27) efeefe: mas pelas 20h tenho que sair
+(19:04:33) efeefe: nao sei, tem mais gente vindo?
+(19:04:40) maira: talvez
+(19:04:48) maira: nunca se sabe
+(19:06:02) efeefe: vamos dar um tempinho
+(19:06:17) maira: vamos
+(19:07:08) monamoan: olás
+(19:07:23) efeefe: maira, dah o ritmo?
+(19:08:15) maira: sim
+(19:08:33) maira: rafaeletc tah por ai?
+(19:08:45) maira: pessoas queridas
+(19:08:56) monamoan: :-D
+(19:09:10) maira: sao 3 coisas: gambiologia, mutsaz, encontrinho
+(19:09:16) maira: vamos por gambiologia
+(19:09:35) maira: o rafaeletc conseguiu diagramar usando um script
+(19:09:52) monamoan: eba
+(19:10:00) maira: ontem estive com ele, e ele ficou de subir tudo o que fez no wiki do gambiologia
+(19:10:04) monamoan: libera aí para pensarmos na arte e pá
+(19:10:12) maira: entao
+(19:10:16) maira: ele vai liberar
+(19:10:34) maira: colocar no wiki ate sabado com as imagens pra durante 10 dias, nos e a rede pensarmos na arte
+(19:10:38) maira: ai fechou.
+(19:10:59) efeefe: eu tenho uma coisa a mais em cima da gambiologia tambem
+(19:11:31) maira: conte ai efe
+(19:11:35) monamoan: massa..
+(19:12:53) efeefe: soh antes
+(19:13:05) efeefe: a gente tem que ver como receber interferencias e ideias no arquivo do scribus
+(19:13:34) efeefe: e se pans pensar em maneiras de viabilizar aquela ideia de ter pessoas diferentes propondo ideias de layout e diagramacao pra cada artigo
+(19:13:43) efeefe: sei que isso dah mais trabalho
+(19:13:46) efeefe: mas eh legal
+(19:14:01) maira: rafaeletc tava falando sobre isso comigo ontem
+(19:14:05) monamoan: mas é que um livro né..
+(19:14:15) maira: dessa vez eu nao sei como fazer
+(19:14:36) efeefe: ou deixamos essa ideia pros mutsazzes
+(19:14:45) maira: isso poderia, a medio prazo, entrar como necessidade de infralogica
+(19:15:06) maira: sim moanmoan, e efeefe eu acho que pra gambiologia a coisa jah tah feita
+(19:15:07) monamoan: tudo bem reinventar modelos, mas eu acho que no livro deva se investir em uma capa bacana, um sumario legal, e os capitulos mais uniformes
+(19:15:08) maira: sei lah
+(19:15:14) maira: eu pensaria pro futuro
+(19:15:48) maira: moanmoan acho que o efeefe tah falando em modelo de edicao colaborativa
+(19:15:57) monamoan: do gambi, ou mutsaz?
+(19:15:58) maira: acho que eh o caminho
+(19:16:06) maira: #mutgamb
+(19:16:10) maira: pro nucleo
+(19:16:21) maira: mas eh uma coisa que temos que construir aos poucos
+(19:16:33) maira: se for nesse esquema de usar o script
+(19:19:10) monamoan: gente, pra quando ficou o lançamento do gambiologia?
+(19:20:33) efeefe: soh depois de ficar pronto ;)
+(19:20:36) maira: o efeefe tem que contar uma coisa antes de fechamos isso
+(19:20:37) efeefe: sem pressa
+(19:20:40) maira: sim
+(19:20:50) monamoan: =D
+(19:20:52) rafaeletc: cheguei
+(19:20:57) efeefe: fala etc.
+(19:20:58) maira: mas eu nao gostaria de prolongar muito esse trabalho de subirmos para a rede
+(19:21:15) maira: eiei rafaeletc de uma lida no que consversamos
+(19:21:19) maira: por favor ;)
+(19:21:38) maira: e tb de prolongar a revisao final e arte final
+(19:21:49) monamoan: dá uma previsão aí maira..
+(19:21:54) monamoan: p finalização da arte
+(19:21:57) maira: acho que do sabado 17/04 que o rafaeletc subir
+(19:22:02) rafaeletc: to lendo
+(19:22:15) maira: poderiamos trabalhar por 10 dias nisso ateh 27/04
+(19:22:23) maira: ai o efeefe tem que contar uma coisa
+(19:22:34) maira: que talvez implique numa nova data pro lancamento
+(19:22:38) monamoan: beleza, combinado.
+(19:22:40) maira: mas, na minha opiniao
+(19:22:47) maira: poderiamos deixar isso pronto
+(19:22:53) maira: e tocar com as outras coisas
+(19:23:01) maira: pra nao ficar infinito
+(19:23:11) maira: por que temos o mutsaz
+(19:23:13) maira: de outono
+(19:23:26) maira: que eh o proximo topico, depois da gambiologia
+(19:23:45) monamoan: mas com essa data já definida, fica tranquilo
+(19:23:52) maira: rafaeletc o efeefe falou numa forma de outras pessoas interagirem com o que diagrou via scrip
+(19:24:04) maira: isso 27/04 - arte, revisao de texto, ajustes
+(19:24:14) maira: rafaeletc sobe tudo em 17/04
+(19:24:56) rafaeletc: bom, n?o ? inviavel tocar colaborativamente um edi??o no scribus
+(19:25:11) rafaeletc: como da pra trabalhar com infinitas p?ginas mestras
+(19:25:12) maira: ehehe o que estavamos falando ontem
+(19:25:14) maira: :)
+(19:25:17) maira: mas como fazer?
+(19:25:23) efeefe: acho que dah pra deixar menos tech
+(19:25:26) efeefe: mais nas ideias
+(19:25:34) efeefe: publica o boneco, deixa as pessoas comentarem
+(19:25:39) efeefe: mas alguem fica responsaveis por mudancas gerais
+(19:25:47) maira: isso, mais simples
+(19:25:49) rafaeletc: se faz um grosso, coloca-se todos os textos e deixa aberto pra interven??es
+(19:26:00) maira: isso rafaeletc
+(19:26:23) efeefe: e aih depois dessa fase geral, SE pintarem interessadxs, a gente quebra o trampo em partes
+(19:26:57) maira: efeefe eh que esse jeito do rafaeletc diagramar eh bem simples
+(19:27:03) maira: ele diagrama tudo de uma vez
+(19:27:05) efeefe: saquei
+(19:27:12) efeefe: faz sentido
+(19:27:16) maira: acho que poderiamos centralizar isso nele, a parte tecnica
+(19:27:23) rafaeletc: pra quebrar o trampo em partes o script ? util
+(19:27:35) rafaeletc: por exemple se a coisa for crescendo organicamente
+(19:27:46) rafaeletc: entra em texto aqui e outro acol?
+(19:28:21) rafaeletc: ? s? estabelecer que cada texto encaixe em paginas inteiras
+(19:28:32) rafaeletc: pra montar o grosso depois disso n?o ? dificil
+(19:28:39) maira: isso se for crescendo organicamente
+(19:28:45) maira: o que nao eh o caso do gambiologia
+(19:28:50) maira: que jah esta fechado
+(19:28:51) rafaeletc: ?
+(19:28:52) efeefe: sim
+(19:28:59) maira: eh mais pra pensar em possibilidades
+(19:29:04) efeefe: podemos pensar nessa estrutura mais aberta pros mutsaz
+(19:29:05) maira: de trabalho pros peoximos
+(19:29:05) rafaeletc: acho que ? interessante pensar nisso pras revistas
+(19:29:08) maira: isso
+(19:29:16) rafaeletc: que ter?o uma leva maior
+(19:29:22) maira: isso
+(19:29:34) maira: efe diga o que tem pra dizer
+(19:29:39) maira: antes que entremos em mutsaz
+(19:29:40) maira: :)
+(19:29:48) rafaeletc: com script no scribus eu consiglo ler bd mysql e rss
+(19:29:53) efeefe: hehe
+(19:29:55) efeefe: entao
+(19:30:06) efeefe: nao sei se voces conheceram o ricardo rosas
+(19:30:13) monamoan: sim
+(19:30:22) efeefe: do rizoma.net ,entre outras coisas
+(19:30:28) efeefe: ele faleceu ha uns dois anos
+(19:30:37) efeefe: na epoca, estava escrevendo um livro sobre gambiarra
+(19:30:54) efeefe: que foi parar na mao da giseli vasconcelos, de belem
+(19:31:03) efeefe: que eh aliada antiga, foi uma das produtoras do mtb em 2003
+(19:31:19) efeefe: a gi tah dando um gas pra editar o livro, com umas parcerias lah
+(19:31:38) efeefe: e me disse que quer fazer em parceria com o mutirao
+(19:31:47) efeefe: o livro chama truquenologia
+(19:34:37) maira: sim
+(19:34:44) maira: e como foi pensada essa parceria?
+(19:34:54) maira: de editarmos? diagramarmos e lancarmos?
+(19:35:00) maira: junto com gambiologia?
+(19:35:05) maira: soh versao digital?
+(19:35:10) efeefe: a gente entra com os bracos, a rede, a dinamica
+(19:35:26) efeefe: a gi traz o material e articula apoios que banquem o trampo de editar e diagramar
+(19:35:41) efeefe: fazemos uma proposta de soh digital, outra proposta de digital + impressa
+(19:35:53) efeefe: na primeira vez que falei com a gi, tinha pensado de lancar junto
+(19:36:01) efeefe: mas acho que o tempo passou e a gambiologia se consolidou
+(19:36:24) mariwell [~mariel@83.33.23.127] entrou na sala.
+(19:36:34) efeefe: agora que a mariel chegou, eu saio
+(19:36:44) mariwell: mala
+(19:36:45) mariwell: :P
+(19:37:03) maira: ahahahah
+(19:37:09) efeefe: entao
+(19:37:21) efeefe: esse papo de truquenologia tah no comeco, segunda eu vou retomar com a gi
+(19:37:27) mariwell: oi povo!
+(19:37:30) maira: efeefe acho que faria mais sentido editarmos e diagramarmos
+(19:37:31) efeefe: por enquanto, a gente podia pensar em estruturar uma propostinha
+(19:37:45) maira: sim
+(19:37:54) mariwell: to entrando do além! e el tío no me hace caso!
+(19:38:04) efeefe: alem-prado?
+(19:38:11) mariwell: ops
+(19:38:15) mariwell: além-mar
+(19:38:25) maira: jah que vc vai conversar com a gi, acho que poderiamos pensar em lancar gambiologia junto com o mutsaz de outono no encontrinho
+(19:38:29) efeefe: alem-andaluz
+(19:38:37) maira: mariwell
+(19:38:40) maira: :D
+(19:38:52) mariwell: soy yo
+(19:39:02) maira: efeefe ou lancar antes
+(19:39:04) maira: nao sei
+(19:39:09) efeefe: maira: gambiologia sem truque ou com truque?
+(19:39:29) maira: eu acho que com
+(19:39:36) maira: mas fala com ela
+(19:40:04) maira: ou lancamos gambi+truque em julho
+(19:40:09) maira: um mes depois
+(19:40:10) dasilva [~dasilvaor@189.71.63.53] entrou na sala.
+(19:40:33) efeefe: bele
+(19:40:47) efeefe: galera, eu vou inserir a maira na conversa com a gi, depois a gente vai informando todo mundo
+(19:40:50) efeefe: soh pra manter o foco
+(19:40:53) efeefe: e esconder tudo do orlando
+(19:40:57) efeefe: ;)
+(19:40:58) maira: soh acho que nao temos porque postegar mais pra lancar as coisas que jah estao prontas
+(19:41:04) maira: ahahaha
+(19:41:04) efeefe: maira: beleza
+(19:41:10) monamoan: kkkkk
+(19:41:13) efeefe: entao acelera gambiologia e deixamos o truque pra depois
+(19:41:19) maira: isso
+(19:41:23) maira: topico 2
+(19:41:26) maira: mutsaz
+(19:41:42) maira: o efeefe que furou e nao foi ao encontrinho porque eh chato
+(19:41:47) rafaeletc: mutsaz
+(19:41:52) efeefe: pois eh
+(19:41:53) maira: alem de perder as frutas e o bolo de cenoura
+(19:41:55) monamoan: entonces..
+(19:41:56) efeefe: foi bem legal isso
+(19:41:57) mariwell: chato. chato
+(19:41:58) efeefe: eu nao fui!
+(19:41:59) efeefe: heheh
+(19:42:01) maira: perdeu a nossa conversa
+(19:42:01) efeefe: e rolou
+(19:42:08) efeefe: peguei a documentacoa
+(19:42:08) monamoan: tem que entrar uma nova ilustração, né..
+(19:42:08) maira: mariwell tb nao foi
+(19:42:13) mariwell: só vai na mercearia são pedro quando eu tô fora do país
+(19:42:21) maira: sim, mas vamos por partes moanmoan
+(19:42:23) monamoan: afinal de contas, já é outono =D
+(19:42:27) maira: isso
+(19:42:35) dasilva: eh mariwell tah na espanha?
+(19:42:45) mariwell: tô
+(19:42:50) dasilva: show
+(19:42:51) maira: mariwell se vende para os espanhois
+(19:42:55) mariwell: no escritório da campus party
+(19:42:56) mariwell: sim
+(19:43:00) dasilva: o efeefe c não esconde nada cara
+(19:43:03) maira: nossa campus party
+(19:43:04) mariwell: me vendi por um bilhete de avião
+(19:43:12) mariwell: tô baratinha
+(19:43:17) monamoan: ahaahahha
+(19:43:25) dasilva: o ta baratinha mesmo
+(19:43:28) efeefe: eu me vendo mas esqueco de cobrar
+(19:43:29) monamoan: traz um whisky aí mariwell
+(19:43:35) maira: ahahaha
+(19:43:40) maira: eu nem vou falar nada
+(19:43:41) mariwell: olha, nÃo é má ideia
+(19:43:42) maira: ahahah
+(19:43:48) dasilva: mas eu vi no linkedin dela que ela tah diretora de alguma coisa
+(19:43:50) monamoan: kkkkkkk
+(19:43:58) mariwell: huahaha
+(19:44:03) mariwell: coordenadora
+(19:44:08) dasilva: ahhh, claro
+(19:44:09) mariwell: hauhaha
+(19:44:16) dasilva: e entao
+(19:44:26) mariwell: coordenadora de planilha de palestra
+(19:44:26) dasilva: topico 1 resolvido, qual eh o2 ?
+(19:44:29) mariwell: intergalática
+(19:44:30) maira: a mariwell deveria publicar um livro via mutirao: contos de campus party
+(19:44:52) maira: [mudando os nomes, claro....hauhuahuahua]
+(19:45:02) maira: bom, voltando
+(19:45:03) efeefe: topico outono
+(19:45:04) maira: mutsaz
+(19:45:06) efeefe: vai rolar blogagem?
+(19:45:06) maira: isso
+(19:45:10) maira: vai
+(19:45:18) maira: vou escrever um pouco pra explicar
+(19:45:23) maira: estavamos lah na conversa
+(19:45:29) maira: sobre a estrutura do mutsaz
+(19:45:31) dasilva: falae
+(19:45:33) maira: e ai silia e tatiprado
+(19:45:47) maira: comecaram a discutir sobre o conteudo
+(19:45:55) maira: [discutir saudavelmente]
+(19:46:08) monamoan: kkk
+(19:46:09) maira: silia colocou que deveriamos pensar em secoes, colunas e tal
+(19:46:41) maira: mais ou menos o que eu tinha subido como proposta de esqueleto no outr irc que o efe mandou eu desaparecer e focar no midia livre e soh voltar depois
+(19:46:47) maira: enquanto a tati
+(19:46:50) maira: falava que nao
+(19:47:02) maira: que deveriamos pensar em 4 mutsaz soh com blogagem
+(19:47:04) efeefe: scur tah aqui do lado e mandou um oi
+(19:47:10) maira: dai enquanto eu sumi
+(19:47:25) dasilva: beijin na scur e no baby
+(19:47:25) maira: a scur nao tah no irc porque ela tah com windons vista
+(19:47:39) maira: a falsaria :P
+(19:47:46) rafaeletc: traindo o movimento
+(19:47:50) maira: mas voltabdo ehehe
+(19:47:58) maira: dai enquanto sumi
+(19:48:10) maira: pensei que poderiamos mixar essas duas ideias
+(19:48:22) efeefe: maira: pior, ela tah com um mac emprestado
+(19:48:35) maira: abrir uma blogagem por estacao pra nao ficar massivo e chato, ao inves das tres
+(19:48:40) maira: efeefe ahahahahahahha
+(19:48:48) monamoan: pior mesmo kkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+(19:48:49) dasilva: voto em uma blogagem por estação
+(19:48:56) maira: isso
+(19:49:08) monamoan: voto em uma blogagem por estação ²
+(19:49:08) maira: e uma blogagem meio que direcionada
+(19:49:10) maira: nisso
+(19:49:18) maira: eu tava conversando com o andueza
+(19:49:27) maira: jah que eu converso com todo mundo :P
+(19:49:33) efeefe: uma blogagem por estacao dah material suficiente?
+(19:49:40) efeefe: acho que podemos tentar uma vez, e ver o que rola
+(19:49:42) maira: efeefe
+(19:49:49) efeefe: na real nao tem tamanho minimo, neh?
+(19:49:53) maira: chegamos num ponto durante o encontrinho
+(19:50:03) maira: temos muito material hoje
+(19:50:06) maira: muito
+(19:50:19) maira: talvez fosse a hora de pensar em melhorar a proposta
+(19:50:21) maira: e nao aumentar
+(19:50:24) maira: acho que temos
+(19:50:31) dasilva: a lista tem muita coisa a ser resgatada
+(19:50:40) maira: se tivermos uma blogagem por estacao com um tempo maior de divulgacao
+(19:50:42) maira: dasilvaorg
+(19:50:48) maira: mas sao coisas diferentes
+(19:50:58) maira: uma pessoa pode resgatar uma coisa
+(19:51:06) maira: e contextualizar aquilo como material
+(19:51:08) maira: entao
+(19:51:33) maira: ai pensei que para essa blogagem seria legal tipo 15/05 a 20/05
+(19:51:46) maira: porque ficamos com um mes para diagramar+arte+revisao
+(19:51:54) maira: e comecariamos a divulgar na semana que vem
+(19:52:01) dasilva: alguem tinha sugerido que fosse um dia só
+(19:52:03) maira: articulando com as outras redes
+(19:52:08) dasilva: e muita divulgacao em cima desse dia
+(19:52:10) maira: um dia soh eu sou contra
+(19:52:15) dasilva: eu tava achando interessante
+(19:52:16) maira: dois dias
+(19:52:20) maira: tres dias
+(19:52:26) maira: um dia soh eh pouco
+(19:52:31) maira: acontecem imprevistos
+(19:52:35) maira: e a pessoa nao posta
+(19:52:47) dasilva: aih a gente recebe atrasado
+(19:52:51) maira: nao
+(19:52:54) rafaeletc: ou deixa pro ultimo dia e posto meia id?ia
+(19:52:55) monamoan: mas se for assim..
+(19:53:01) monamoan: vai receber um monte de atraso
+(19:53:02) dasilva: bem
+(19:53:06) efeefe: eu acho que um dia soh limita muito
+(19:53:08) monamoan: *atrasado
+(19:53:10) maira: nao tem isso de receber atrasado
+(19:53:11) mbraz [~marcbraz@200-150-180-177.static-user.ajato.com.br] entrou na sala.
+(19:53:15) monamoan: e nao adianta ter prazo..
+(19:53:16) efeefe: nohs procrastinadorxs temos um problema
+(19:53:24) efeefe: que se nao rola ateh o fim do dia, rola aquela desistencia
+(19:53:42) efeefe: acho que a gente pode definir a proposta para *esta* edicao
+(19:53:51) maira: isso
+(19:53:54) mbraz: ois
+(19:54:00) maira: mbraz oi
+(19:54:02) dasilva: fala braseiro
+(19:54:07) rafaeletc: por um esta??o se escreve 70% dela, separa-se 10% para organizar tudo que se escreveu e 20% pra produzir o produto final
+(19:54:19) dasilva: e subs, que perrengue com a petro, heim?
+(19:54:22) mbraz: na escuta
+(19:54:28) dasilva: mas, nao quero desviar
+(19:54:30) dasilva: vamo la
+(19:54:43) maira: rafaeletc traduza isso para o outono, pensando que temos que ter ele pronto em 26/06
+(19:54:43) efeefe: uma blogagem soh, 10 dias para receber colaboracoes, 1 mes antes pra divulgar
+(19:54:59) maira: acho 10 dias muito
+(19:55:01) rafaeletc: se estabelece uma data final para entrega
+(19:55:16) rafaeletc: tem muita coisa que j? est? rolando
+(19:55:21) dasilva: huehuehue, maira eh nem muito ao mar nem muito a terra
+(19:55:24) rafaeletc: ? como se o chamado estivesse sempre aberto
+(19:55:25) maira: a data final tem que ser 26/05 eu acho
+(19:55:26) mariwell: humm
+(19:55:26) efeefe: uma semana
+(19:55:45) maira: para termos 1 mes pra fechar
+(19:55:57) rafaeletc: assim separa-se uns dias depois desta data pra verificar todo material e organiz?-lo
+(19:56:08) rafaeletc: e o dobro destes dias pra diagramar
+(19:56:10) dasilva: a pos-producao e sempre mais trabalhosa
+(19:56:16) maira: entao se fechar em 26/05
+(19:56:24) efeefe: e tambem vamos insistir mais no chamado
+(19:56:28) efeefe: mostrar o que for saindo
+(19:56:31) maira: a blogagem tem que ser de 19 a 26/o5
+(19:56:37) efeefe: fazer um processinho de ativacao
+(19:56:42) efeefe: maira: perfeito
+(19:56:46) efeefe: dias quebrados ;)
+(19:57:08) maira: 19/05 eh quando eu faco 26 anos ehehe
+(19:57:20) maira: entao eh isso
+(19:57:25) rafaeletc: olha s?, merece bolo
+(19:57:27) mbraz: que novinha ...
+(19:57:34) maira: lancamos a proposta/chamado em 19/04
+(19:57:43) maira: temos um mes de divulgacao :D
+(19:58:00) maira: silia vc acha que pro dia 19/04 vc consegue fazer o banner
+(19:58:02) rafaeletc: ou fa?amos o chamado agora
+(19:58:03) efeefe: roquenrou
+(19:58:09) efeefe: quem escreve o chamado?
+(19:58:14) maira: e pensar numa muza de outono?
+(19:58:19) mbraz: (hoje niver da Goa)
+(19:58:24) maira: e escrever um pouco sobre o conceito dela?
+(19:58:34) maira: tah sobre o chamado
+(19:58:51) maira: eu tava pensando nao em chamados tematicos
+(19:58:59) maira: mas em chamados-com-proposito
+(19:59:08) monamoan: sim
+(19:59:12) maira: ateh meio como um guia pra o que a pessoa postar
+(19:59:15) monamoan: oooo goa!!1
+(19:59:20) maira: e nessas estava falando com o andueza
+(19:59:23) rafaeletc: cada regi?o reserva seu pr?prio outono
+(19:59:40) maira: de abrir uma chamada: qual o lixo eletronico que vc guarda em casa
+(19:59:55) maira: a pessoa poderia escrever um texto, ou tirar uma foto
+(20:00:05) maira: ou os dois
+(20:00:28) maira: ou mesmo falar que tem uma coisa que era lixo e que agora faz experiemntos com aquilo
+(20:00:37) maira: que era lixo pra uma pessoa mas pra ela nao eh
+(20:00:40) dasilva: o dia do lancamento eh 26/06?
+(20:00:55) maira: pensei em relacionar isso com as folhas caidas de outono -
+(20:01:02) maira: a vida caida
+(20:01:10) maira: que se remixa
+(20:01:14) maira: se metarecicla
+(20:01:20) maira: [sei lah se viajei de mais]
+(20:01:29) maira: dasilva sim
+(20:01:34) maira: mas jah explico isso
+(20:01:50) efeefe: acho caido ser tao especifico
+(20:02:04) efeefe: acho que a gente pode sugerir meia dúzia de temas
+(20:02:07) efeefe: e deixar bem aberto
+(20:02:16) maira: essa era minha outra ideia
+(20:02:22) efeefe: gosto da imagem das folhas caídas
+(20:02:27) maira: sugerir alguns temas, esse sendo um
+(20:02:34) maira: e depois as coisas que vierem
+(20:02:36) efeefe: e do ciclo do nitrogenio ;)
+(20:02:41) maira: nos organizamos em secoes
+(20:02:47) efeefe: apodrece e vira adubo
+(20:02:50) monamoan: folhas caidas..triste isso.
+(20:02:51) BAILUX [~regis@189.105.60.120] entrou na sala.
+(20:02:52) maira: isssooooooooooooooooooooo
+(20:03:02) mbraz: folhas caidas sao no hemisferio norte ;)
+(20:03:08) maira: moanmoan
+(20:03:13) mbraz: aqui amarelam...
+(20:03:15) BAILUX saiu da sala (quit: Read error: Connection reset by peer).
+(20:03:17) mbraz: :D
+(20:03:24) maira: eh feliz
+(20:03:44) maira: eu faco a chamada
+(20:03:52) mbraz: presente
+(20:03:52) maira: que fica aberta
+(20:04:05) maira: pro pessoal editar e sugerir mais temas
+(20:04:07) maira: pode ser?
+(20:04:12) maira: lancamos em 19/04
+(20:04:20) monamoan: quando significa renovação sim, mas quando elas ficam lá..e ficam..na imagem estatica #arrepios
+(20:04:28) efeefe: http://organismo.art.br/apodrece/
+(20:04:29) maira: com o banner novo, a muza nova e o conceito de outono, pode ser?
+(20:04:54) maira: moanmoan vc acha que rola banner +muza de outono pra 19/04
+(20:04:56) maira: ?
+(20:05:10) efeefe: abre no wiki a chamada e vamos fechando ateh segunda
+(20:05:26) monamoan: é, tem uma musica do matema..que é apodrece e vir aadubo, ou cd, sei lá
+(20:05:31) monamoan: total maira
+(20:05:40) maira: ahahah
+(20:05:52) maira: efeefe tah :)
+(20:05:56) efeefe: eh solve et coagula
+(20:06:13) efeefe: entao
+(20:06:16) efeefe: tenho que sair logologo
+(20:06:17) maira: outra coisa
+(20:06:21) maira: rapido
+(20:06:26) efeefe: manda
+(20:06:28) maira: encontrinho sazonal
+(20:06:33) efeefe: sim
+(20:06:35) maira: colacino ofereceu uma paz
+(20:06:42) maira: 26/06 - outono
+(20:06:42) efeefe: que data mesmo?
+(20:06:44) efeefe: ah, legal
+(20:06:45) efeefe: bora
+(20:06:48) maira: sabado
+(20:06:56) maira: efeefe tem um problema pra ti
+(20:06:57) efeefe: roquenrou
+(20:07:01) efeefe: fala maira
+(20:07:05) maira: comeca as 9hs da manha
+(20:07:06) maira: hahaha
+(20:07:10) efeefe: eu chego no fim
+(20:07:12) maira: massssss
+(20:07:15) maira: isso
+(20:07:16) efeefe: mas beleza, umapaz eh ateh perto de casa
+(20:07:20) maira: vai ateh 12h
+(20:07:20) efeefe: pego a bike e vou
+(20:07:27) maira: pensei em lacarmos o mutsaz lah
+(20:07:33) efeefe: depois a gente continua no ibirapuera
+(20:07:36) maira: fazermos a palestra de lixo eletrinco
+(20:07:37) maira: isso
+(20:07:45) mbraz: la?armos...
+(20:07:48) maira: depois um pique-nique no parque
+(20:07:52) efeefe: faz a parte caretinha de manha na umapaz e depois a gente sai de role no parque
+(20:07:56) efeefe: inverno chove pouco
+(20:08:00) efeefe: deve estar friozim
+(20:08:04) efeefe: eu levo o conhaque
+(20:08:04) maira: isso
+(20:08:05) efeefe: ;)
+(20:08:08) efeefe: na garupa da bike
+(20:08:13) maira: ehehe
+(20:08:16) monamoan: conhaque?? boa
+(20:08:16) efeefe: entao
+(20:08:17) maira: legal entao eh isso
+(20:08:19) efeefe: encerrando?
+(20:08:30) maira: e tem os livros impressos e o mutsaz impresso
+(20:08:33) efeefe: peguei o log da reuniao aqui, vou ver se mando amanha
+(20:08:36) efeefe: aahhhh eh!
+(20:08:36) maira: mas falamos num outro irc
+(20:08:38) monamoan: mutsaz impresso????????
+(20:08:40) efeefe: ok
+(20:08:42) efeefe: semana que vem?
+(20:08:43) maira: alguem salva o logo, por favor
+(20:08:46) maira: sim
+(20:08:48) efeefe: jah salvei o log
+(20:08:49) maira: moanmoan
+(20:08:52) efeefe: mando no site amanha
+(20:08:55) maira: depois te explico
+(20:08:59) monamoan: tá bom
+(20:09:04) maira: mas eh isso
+(20:09:10) efeefe: vamo jah marcar proximo papo, mesmo dia e hora semana que vem?
+(20:09:16) monamoan: ahha
+(20:09:18) maira: por mim ok
+(20:09:24) dasilva: quinta nao posso
+(20:09:25) efeefe: ou nao, depois que eu publicar o log aviso na lista e marcamos a outra
+(20:09:29) dasilva: hoje foi um acaso
+(20:09:33) dasilva: qualquer outro dia por mim td bem
+(20:09:34) maira: isso boa efeefe
+(20:09:39) efeefe: certoentao?
+(20:09:41) dasilva: mas
+(20:09:45) dasilva: se ficar quinta
+(20:09:45) maira: certotudo
+(20:09:47) dasilva: depois vejo
+(20:09:53) dasilva: abracos pra todos
+(20:09:58) monamoan: =*
+(20:10:01) maira: bjo dasilva
+(20:10:12) dasilva: bjo maira
+(20:10:19) efeefe: bej todxs
+(20:10:21) mbraz: bss
+(20:10:24) maira: bjo
+(20:10:26) dasilva: bej efeefe
+(20:10:31) maira: bjo pra todos tb
+(20:10:37) maira saiu da sala (quit: Quit: Saindo).
+(20:10:51) dasilva:  boa noite Jhon Boy
+(20:10:53) monamoan: ah
+(20:10:57) monamoan: pra quem esta em sampa
+(20:11:01) monamoan: amanha tem uma oficina massa
+(20:11:03) monamoan: do panetone
+(20:11:09) monamoan: lá no sesc pompeia
+(20:11:16) mbraz: ja' e natal?
+(20:11:19) efeefe: que horas?
+(20:11:29) monamoan: para quem é amigo do panetone, é sempre natal
+(20:11:33) monamoan: começa as 7 da noite
+(20:11:35) dasilva saiu da sala (quit: Quit: dasilva).
+(20:11:54) efeefe: vou ver
+(20:11:58) efeefe: vou estar na casa da cultura digital antes
+(20:12:01) efeefe: beleza, fui!
+(20:12:02) monamoan: po..
+(20:12:03) efeefe: bateria acabando
+(20:12:04) monamoan: vai la
+(20:12:05) mbraz: putz, estarei na etec raposo as 18:00... longe
+(20:12:06) monamoan: vai ser bem massa

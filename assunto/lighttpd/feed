@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - lighttpd</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/360/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Mais oscilações</title>
+ <link>http://rede.metareciclagem.org/blog/09-10-08/Mais-oscila%C3%A7%C3%B5es</link>
+ <description>&lt;p&gt;Mais uns dias com o servidor fora do ar. Atualizei e dei um tapa nas configs do lighttpd, atualizei o php5 e instalei a vers&amp;atilde;o mais nova do drupal Vamos ver se ag&amp;uuml;enta. Uma das causas da instabilidade &amp;eacute; sem d&amp;uacute;vida a quantidade de m&amp;oacute;dulos desse site. Pensando em usar algum cache pro php. A lista da metareciclagem tamb&amp;eacute;m parou de funcionar, mas n&amp;atilde;o fa&amp;ccedil;o id&amp;eacute;ia do porque.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/09-10-08/Mais-oscila%C3%A7%C3%B5es&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/09-10-08/Mais-oscila%C3%A7%C3%B5es#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/lighttpd">lighttpd</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Thu, 09 Oct 2008 02:31:03 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1452 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Alguma instabilidade</title>
+ <link>http://rede.metareciclagem.org/blog/03-10-08/Alguma-instabilidade</link>
+ <description>&lt;p&gt;O servidor ficou meio capenga hoje &amp;agrave; tarde. Fiz umas modifica&amp;ccedil;&amp;otilde;es nas configura&amp;ccedil;&amp;otilde;es do lighttpd e segui a sugest&amp;atilde;o do &lt;a href=&quot;http://lourenzo.blog.br/&quot; rel=&quot;nofollow&quot;&gt;Lourenzo&lt;/a&gt; de remover os m&amp;oacute;dulos n&amp;atilde;o habilitados do drupal. Ainda vou dar uma geral nas views pra ver se tem alguma sobrando.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/03-10-08/Alguma-instabilidade#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/lighttpd">lighttpd</category>
+ <category domain="http://rede.metareciclagem.org/assunto/servidor">servidor</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Fri, 03 Oct 2008 21:26:09 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1450 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Lighttpd - Trazendo leveza ao Drupal</title>
+ <link>http://rede.metareciclagem.org/wiki/Lighttpd-Trazendo-leveza-ao-Drupal</link>
+ <description>&lt;p&gt;Hoje fui convidado pelo Fabiano (wundo) a controlar um apache compulsivo por mem&amp;oacute;ria.&lt;/p&gt; &lt;p&gt;Nunca conseguir descobrir o porqu&amp;ecirc;, mas algumas vezes o apache 2 mpm prefork ( que funciona como o apache 1, sem threads ) &amp;nbsp;come&amp;ccedil;a a devorar mem&amp;oacute;ria.&lt;/p&gt; &lt;p&gt;Especialmente se usado com mod_php5 e drupal.&lt;/p&gt; &lt;p&gt;Mas antes de perder tempo demais com diagn&amp;oacute;stico e solu&amp;ccedil;&amp;atilde;o do problema no apache, o FF apostou no Lighttpd. Ele funciona muito bem com php - presumivelmente, melhor que o Apache - e &amp;eacute; assustadoramente leve e r&amp;aacute;pido.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/Lighttpd-Trazendo-leveza-ao-Drupal&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Lighttpd-Trazendo-leveza-ao-Drupal#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/leve">leve</category>
+ <category domain="http://rede.metareciclagem.org/assunto/lighttpd">lighttpd</category>
+ <category domain="http://rede.metareciclagem.org/assunto/r%C3%A1pido">rápido</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Thu, 11 Sep 2008 03:02:58 +0000</pubDate>
+ <dc:creator>lourenzo</dc:creator>
+ <guid isPermaLink="false">1424 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - panels</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/416/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Drupalwikizando a metareciclagem</title>
+ <link>http://rede.metareciclagem.org/blog/27-10-08/Drupalwikiizando-metareciclagem</link>
+ <description>&lt;p&gt;Demorei pra documentar as solu&amp;ccedil;&amp;otilde;es que encontrei pra algumas coisas que a gente quer fazer com esse site. Como foram um monte de coisinhas, resolvi documentar em partes. Hoje vou falar sobre como montei o wiki aqui (que &amp;eacute; basicamente o mesmo processo que eu fiz no &lt;a href=&quot;http://mutirao.metareciclagem.org&quot; rel=&quot;nofollow&quot;&gt;mutir&amp;atilde;o da gambiarra&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PS&lt;/strong&gt; pra muita gente esse post vai parecer grego. Desculpem, e se quiserem saber mais &amp;eacute; s&amp;oacute; me perguntar.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/27-10-08/Drupalwikiizando-metareciclagem&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/27-10-08/Drupalwikiizando-metareciclagem#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/og">og</category>
+ <category domain="http://rede.metareciclagem.org/assunto/panels">panels</category>
+ <category domain="http://rede.metareciclagem.org/assunto/wiki">wiki</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Mon, 27 Oct 2008 18:31:37 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1465 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - lorea</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/1281/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Redes sociais livres ou alternativas?</title>
+ <link>http://rede.metareciclagem.org/blog/08-07-14/Redes-sociais-livres-ou-alternativas</link>
+ <description>&lt;p&gt;Reposta na lista de e-mails labsurlab de aktivix.org, copiado para as listas de e-mails metareciclagem e comunicacaodebaixo de riseup.net, e por consequ&amp;ecirc;ncia disto, dispon&amp;iacute;vel em: &lt;a href=&quot;http://permalink.gmane.org/gmane.politics.organizations.metareciclagem/62374&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://permalink.gmane.org/gmane.politics.organizations.metareciclagem/62374&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Publicado no meu blog &amp;quot;Paradoxo Injusto&amp;quot; em &lt;a href=&quot;http://azul.iuri.blog.br/resposta-a-fabi-borges/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;http://azul.iuri.blog.br/resposta-a-fabi-borges/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/08-07-14/Redes-sociais-livres-ou-alternativas&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/08-07-14/Redes-sociais-livres-ou-alternativas#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/elgg">elgg</category>
+ <category domain="http://rede.metareciclagem.org/assunto/iuri">iuri</category>
+ <category domain="http://rede.metareciclagem.org/assunto/lorea">lorea</category>
+ <category domain="http://rede.metareciclagem.org/assunto/rede-social">rede social</category>
+ <category domain="http://rede.metareciclagem.org/assunto/redes-sociais">redes sociais</category>
+ <pubDate>Tue, 08 Jul 2014 19:43:58 +0000</pubDate>
+ <dc:creator>iuriguilherme</dc:creator>
+ <guid isPermaLink="false">2471 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Infralógica - reunião </title>
+ <link>http://rede.metareciclagem.org/blog/11-08-13/Infralogica-reuniao</link>
+ <description>&lt;p&gt;Dando sequ&amp;ecirc;ncia &amp;agrave; conversa sobre a infraestrutura de comunica&amp;ccedil;&amp;atilde;o da rede MetaReciclagem, nos reunimos na noite de quarta-feira passada no canal IRC #metareciclagem do freenode.org. Estivemos presentes e conversando efeefe, iuriguilherme, B3ZN05, deniszubieta, josenetomg, simba_, elenaralelex e adr___, acompanhados ainda de alguns usu&amp;aacute;rios inativos e rob&amp;ocirc;s.&lt;/p&gt;
+&lt;p&gt;A reuni&amp;atilde;o serviu como um primeiro momento de contato e levantamento de caminhos para avan&amp;ccedil;ar. Falamos sobre o elgg/lorea, sobre a necessidade de desenvolver uma pol&amp;iacute;tica de governan&amp;ccedil;a e sustentabilidade para uma eventual nova infral&amp;oacute;gica. Pensamos em configurar um piloto de rede lorea para a metareciclagem para experi&amp;ecirc;ncias - contribuindo com o esfor&amp;ccedil;o de desenvolvimento da plataforma, mas tamb&amp;eacute;m adaptando-a para algumas de nossas particularidades. Sugeriu-se investigarmos a possibilidade de criar um metagrupo que se comunique atrav&amp;eacute;s dos outros, e falou-se sobre a necessidade de aten&amp;ccedil;&amp;atilde;o especial a arquitetura de informa&amp;ccedil;&amp;atilde;o e experi&amp;ecirc;ncia de uso, como fizemos com o site da metareciclagem em drupal (ver os anexos no fim da p&amp;aacute;gina &lt;a href=&quot;/wiki/AI-da-Homepage&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;At&amp;eacute; o momento, minha sugest&amp;atilde;o pessoal &amp;eacute; que criemos uma instala&amp;ccedil;&amp;atilde;o do lorea em algum subdom&amp;iacute;nio da metareciclagem.org, documentando extensivamente cada etapa do processo (documenta&amp;ccedil;&amp;atilde;o esta que ser&amp;aacute; disponibilizada publicamente) e passemos a fazer testes em cima dela. Mas antes de come&amp;ccedil;ar, quero conversar mais e entender se esse &amp;eacute; realmente o melhor caminho.&lt;/p&gt;
+&lt;p&gt;Log completo segue &lt;a href=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/2013-08-07.210459-0300BRT.txt&quot; rel=&quot;nofollow&quot;&gt;em anexo&lt;/a&gt;.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/11-08-13/Infralogica-reuniao#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/irc">irc</category>
+ <category domain="http://rede.metareciclagem.org/assunto/lorea">lorea</category>
+ <category domain="http://rede.metareciclagem.org/assunto/projetos">projetos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/reuni%C3%A3o">reunião</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/2013-08-07.210459-0300BRT.txt" length="50798" type="text/plain" />
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Sun, 11 Aug 2013 22:20:41 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2256 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

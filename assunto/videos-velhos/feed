@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - videos velhos</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/693/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>MutiraoVideosVelhos</title>
+ <link>http://rede.metareciclagem.org/wiki/MutiraoVideosVelhos</link>
+ <description>&lt;p&gt;Uma sele&amp;ccedil;&amp;atilde;o de pequenos trechos de fitas Mini-DV que estavam perdidas em uma gaveta:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;a rel=&quot;nofollow&quot; href=&quot;http://www.archive.org/details/ParqueEscola&quot; rel=&quot;nofollow&quot;&gt;Parque Escola&lt;/a&gt; - Cenas curtas no laborat&amp;oacute;rio de &lt;a rel=&quot;nofollow&quot; href=&quot;http://mutirao.metareciclagem.org/freelinking/MetaReciclagem&quot; rel=&quot;nofollow&quot;&gt;MetaReciclagem&lt;/a&gt; do Parque Escola, em Santo Andr&amp;eacute; (2004).&lt;a rel=&quot;nofollow&quot; href=&quot;http://mutirao.metareciclagem.org/freelinking/MetaReciclagem&quot; rel=&quot;nofollow&quot;&gt;&lt;br /&gt;
+    &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/MutiraoVideosVelhos#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/mutir%C3%A3o-da-gambiarra">mutirão da gambiarra</category>
+ <category domain="http://rede.metareciclagem.org/assunto/videos-velhos">videos velhos</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Wed, 02 Sep 2009 00:02:34 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">1695 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

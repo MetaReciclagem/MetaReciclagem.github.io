@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - rj</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/284/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>IpeHistoria</title>
+ <link>http://rede.metareciclagem.org/wiki/IpeHistoria</link>
+ <description>&lt;p&gt;[&amp;quot;PaginaInicial&amp;quot;] &amp;gt; [&amp;quot;Esporos&amp;quot;] &amp;gt; IP
+&lt;br /&gt;&amp;nbsp;&lt;br /&gt;= IP =
+&lt;br /&gt;&amp;nbsp;&lt;br /&gt;O IP fica no Rio - Rua Joaquim Silva, 71 sl. 301, Lapa, Rio de Janeiro.
+&lt;br /&gt;&amp;nbsp;&lt;br /&gt;ipeAROUBAlistsPONTOriseupPONTOnet
+&lt;br /&gt;&amp;nbsp;&lt;br /&gt;***
+&lt;br /&gt;&amp;nbsp;&lt;br /&gt;Come&amp;ccedil;ou no in&amp;iacute;cio de 2005, e a proposta inicial pode ser melhor compreendida no site do espa&amp;ccedil;o da &amp;eacute;poca:
+&lt;br /&gt;&lt;a href=&quot;http://www.midiatatica.org/ip/&quot; title=&quot;http://www.midiatatica.org/ip/&quot; rel=&quot;nofollow&quot;&gt;http://www.midiatatica.org/ip/&lt;/a&gt;, de onde podemos aproveitar algumas defini&amp;ccedil;&amp;otilde;es ainda atuais:
+&lt;br /&gt;&amp;nbsp;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/IpeHistoria&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/IpeHistoria#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/hist%C3%B3rico">histórico</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ip">ip</category>
+ <category domain="http://rede.metareciclagem.org/assunto/lapa">lapa</category>
+ <category domain="http://rede.metareciclagem.org/assunto/rio">rio</category>
+ <category domain="http://rede.metareciclagem.org/assunto/rio-de-janeiro">rio de janeiro</category>
+ <category domain="http://rede.metareciclagem.org/assunto/rj">rj</category>
+ <group domain="http://rede.metareciclagem.org/esporo/IP" xmlns="http://drupal.org/project/og">IP</group>
+ <pubDate>Wed, 18 Jun 2008 22:08:35 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1320 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

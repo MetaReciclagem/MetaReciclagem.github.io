@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - waag sarai</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/692/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>MutiraoWaagSarai</title>
+ <link>http://rede.metareciclagem.org/wiki/MutiraoWaagSarai</link>
+ <description>&lt;p&gt;Veja &lt;a href=&quot;../../../../../../conectaz/Waag-Sarai&quot; title=&quot;http://rede.metareciclagem.org/conectaz/Waag-Sarai&quot; rel=&quot;nofollow&quot; rel=&quot;nofollow&quot;&gt;http://rede.metareciclagem.org/conectaz/Waag-Sarai&lt;/a&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/MutiraoWaagSarai#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/mutir%C3%A3o-da-gambiarra">mutirão da gambiarra</category>
+ <category domain="http://rede.metareciclagem.org/assunto/waag-sarai">waag sarai</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Wed, 02 Sep 2009 00:01:18 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">1694 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

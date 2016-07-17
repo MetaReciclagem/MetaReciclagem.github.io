@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - livros</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/588/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Livro Livre</title>
+ <link>http://rede.metareciclagem.org/conectaz/Livro-Livre</link>
+ <description>&lt;div class=&quot;form-item&quot;&gt;
+ &lt;label&gt;Descrição: &lt;/label&gt;
+ distribuição p2p de livros físicos
+&lt;/div&gt;
+&lt;p&gt;O&amp;nbsp;LivroLivre ( &lt;a href=&quot;http://www.livrolivre.art.br &quot; title=&quot;www.livrolivre.art.br &quot; rel=&quot;nofollow&quot;&gt;www.livrolivre.art.br &lt;/a&gt;) &amp;eacute; um esfor&amp;ccedil;o de construir uma biblioteca aberta, coletiva e sem estantes. Composta por livros livres que passam de m&amp;atilde;o em m&amp;atilde;o gerando nova vida nos textos, nos autores e nos leitores.&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-situacao-conectaz&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Situação desta ConecTAZ:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    funcionando        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/conectaz/Livro-Livre#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/livros">livros</category>
+ <category domain="http://rede.metareciclagem.org/assunto/p2p">p2p</category>
+ <pubDate>Mon, 23 Mar 2009 23:02:32 +0000</pubDate>
+ <dc:creator>Markun</dc:creator>
+ <guid isPermaLink="false">1554 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

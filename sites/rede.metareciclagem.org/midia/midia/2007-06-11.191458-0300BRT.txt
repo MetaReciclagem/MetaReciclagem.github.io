@@ -1,0 +1,168 @@
+Conversation with #metareciclagem at Seg 11 Jun 2007 19:14:58 BRT on felipefonseca@irc.freenode.org (irc)
+(19:15:07) fff: cheguei
+(19:16:42) bee: vc esta conseguindo me ler?
+(19:17:49) fff: sim
+(19:17:56) bee: ou
+(19:18:05) bee: pensei que estivesse perdida
+(19:18:36) bee: agora preciso ligar o stream
+(19:18:56) fff: estamos transmitindo
+(19:19:00) fff: avisem ai se tao ouvindo bem
+(19:19:32) bee: ? s? clicar no link http://estudiolivre.org:8000/gambiarra
+(19:19:40) fff: não sei
+(19:19:43) fff: depende da tua maquina
+(19:19:43) bee: ou ? preciso fazer algo mais?
+(19:19:48) fff: o que tem ai?
+(19:19:57) bee: pc
+(19:20:02) bee: windows xp
+(19:20:06) fff: eca...
+(19:20:13) bee: pois ?
+(19:20:22) fff: mas acho que deve ter algum programa que abre stream de mp3
+(19:20:25) fff: clica e ve o que acontece
+(19:20:51) bee: yay..est? funcionando beleza
+(19:21:06) fff: ok
+(19:21:08) fff: o som tah claro?
+(19:21:10) wundo [n=Fabiano@200.228.103.173] entrou na sala.
+(19:21:15) wundo: aeee
+(19:21:17) wundo: qualé
+(19:21:19) bee: oops..interrompido
+(19:21:45) bee: voltou
+(19:22:31) bee: instavel...sergio para na diversidade cultural e depois nao d? para ouvir mais
+(19:23:38) fff: e agora?
+(19:24:11) bee: comecei tudo de novo e interrompe na diversidade cultural
+(19:25:36) fff: eita
+(19:25:41) fff: eh esse windows ai
+(19:25:42) fff: hahaha
+(19:25:43) fff: nao sei
+(19:25:43) bailux [n=regis@200.254.178.171] entrou na sala.
+(19:25:45) bee: pois ?
+(19:25:56) bee: sofrendo aqui
+(19:26:09) bailux: opss..abs para todos aqui do atlntico sul baiano
+(19:26:46) bee: aparentemente estou sem stream
+(19:26:50) bee: grava um pedacinho
+(19:26:54) bee: e depois acaba
+(19:27:05) fff: qual eh o programa que estas usando?
+(19:27:19) bee: hydra
+(19:27:26) bee: para o irc
+(19:27:35) bee: e quick time
+(19:27:44) bee: firefox e quick time
+(19:28:38) bailux: o streaming ta rolando aqui no bailux
+(19:29:01) bee: como faz para tocar?
+(19:29:06) fff: quicktime??
+(19:29:08) fff: puzz
+(19:29:12) fff: nao sei que cliente
+(19:29:22) bailux: gxine
+(19:29:31) bee: devo downloadar?
+(19:30:09) fff: ah
+(19:30:10) fff: vlc
+(19:30:13) fff: videolan.org/vlc
+(19:31:12) asama1 [n=lfagunde@c951a9b7.virtua.com.br] entrou na sala.
+(19:31:12) asama1 mudou seu apelido para pajeh
+(19:31:12) bee: preciso aprender muito ainda :-)
+(19:31:20) fff: baixa o vlc nesse site
+(19:31:24) fff: http://videolan.org/vlc
+(19:31:28) fff: que ele abre o stream 
+(19:31:32) fff: tua conexao eh rapida?
+(19:31:37) fff: www.fon.com
+(19:31:44) MarcioBlack [n=marciobl@c9342af9.virtua.com.br] entrou na sala.
+(19:32:48) bailux: parou a transmissão por aqui..
+(19:33:09) fff: aperta play de novo
+(19:33:13) fff: continua rolando
+(19:33:52) wundo: a transmissão aqui ta blz
+(19:33:52) bailux: qual plugin?
+(19:34:01) bee: estou instalando tudo..vou me desligar por um momento at? +
+(19:34:07) bee saiu da sala (quit: " HydraIRC -> http://www.hydrairc.com <- The future of IRC").
+(19:34:59) bailux: voltamos.....he heche
+(19:38:30) bee [n=Bee@201-27-182-192.dsl.telesp.net.br] entrou na sala.
+(19:40:21) bailux: muito boa a transmissão....
+(19:40:24) bee: beleza pura..est? funcionando! Muito obrigada
+(19:41:02) bee: felipe..quem est? a??
+(19:42:27) bee: forma?ao de comunidades nao ? uma coisa f?cil
+(19:42:30) fff: bastante gente
+(19:42:35) wundo: []s
+(19:42:38) wundo: me desconectando
+(19:42:38) pajeh: 2f , passa o blog aqui
+(19:42:45) bee: quem est? falando agora?
+(19:42:56) bee: bianca?
+(19:43:16) pajeh: o endereco do blog, 2f
+(19:43:32) wundo saiu da sala (quit: Remote closed the connection).
+(19:43:45) fff: http://diversidadedigital.blogspot.com
+(19:44:38) MarcioBlack: o controle na forma o projeto do azeredo prev? mata a internet como a conhecemos. tendo em vista que a suposi??o de que a internet poderia ser livre est? na base da inven??o e aperfei?oamento da www.
+(19:44:49) MarcioBlack: mata porque inviabiliaza o uso.[
+(19:44:54) MarcioBlack: ? isso?
+(19:45:01) bailux: desconectando  e voltando em 15 minutos.....
+(19:45:02) bee: com certeza
+(19:45:11) bailux: te já....
+(19:45:14) bailux saiu da sala (quit: "Ex-Chat").
+(19:45:24) bee: vai ser aprovada?
+(19:46:33) riq [n=riq@201009238136.user.veloxzone.com.br] entrou na sala.
+(19:46:44) riq: oi gente
+(19:46:50) bee: acho que o grande problema ? que as pessoas que criam essas leis nao tem a menor id?ia do que estao falando
+(19:47:01) riq: onde ta rolando u istrimi?
+(19:47:19) bee: http://estudiolivre.org:8000/gambiarra
+(19:47:22) MarcioBlack: a net constitui-se como tal gra?as a uma s?rie de f?nomenos de car?ter social e ? dedica??o de in?meras pessoas para a constru??o de padr?es que s?o implementados de forma volutnt?ria. a participa??o tamb?m est? na base da constitui??o da internet.
+(19:47:25) riq: gracias
+(19:47:33) MarcioBlack: e ? por isso que esse tipo de lei n?o pega.
+(19:48:21) MarcioBlack: existem mais como ptenciais jurisprud?ncias para serem usadas em momentos de excess?o.
+(19:48:57) bee: a hist?ria tem que se fazer
+(19:49:27) bee: e ? preciso tomar cuidado para a liberdade que ainda existe
+(19:49:35) bee: nao ser controlada
+(19:49:44) fff: marcio...
+(19:49:52) fff: nao usa acento nao, que eu nao consigo ler aqui
+(19:49:59) MarcioBlack: ok
+(19:50:15) bee: mas as grandes bases de dados sao uma forma de controle
+(19:50:53) riq: quem esta falando?
+(19:51:11) bee: sergio, nao?
+(19:51:13) fff: ele
+(19:52:02) riq: tem alguma coisa na net falando do sergio?
+(19:52:11) bee: amazon, ebay, sites sociais
+(19:52:23) bee: guardam informa?ao
+(19:53:42) MarcioBlack: so precisamos tomar cuidado com a discuss?o em torno da liberdade. pois o que esta em jogo  nas discuss?es em torno da manutencao da liberdade de expressao e simplesmente a tentativa de renovar este mito da comunicacao universal dando a ele uma nova orientacao geopolitica: nao e mais a Europa o grande estandarte da comunicacao universal, passando a bola para os Estados Unidos.
+(19:53:46) bee: nao sei se preciso de dupla identidade
+(19:54:50) bee: mas entendo o anonimato
+(19:56:20) Você mudou seu apelido para juliano
+(19:57:54) fff: pessoal, to aqui no chat. se alguem quiser se manifestar, avise
+(19:58:12) fff: aqui eh o juliano, nao o felipe
+(19:58:51) riq: juliano, jahjah?
+(20:06:36) bee: google esta com uma imensa base de dados
+(20:07:04) MarcioBlack: perfeito!
+(20:07:19) bee: ja le o seu email
+(20:07:29) bee: eu so recebo anuncios
+(20:07:29) MarcioBlack: e isso ja fazem no orkut.
+(20:07:44) bee: que sao relacionados com minha atividade profissional
+(20:07:52) bee: e depende de cada email
+(20:08:26) bee: logo...os computadores estao escaneando palavras chave
+(20:08:30) MarcioBlack: a policia federal pode "embandeirar" as paginas que contenham crime de odio ou pedofilia. sem antes notificar o google.
+(20:09:08) bee: juliano passe para o pessoal a? o link do http://abaporu.wordpress.com
+(20:09:09) MarcioBlack: e so passar isso para os gmail. ou google documents. mas, qualquer firewall por ai tambem faz isso..
+(20:09:47) bee: tem haver com a a discussao aqui..sobre a creatividade e inovacao
+(20:10:03) bee: http://abaporu.wordpress.com/2007/05/31/wordsmithing-appropriation/
+(20:10:46) riq: esse audio vai estar disponivel online?
+(20:11:50) bee: ate mais..preciso me desconectar...p2p
+(20:12:08) bee: peer to peer
+(20:13:03) bee: http://blog.p2pfoundation.net/
+(20:13:30) bee: ate mais...preciso ir
+(20:13:37) bee: depois conversamos
+(20:13:42) MarcioBlack: ate mais
+(20:13:44) bee saiu da sala (quit: " HydraIRC -> http://www.hydrairc.com <- IRC with a difference").
+(20:35:23) avena [i=casa@c92cc979.soc.virtua.com.br] entrou na sala.
+(20:35:33) avena: mickei vai a merda
+(20:35:34) avena: ahah
+(20:38:30) riq: pajeh, vc ta ae?
+(20:56:41) avena: padão globo....sai
+(20:56:46) avena: que viagem
+(20:58:57) avena: analogico e digital não tem como separa....que viagem
+(21:00:30) riq saiu da sala (quit: Read error: 110 (Connection timed out)).
+(21:04:25) Você mudou seu apelido para fff
+(21:19:58) fff: oi, pessoal
+(21:20:11) fff: é a bianca com nick do felipe
+(21:20:44) fff: alguém tem intervenção a fazer
+(21:20:57) fff: (nao acho o ponto  de interrogação)
+(21:21:13) fff: esperamos encerrar em mais ou menos 10 min...
+(21:22:29) Você mudou seu apelido para bianca
+(21:29:21) fff: considerações finais, então
+(21:32:23) fff: beijos, pessoal
+(21:32:29) fff: valeu a participação!
+(21:33:08) Você mudou seu apelido para efeefe
+(21:33:34) fff: BORA
+(21:33:44) fff: FUI
+(21:33:48) fff: amanha publico tudo no EL

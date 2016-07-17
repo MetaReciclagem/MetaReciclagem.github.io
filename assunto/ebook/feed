@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - ebook</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/903/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Janxs - versão epub</title>
+ <link>http://rede.metareciclagem.org/blog/23-03-11/Janxs-versao-epub</link>
+ <description>&lt;p&gt;Lan&amp;ccedil;amos ontem a edi&amp;ccedil;&amp;atilde;o &lt;a href=&quot;http://mutgamb.org/MutSaz/2011/Janxs&quot; rel=&quot;nofollow&quot;&gt;ver&amp;atilde;o 2011&lt;/a&gt; do &lt;a href=&quot;http://mutgamb.org/MutSaz/&quot; rel=&quot;nofollow&quot;&gt;MutSaz&lt;/a&gt;, inspirado por &lt;em&gt;Janxs&lt;/em&gt;. Nas nossas publica&amp;ccedil;&amp;otilde;es mais recentes, eu j&amp;aacute; estava &lt;a href=&quot;http://rede.metareciclagem.org/wiki/PlataformasPublicacao&quot; rel=&quot;nofollow&quot;&gt;flertando com formatos de ebook&lt;/a&gt;. Fiz algumas experi&amp;ecirc;ncias convertendo &lt;a href=&quot;http://rede.metareciclagem.org/blog/26-09-10/Pozimi-o-processo&quot; rel=&quot;nofollow&quot;&gt;com o calibre o HTML gerado pelo Lyx&lt;/a&gt;. Foram relatados problemas de encode, de quebra de cap&amp;iacute;tulos e outros.&lt;/p&gt;
+&lt;p&gt;Para &lt;em&gt;Janxs&lt;/em&gt;, resolvi retomar a pesquisa. Depois de ler dois livros lan&amp;ccedil;ados no formato epub (um &lt;a href=&quot;http://en.wikipedia.org/wiki/EPUB&quot; rel=&quot;nofollow&quot;&gt;padr&amp;atilde;o livre e aberto&lt;/a&gt;, com bons clientes em muitas plataformas), resolvi me concentrar nele. Cheguei at&amp;eacute; a elencar a busca de softwares para editar ebooks nas minhas &lt;a href=&quot;http://efeefe.no-ip.org/blog/meus-projetos-para-2011&quot; rel=&quot;nofollow&quot;&gt;prioridades para 2011&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Testei o &lt;a href=&quot;http://drupal.org/project/epub&quot; rel=&quot;nofollow&quot;&gt;m&amp;oacute;dulo epub&lt;/a&gt; do &lt;a href=&quot;http://drupal.org&quot; rel=&quot;nofollow&quot;&gt;drupal&lt;/a&gt; que poderia gerar ebooks automaticamente. O m&amp;oacute;dulo &amp;eacute; complexo demais, gerou um epub pesado e que n&amp;atilde;o funcionava. Tentei debugar, mas acabei deixando de lado. Depois de pesquisar mais um pouco, encontrei o &lt;a href=&quot;http://code.google.com/p/sigil/&quot; rel=&quot;nofollow&quot;&gt;Sigil&lt;/a&gt; - um software que simples e objetivamente fazia exatamente o que eu precisava: formatar um epub de maneira clara e sem frescuras. E melhor: livre e multiplataforma.&lt;/p&gt;
+&lt;p&gt;Para editar&amp;nbsp;&lt;em&gt;Janxs&lt;/em&gt;, comecei usando o m&amp;oacute;dulo book do drupal para montar os textos na ordem da publica&amp;ccedil;&amp;atilde;o. Depois de tudo organizado e revisado, exportei o livro inteiro para HTML (&amp;eacute; s&amp;oacute; acessar /book/export/html/NID, onde NID &amp;eacute; o n&amp;uacute;mero do node do livro). Salvei o HTML, importei no Sigil e dividi os cap&amp;iacute;tulos. Inseri os metadados e pronto, em pouco tempo o ebook estava pronto. Pelos testes que fiz aqui, est&amp;aacute; funcionando ok. Aceito ajuda de quem puder testar em outras plataformas al&amp;eacute;m de Linux e Android. Baixem o epub &lt;a href=&quot;http://mutgamb.org/MutSaz/2011/Janxs&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/23-03-11/Janxs-versao-epub#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ebook">ebook</category>
+ <category domain="http://rede.metareciclagem.org/assunto/epub">epub</category>
+ <category domain="http://rede.metareciclagem.org/assunto/grafilab">grafilab</category>
+ <category domain="http://rede.metareciclagem.org/assunto/lyx">lyx</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mutgamb">mutgamb</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mutsaz">mutsaz</category>
+ <category domain="http://rede.metareciclagem.org/assunto/sigil">sigil</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Thu, 24 Mar 2011 00:23:19 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2029 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Plataformas</title>
+ <link>http://rede.metareciclagem.org/blog/13-08-10/Plataformas</link>
+ <description>&lt;p&gt;Al&amp;ocirc; mutirantes!&lt;/p&gt;
+&lt;p&gt;Eu criei a p&amp;aacute;gina de wiki PlataformasPublicacao para documentar umas pesquisas que quero come&amp;ccedil;ar a fazer, sobre diferentes maneiras de publicar e distribuir material.&lt;/p&gt;
+&lt;p&gt;Daqui a algumas semanas, provavelmente depois da blogagem de inverno, precisamos conversar sobre os rumos do Mutir&amp;atilde;o e planos futuros. Vamos?&lt;/p&gt;
+&lt;p&gt;BTW, quem est&amp;aacute; recebendo avisos autom&amp;aacute;ticos dos posts aqui? Est&amp;aacute; funcionando direito?&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/13-08-10/Plataformas#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/ebook">ebook</category>
+ <category domain="http://rede.metareciclagem.org/assunto/editora%C3%A7%C3%A3o">editoração</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mutgamb">mutgamb</category>
+ <category domain="http://rede.metareciclagem.org/assunto/publica%C3%A7%C3%B5es">publicações</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Fri, 13 Aug 2010 21:16:56 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1943 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>PlataformasPublicacao</title>
+ <link>http://rede.metareciclagem.org/wiki/PlataformasPublicacao</link>
+ <description>&lt;p&gt;Documentando pesquisas sobre diferentes maneiras de editar, publicar e distribuir material.&lt;/p&gt;
+&lt;h1&gt;Por qu&amp;ecirc;?&lt;/h1&gt;
+&lt;p&gt;O Mutgamb nasceu a partir da ideia de estruturar e circular produ&amp;ccedil;&amp;atilde;o conceitual e simb&amp;oacute;lica surgida na vizinhan&amp;ccedil;a da rede MetaReciclagem. Mais do que gerar publica&amp;ccedil;&amp;otilde;es em PDF, queremos sempre propor outras maneiras de disponibilizar o material. A ideia agora &amp;eacute; estudar diversos formatos para publicar as produ&amp;ccedil;&amp;otilde;es juntamente com seus os arquivos-fonte, al&amp;eacute;m de pensar formatos artesanais e semi-artesanais de levar as publica&amp;ccedil;&amp;otilde;es online ao mundo dos &amp;aacute;tomos.&lt;/p&gt;
+&lt;p&gt;Em anexo, alguns testes:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/arquivo_0.pdf &quot; rel=&quot;nofollow&quot;&gt;Arquivo PDF&lt;/a&gt; editorado com o &lt;a href=&quot;http://www.lyx.org/&quot; rel=&quot;nofollow&quot;&gt;LyX&lt;/a&gt; (um editor gr&amp;aacute;fico baseado no TeX)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/arquivo_2_koma_script.pdf &quot; rel=&quot;nofollow&quot;&gt;Arquivo PDF&lt;/a&gt; editorado com o Lyx usando a classe KOMA-script&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/arquivo_0.txt &quot; rel=&quot;nofollow&quot;&gt;Arquivo TXT&lt;/a&gt; exportado pelo LyX&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/arquivo.calibre.txt &quot; rel=&quot;nofollow&quot;&gt;Arquivo TXT&lt;/a&gt; exportado pelo &lt;a href=&quot;http://calibre-ebook.com/&quot; rel=&quot;nofollow&quot;&gt;Calibre&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Um &lt;a href=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/arquivo.zip &quot; rel=&quot;nofollow&quot;&gt;arquivo zipado&lt;/a&gt; com v&amp;aacute;rias vers&amp;otilde;es do mesmo material: epub, mobi, pdb, fb2 (al&amp;eacute;m do arquivo fonte do LyX)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/gambiologia.pdf &quot; rel=&quot;nofollow&quot;&gt;Gambiologia.pdf&lt;/a&gt;, teste com o conte&amp;uacute;do primeira parte do MetaLivro gambiologia, editado com o Lyx/KOMA script. Ainda falta domar alguns aspectos, mas come&amp;ccedil;ou a ficar interessante...&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;Publica&amp;ccedil;&amp;otilde;es lan&amp;ccedil;adas:&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://mutgamb.org/mutsaz/2010/Pozimi&quot; rel=&quot;nofollow&quot;&gt;MutSaz Pozimi&lt;/a&gt; (documenta&amp;ccedil;&amp;atilde;o &lt;a href=&quot;http://rede.metareciclagem.org/blog/26-09-10/Pozimi-o-processo&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;)&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://mutgamb.org/MutSaz/2011/Janxs&quot; rel=&quot;nofollow&quot;&gt;MutSaz Janxs&lt;/a&gt; (documenta&amp;ccedil;&amp;atilde;o &lt;a href=&quot;http://rede.metareciclagem.org/blog/23-03-11/Janxs-versao-epub&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;)&lt;/li&gt;&lt;/ul&gt;
+&lt;h1&gt;1. Montando&lt;/h1&gt;
+&lt;h2&gt;1.1. Software&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;Scribus e ScribusNG&lt;/li&gt;
+	&lt;li&gt;Openoffice.org&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://lyx.org&quot; rel=&quot;nofollow&quot;&gt;Lyx&lt;/a&gt; &amp;eacute; um software gr&amp;aacute;fico baseado em LaTeX para a cria&amp;ccedil;&amp;atilde;o de documentos estruturados. Em vez de WYSIWYG (what you see is what you get), ele adota a perspectiva WYSIWYM (what you see is what you mean). Tem um bom artigo sobre ele e algumas das classes como a KOMA-script, &lt;a href=&quot;http://www.linux.com/archive/articles/56471&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;.&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://code.google.com/p/sigil/&quot; rel=&quot;nofollow&quot;&gt;Sigil&lt;/a&gt; - para montar ebooks em formato &lt;em&gt;epub&lt;/em&gt;.&lt;/li&gt;&lt;/ul&gt;
+&lt;h1&gt;2. Espalhando&lt;/h1&gt;
+&lt;h2&gt;2.1. E-books&lt;/h2&gt;
+&lt;h3&gt;2.1.1. Formatos&lt;/h3&gt;
+&lt;p&gt;Pesquisando formatos e maneira de gerar os arquivos.&lt;/p&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Comparison_of_e-book_formats&quot; rel=&quot;nofollow&quot;&gt;Compara&amp;ccedil;&amp;atilde;o entre formatos&lt;/a&gt; (wikipedia, em ingl&amp;ecirc;s).&lt;/li&gt;
+	&lt;li&gt;Formatos comuns: txt, pdf, mobipocket, &lt;a href=&quot;http://en.wikipedia.org/wiki/EPUB&quot; rel=&quot;nofollow&quot;&gt;epub&lt;/a&gt;&amp;nbsp;(aberto), ereader pdf (fechado), ps, djvu, fictionbook fb2, amazon azw (fechado)...&lt;/li&gt;
+	&lt;li&gt;Software para gerenciar bibliotecas e converter formatos: &lt;a href=&quot;http://calibre-ebook.com/&quot; rel=&quot;nofollow&quot;&gt;Calibre&lt;/a&gt;&lt;/li&gt;
+	&lt;li&gt;Consolidando testes - verifique em MutGambPublicacaoDigital&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;2.1.2. Plataformas&lt;/h3&gt;
+&lt;ul&gt;
+	&lt;li&gt;Amazon&lt;/li&gt;
+	&lt;li&gt;iTunes&lt;/li&gt;&lt;/ul&gt;
+&lt;h2&gt;2.2. POD&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;&lt;a href=&quot;http://lulu.com&quot; rel=&quot;nofollow&quot;&gt;Lulu&lt;/a&gt; - gringo&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://clubedeautores.com.br&quot; rel=&quot;nofollow&quot;&gt;Clube de Autores&lt;/a&gt; - brasileiro. Efeefe encomendou um livro pra testar. Impress&amp;atilde;o e acabamento de boa qualidade (impresso pela Alpha Graphics).&lt;/li&gt;
+	&lt;li&gt;&lt;a href=&quot;http://www.bookess.com/&quot; rel=&quot;nofollow&quot;&gt;Bookess&lt;/a&gt; - tamb&amp;eacute;m brasileiro. Permite, al&amp;eacute;m da impress&amp;atilde;o, o download de vers&amp;otilde;es eletr&amp;ocirc;nicas dos livros.&lt;/li&gt;&lt;/ul&gt;
+&lt;h2&gt;2.3. Impress&amp;atilde;o&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;Fotoc&amp;oacute;pia&lt;/li&gt;
+	&lt;li&gt;Impress&amp;atilde;o em gr&amp;aacute;fica r&amp;aacute;pida + encaderna&amp;ccedil;&amp;atilde;o a m&amp;atilde;o (tiragem baixa)&lt;/li&gt;
+	&lt;li&gt;Impress&amp;atilde;o em gr&amp;aacute;fica (grandes tiragens)&lt;/li&gt;&lt;/ul&gt;
+&lt;h2&gt;2.4. Distribui&amp;ccedil;&amp;atilde;o&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;li&gt;Redes sociais: twitter, identi.ca, diaspora, facebook, n-1, etc.&lt;/li&gt;
+	&lt;li&gt;Listas de discuss&amp;atilde;o.&lt;/li&gt;
+	&lt;li&gt;Pessoa a pessoa.&lt;/li&gt;
+	&lt;li&gt;Parcerias.&lt;/li&gt;&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/PlataformasPublicacao#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/ebook">ebook</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mutgamb">mutgamb</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/arquivo.calibre.txt" length="912" type="text/plain" />
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Fri, 13 Aug 2010 21:03:14 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1942 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

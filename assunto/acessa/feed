@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - acessa</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/73/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>MetaProjeto</title>
+ <link>http://rede.metareciclagem.org/wiki/MetaProjeto</link>
+ <description>&lt;h2&gt;&lt;em&gt;Laborat&amp;oacute;rio de Artes e Tecnologias Sociais&lt;/em&gt;&lt;/h2&gt;&lt;ul&gt;&lt;li&gt;&lt;a href=&quot;http://metaprojeto.blogspot.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Blog do MetaProjeto&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://www.ecommunita.com/comunidade/image/tid/11&quot; rel=&quot;nofollow&quot;&gt;Galeria de Imagens&lt;/a&gt;&lt;a href=&quot;/drupal/livro/experimentos&quot; rel=&quot;nofollow&quot;&gt;&lt;br /&gt;&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href=&quot;http://ecommunita.com/comunidade/node/4&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Projetos Colaborativos&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;MetaProjetoExperimentos&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/MetaProjeto&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/MetaProjeto#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/acessa">acessa</category>
+ <category domain="http://rede.metareciclagem.org/assunto/esporo">esporo</category>
+ <category domain="http://rede.metareciclagem.org/assunto/experi-ncias">experiências</category>
+ <category domain="http://rede.metareciclagem.org/assunto/fontes-do-ipiranga">fontes do ipiranga</category>
+ <category domain="http://rede.metareciclagem.org/assunto/laborat-rio">laboratório</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metaprojeto">metaprojeto</category>
+ <category domain="http://rede.metareciclagem.org/assunto/oficinas">oficinas</category>
+ <category domain="http://rede.metareciclagem.org/assunto/pefi">pefi</category>
+ <category domain="http://rede.metareciclagem.org/assunto/sampa">sampa</category>
+ <category domain="http://rede.metareciclagem.org/assunto/s-o-paulo">são paulo</category>
+ <group domain="http://rede.metareciclagem.org/esporo/metaprojeto" xmlns="http://drupal.org/project/og">Metaprojeto</group>
+ <pubDate>Mon, 16 Jun 2008 15:25:32 +0000</pubDate>
+ <dc:creator>guimasan</dc:creator>
+ <guid isPermaLink="false">1239 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - urbe</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/260/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>CidadeDigital</title>
+ <link>http://rede.metareciclagem.org/wiki/CidadeDigital</link>
+ <description>&lt;p&gt;&lt;em&gt;Nota do efeefe: Mais uma p&amp;aacute;gina do wiki que acho que o Mota mandou.&lt;/em&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/CidadeDigital&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/CidadeDigital#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/urbe">urbe</category>
+ <pubDate>Tue, 17 Jun 2008 18:33:41 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1276 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

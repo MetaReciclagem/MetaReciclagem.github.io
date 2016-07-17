@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - metareciclagem bailux linux gimp nvu okscape arte web design</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/144/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>oficinas bailux</title>
+ <link>http://rede.metareciclagem.org/wiki/oficinas-bailux</link>
+ <description>oficina para replicadores metareciclagem
+facilitador:Jurgen botz
+conteudos:usando linha de commandos na shell-maquininhas low-tech em rede-programando em python.
+oficinas direcionada aos dois relpicadores meta no bailux:Paulo e rafael
+hoje de 15 as 17 horas</description>
+ <comments>http://rede.metareciclagem.org/wiki/oficinas-bailux#comments</comments>
+ <category domain="http://rede.metareciclagem.org/tags/metareciclagem-bailux-linux-gimp-nvu-okscape-arte-web-design">metareciclagem bailux linux gimp nvu okscape arte web design</category>
+ <pubDate>Thu, 06 Sep 2007 13:44:06 +0000</pubDate>
+ <dc:creator>bailux</dc:creator>
+ <guid isPermaLink="false">724 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

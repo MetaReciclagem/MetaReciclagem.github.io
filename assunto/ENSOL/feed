@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - ENSOL</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/952/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>V ENSOL </title>
+ <link>http://rede.metareciclagem.org/wiki/V-ENSOL</link>
+ <description>&lt;p&gt;S&amp;aacute;bado 20 nov. 2010 - 3&amp;ordf; Reuni&amp;atilde;o p Organiza&amp;ccedil;&amp;atilde;o do V ENSOL&lt;/p&gt;
+&lt;p&gt;Cheguei um pouco atrasado nesta reuni&amp;atilde;o mas acho que ainda deu para pegar algumas conversas importantes. Por enquanto n&amp;atilde;o deu pra ter uma id&amp;eacute;ia de como vou poder colaborar com &amp;quot;m&amp;atilde;o na massa&amp;quot; para o evento, al&amp;eacute;m daquela no&amp;ccedil;&amp;atilde;o b&amp;aacute;sica claro que &amp;eacute; a de carregar peso e&amp;nbsp; ficar correndo pra l&amp;aacute; e pra c&amp;aacute; nos dias.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/V-ENSOL&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/V-ENSOL#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/encontro">encontro</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ENSOL">ENSOL</category>
+ <category domain="http://rede.metareciclagem.org/assunto/Joao-Pessoa">João Pessoa</category>
+ <category domain="http://rede.metareciclagem.org/assunto/Paraiba">Paraíba</category>
+ <category domain="http://rede.metareciclagem.org/tags/software-livre">software livre</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/adversos" xmlns="http://drupal.org/project/og">(ad)versos</group>
+ <pubDate>Tue, 23 Nov 2010 19:13:47 +0000</pubDate>
+ <dc:creator>o2</dc:creator>
+ <guid isPermaLink="false">1971 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>V ENSOL - João Pessoa, PB 2011</title>
+ <link>http://rede.metareciclagem.org/blog/31-10-10/V-ENSOL-Joao-Pessoa-PB-2011</link>
+ <description>&lt;p class=&quot;western&quot;&gt;Neste s&amp;aacute;bado 30 de o&lt;a href=&quot;http://www.ensol.org.br/&quot; rel=&quot;nofollow&quot;&gt;&lt;img align=&quot;left&quot; alt=&quot;&quot; src=&quot;http://livre.wikidot.com/local--files/nordestelivre/5ENSOL.png&quot; /&gt;&lt;/a&gt;utubro participei da segunda reuni&amp;atilde;o oficial de organiza&amp;ccedil;&amp;atilde;o do &lt;a href=&quot;http://www.ensol.org.br/&quot; rel=&quot;nofollow&quot;&gt;V ENSOL&lt;/a&gt; a se realizar de 11 a 14 de maio de 2011 em Jo&amp;atilde;o Pessoa na Para&amp;iacute;ba. E teve at&amp;eacute; uma uma boa cervejinha com sinuca logo em seguida, claro.&amp;nbsp; Muitas emo&amp;ccedil;&amp;otilde;es, muitas percep&amp;ccedil;&amp;otilde;es.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/31-10-10/V-ENSOL-Joao-Pessoa-PB-2011&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/31-10-10/V-ENSOL-Joao-Pessoa-PB-2011#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/colabora%C3%A7%C3%A3o">colaboração</category>
+ <category domain="http://rede.metareciclagem.org/assunto/ENSOL">ENSOL</category>
+ <category domain="http://rede.metareciclagem.org/assunto/FLOSS">FLOSS</category>
+ <category domain="http://rede.metareciclagem.org/assunto/Paraiba">Paraíba</category>
+ <category domain="http://rede.metareciclagem.org/tags/software-livre">software livre</category>
+ <pubDate>Mon, 01 Nov 2010 00:43:31 +0000</pubDate>
+ <dc:creator>o2</dc:creator>
+ <guid isPermaLink="false">1965 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

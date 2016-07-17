@@ -1,0 +1,249 @@
+Conversation with fe.scur@gmail.com at Sex 26 Fev 2010 15:52:02 BRT on felipefonseca@gmail.com/Home (jabber)
+(16:06:48) Fernanda Scur: bora
+(16:06:51) Fernanda Scur: já mandei o email
+(16:07:23) fff: to abrindo aqui
+(16:09:08) fff: legal deixar uns dias sem olhar as telas
+(16:09:21) fff: o cabeçalho acho que tá bem resolvido
+(16:09:25) Fernanda Scur: sim, eu faço isso tb quando estou "criando"
+(16:09:31) Fernanda Scur: eu acho também
+(16:09:38) Fernanda Scur: gostei dessa última solução 
+(16:09:44) Fernanda Scur: limpo, objetivo, conciso
+(16:09:58) fff: acho que o painel eh isso que precisa por enquanto, o detalhe a gente define na hora de desenvolver
+(16:10:06) Fernanda Scur: isso que eu ia dizer
+(16:10:15) Fernanda Scur: cada uma das caixas que irão existir terão pequenas diferenças
+(16:10:21) fff: sim
+(16:10:31) Fernanda Scur: dai eu acho que a demanda de criar o layout pra elas pode vir na hora do desenvolvimento
+(16:10:42) Fernanda Scur: (tanto das caixas como de novos ícones)
+(16:11:05) fff: acho que a página de perfil tá ok, só um detalhe: não acho que faz muito sentido dizer "últimas contribuições EM..." no perfil. melhor é deixar geral, talvez por tipo de conteúdo.
+(16:11:09) fff: últimos posts de blog do felipe
+(16:11:10) Fernanda Scur: e eu acho que cada caixa tb deve ser discutida brevemente, junto com os desenvolvedores
+(16:11:11) fff: não interessa onde
+(16:11:24) Fernanda Scur: hum entendi
+(16:11:26) fff: sim, também acho que essa discussão é depois
+(16:11:42) Fernanda Scur: é, na real eu me perdi nessa do perfil
+(16:11:45) fff: do detalhe das caixas
+(16:11:51) fff: mas perfil acho que é basicamente isso
+(16:11:55) Fernanda Scur: viu que a coluna bem da direita ficou vazia até, 
+(16:11:59) Fernanda Scur: porque fiquei em duvida no conteudo
+(16:12:03) fff: vi sim
+(16:12:18) Fernanda Scur: mas isso, o conteúdo das caixas a gente discute na hora de desenvolver
+(16:12:37) Fernanda Scur: o rodapé:
+(16:12:44) Fernanda Scur: o que tu acha dessa distribuição?
+(16:12:54) Fernanda Scur: (os logos nao foram tratados ainda, tá)
+(16:13:21) Fernanda Scur: como é include, é fácil de ir aprimorando ele, mas acho que de início essas info bastam.
+(16:13:34) fff: tá boa a distribuição
+(16:13:47) fff: talvez a gente precise por mais logos
+(16:14:03) Fernanda Scur: sem problemas
+(16:14:12) Fernanda Scur: esses eram os que estavam naquela documentação que tu me enviou
+(16:14:27) Fernanda Scur: mas como eu falei, é um include único, só ir aprimorando ele
+(16:14:33) fff: sim
+(16:14:43) Fernanda Scur: lembro que tu falou que queria botar da chuva, etc
+(16:14:47) fff: isso
+(16:14:59) Fernanda Scur: bom, vou limpar os logos oficiais e isso a gente vai colocando
+(16:15:02) Fernanda Scur: listagens:
+(16:15:14) Fernanda Scur: uma coisa que fiquei beeem em dúvida, coisa geral
+(16:15:16) Fernanda Scur: foi o seguinte
+(16:15:16) fff: diga
+(16:15:22) Fernanda Scur: essas são páginas gerais, 
+(16:15:42) Fernanda Scur: então não precisam da lógica de ter um submenu pra elas, como perfil, painel ou uma conectaz/esporo especifico
+(16:15:45) Fernanda Scur: dai eu tirei.
+(16:15:55) Fernanda Scur: mas, não sei se vale deixar só a página (como eu fiz)
+(16:16:06) Fernanda Scur: ou acrescentar alguma coluna com outras informações como tem no site hoje
+(16:16:11) Fernanda Scur: entende o que eu quero dizer?
+(16:16:14) fff: entendo
+(16:16:17) fff: to pensando
+(16:16:29) Fernanda Scur: isso seria até um caso pra teste de usabilidade.
+(16:16:38) fff: mas acho que pelo menos essas listagens aí são gerais mesmo
+(16:16:47) Fernanda Scur: isso sim, 
+(16:17:02) fff: e como a gente tá formatando o menu lateral bem como contexto, acho que não faz mal deixar limpo não
+(16:17:09) Fernanda Scur: o que estou falando não seriam colunas a respeito das listagens, mas colunas com infos outras (como é hoje no site)
+(16:17:25) fff: única observação na real é que acho que precisa mais um box de sort, além do filtrar
+(16:17:31) Fernanda Scur: sim, isso tb é fácil de adicionar depois
+(16:17:33) Fernanda Scur: ah
+(16:17:38) Fernanda Scur: sabia que tu ia dizer isso
+(16:17:44) fff: ;)
+(16:17:55) fff: acho que as colunas que tão hoje no site são meio confusas, na real
+(16:17:57) Fernanda Scur: eu não botei o sort (ordenar) porque ele esta como link hoje no site
+(16:18:15) Fernanda Scur: mas acho que por questões de usabilidade, vale sim colocar um box como o de filtrar, né?
+(16:18:23) fff: acho que sim
+(16:18:36) Fernanda Scur: certo. mas acho que tb vale manter o link nos titulos
+(16:18:45) fff: pode ser
+(16:18:50) Fernanda Scur: tem gente acostumada com isso, é só um adendo. várias formas de navegar
+(16:19:24) fff: a visão de agregador, acho que dá pra deixar a coluna data/hora menor, e dar mais espaço pras duas primeiras colunas que são as importantes
+(16:19:37) Fernanda Scur: deixa eu abrir ela, pera
+(16:19:54) Fernanda Scur: certo, concordo
+(16:20:21) Fernanda Scur: eu tenho mania de deixar mediçoes por ultimo, é um saco, desculpa, hehehe
+(16:20:40) Fernanda Scur: como geralmente sou eu que programo o html nas minhas telas, eu sempre sei que vou mexer na hora de desenvolver....
+(16:20:54) Fernanda Scur: é um saco ter que entregar a tela "perfeita" para quem quer que seja que irá desenvolver...
+(16:21:22) fff: entendi
+(16:21:26) fff: mas sussa
+(16:21:29) fff: já me vieram duas questões pra outras telas que eu quero ver contigo depois
+(16:21:32) Fernanda Scur: mas eu arrumo
+(16:21:40) fff: acho que as listagens tão legais, coerentes com o restante
+(16:22:15) Fernanda Scur: é, tem que seguir o padrão
+(16:22:45) Fernanda Scur: não precisa nem ser esse o layout de tabela, eu fiz assim, podemos fazer outros jeitos..mas seja o que escolhermos, tem que seguir daí o padrão
+(16:22:58) Fernanda Scur: pode parecer "sem graça", mas o colorido vem do conteúdo...
+(16:23:01) fff: nao tenho muitas observaçõs sobre essas
+(16:23:04) fff: tem a ver
+(16:23:11) Fernanda Scur: sim, é questão de gosto mesmo
+(16:23:26) Fernanda Scur: mas o importante é: está claro? tu te acha na página?
+(16:23:46) Fernanda Scur: (também, depois de desenvolvido, e quando as pessoas estiverem usando, vamos ver pequenos detalhes que devem ser melhorados)
+(16:23:58) Fernanda Scur: sei lá ,a divisão tá muito fraca ainda e o conteúdo fica embaralhado, essas coisas
+(16:24:06) Fernanda Scur: mas a maravilha do css é essa
+(16:24:17) Fernanda Scur: barbada de aperfeiçoar.
+(16:24:29) fff: sim
+(16:24:32) Fernanda Scur: eu acho que logo a gente já pode começar a desenvolver paralelamente à essas telas, não?
+(16:24:36) fff: pra mim, tá claro. mas eu conheço, né?
+(16:24:36) fff: ;)
+(16:24:40) Fernanda Scur: a base, tá pronta (header e footer)
+(16:24:44) fff: sim
+(16:24:48) Fernanda Scur: (sim...por isso testes de usabilidade seriam legais...)
+(16:24:50) fff: acho que tá
+(16:25:10) fff: então, tem duas coisas pra pensar
+(16:25:21) Fernanda Scur: tipo, eu posso preparar essas telas-base para os desenvolvedores irem fazendo o tema...
+(16:25:22) Fernanda Scur: fale
+(16:25:58) fff: sim, mas antes eu quero apresentar pra rede, colher feedbacks, aquilo tudo
+(16:26:17) Fernanda Scur: mas pra só telas?
+(16:26:20) Fernanda Scur: :-(
+(16:26:34) Fernanda Scur: sem interação virão uma chuva de pitacos...
+(16:26:49) fff: tudo bem, eu seguro ;)
+(16:26:54) Fernanda Scur: quando tu quer fazer essa apresentação?
+(16:27:00) fff: começo de março
+(16:27:03) fff: por que?
+(16:27:08) Fernanda Scur: com TODAS as telas acho que vai ser dificil, por isso
+(16:27:12) Fernanda Scur: alias, acho que nem tem porquê
+(16:27:27) fff: não precisa ser todas
+(16:27:31) fff: é mais dar uma ideia geral
+(16:27:37) Fernanda Scur: tá
+(16:28:01) fff: mas então, as duas coisas pra resolver
+(16:28:08) Fernanda Scur: hum
+(16:28:46) fff: deixa só eu ver um lance
+(16:29:17) fff: ah, maravilha. acho que tu consegue ver:
+(16:29:18) fff: já me vieram duas questões pra outras telas que eu quero ver contigo depois
+(16:29:20) fff: pdjfsdj
+(16:29:20) fff: ops
+(16:29:22) fff: peraoi
+(16:29:27) fff: http://rede.metareciclagem.org/user/453/notifications
+(16:29:28) Fernanda Scur: nossa
+(16:29:53) Fernanda Scur: o que tem esse link?
+(16:29:59) fff: notificações
+(16:30:12) fff: é como o sistema vai te avisar de novidades no site
+(16:30:25) fff: nos teus grupos, nas pessoas que tu quer acompanhar, tags, etc.
+(16:30:53) Fernanda Scur: isso seria o que, a próxima tela a ser feita?
+(16:31:21) fff: não
+(16:31:23) fff: não sei
+(16:31:32) fff: isso é uma coisa que acho que tem que ser incorporada no painel
+(16:31:45) Fernanda Scur: ah tá
+(16:32:08) Fernanda Scur: qual o nível de prioridade no painel tu acha que essas notificações devem ter?
+(16:32:32) Fernanda Scur: tu tens a tua página de notificações? já uma feature ativa? 
+(16:32:47) Fernanda Scur: pergunto porque eu não vejo nada na minha conta, se tu puderes me enviar um screenshot da tua...
+(16:33:10) fff: acho que na real pode ser uma tab ali do lado
+(16:33:15) fff: nao ve nada?
+(16:33:18) Fernanda Scur: tava pensando isso agora
+(16:33:25) Fernanda Scur: eu não tenho subscriptions yet
+(16:33:43) Fernanda Scur: queria ver como seria com subscriptions
+(16:34:36) fff: faz assim, entra em uma página de conteúdo individual
+(16:34:42) Fernanda Scur: na verdade achei que isso entraria no "editar painel"
+(16:35:00) Fernanda Scur: porque na verdade as caixas do painel não são essas notificações?
+(16:35:12) fff: não sei, na real
+(16:35:25) Fernanda Scur: pra mim parece que sim...
+(16:35:27) fff: acho que a finalidade é similar, mas essas notificações vão por email ou jabber
+(16:35:37) Fernanda Scur: ah, tá
+(16:36:00) Fernanda Scur: então cada coisa que tu vai fazer uma subscription, 
+(16:36:03) fff: "avisos", sei lá
+(16:36:05) fff: ainda vou traduzir
+(16:36:17) fff: seli
+(16:36:17) fff: http://rede.metareciclagem.org/blog/26-02-10/Inclusão-Digital-Ação-em-Sobral-CE (http://rede.metareciclagem.org/blog/26-02-10/Inclus%C3%A3o-Digital-A%C3%A7%C3%A3o-em-Sobral-CE)
+(16:36:19) Fernanda Scur: acho que deveria ter as opções (receber por email, jabber, caixa no painel...)
+(16:36:39) fff: lá entre o conteúdo e os comments, tem um link "subscriptions". clica nele.
+(16:36:46) fff: pode ser, isso acho que a gente consegue fazer
+(16:37:47) Fernanda Scur: é, tipo isso, na hora que eu fiz a subscription, eu tb escolho como quero receber (podendo ser mais de um)
+(16:37:56) fff: perai bateria acabando
+(16:38:00) Fernanda Scur: ok
+(16:40:17) fff: pronto, carregando ;)
+(16:40:37) Fernanda Scur: aliás, subscription é um link que fica na caixinha amarela :-)
+(16:40:41) fff: entao, tu acha que isso é uma tela de editar só?
+(16:40:50) fff: sim, isso eu tambem tinha pensado
+(16:41:01) Fernanda Scur: tipo, entre no teu perfil, na caixinha com ações minhas "contatar felipe", tambem deve ter um "seguir o felipe"
+(16:41:06) Fernanda Scur: ou algo do genero, que seria isso
+(16:41:16) Fernanda Scur: o mesmo vale pra blog post, wiki, etc
+(16:41:24) Fernanda Scur: conectaz, esporo, etc. 
+(16:41:30) fff: então isso tem que estar nas visualizações gerais, né?
+(16:41:35) Fernanda Scur: na hora de fazer o subscribe, pode abrir uma modal
+(16:41:46) fff: modal?
+(16:41:48) Fernanda Scur: perguntando se vira caixa no painel, se recebe por email, jabber, blablabla
+(16:41:56) Fernanda Scur: é, uma janelinha
+(16:41:58) fff: boa
+(16:42:29) Fernanda Scur: essas coisas a gente tem que ir anotando pra depois passar para os desenvolvedores
+(16:45:21) fff: vou sair meia hora falar como engenheiro aqui
+(16:45:24) fff: acabou de chegar
+(16:45:24) fff: foi mal
+(16:45:37) Fernanda Scur: sem problemas...eu vou dar uma saida rapida
+(16:45:57) Fernanda Scur: na real, podemos depois ver os proximos passos antes da proxima reuniao com a galera (terça?)
+(16:46:10) Fernanda Scur: e tb estou indo à sampa dia 08, fico até dia 12
+(16:47:00) Fernanda Scur: em meia hora estou de volta.
+(16:57:42) fff: voltei
+(16:57:46) fff: tá aí ainda?
+(17:27:40) Fernanda Scur: voltei
+(17:27:47) fff: opa
+(17:31:32) Fernanda Scur: e aí, vamo finalizar o papo?
+(17:31:52) fff: bora
+(17:31:56) fff: entao, paramos...
+(17:31:58) fff: notificações
+(17:32:03) fff: era aquilo, incorporar elas
+(17:32:07) Fernanda Scur: estavamos divagando em notificações
+(17:32:08) Fernanda Scur: certo
+(17:32:11) Fernanda Scur: anotei aqui
+(17:32:32) Fernanda Scur: além disso, e mais ajustezinhos gerais, que outras telas podemos ir fazendo?
+(17:32:48) Fernanda Scur: (terça marcamos uma reunião com os outros pra mostrar essas de listagem?)
+(17:33:53) fff: teaser de blog acho importante
+(17:34:06) fff: também já com os links pra notificações, e mais um pepino pra descascar
+(17:34:10) fff: ou abacaxi
+(17:34:44) fff: seguinte: o sistema, hoje, permite que um usuário escolha a quais grupos um post de blog (ou uma página de wiki) pertence
+(17:34:50) fff: mas permite múltipla escolha
+(17:36:15) Fernanda Scur: e?
+(17:36:38) fff: e aí isso coloca uma questão
+(17:36:50) fff: quando eu tô exibindo uma página de wiki, hoje ele lista UM grupo na coluna da direita
+(17:37:00) fff: idealmente, teria que listar todos os grupos aos quais o post pertence
+(17:37:13) fff: mas aí não sei, se isso tem que ser mostrado com o menu de grupo ou não
+(17:37:15) Fernanda Scur: sim
+(17:37:23) fff: ou só usar a coluna da esquerda pra dizer a quais grupos pertenfe
+(17:37:39) fff: e se issonão fica incoerente com a navegação da coluna esquerda que a gente imaginoui
+(17:37:40) Fernanda Scur: hum...
+(17:37:47) Fernanda Scur: tá, vou pensar nisso
+(17:39:04) Fernanda Scur: então, pra terça, uma página de teaser do blog e uma página de wiki (ou blog) específica?
+(17:39:07) Fernanda Scur: É isso?
+(17:40:14) fff: acho que sim
+(17:40:23) fff: ah
+(17:40:37) fff: acho que a única coisa que falta ainda é a página de adicionar conteúdo
+(17:40:47) Fernanda Scur: hum...páginas com forms...
+(17:40:50) fff: rede.metareciclagem.org/node/add/blog
+(17:40:51) fff: é
+(17:40:55) fff: saquim
+(17:41:03) Fernanda Scur: é. "adoro" essas...
+(17:41:21) Fernanda Scur: tá, adicionei essa pra fazer tb
+(17:41:49) fff: roquenrou
+(17:41:56) Fernanda Scur: certo então
+(17:42:01) fff: aí acho que a gente tem uma proposta coesa pra conversar
+(17:42:09) Fernanda Scur: certo
+(17:42:18) Fernanda Scur: com o resto da lista, tu diz?
+(17:42:40) fff: com o resto do mundo
+(17:42:41) fff: ;)
+(17:42:50) Fernanda Scur: aiiii
+(17:42:51) Fernanda Scur: tá
+(17:42:54) Fernanda Scur: blz então...
+(17:43:05) Fernanda Scur: curte o finde. dia 08 tô em sampa, tu viu?
+(17:43:23) fff: vi sim
+(17:43:29) fff: acho que vou estar em Uba ;)
+(17:43:38) fff: vem pra cá!
+(17:43:39) fff: heh
+(17:43:42) Fernanda Scur: certo..fico até dia 12
+(17:43:49) Fernanda Scur: de repente hehehe
+(17:44:01) Fernanda Scur: mas é de segunda a sexta...numa dessas fico no final de semana
+(17:44:58) fff: só avisar
+(17:45:09) fff: não sendo feriado (que desce todo mundo), a gente tem bastante lugar na casa
+(17:45:19) Fernanda Scur: blz
+(17:45:36) Fernanda Scur: buenas...bom final de semana!!!
+(17:45:54) fff: bom!
+(17:46:03) fff: vou publicar essas telas lá, ok?
+(17:46:10) Fernanda Scur: ok!

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - cli</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/1016/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>UID</title>
+ <link>http://rede.metareciclagem.org/blog/17-03-11/UID</link>
+ <description>&lt;p&gt;H&amp;aacute; alguns meses j&amp;aacute; est&amp;aacute;vamos com problemas em alguns posts do &lt;a href=&quot;http://rede.metareciclagem.org&quot; rel=&quot;nofollow&quot;&gt;site da MetaReciclagem&lt;/a&gt;: apareciam de repente sem estar associados a nenhumx autorx, e isso atrapalhava o acesso e a edi&amp;ccedil;&amp;atilde;o do conte&amp;uacute;do. N&amp;atilde;o consegui descobrir a causa do problema (que afeta, em verdade, uma propor&amp;ccedil;&amp;atilde;o &amp;iacute;nfima do site - duas p&amp;aacute;ginas em um universo de mais de 2000), mas hoje aprendi a consertar, com ajuda do &lt;a href=&quot;/pessoa/wundo&quot; rel=&quot;nofollow&quot;&gt;Wundo&lt;/a&gt;. L&amp;aacute; vai:&lt;/p&gt;
+&lt;p&gt;Entrar no mysql&lt;/p&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;#mysql -u usuario -p&lt;/p&gt;
+&lt;p&gt;Selecionar o banco de dados&lt;/p&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;mysql&amp;gt; use bancodedados;&lt;/p&gt;
+&lt;p&gt;Verificar se o problema &amp;eacute; mesmo o id de usu&amp;aacute;rix&lt;/p&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;mysql&amp;gt;&amp;nbsp;SELECT uid from node where nid=XXX;&lt;/p&gt;
+&lt;p&gt;(onde XXX deve ser substitu&amp;iacute;do pelo ID do node em quest&amp;atilde;o)&lt;/p&gt;
+&lt;p&gt;O resultado aqui foi:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;+-----+&lt;/p&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;| uid |&lt;/p&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;+-----+&lt;/p&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;| &amp;nbsp; 0 |&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;+-----+&lt;/p&gt;
+&lt;div&gt;Ou seja, o node est&amp;aacute; associado ao usu&amp;aacute;rio 0, que n&amp;atilde;o existe. Ent&amp;atilde;o vou associ&amp;aacute;-lo ao usu&amp;aacute;rio 1 (que &amp;eacute; o superusu&amp;aacute;rio do drupal) e posteriormente posso atribuir a quem eu quiser atrav&amp;eacute;s da interface web:&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;rteindent1&quot;&gt;mysql&amp;gt;&amp;nbsp;UPDATE node SET uid = 1 WHERE nid = XXX;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;E pronto, os nodes voltaram a ser associados a usu&amp;aacute;rios do site: EventosEtc e &lt;a href=&quot;/wiki/APH-no-Recife&quot; rel=&quot;nofollow&quot;&gt;APH-no-Recife&lt;/a&gt;.&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Atualizando:&lt;/strong&gt; apesar de ter resolvido por aqui, o problema continuou em uma p&amp;aacute;gina do site do MutGamb. &lt;a href=&quot;http://drupal.org/node/533720&quot; rel=&quot;nofollow&quot;&gt;Essa discuss&amp;atilde;o&lt;/a&gt; me leva a crer que o m&amp;oacute;dulo vertical tabs pode ser o culpado, ent&amp;atilde;o vou temporariamente desativ&amp;aacute;-lo.&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Atualizando outra vez:&lt;/strong&gt; desativei o vertical tabs no mutgamb. O erro continua ocorrendo...&lt;/div&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/17-03-11/UID#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/cli">cli</category>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/linha-de-comando">linha de comando</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mysql">mysql</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Thu, 17 Mar 2011 20:49:12 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2028 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

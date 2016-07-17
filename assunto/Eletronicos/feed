@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>MetaReciclagem - Eletrônicos</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/1019/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>ECO TI</title>
+ <link>http://rede.metareciclagem.org/esporo/ECO-TI</link>
+ <description>&lt;div class=&quot;form-item&quot;&gt;
+ &lt;label&gt;Descrição: &lt;/label&gt;
+ Reciclagem de Eletrônicos e Inclusão Digital
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-situacao-esporo&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Situação do Esporo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    funcionando        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+  &lt;h3 class=&quot;location-locations-header&quot;&gt;Localização&lt;/h3&gt;
+  &lt;div class=&quot;location-locations-wrapper&quot;&gt;
+          &lt;div class=&quot;location vcard&quot;&gt;
+  &lt;div class=&quot;adr&quot;&gt;
+          &lt;span class=&quot;fn&quot;&gt;ECO TI&lt;/span&gt;
+              &lt;div class=&quot;street-address&quot;&gt;
+        Margarida Stach, 133                  &lt;span class=&quot;additional&quot;&gt;
+             São paulo           &lt;/span&gt;
+              &lt;/div&gt;
+                          &lt;div class=&quot;country-name&quot;&gt;Brazil&lt;/div&gt;
+                                        &lt;span class=&quot;geo&quot;&gt;&lt;abbr class=&quot;latitude&quot; title=&quot;-23.581550&quot;&gt;23° 34&#039; 53.58&quot; S&lt;/abbr&gt;, &lt;abbr class=&quot;longitude&quot; title=&quot;-46.546098&quot;&gt;46° 32&#039; 45.9528&quot; W&lt;/abbr&gt;&lt;/span&gt;
+            &lt;/div&gt;
+      &lt;div class=&quot;map-link&quot;&gt;
+      &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com.br?q=-23.581550+-46.546098+%28ECO+TI%2CMargarida+Stach%2C+133%2C+%2C+%2C+%2C+br%29&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/esporo/ECO-TI#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/Baterias">Baterias</category>
+ <category domain="http://rede.metareciclagem.org/assunto/Celulares">Celulares</category>
+ <category domain="http://rede.metareciclagem.org/assunto/Chips">Chips</category>
+ <category domain="http://rede.metareciclagem.org/assunto/Eletronicos">Eletrônicos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/pilhas">pilhas</category>
+ <category domain="http://rede.metareciclagem.org/assunto/reciclagem">reciclagem</category>
+ <georss:point>-23.581550 -46.546098</georss:point>
+ <pubDate>Thu, 28 Apr 2011 19:08:46 +0000</pubDate>
+ <dc:creator>ECO_TI</dc:creator>
+ <guid isPermaLink="false">2033 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

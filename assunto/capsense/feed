@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - capsense</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/1161/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Sensor capacitivo - Toque nas plantas</title>
+ <link>http://rede.metareciclagem.org/blog/14-09-12/Sensor-capacitivo-Toque-nas-plantas</link>
+ <description>&lt;p&gt;Hey hou&lt;/p&gt;
+&lt;p&gt;Na&amp;nbsp;&lt;a href=&quot;http://rede.metareciclagem.org/blog/06-09-12/1%C2%AA-Experimentacao-Giselda-Cremilda-e-Angelica&quot; rel=&quot;nofollow&quot;&gt;primeira experimenta&amp;ccedil;&amp;atilde;o&lt;/a&gt;&amp;nbsp;do lablivre do sesc sorocaba, montamos uma interface com &lt;a href=&quot;http://gypsyware.org/bricolab/protuino-usb/&quot; rel=&quot;nofollow&quot;&gt;protuino&lt;/a&gt;&amp;nbsp;+ &lt;a href=&quot;http://processing.org&quot; rel=&quot;nofollow&quot;&gt;processing&lt;/a&gt;&amp;nbsp;para gerar imagens em um notebook sempre que algu&amp;eacute;m tocava nas plantas.&lt;/p&gt;
+&lt;p&gt;O sensor utilizado &amp;eacute; conhecido como sensor de capacit&amp;acirc;ncia, pra arduino existe uma bliblioteca que pode ser incorporada ao script com facilidade &amp;gt;&amp;nbsp;&lt;a href=&quot;http://www.pjrc.com/teensy/td_libs_CapSense.html&quot; rel=&quot;nofollow&quot;&gt;http://www.pjrc.com/teensy/td_libs_CapSense.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;O circuito que montamos ficou assim:&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://farm9.staticflickr.com/8179/7984425363_babaf11f65.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;As antenas s&amp;atilde;o as plantas no qual inser&amp;iacute; os placas de metal/fenolite-cobre/abridor de garrafas etc &amp;quot;aterradas&amp;quot; no vaso ou na &amp;aacute;gua &amp;gt;&amp;gt;&lt;/p&gt;
+&lt;p&gt;na terra...&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://farm9.staticflickr.com/8039/7984388763_de5a6b0287.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;na &amp;aacute;gua ...&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://farm9.staticflickr.com/8451/7984389605_432626d32d.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;enfim, os circuitos s&amp;atilde;o todos muito simples e nessa mesma semana rolou uma florec&amp;ecirc;ncia de coisas, antigas at&amp;eacute; mas que est&amp;atilde;o se popularizando &amp;quot;coincidentemente&amp;quot; na mesma pegada &amp;gt;&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.makeymakey.com/&quot; rel=&quot;nofollow&quot;&gt;http://www.makeymakey.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://style.greenvana.com/2012/plantas-podem-servir-como-acessorios-para-aparelhos-eletronicos/&quot; rel=&quot;nofollow&quot;&gt;http://style.greenvana.com/2012/plantas-podem-servir-como-acessorios-para-aparelhos-eletronicos/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;cierto, depois de fazer o circuito adaptamos o c&amp;oacute;digo para conversar com o processing e ativar os apelidos das plantas quando eram tocadas, pra isso &amp;eacute; preciso calibrar os valores de leitura no arduino para filtrar o ru&amp;iacute;do de aproxima&amp;ccedil;&amp;atilde;o das pessoas e do que realmente &amp;eacute; um toque na planta.&lt;/p&gt;
+&lt;p&gt;Claro que aproveitar a movimenta&amp;ccedil;&amp;atilde;o das pessoas pode ser uma outra experimenta&amp;ccedil;&amp;atilde;o, mas no dia queriamos apenas interfer&amp;ecirc;ncia ao toque.&lt;/p&gt;
+&lt;p&gt;fizemos um mashup de c&amp;oacute;digos e ficou assim:&lt;/p&gt;
+&lt;p&gt;//Arduino c&amp;oacute;digo capsense eletrorganicos&lt;/p&gt;
+&lt;p&gt;#include &amp;lt;CapSense.h&amp;gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;CapSense &amp;nbsp; cs_4_2 = CapSense(4,2); &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;
+&lt;div&gt;CapSense &amp;nbsp; cs_4_6 = CapSense(4,6); &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;
+&lt;div&gt;CapSense &amp;nbsp; cs_4_8 = CapSense(4,8); &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;void setup() &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;
+&lt;div&gt;{&lt;/div&gt;
+&lt;div&gt;&amp;nbsp; &amp;nbsp;cs_4_2.set_CS_AutocaL_Millis(0xFFFFFFFF);&lt;/div&gt;
+&lt;div&gt;&amp;nbsp; &amp;nbsp;Serial.begin(9600);&lt;/div&gt;
+&lt;div&gt;}&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;void loop() &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;
+&lt;div&gt;{&lt;/div&gt;
+&lt;div&gt;&amp;nbsp; &amp;nbsp; long start = millis();&lt;/div&gt;
+&lt;div&gt;&amp;nbsp; &amp;nbsp; long planta1 = &amp;nbsp;cs_4_2.capSense(30);&lt;/div&gt;
+&lt;div&gt;&amp;nbsp; &amp;nbsp; long planta2 = &amp;nbsp;cs_4_6.capSense(30);&lt;/div&gt;
+&lt;div&gt;&amp;nbsp; &amp;nbsp; long planta3 = &amp;nbsp;cs_4_8.capSense(30);&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp; &amp;nbsp; if (planta1 &amp;gt; 20000) Serial.print(&amp;quot;A&amp;quot;); &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp; &amp;nbsp; if (planta2 &amp;gt; 25000) Serial.print(&amp;quot;B&amp;quot;);&lt;/div&gt;
+&lt;div&gt;&amp;nbsp; &amp;nbsp; if (planta3 &amp;gt; 4000) Serial.print(&amp;quot;C&amp;quot;);&lt;/div&gt;
+&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;delay(10);&lt;/div&gt;
+&lt;div&gt;}&lt;/div&gt;
+&lt;p&gt;//Fim&lt;/p&gt;
+&lt;p&gt;Os valores que est&amp;atilde;o nas condi&amp;ccedil;&amp;otilde;es (if) devem ser ajustados na hora, depende do resistor que est&amp;aacute; usando, o tipo de planta, enfim, tem que ir testando e calibrando vendo o serial print.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Proximo passo &amp;gt;&amp;gt; #noise&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/14-09-12/Sensor-capacitivo-Toque-nas-plantas#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/capsense">capsense</category>
+ <category domain="http://rede.metareciclagem.org/assunto/eletrorganicos">eletrorganicos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/hardware-livre-0">hardware livre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/lablivre">lablivre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/sesc-sorocaba">sesc sorocaba</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/LabLivre-EletrOrganicos" xmlns="http://drupal.org/project/og">LabLivre - EletrOrgânicos</group>
+ <pubDate>Fri, 14 Sep 2012 03:52:45 +0000</pubDate>
+ <dc:creator>guimasan</dc:creator>
+ <guid isPermaLink="false">2128 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

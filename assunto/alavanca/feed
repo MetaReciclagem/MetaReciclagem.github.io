@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>MetaReciclagem - alavanca</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/241/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Alavanca</title>
+ <link>http://rede.metareciclagem.org/esporo/Alavanca</link>
+ <description>&lt;div class=&quot;form-item&quot;&gt;
+ &lt;label&gt;Descrição: &lt;/label&gt;
+ O Espaço metarec do Projeto alavanca fica na favela da São Remo, ao lado da USP e da Avenida Rio Pequeno.
+&lt;/div&gt;
+&lt;div class=&quot;field field-type-text field-field-situacao-esporo&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Situação do Esporo:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    em planejamento        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+  &lt;h3 class=&quot;location-locations-header&quot;&gt;Localização&lt;/h3&gt;
+  &lt;div class=&quot;location-locations-wrapper&quot;&gt;
+          &lt;div class=&quot;location vcard&quot;&gt;
+  &lt;div class=&quot;adr&quot;&gt;
+          &lt;span class=&quot;fn&quot;&gt;São Remo&lt;/span&gt;
+              &lt;div class=&quot;street-address&quot;&gt;
+        Aquianés              &lt;/div&gt;
+              &lt;span class=&quot;locality&quot;&gt;São Paulo&lt;/span&gt;,               &lt;span class=&quot;region&quot;&gt;SP&lt;/span&gt;
+                  &lt;div class=&quot;country-name&quot;&gt;Brazil&lt;/div&gt;
+                                        &lt;span class=&quot;geo&quot;&gt;&lt;abbr class=&quot;latitude&quot; title=&quot;-23.562463&quot;&gt;23° 33&#039; 44.8668&quot; S&lt;/abbr&gt;, &lt;abbr class=&quot;longitude&quot; title=&quot;-46.742717&quot;&gt;46° 44&#039; 33.7812&quot; W&lt;/abbr&gt;&lt;/span&gt;
+            &lt;/div&gt;
+      &lt;div class=&quot;map-link&quot;&gt;
+      &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com.br?q=-23.562463+-46.742717+%28S%C3%A3o+Remo%2CAquian%C3%A9s%2C+S%C3%A3o+Paulo%2C+SP%2C+%2C+br%29&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/esporo/Alavanca#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/alavanca">alavanca</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metareciclagem">metareciclagem</category>
+ <georss:point>-23.562463 -46.742717</georss:point>
+ <pubDate>Mon, 16 Jun 2008 16:08:16 +0000</pubDate>
+ <dc:creator>liquuid</dc:creator>
+ <guid isPermaLink="false">1241 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

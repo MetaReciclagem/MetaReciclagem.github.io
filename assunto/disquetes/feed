@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:georss="http://www.georss.org/georss">
+<channel>
+ <title>MetaReciclagem - disquetes</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/622/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Reciclando com design</title>
+ <link>http://rede.metareciclagem.org/conectaz/Reciclando-com-design</link>
+ <description>&lt;div class=&quot;form-item&quot;&gt;
+ &lt;label&gt;Descrição: &lt;/label&gt;
+ O objetivo deste trabalho era desenvolver produtos de baixa complexidade, utilizando sucata tecnológica como materia prima.
+&lt;/div&gt;
+&lt;p&gt;Desenvolver produtos utilizando sucata tecnol&amp;oacute;gica como mater&amp;iacute;a prima.&lt;/p&gt;
+&lt;p&gt;Esta foi a proposta para um dos trabalhos da disciplina de Ecodesign, do curso T&amp;eacute;cnico em Design Gr&amp;aacute;fico e de Produto, do Col&amp;eacute;gio e Faculdade Ensitec, em Curitiba - PR. Na conversa inicial com os alunos, j&amp;aacute; lhes informei que pretendia divulgar o resultado na rede Metareciclagem e que, portanto, suas id&amp;eacute;ias poderiam ser utilizadas, copiadas e&amp;nbsp;melhoradas&amp;nbsp;por qualquer pessoa, em qualquer lugar, a qualquer momento. Eles concordaram na hora.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/conectaz/Reciclando-com-design&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;div class=&quot;field field-type-text field-field-situacao-conectaz&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Situação desta ConecTAZ:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    encerrada        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+  &lt;h3 class=&quot;location-locations-header&quot;&gt;Localização&lt;/h3&gt;
+  &lt;div class=&quot;location-locations-wrapper&quot;&gt;
+          &lt;div class=&quot;location vcard&quot;&gt;
+  &lt;div class=&quot;adr&quot;&gt;
+          &lt;span class=&quot;fn&quot;&gt;Colégio e Faculdade Ensitec&lt;/span&gt;
+              &lt;div class=&quot;street-address&quot;&gt;
+        Antonio Pietruza, 83              &lt;/div&gt;
+              &lt;span class=&quot;locality&quot;&gt;Curitiba&lt;/span&gt;,               &lt;span class=&quot;region&quot;&gt;PR&lt;/span&gt;
+              &lt;span class=&quot;postal-code&quot;&gt;80610-320&lt;/span&gt;
+              &lt;div class=&quot;country-name&quot;&gt;Brazil&lt;/div&gt;
+                                        &lt;span class=&quot;geo&quot;&gt;&lt;abbr class=&quot;latitude&quot; title=&quot;-25.467042&quot;&gt;25° 28&#039; 1.3512&quot; S&lt;/abbr&gt;, &lt;abbr class=&quot;longitude&quot; title=&quot;-49.291949&quot;&gt;49° 17&#039; 31.0164&quot; W&lt;/abbr&gt;&lt;/span&gt;
+            &lt;/div&gt;
+      &lt;div class=&quot;map-link&quot;&gt;
+      &lt;div class=&quot;location map-link&quot;&gt;See map: &lt;a href=&quot;http://maps.google.com.br?q=-25.467042+-49.291949+%28Col%C3%A9gio+e+Faculdade+Ensitec%2CAntonio+Pietruza%2C+83%2C+Curitiba%2C+PR%2C+80610-320%2C+br%29&quot;&gt;Google Maps&lt;/a&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/div&gt;
+      &lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/conectaz/Reciclando-com-design#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/design">design</category>
+ <category domain="http://rede.metareciclagem.org/assunto/disquetes">disquetes</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/midia/Luminária prata.pdf" length="1647572" type="application/pdf" />
+ <georss:point>-25.467042 -49.291949</georss:point>
+ <pubDate>Mon, 04 May 2009 00:48:19 +0000</pubDate>
+ <dc:creator>Arabella_Ensitec_Curitiba</dc:creator>
+ <guid isPermaLink="false">1590 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

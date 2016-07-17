@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - fckeditor</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/544/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Documentando alterações no fckeditor</title>
+ <link>http://rede.metareciclagem.org/blog/06-02-09/Documentando-altera%C3%A7%C3%B5es-no-fckeditor</link>
+ <description>&lt;p&gt;Desabilitei e Habilitei o FCKeditor seguindo esse caminho:&lt;/p&gt;&lt;p&gt;Home &amp;gt; Administer &amp;gt; Constru&amp;ccedil;&amp;atilde;o do site.&lt;/p&gt;&lt;p&gt;M&amp;oacute;dulos&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;../../../../../../admin/by-module&quot; rel=&quot;nofollow&quot;&gt;vis&amp;atilde;o por m&amp;oacute;dulo na &amp;aacute;rea administrativa&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;FCKeditor&lt;/h3&gt;&lt;p&gt;&lt;a href=&quot;../../../../../../admin/settings/fckeditor&quot; rel=&quot;nofollow&quot;&gt;FCKeditor&lt;/a&gt;&lt;/p&gt;&lt;h1 class=&quot;title&quot;&gt;FCKeditor settings&lt;/h1&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/06-02-09/Documentando-altera%C3%A7%C3%B5es-no-fckeditor#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/fckeditor">fckeditor</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metareciclagem">metareciclagem</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Fri, 06 Feb 2009 20:22:24 +0000</pubDate>
+ <dc:creator>varga</dc:creator>
+ <guid isPermaLink="false">1536 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

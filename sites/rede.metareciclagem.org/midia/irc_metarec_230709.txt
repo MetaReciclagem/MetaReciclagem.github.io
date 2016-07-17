@@ -1,0 +1,596 @@
+Conversation with #metareciclagem at Qui 23 Jul 2009 17:13:30 BRT on efeefe@irc.freenode.org (irc)
+(17:31:32) efeefe: bom
+(17:31:34) efeefe: comecando
+(17:31:42) efeefe: vou falar um pouco, pra dar uma geral
+(17:31:59) efeefe: quem quiser falar, por favor acene
+(17:32:01) efeefe: _o/
+(17:32:05) efeefe: bele?
+(17:32:08) PatriciaPi: ok
+(17:32:10) liquuid: ok
+(17:32:12) _id_: ok
+(17:32:12) efeefe: quem ajuda a organizar isso?
+(17:32:38) liquuid: eu nao posso pq posso sair a qualquer momento
+(17:32:42) PatriciaPi: posso ajudar
+(17:32:55) efeefe: legal. eh soh pra saber quem eh o proximo na vez.
+(17:32:58) efeefe: bom, comecando
+(17:33:17) efeefe: a razao pra esse papo hoje eh comecar a conversar sobre o premio de midia livre.
+(17:33:37) efeefe: jah ha uns dois anos, eu tenho insistido que a lista eh util pra rede metareciclagem, mas nao eh tudo. 
+(17:33:45) efeefe: nao acontece mais muita coisa por lah.
+(17:34:04) efeefe: temos, claro, aquela eterna crise de identidade, que as pessoas nunca sabem quando devem ou nao usar o nome metareciclagem.
+(17:34:19) efeefe: mas o fato eh que muita gente tah fazendo coisas que poderiam interessar aas outras pessoas.
+(17:34:34) efeefe: e que, como comentei no encontrao em sampa, a rede soh existe se as pessoas se comunicam,
+(17:34:39) efeefe: sem comunicacao nao existe rede.
+(17:34:54) ideiasperigosas [n=valentin@189.38.227.133] entrou na sala.
+(17:35:04) efeefe: dai que tem essa intencao de desenvolver interacao entre metarecicleirxs que vah alem da lista.
+(17:35:10) efeefe: articulacao, intercambio, troca.
+(17:35:27) efeefe: jah conversamos bastante sobre isso, mas na verdade nunca foi prioridade pra ninguem.
+(17:35:59) efeefe: quando eu e tati estavamos elaborando o projeto pra inscrever lah no premio de midia livre, fechamos o foco nao na metareciclagem como um todo, mas na rede
+(17:36:17) efeefe: ou seja, nas medidas, acoes e iniciativas voltadas a promover a articulacao entre as pessoas da rede
+(17:37:09) efeefe: daih que o fato de termos levado o premio (foi nos 45 do segundo tempo, posso contar se alguem quiser saber mais do processo) aponta pra essa direcao: a infralogica e o intercambio sao fundamentais pra rede.
+(17:37:23) efeefe: eu quero que a gente consiga desenvolver duas coisas muito bem
+(17:37:30) efeefe: 1) a infra-estrutura pra trocas
+(17:37:32) efeefe: 2) trocas
+(17:37:45) efeefe: algum comentario ateh aqui?
+(17:37:55) PatriciaPi: _o/
+(17:38:07) efeefe: diga lh
+(17:38:40) PatriciaPi: voce ja tem alguma coisa em mente para chegar nesses objetivos ou vamos colocar ideias na mesa e ver se rolam?
+(17:38:48) efeefe: vou fazer uma sugestao
+(17:39:25) efeefe: na verdade uma sugestao quebrada em partes
+(17:39:39) efeefe: a gente vai ter 120k de recursos
+(17:40:17) VJ_VARGA: efeefe
+(17:40:27) efeefe: fala varga
+(17:40:35) VJ_VARGA: rolou o workshop na ter?a no itau cultural
+(17:40:42) efeefe: e aih?
+(17:40:47) VJ_VARGA: eu fiquei afim de multiplicar
+(17:40:53) VJ_VARGA: foi da hora
+(17:40:59) efeefe: calma
+(17:41:10) efeefe: antes de mais nada: documenta lah no site
+(17:41:11) efeefe: pode ser?
+(17:41:18) efeefe: talvez na conectaz novas interfaces
+(17:41:24) efeefe: vou continuar, ok?
+(17:41:25) VJ_VARGA: pode sim
+(17:41:31) _id_: _o/
+(17:41:32) VJ_VARGA: ok
+(17:41:37) ian_brasil: efeefe, desenvolver em qual sentido?
+(17:41:50) efeefe: ian_brasil: jah explico
+(17:41:54) efeefe: _id_: fala
+(17:42:47) _id_: como eu to por fora do que rolou durante o processo, naum entendi se esse dinheiro eh de uso livre ou se obedece as regras de algum edital
+(17:43:12) efeefe: a principio, precisa entregar pro ministerio um relatorio de investimento
+(17:43:24) efeefe: mas como eh premio, e nao financiamento de acao, eh a gente que decide o que vai fazer
+(17:43:42) efeefe: no texto da inscricao, a gente apontava pra alguns caminhos, mas isso nao restringe
+(17:43:46) efeefe: eu tive algumas ideias
+(17:44:02) efeefe: comecando: 10% eh do agente cidadao, sem questionar
+(17:44:14) efeefe: eu imaginei em dedicar uma boa parte pra desenvolvimento da infralogica
+(17:44:21) efeefe: e isso quebrando em varias partes
+(17:44:33) efeefe: 1) sistema, 2) interface, 3) conteudo
+(17:44:42) VJ_VARGA: _o/
+(17:44:50) efeefe: pra tudo isso, toda grana eh pouca
+(17:44:52) efeefe: fala varga
+(17:45:03) _id_: eh vero
+(17:45:15) efeefe: varga?
+(17:45:17) VJ_VARGA: o site entra nessa hst?
+(17:45:26) efeefe: isso eh basicamente o site
+(17:45:45) efeefe: jah tem um comeco de conversa rolando pela conectaz infralogica
+(17:45:53) efeefe: mas tem que ir muito mais a fundo
+(17:46:15) efeefe: eu tenho conversado com a chuva-inc, que tah bem disposta a colaborar bastante com o site
+(17:46:27) efeefe: em parte job pago, em parte investimento deles na metareciclagem
+(17:46:47) VJ_VARGA: entendi
+(17:46:50) ideiasperigosas: nós somos a chuva
+(17:47:03) efeefe: ?
+(17:47:13) efeefe: quem eh ideiasperigosas?
+(17:47:19) VJ_VARGA: ? a lu
+(17:47:26) efeefe: eh mesmo?
+(17:47:28) ideiasperigosas: esqueceu
+(17:47:31) efeefe: heh
+(17:47:34) efeefe: pero no
+(17:47:47) efeefe: chuva eh uma empresa de campinas que tem alguns metarecicleiros envolvido
+(17:47:56) efeefe: wundo, lourenzo, agora o capi
+(17:48:23) efeefe: o que quero convencer o wundo a pegar eh que pra cada hora de trabalho paga eles vao trabalhar duas horas ;)
+(17:48:25) VJ_VARGA: eu tenho estudado bastante drupal
+(17:48:29) efeefe: isso eh uma parte do trampo
+(17:48:40) ian_brasil: chuva eh um boa
+(17:48:54) efeefe: VJ_VARGA: tenho acompanhado. eu tambem to fazendo umas coisas. mas pros lances mais pesados a chuva eh legal.
+(17:49:13) VJ_VARGA: c/ certeza
+(17:49:43) efeefe: pensei em a gente reservar algo como 40% do recurso soh pra infralogica. sistema e interface do site, integracao com outras coisas. 
+(17:50:12) efeefe: e aih fracionar isso entre quem quer ajudar: planejamento, interface e sistema. talvez com grupos de trabalho, talvez de outra forma.
+(17:50:26) efeefe: mas em essencia eh formar um subgrupo pra tocar a infralogica e essa parte da grana
+(17:51:08) efeefe: esse grupo contando com todo mundo interessado, entre as pessoas que jah se prontificaram a fazer mesmo antes da grana aparecer.
+(17:51:21) efeefe: varga, fe, uira, dpadua, tati sao algumas dessas.
+(17:51:27) efeefe: tati wells tambem
+(17:51:30) efeefe: e mais alguem ainda
+(17:51:32) efeefe: enfim
+(17:52:09) efeefe: aih podemos marcar papos especificos sobre isso
+(17:52:17) efeefe: o fundamental eh que a responsa eh compartilhada por essas pessoas.
+(17:52:30) _id_: _o/
+(17:52:32) efeefe: ian, liquuid, acho que ces deveriam fazer parte desse grupo tambem
+(17:52:35) efeefe: fala, otavio
+(17:53:11) _id_: eu entendo mais como funciona video e coisas assim, naum sei como fazer pra criar streans na internet, mas se ouver interesse posso ver como faz
+(17:53:15) ian_brasil: efeefe, ok ..se a gente vai desenvolver alguma doideira eu topo
+(17:53:23) _id_: e jah bota uma fonte de videos no pr?prio site
+(17:53:39) _id_: (se bem q eh melhor fazer isso usando youtube ou coisa do genero :p)
+(17:53:44) efeefe: _id_: pode ser um caminho sim, o varga manja um pouco de umas coisas assim
+(17:53:55) PatriciaPi: _o/
+(17:54:10) liquuid: eu posso ajudar sim
+(17:54:13) efeefe: mas acho que a prioridade do site eh consolidar maneiras de as pessoas contarem o que tao fazendo de metareciclagem e ter maneiras de saber o que outras pessoas estao fazendo nisso
+(17:54:20) efeefe: integrar com outras redes sociais
+(17:54:34) efeefe: culturadigital.br, softwarelivre, twitter, orkut, youtube, flickr, etc.
+(17:54:40) efeefe: temos um comeco disso, mas ainda eh incipiente
+(17:54:42) efeefe: fala pi!
+(17:55:01) PatriciaPi: entao, ia dizer isso ai, que era legal pensar em como juntar varias coisas na infralogica
+(17:55:09) VJ_VARGA: T? falando c/ o id em pvt
+(17:55:28) PatriciaPi: e que dependendo do trampo eu ajudo, independente de ter grana ou nao se o tempo de dedicacao nao for muito grande
+(17:55:41) PatriciaPi: tipo, se der pra ajudar de pouquinho em pouquinho
+(17:56:05) PatriciaPi: pq ai eu tento conciliar com os trampos que pagam as contas aqui :)
+(17:56:18) testando [i=c8cf92b4@gateway/web/freenode/x-110a7ed5e54add3a] entrou na sala.
+(17:56:27) testando saiu da sala (quit: Client Quit).
+(17:56:31) PatriciaPi: mas acho que isso eh um outro papo, o de decidir como fazer e com quem
+(17:56:33) tatirp [i=bd6466cc@gateway/web/freenode/x-046862249779e8f9] entrou na sala.
+(17:56:58) PatriciaPi: pelo que entendi hoje eh pra alinhar pra onde vai o premio, certo?
+(17:57:03) efeefe: PatriciaPi: com certeza. mas acho que o que a gente realmente precisa eh fechar um subgrupo pra isso.
+(17:57:13) PatriciaPi: blz
+(17:57:17) tatirp: oi gente!
+(17:57:19) PatriciaPi: me ofereco entao
+(17:57:27) efeefe: que se responsabilize, que as outras pesssoas possam cobrar, e que tenha prazos, metas, e a obrigacao de informar o resto da rede sobre o que esta fazendo.
+(17:57:39) efeefe: porque ateh hoje a gente teve pessoas que voluntariavam, mas nao iam ateh o fim
+(17:57:52) efeefe: e como a gente nao tem maneiras de cobrar, fica tudo solto no ar.
+(17:57:54) ideiasperigosas: e vero
+(17:57:58) efeefe: o site sempre foi meu projeto das madrugadas
+(17:58:06) efeefe: e eu sempre quis fazer coisas que nao sabia fazer.
+(17:58:12) efeefe: ideias tenho de monte ;)
+(17:58:23) efeefe: o lance agora eh que a gente vai ter recursos pra investir nisso.
+(17:58:35) efeefe: eu tambem vou querer ser pago pelo meu trampo nisso.
+(17:58:39) efeefe: uma vez na vida ;)
+(17:58:47) efeefe: pois
+(17:58:55) efeefe: quero terminar de contar minha proposta
+(17:58:57) efeefe: posso?
+(17:58:59) efeefe: oi, tati
+(17:59:00) PatriciaPi: claro
+(17:59:10) ideiasperigosas: sim
+(17:59:22) efeefe: pois
+(17:59:28) efeefe: tem mais duas partes
+(17:59:37) efeefe: outra tem a ver com o site, mas nao eh estrutural
+(17:59:39) efeefe: eh documentacao
+(17:59:57) efeefe: tatirp: jah falei da parte do agente cidadao e do site. 
+(18:00:11) tatirp: blz!
+(18:00:14) efeefe: a terceira, penultima,  parte do recurso, eu pensei em investir em producao de conteudo
+(18:00:16) efeefe: documentacao
+(18:00:23) efeefe: talvez aquela ideia de residencias documentadoras
+(18:00:37) efeefe: fazer as pessoas visitarem esporos de metareciclagem pra contar o que rola por lah
+(18:00:47) efeefe: e nessa troca, ensinam e aprendem
+(18:00:56) efeefe: alem disso, um trampo mais pesado no site pra documentar o passado
+(18:01:04) efeefe: eu sei que eu jah escrevi coisas paca, mas o site tah uma zona
+(18:01:10) efeefe: precisa de um esforco de edicao ali
+(18:01:49) efeefe: entao eh investir uma parte do recurso em projetos de documentacao
+(18:01:59) efeefe: documentar praticas, debates, conversas, estruturas, acoes
+(18:02:23) efeefe: lu, varga, markun, acho que voces tem a colaborar aqui
+(18:02:27) efeefe: o pedro baywux tambem
+(18:02:32) efeefe: e muito mais gente
+(18:02:39) efeefe: galera nos pontos de cultura, pessoal deos esporos
+(18:03:15) efeefe: acho que isso eh outro subgrupo de pessoas
+(18:03:22) efeefe: autogerido
+(18:03:25) ideiasperigosas: gostei gostei
+(18:03:27) efeefe: que faz as coisas e realimenta a rede
+(18:03:45) efeefe: video da santa if, video invisivel, visitas a esporos, conversas com pessoas
+(18:03:55) VJ_VARGA: pode contar comigo p/ isso c/ certeza
+(18:03:56) efeefe: pode se formar uma conectaz praisso
+(18:04:30) efeefe: aih as pessoas gerenciam como vao aplicar, e prestam contas pra rede inteira
+(18:04:38) efeefe: mais algum comentario sobre essa parte?
+(18:04:44) efeefe: acho que tem muito material que entra niss
+(18:04:50) efeefe: ateh os screencasts do fernando
+(18:05:08) liquuid: eita
+(18:05:43) efeefe: acho que no caminho a gente vai se perguntar um monte de vezes quais sao os limites
+(18:05:48) efeefe: o que eh metareciclagem e o que nao eh
+(18:05:49) efeefe: como sempre
+(18:05:56) efeefe: acho que essa duvida faz bem pra gente
+(18:06:16) efeefe: mais algum comentario?
+(18:06:23) efeefe: quero ir pra ultima parte, que eh BEM divertida
+(18:06:30) PatriciaPi: vai lah
+(18:07:01) efeefe: a ultima parte eu pensei em fazer uma chamada aberta pra microprojetos.
+(18:07:04) VJ_VARGA: Pra mim metareciclagem sempre ? algo onde se desconstroi um pensamento e reconstroi outro
+(18:07:05) efeefe: tipo vinte projetos de mil reais.
+(18:07:12) liquuid mudou seu apelido para liquuid_no_chuve
+(18:07:26) efeefe: e aih podem ser projetos abertos, de qualquer tipo
+(18:07:44) liquuid_no_chuve: vou ali tomar um banho to precisando
+(18:07:53) efeefe: pode ser uma oficina do braz com os indios, pode ser o roteador wi-fi pro regis, pode ser grana pra ressarcir a viagem do wille pro arraial.
+(18:08:11) efeefe: pode ser alguem que tah indo pra um evento na gringa e quer ajuda pra comida.
+(18:08:33) efeefe: o principal eh que os projetos sao escolhidos dentro da rede por chamadas abertas.
+(18:08:35) PatriciaPi: _o/
+(18:08:49) efeefe: e que tem a obrigacao de documentar o que fazem na propria rede
+(18:08:51) efeefe: fala, pi
+(18:09:13) PatriciaPi: entao, o esporo aqui de ctba e enorme em local fisico
+(18:09:19) efeefe: sei
+(18:09:23) PatriciaPi saiu da sala (quit: Read error: 104 (Connection reset by peer)).
+(18:09:32) efeefe: ??
+(18:09:36) VJ_VARGA: caiu
+(18:09:38) VJ_VARGA: hehehe
+(18:09:40) _id_: eh
+(18:09:57) PatriciaPi [i=Pi@187-26-221-122.3g.claro.net.br] entrou na sala.
+(18:10:09) _id_: o marcelo braz comentou alguma coisa sobre ajudar a galera q naum consegue sozinho pro encontr?o em setembro
+(18:10:12) PatriciaPi: oi
+(18:10:18) _id_: mas naum sei direito oq ele pensava em fazer
+(18:10:19) PatriciaPi: caiu aqui o treco
+(18:10:28) PatriciaPi: posso continuar?
+(18:10:31) VJ_VARGA: machucou?
+(18:10:31) _id_: yep
+(18:10:39) tatirp: vai, pi
+(18:10:40) _id_: cadera era alta?
+(18:10:47) PatriciaPi: soh o joelhinho, rsrsrs
+(18:11:00) _id_: :p
+(18:11:03) PatriciaPi: entao estamos querendo descentralizar algumas acoes do esporo
+(18:11:21) PatriciaPi: como as criancas que atendemos as vezes nao conseguem nem chegar
+(18:11:36) PatriciaPi: pq nao tem grana pro onibus e onde moram nao tem jeito da gente ir
+(18:11:39) efeefe: sei
+(18:11:55) PatriciaPi: estamos pensando em diminuir o numero de crias, e levar elas para conhecerem as coisas
+(18:12:05) efeefe: levar como?
+(18:12:12) PatriciaPi: nem sempre cursos de metareciclagem, aulas de reaproveitamento e bla bla
+(18:12:28) PatriciaPi: elas tem necessidades maiores pra conseguirem entender certas coisas
+(18:12:34) PatriciaPi: tipo poder pagar um lanche quando elas vem ate o esporo
+(18:12:37) efeefe: repertorio
+(18:12:46) efeefe: entao, acho que isso podia virar um projeto pra pedir uma bolsa
+(18:12:51) efeefe: milreal eh pouco, mas ajuda
+(18:12:54) efeefe: ou pedir duas
+(18:12:58) tatirp: sei não
+(18:13:02) efeefe: e ai assumes a responsa de documentar as acoes na rede
+(18:13:05) efeefe: tatirp: diga
+(18:13:15) tatirp: eu sou mais investir em coisas que dão base
+(18:13:26) tatirp: depois que acabar as crianças ficam como?
+(18:13:35) tatirp: esse é um problema até em gds instituições
+(18:13:45) PatriciaPi: a ideia e continuar com elas mas sem a gente nao consegue fazer 1 acao
+(18:14:02) PatriciaPi: nao tem o que mostrar pra tentar pegar editais que possam viabilizar coisas maiores ou de maior continuidade
+(18:14:12) efeefe: entendo a preocupacao da tatirp
+(18:14:22) tatirp: mas no começo o caminho ainda não é edital
+(18:14:25) efeefe: acho que tem que levantar essa bola
+(18:14:35) tatirp: os apoios informais
+(18:14:44) efeefe: mas tambem acho que a rede pode ajudar com isso, se a configuracao local lah nao encontar alternativa
+(18:14:45) tatirp: as leis de incentivo municipais são pra essas coisas
+(18:14:54) tatirp: tem os conselhos
+(18:15:00) efeefe: acho que a gente pode sempre tentar usar a rede pra resolver as coisas de outras formas
+(18:15:03) efeefe: dinheiro eh a ultima
+(18:15:12) tatirp: tipo CONADA municipal
+(18:15:17) tatirp: ops, CONANDA
+(18:15:24) efeefe: a tatirp tah dando uma dica de coisas baseado na experiencia dela em sampa
+(18:15:48) tatirp: acho que vale mais a pena pagar bolsa
+(18:15:55) efeefe: PatriciaPi: acho que ces podiam tentar esgotar as alternativas, sugar um pouco o que a tati tem de ideias, e se nada mais rolar entrar com um pedido de projeto
+(18:16:00) tatirp: pra adolescente/jovem/ gente que vai ficar lá
+(18:16:21) PatriciaPi: vou trocar umas ideias com a tatirp sim
+(18:16:21) tatirp: e pode contribuir de forma mais continuada
+(18:16:47) efeefe: mas acho que a gente tah entrando no merito de questoes que hoje nao eh o dia de decidir
+(18:16:54) tatirp: pi, mas sabes que eu sou super a favor da tua iniciativa, né?
+(18:17:00) PatriciaPi: claro que sei :)
+(18:17:17) tatirp: não, agora a lua tá fora de curso e não é bom decidir nada ;)
+(18:17:18) PatriciaPi: perguntei pra ver se acaso coisas assim cabiam na ideia de projeto do efeefe
+(18:17:37) PatriciaPi: que nao demandam muita grana e acabam ajudando
+(18:17:55) efeefe: sim
+(18:17:57) tatirp: acho que cabe, sim, pi, mas não sei se é desse jeito direto
+(18:18:15) efeefe: acho que essa ideia de chamada de projetos tem muito a ver com a ideia de microcredito
+(18:18:41) tatirp: curto o lance de microcrédito
+(18:18:50) efeefe: nao soh porque o valor eh reduzido, mas tambem porque tem todo o elemento de engajamento, de colaboracao, busca de alternativas e reflexao, para alem do dinheiro em si
+(18:18:53) tatirp: o difícil é decidir "como usar"
+(18:18:59) efeefe: nao acho dificil
+(18:19:06) efeefe: chamada aberta, decisao coletiva
+(18:19:10) tatirp: não?
+(18:19:13) efeefe: jah fazemos uma estrutura no site pra isso
+(18:19:16) efeefe: decisao emergente
+(18:19:22) efeefe: vai ter projetos sem recursos
+(18:19:22) tatirp: explica
+(18:19:26) efeefe: acontece
+(18:19:37) efeefe: acordamos na lista um grupo de juradxs
+(18:19:47) efeefe: como jah acordamos lista de participantes no encontrao em sampa
+(18:19:55) ideiasperigosas: preciso saber mais sobre microcredito
+(18:20:07) ideiasperigosas: posso falar contigo depois tati
+(18:20:09) ideiasperigosas: ?
+(18:20:13) tatirp: pode
+(18:20:15) efeefe: abrimos a chamada. as pessoas preenchem um formulario no site, e xs juradxs gastam os pontos que tem pra dar nos projetos.
+(18:20:27) efeefe: ideiasperigosas: tem um livro muito bom do Mohammed Yunus
+(18:20:30) efeefe: o banqueiro dos pobres
+(18:20:39) efeefe: tinha na biblioteca metafora, mas deve ter sumido em alguma mudanca
+(18:20:50) efeefe: soh queria dar uma resumida aqui, pode ser?
+(18:20:52) VJ_VARGA: Gente, eu vou ter que sair
+(18:21:00) efeefe: dois minutos, varga!
+(18:21:00) VJ_VARGA: vou ter que pegar meu sobrinho na escola
+(18:21:00) kaliope [i=Pi@189-94-159-179.3g.claro.net.br] entrou na sala.
+(18:21:06) efeefe: minha sugestao de aplicacao do recurso, entao, eh: 
+(18:21:06) efeefe: 1) agente cidadao
+(18:21:06) efeefe: 2) infralogica - sistema, hospedagem, interface do site
+(18:21:06) efeefe: 3) documentacao - edicao do wiki, visitas documentadoras
+(18:21:06) efeefe: 4) edital de pequenos projetos
+(18:21:24) efeefe: (daria pra chamar de MicroReciclagem)
+(18:21:25) efeefe: ?
+(18:21:35) kaliope: beleza
+(18:21:47) ***kaliope slaps PatriciaPi around a bit with a large trout
+(18:21:56) tatirp: deixar criança esquecida não pode, mas atrasar um pouquinho dá, varga?
+(18:21:57) efeefe: dupla personalidade?
+(18:22:06) efeefe: jah mandei meu resumo
+(18:22:07) VJ_VARGA: d? sim, tati
+(18:22:12) efeefe: quero saber de comentarios e contestacoes
+(18:22:29) efeefe: acho que cada uma dessas 4 partes pode ser gerida por grupos diferentes
+(18:22:36) kaliope: eu perdi uma parte, o temporal ta fods aqui e cai toda hora  a conexao
+(18:22:36) efeefe: mesmo que muitas pessoas participem dos grupos diferents
+(18:22:40) efeefe: ach oque tem que ser conectaz
+(18:22:45) efeefe: cada parte uma conectaz
+(18:22:56) efeefe: kaliope: depois eu vou publicar o log inteiro no site
+(18:23:01) kaliope: blz
+(18:23:05) kaliope: kaliope=Pi
+(18:23:15) tatirp: cada parte uma conectaz, mas com algum jeito de ver a relação entre elas?
+(18:23:18) efeefe: eu sei ;)
+(18:23:28) efeefe: tatirp: precisa?
+(18:23:38) VJ_VARGA: eu ajudo no grupo 2 e 3
+(18:24:27) tatirp: acho que a fragmentação às vezes faz a conversa voltar toda hora pro começo
+(18:24:55) ideiasperigosas: eu ajudo em documentar praticas, debates, conversas, estruturas, acoes.
+(18:25:08) ideiasperigosas: entro em q grupo?
+(18:25:23) ideiasperigosas: alem dos videos invisiveis
+(18:25:27) ideiasperigosas: e outrxs
+(18:25:38) VJ_VARGA: grupo 3, lu
+(18:26:41) VJ_VARGA: todo mundo ficou calado?
+(18:26:53) efeefe: sim
+(18:26:54) efeefe: heh
+(18:27:09) efeefe: acho que a base eh esa
+(18:27:16) efeefe: lance agora eh comecar a construir
+(18:27:18) _id_: eu to pensando onde vou ser mais util XD
+(18:27:30) efeefe: tem toda uma outra conversa que eh o barato burocrativo
+(18:27:39) efeefe: que tah ateh facil, mas tem umas pegadinhas
+(18:27:52) tatirp: bem burocrativo
+(18:28:09) kaliope: tipo?
+(18:28:33) VJ_VARGA: ? nessa reuni?oq ue vamos decidir os prazos?
+(18:28:43) efeefe: por onde vem a grana
+(18:28:47) efeefe: como chega nas pessoas
+(18:29:02) efeefe: pro edital de microreciclagem eu pensei em construir um convenio com o descentro
+(18:29:13) efeefe: nao perguntei lah ainda porque queria falar com voces primeiro
+(18:29:26) efeefe: mas o descentro tem a vantagem de poder pagar bolsas de pesquisa, e evitar impostos
+(18:29:37) efeefe: se ninguem se opoe, vou por o assunto em pauta com o descentro
+(18:29:52) tatirp: é bacana, sim, efe
+(18:29:54) efeefe: VJ_VARGA: acho que prazos precisam de mais detalhes de cada parte do projeto
+(18:30:07) tatirp: eqto a gente espera as orientações sobre o relatório de prestação de contas
+(18:30:12) VJ_VARGA: entendi.
+(18:30:14) tatirp: um pé no saco isso
+(18:30:29) efeefe: pois eh, mais uma coisa pra gente se ocupar
+(18:30:30) VJ_VARGA: ent?o cada grupo tb vai maracr uma reuni?o inicial?
+(18:30:34) liquuid_no_chuve mudou seu apelido para liquuid
+(18:30:40) liquuid: voltei
+(18:30:41) efeefe: espero que sim
+(18:30:52) efeefe: eu, que tenho TOC, devo estar em todos
+(18:31:11) VJ_VARGA: hahahahaha
+(18:31:17) VJ_VARGA: workholic
+(18:31:34) tatirp: não sei o nome da minha síndrome...
+(18:31:49) ian_brasil: efeefe, na practica com vai funcionar isso
+(18:32:06) ian_brasil: a gente vai ter projeto de reforma a site
+(18:32:29) efeefe: sim
+(18:32:31) ian_brasil: vai ter terms of work,,orazo etc
+(18:32:31) efeefe: isso eh uma parte
+(18:32:32) efeefe: infalogica
+(18:32:47) efeefe: vamos estruturar atraves de um grupo no site
+(18:33:02) efeefe: as pessoas envolvidas vao decidir prazos, escalas, etc
+(18:33:22) _id_: acho q serei mais util no grupo 2
+(18:33:28) efeefe: quero envolver o pessoal da chuva nisso. o wundo me falou que se a gente conseguir especificar bem as demandas, eles conseguem desenvolver qualquer coisa.
+(18:33:28) ian_brasil: mas decidit o que vai ser feito tbm?
+(18:33:29) _id_: ficarei ajudando com o grupo 2
+(18:33:38) efeefe: tambem decidir o que vai ser feito
+(18:33:42) efeefe: jah temos algumas ideias
+(18:33:45) efeefe: alguns estudos
+(18:33:49) efeefe: e um certo direcionamento
+(18:33:58) ian_brasil: cool..com qual objetivo?
+(18:34:13) efeefe: jah falando como grupo infralogica, acho que podemos ter uma rotina de reunioes no irc a cada semana ou quinzena
+(18:34:23) efeefe: objetivo eh facilitar a documentacao de acoes e articulacao
+(18:34:27) efeefe: e a busca de infos no site
+(18:35:11) efeefe: alem de integrar o site com redes sociais, com a propria lista e historico e outras coisas
+(18:35:28) tatirp: precisa de outra conectaz, não, né? infralogica já abre essa janela
+(18:35:39) efeefe: infralogica dah conta
+(18:35:49) efeefe: peco que quem se interessar se cadastre lah
+(18:36:05) efeefe: http://rede.metareciclagem.org/conectaz/Infra-Lógica
+(18:36:30) VJ_VARGA: na infralogica eu j? t? cadastrado, vai abrir uma outra pra a documenta??o?
+(18:36:30) efeefe: outras coisas uqe acho interessante eh melhorar a articulacao de esporos e conectazes nos ite
+(18:36:39) efeefe: funcionarem com oestrutura de apoio a espacos e projetos
+(18:36:51) efeefe: e talvez fazer uma ferramenta pra intercambio de pecas e equipos
+(18:36:57) efeefe: mas nao tenho certeza se isso eh realmente util
+(18:37:05) efeefe: ou se dah pra ajambrar com wiki + email
+(18:37:05) kaliope: concordo com isso
+(18:37:14) efeefe: VJ_VARGA: na propria
+(18:37:16) kaliope: aqui mesmo temos muito material que podia ser utlizado por outros esporos
+(18:37:38) kaliope: faz tipo classificados, rsrs
+(18:37:41) efeefe: kaliope: temos que avaliar se precisamos mesmo de uma ferramenta dedicada a isso, ou se conseguimos nos virar com wik
+(18:37:45) efeefe: classificados no wiki, isso
+(18:37:48) PatriciaPi saiu da sala (quit: Connection timed out).
+(18:37:58) kaliope: isso que quis dizer, nao precisa de um sistema e tals
+(18:38:07) kaliope: um classificado de tenho e quero, tipo assim
+(18:38:09) VJ_VARGA: no encontrao a gente falou de fazer tipo um banco de dados de equipos e pe?as que cada espero tem disponivel
+(18:38:10) liquuid: uma lista de emails resolve
+(18:38:19) efeefe: o lance de estrutura do site, acho que eh um projeto com comeco, meio e fim
+(18:38:23) tatirp: único lance dos equipos entre esporo é o transporte...
+(18:38:33) efeefe: infalogica acho que se encerra dentro do premio
+(18:38:45) tatirp: espero!
+(18:38:49) efeefe: documentacao e conteudo, acho que a gente vai fazer um comeco de projeto
+(18:39:00) efeefe: que eventualmente depois vai dar pra captar recursos direto
+(18:39:08) efeefe: e continuar depois que essa grana acabar
+(18:39:23) tatirp: antes de fazer projeto pra documentação e conteúdo, sou a favor de uma "varredura"
+(18:39:27) tatirp: antes da jardinagem
+(18:39:38) efeefe: isso acho que jah tah dentro do projeto
+(18:39:44) efeefe: digo, jah eh parte dele
+(18:40:10) tatirp: mas tem um geralzão que é necessário pra levantar o próprio site
+(18:40:23) tatirp: do contrário, a gente fica girando em falso
+(18:40:28) tatirp: não?
+(18:40:51) efeefe: nao entendi
+(18:41:28) VJ_VARGA: tb n?o entendi
+(18:41:28) tatirp: tem algumas providências iniciais básicas que são necessárias
+(18:41:33) VJ_VARGA: tipo?
+(18:41:59) tatirp: por exemplo, o bailux faz documentação via lista
+(18:42:20) tatirp: o site não tem 1/10 de infos do que eles fazem
+(18:42:54) tatirp: sem um mapeamento básico
+(18:43:12) tatirp: o site já fica "tosco" em relação às infos essenciais dos esporos
+(18:43:21) efeefe: sim, tatirp
+(18:43:31) efeefe: mas isso jah eh trampo que vamos fazer
+(18:43:37) tatirp: [vamos expanidr esse exemplo pros outros esporos e conectazes]
+(18:43:41) efeefe: nao eh anterior ao trampo
+(18:43:47) efeefe: eh o trampo em si
+(18:43:48) tatirp: esse mapeamento ajuda a delinear os projetos específicos
+(18:43:56) VJ_VARGA: mas isso n?o t? na infralogica?
+(18:43:57) regis_ [n=regis@189.105.53.121] entrou na sala.
+(18:44:05) liquuid: falando no cara
+(18:44:12) VJ_VARGA: regis n?o morre mais
+(18:44:13) VJ_VARGA: hehehehe
+(18:44:16) regis_: hey nação
+(18:44:24) efeefe: fala regis!
+(18:44:31) tatirp: mas se a infralógica tiver que aprofundar esse tipo de demanda
+(18:44:33) regis_: cheguei agora do bailux...
+(18:44:36) tatirp: não dá conta
+(18:44:44) efeefe: vai dar
+(18:44:45) tatirp: eu regis, tá falando de vcs!
+(18:44:46) efeefe: vamos fazendo
+(18:45:00) VJ_VARGA: mas dentro de cada grupo, ter? os subgrupos
+(18:45:01) regis_: abs geral no bando metarecsx
+(18:45:02) VJ_VARGA: ou n?o?
+(18:45:04) tatirp: qtas madrugadas!
+(18:45:20) regis_: vqv
+(18:45:29) efeefe: VJ_VARGA: pra que?
+(18:45:35) VJ_VARGA: acho que um subgrupo desses fica responsavel de fazer s? esse mapeamento
+(18:45:46) VJ_VARGA: e jutar tudo que ? documenta??o
+(18:45:49) efeefe: VJ_VARGA: acho que cada grupo decide como faz
+(18:45:55) efeefe: isso eh outra conversa
+(18:45:57) VJ_VARGA: gente tenho queir
+(18:46:02) efeefe: mas a principio, acho que tudo isso eh trampo
+(18:46:11) efeefe: beleza. eu tenho que sair daqui a pouco tambem
+(18:46:11) regis_: hoje o bando estava na sintonia  de construir um lab todo de arquitetura organica
+(18:46:12) tatirp: só que os subgrupos precisam atuar de maneira integrada
+(18:46:12) VJ_VARGA saiu da sala (quit: ).
+(18:46:51) uira [n=uira@201009212113.user.veloxzone.com.br] entrou na sala.
+(18:47:16) regis_: tarolando conversa desde as cinco?
+(18:47:31) efeefe: cinco e meia
+(18:47:38) efeefe: depois eu vou publicar o log
+(18:48:05) uira: cheguei no finalzim
+(18:48:25) regis_: o Jurgen estava na pilha de começarmos logo a elaborar o projeto de um lab na filosofia permacultura
+(18:48:27) uira: e então?
+(18:48:43) regis_: uira..cheguei agora tbem
+(18:48:46) efeefe: entao, resumindo
+(18:48:49) regis_: que tava ai?
+(18:48:54) efeefe: contei um pouco do que nos trouxe ateh aqui
+(18:49:04) efeefe: e apresentei uma proposta de aplicacao dos recursos do premio
+(18:49:06) uira: efeefe me passou o resumo, mas não tinha nada do encontrão... é pq a grana não sai a tempo, é?
+(18:49:08) regis_: na escuta
+(18:49:18) efeefe: nao sei se a grana sai a tempo
+(18:49:31) efeefe: mas a principio, nao acho que a gente tenha que investir grana do premio no encontrao
+(18:49:34) efeefe: soh pra excecoe
+(18:49:34) efeefe: s
+(18:49:35) regis_: ok
+(18:49:37) tatirp: e a grana é pouca pro encontrão
+(18:49:51) efeefe: mas entao
+(18:49:58) efeefe: minha sugestao de aplicacao dos recursos
+(18:50:04) regis_: sim
+(18:50:15) efeefe: 1) uma parte pequena fica pro agente cidadao, pela ajuda burocratica e como reconhecimento historico
+(18:50:31) regis_: ok
+(18:50:48) efeefe: 2) a conectaz infralogica leva uma boa parte do premio para tocar o desenvolvimento do site, estruturas de conversas, integracao de ferramentas e outras coisas.
+(18:50:58) regis_: vai ser na unha mesmo
+(18:51:07) regis_: vai ser na unha mesmo
+(18:51:29) regis_: intergalatico..on the road
+(18:51:46) uira: certo
+(18:51:49) efeefe: 3) cria-se uma conectaz dedicada a documentar acoes de metareciclagem, e ela leva uma parte do recurso para organizar o conteudo no site e para criar nova documentacao, promovendo residencias documentadoras e outras acoes semelhantes. isso pode virar um projeto independente e continuar depois que os recursos acabarem.
+(18:52:18) regis_: valeu
+(18:53:05) uira: esse negócio de virar projeto independente e continuar com outros recursos é massa... vale pra infralogica também!
+(18:53:28) efeefe: 4) fazemos um edital de MicroReciclagem - microcredito pra acoes de metareciclagem. sao cerca de 20 projetos de mil reais. vai haver uma selecao aberta, com decisao coletiva, de apoio a pequenas acoes. isso vai pra coisas como, por exemplo, bancar a oficina do regis com os indigenas de sampa, ressarcir viagens como a visita que o wille fez ao bailux, ajudar quem for viajar para algum evento, comprar o roteador wifi do bailux, e coisas assim.
+(18:53:59) regis_: opa
+(18:54:01) efeefe: uira: vale pra infralogica, mas ela na real eu queria adiantar bastante com o premio, porque foi o foco da inscricao. queria chegar no fim e parar de me preocupar com ela.
+(18:54:18) VJ_VARGA [n=varga@189.38.229.137] entrou na sala.
+(18:54:21) VJ_VARGA: voltei
+(18:54:22) efeefe: a parte 4, edital de microreciclagem, acho que pode ajudar muita coisa. incluindo ajudas pro encontrao, mas acho que nao dah eh tempo.
+(18:54:30) VJ_VARGA: pedi p/ minha m?e ir pegar meu sobrinho
+(18:54:36) regis_: temos a chgada da stafano no bailux..vai pingar uma graninha para investir na infralogica tbem
+(18:55:08) regis_: ops stefani
+(18:55:41) efeefe: regis_: legal. vou tentar encontra-la em berlim mes qu vem.
+(18:55:42) regis_: ela ta propondo 800 euros ja agora na primeira doação
+(18:55:51) ideiasperigosas: corrigindo: bancar a oficina do "mbraz" com os indigenas de sampa,
+(18:56:11) regis_: cara ela é uma princesa iluminada..vou postar uma foto dela ainda hoje
+(18:56:13) efeefe: ops, ehj isso
+(18:56:19) efeefe: eh que o regis tambem eh braz ;)
+(18:56:23) efeefe: misturei
+(18:56:33) regis_: he he he
+(18:56:47) ian_brasil: efeefe, tbm pode pensar em busca pro mais grana pra da continuidade
+(18:57:12) ian_brasil: outros premios..grana fora do brasil etc
+(18:57:26) tatirp: ian, aí a gente chega na discussão sobre sustentabilidade
+(18:57:38) tatirp: acho que falta essa discussão
+(18:57:54) regis_: efefe vc e stefani em berlim vai rolar varias ideias para construção de esporos
+(18:57:58) ian_brasil: alguem tem que tomar conta disso
+(18:58:17) ian_brasil: e trabalho chato mas precisamos
+(18:58:30) tatirp: tb acho
+(18:58:36) tatirp: que é chato, mas necessário
+(18:58:55) efeefe: ian_brasil: pois eh. eu quero me ocupar um pouco disso
+(18:59:20) uira: efeefe, e não vai rolar uma grana pra célula de sustentabilidade?
+(18:59:24) ian_brasil: efeefe, acho que vc tem perfil por isso ;)
+(18:59:26) uira: ou ela se autosustenta?
+(18:59:28) uira: hehe
+(18:59:36) efeefe: uira: acho que a principio nao
+(18:59:45) efeefe: pra que serviria isso?
+(19:00:57) uira: sei lá, uma ajuda de custo pra quem fica escrevendo projeto e viajando e tal... mas sei lá, pensando bem isso deveria rolar de cada apoio conseguido. mas tenho medo de estar pensando muito na lógica de ONG
+(19:01:14) efeefe: acho que isso deveria rolar de cada apoio conseguido
+(19:01:26) tatirp: mesmo não sendo lógica da ONG, tem que rolar algo nesse sentido
+(19:01:31) tatirp: reinventa a lógica
+(19:01:33) uira: tipo, tu, a tati e a galera do agente deram um corre pra agilizar as coisas pro prêmio, acho que seria legal ter uma maneira de ressarcir isso...
+(19:01:38) efeefe: mas como a gente tah comecando com muita coisa por fazer, eu prefiro dessa vez soh receber pelas coisas objetivas daqui pra frente
+(19:01:43) ian_brasil mudou seu apelido para ian_brasil_afk
+(19:01:46) efeefe: 10% vai pro agente
+(19:01:49) tatirp: eu tb!
+(19:01:55) efeefe: e eu e a tati estamos conversando sobre isso
+(19:01:56) uira: massa!
+(19:02:01) uira: doidêra
+(19:02:08) efeefe: na real a gente tah aqui soh fingindo, vamos eh fugir com a grana
+(19:02:10) efeefe: pra croatan
+(19:02:21) regis_: he he he
+(19:02:25) tatirp: assim que ela chegar!
+(19:02:35) tatirp: mas a gente promete que documenta
+(19:02:39) regis_: (-:
+(19:02:42) VJ_VARGA: hahahahaha
+(19:02:53) liquuid: manda um beijo pra jaciara
+(19:02:57) uira: pois é, e era massa, talvez, ter isso como um acordo... em prêmios e coisas do tipo, 10% vão pra quem correu atrás, e o resto é decidido coletivamente
+(19:02:58) efeefe: hahaha
+(19:03:12) efeefe: uira, acho que essa regra nao tem que existir
+(19:03:15) efeefe: depende do caso
+(19:03:20) uira: certo...
+(19:03:36) uira: pois é, no fundo eu também acho, mas ONG way vicia a gente...
+(19:04:00) efeefe: ;)
+(19:04:01) tatirp: a gente decide a.cada vez que a situação exigir
+(19:04:18) tatirp: prêmio é diferente de edital
+(19:04:19) efeefe: mesmo em ONGs, a posicao da ABCR eh que exista a figura do captador, com salario fixo
+(19:04:23) uira: certo. divididas as granas, vamos destrinchar cada parte agora, ou marcamos papos específicos?
+(19:04:24) tatirp: que é diferente de lei de incentivo
+(19:04:32) efeefe: marcar papos especificos
+(19:04:35) regis_: off-topic- que bom isto aqui http://desvio.weblab.tk/blog/logo-gambi
+(19:04:35) efeefe: eu tenho que sair logo
+(19:04:38) tatirp: que é diferente de apoio, permuta e patrocínio
+(19:04:41) efeefe: regis_: leu?
+(19:04:43) uira: por isso eu não sou filiado à ABCR
+(19:04:44) efeefe: ;)
+(19:04:47) tatirp: idem
+(19:04:56) _id_: galera, preciso de um banho... jah volto
+(19:05:01) liquuid: quando é a próxima ?
+(19:05:05) _id_ mudou seu apelido para _id_banho
+(19:05:10) regis_: ok
+(19:05:11) liquuid: quero trabalhar
+(19:05:30) regis_: quem fica?
+(19:05:35) efeefe: liquuid: vamo marcar pela lista?
+(19:05:44) tatirp: preciso voltar pro trabalho
+(19:05:48) efeefe: comeco da semana que vem, pra infralogica?
+(19:05:55) kaliope: eu aqui to disposta a ajudar
+(19:06:00) _id_banho: eu to aki ainda. assim q voltar leio o log e continuo :p
+(19:06:01) kaliope: blz
+(19:06:02) _id_banho: fuiz
+(19:06:02) regis_: quero mais papo como este..ha!!!
+(19:06:23) efeefe: teremos
+(19:06:43) regis_: logisitca distribuida..ações em rede
+(19:06:46) uira: Infralógica beleza, vamos construindo no wiki...
+(19:06:50) liquuid: blz no aguardo
+(19:06:56) tatirp: qdo?
+(19:07:33) efeefe: segunda, fim de tarde?
+(19:07:48) VJ_VARGA: por mim est? ?timo
+(19:07:53) tatirp: 2a, blz!
+(19:07:59) regis_: efefe Jurgen ta encontando stafani para uma conversa prmacultura-metareciclagem
+(19:08:26) regis_: (-;
+(19:09:06) kaliope: pra mim seg ta tri
+(19:09:10) efeefe: legal, regis_
+(19:09:16) efeefe: segunda-feira fim da tarde
+(19:09:22) ideiasperigosas: na escuta
+(19:10:27) efeefe: acho que segunda a gente fala sobre o projeto infralogica, e deixamos documentacao e conteudo pra alguns dias depois, ok?
+(19:10:33) regis_: na sintonia
+(19:10:41) ideiasperigosas: sim
+(19:10:45) uira: aproveitando pra fazer jabá... conheçam o saite da rede dos pontos de cultura do ceará www.pontosdecultura.org.br ;)
+(19:11:54) regis_: vou subir fotos para o flickr do encontro bailux de hoje
+(19:12:45) efeefe: bom pessoal, vou jogar umas coisas no site, aviso na lista e segunda-feira a noitinha a gente conversa, ok?
+(19:12:56) uira: ok
+(19:12:59) uira: fui indo
+(19:13:21) tatirp: tb, vou! bjs

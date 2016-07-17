@@ -1,0 +1,752 @@
+Conversation with #metareciclagem at 2006-06-12 13:25:27 on felipefonseca@irc.freenode.net (irc)
+(13:25:27) #metareciclagem: Modo (+ns ) por brown.freenode.net
+(18:02:18) wille [n=multimid@201009251016.user.veloxzone.com.br] entrou na sala.
+(18:12:49) wille saiu da sala (quit: "Fui embora").
+(19:21:58) Tupi [n=icechat5@200.207.190.14] entrou na sala.
+(19:22:19) Tupi: fmz?
+(19:32:32) felipefonseca: na paz
+(19:32:44) felipefonseca!n=felipe@201.6.103.134: felipefonseca mudou o tópico para: MDF eh uma p00ta madeira
+(19:42:14) felipefonseca: pessoal longe...
+(19:51:06) Tupi: sera' q vira mesmo o metatelao do djair?
+(19:51:07) banto [i=banto@200.155.200.21] entrou na sala.
+(19:51:20) felipefonseca: parece que sim...
+(19:51:25) felipefonseca: quero soh ver
+(19:51:27) felipefonseca: fala banto!
+(19:51:28) Tupi: se funcionar, metaproduto a milhao
+(19:51:31) banto: essa merda nao tem ssl?
+(19:51:39) banto: boa noite rappa
+(19:51:44) felipefonseca: nem sei
+(19:51:45) Tupi: fmz?
+(19:51:51) banto: firmeza total
+(19:51:53) felipefonseca: metaproduto, demorou
+(19:52:00) banto: agora tenho uaifai no lap ;)
+(19:52:06) banto: hehe
+(19:52:10) felipefonseca: olha soh...
+(19:52:11) felipefonseca: classe
+(19:52:14) Tupi: teve o dom
+(19:52:18) banto: agora estudando kismet
+(19:52:19) felipefonseca: dah pra fazer um wardrive 
+(19:52:20) Tupi: conectando da ofner?
+(19:52:24) Tupi: :-)
+(19:52:26) banto: ai ai
+(19:52:29) Tupi: :-D
+(19:52:32) banto: to entrando agora nesse mundo
+(19:52:39) banto: neh sei o que ofner
+(19:52:40) banto: o que?
+(19:52:47) banto: qual eh a pauta?
+(19:52:53) Tupi: ofner = cafe com leite e doces
+(19:53:01) banto: nao rolou de acompanhar a lista
+(19:53:01) Tupi: spresso
+(19:53:18) banto: que xiki hein
+(19:53:31) Tupi: sem miseria
+(19:53:34) Tupi: :-D
+(19:53:49) Tupi: pauta, memelab?
+(19:54:03) Tupi: memelab = ex-centro metarec sampa?
+(19:54:48) dri [n=dri@201.78.122.208] entrou na sala.
+(19:54:53) dri: noite
+(19:54:57) felipefonseca: memelab, ex-metapub, ex-centro metarec sampa
+(19:54:59) felipefonseca!n=felipe@201.6.103.134: felipefonseca mudou o tópico para: memelab, ex-metapub, ex-centro metarec sampa
+(19:55:04) felipefonseca: noite
+(19:55:13) Tupi: fmz?
+(19:55:35) banto: ola dri
+(19:55:48) banto: quer dizer, drica
+(19:57:18) InterNey [n=newslett@200-232-138-230.dsl.telesp.net.br] entrou na sala.
+(19:57:21) dri: tanto faz banto, quase ninguem diz adriana mesmo ;)
+(19:57:48) InterNey: salve
+(19:57:52) Tupi: fmz?
+(19:58:22) InterNey: yep, to aqui me preparando psicologicamente pra assistir o jogo de amanha
+(19:58:27) InterNey: maldita dependencia de futebol
+(19:58:55) InterNey: altamente improdutivo isso mas nao consigo me livrar
+(19:59:02) Tupi: se o metatelao vira metaproduto, com materia prima comprada no Mercado Livre... o coletivo poderia ganhar com programa de afiliado
+(19:59:58) banto: heehe
+(20:01:33) InterNey: ff brigou com a namorada? Essa hora no IRC, justo no dia de hj?
+(20:01:36) InterNey: :)
+(20:03:05) banto: funcionou a merda do kismet
+(20:03:06) banto: hehe
+(20:03:34) Tupi: edney, o interney blogs esta no cronograma
+(20:03:39) Tupi: entra depois da copa mesmo?
+(20:04:02) InterNey: ? altamente prov?vel que sim
+(20:04:10) InterNey: preciso resolver a parada do layout
+(20:04:28) Tupi: leiaute comum pra todos?
+(20:04:31) InterNey: nope
+(20:04:33) Tupi: ou cada um cola o seu
+(20:04:37) Tupi: tipo o blogger
+(20:04:40) Tupi: blogger.com
+(20:04:45) InterNey: layout para a home e para as secoes por assunto
+(20:04:51) InterNey: no blog de cada um, cada um cola o seu layout
+(20:04:55) InterNey: e mais estilo wordpress
+(20:05:08) Tupi: mas tem default, certo?
+(20:05:20) InterNey: sim, tem, o default vai ser parecido com o estilo da home
+(20:05:30) InterNey: pra quem nao tiver afins de customizar
+(20:05:47) InterNey: se bem que vou encorajar a mudar pelo menos as cores :)
+(20:06:10) Tupi: e' so' trocar o jpg da testeira
+(20:06:16) Tupi: na levada wordpress
+(20:06:20) Tupi: :-)
+(20:06:30) InterNey: hehehehehe, pode ser, ja fica diferentao :)
+(20:07:00) InterNey: A ferramenta de publicacao e o esquema de customizar layouts ja ta no esquema
+(20:07:12) InterNey: O marmota por exemplo ja customizou o dele e tals: http://www.interney.net/blogs/marmota
+(20:07:44) InterNey: Ainda nao eh uma versao final do blog dele, mas ja deu pra experimentarmos uma serie de customizacoes
+(20:07:53) Tupi: ele ja' esta divulgando essa url?
+(20:07:58) InterNey: nope
+(20:08:23) InterNey: tudo isso eh teste
+(20:08:26) InterNey: nao tem nada oficial ainda
+(20:08:29) Tupi: vc nao vai fazer uma testeirinha estilo blogger.com ou uol?
+(20:08:30) felipefonseca: voltei
+(20:08:35) Tupi: aquela barrinha
+(20:08:45) Tupi: tipo, uma coisa em comum pra todos
+(20:08:53) InterNey: vai, essa parada ta no layout que tamos definindo
+(20:08:59) Tupi: teve o dom
+(20:09:10) InterNey: um camarada fez um preview, tamos definindo conceitos e tals
+(20:09:43) felipefonseca: aa pauta enton?
+(20:10:09) Tupi: entao, alguem do metarec tem conta de afiliado mercado socios?
+(20:10:42) Tupi: nao poderiamos sugerir pro edney criar um id de mercado socios pro metarec?
+(20:10:56) Tupi: e ele administrar o catado?
+(20:11:31) InterNey: pode ate ser, mas seria uma conta separada
+(20:11:31) InterNey: dai fica mais facil administrar e prestar contas
+(20:11:31) Tupi: fmz
+(20:11:50) Tupi: toda sugestao de material e servico feito pelo coletivo
+(20:12:08) Tupi: entraria esse id pra ser remunerado caso ocorra alguma transacao
+(20:12:29) felipefonseca: podemos criar
+(20:12:38) felipefonseca: mas não precisa deixar na mão do edney...
+(20:12:50) felipefonseca: deixamos algumas pessoas com a senha e tchuns
+(20:12:51) felipefonseca: mas enton
+(20:12:56) felipefonseca: voltando ao papo memelab
+(20:12:58) felipefonseca: ou comezando-o
+(20:13:21) felipefonseca: a ideia eh: tem gente se mobilizando
+(20:13:41) felipefonseca: comecando pelo banto, ai tambem tem o palm, eu mesmo, e outros
+(20:14:11) felipefonseca: interessados na historia de um espaco de experimentacao, mas que tambem acaba sendo um espaco de desenvolvimento conceitual de metareciclagem
+(20:14:19) felipefonseca: pra seminarios e reunioes etc.
+(20:15:11) felipefonseca: aih pintaram possiveis projetos
+(20:15:25) felipefonseca: cibersalao.sampa eh o primeiro. pra mim tem que inaugurar o espaco com ele
+(20:15:29) felipefonseca: infornalha eh outro
+(20:15:38) felipefonseca: telao metareciclado, podemos repercutir tambem
+(20:15:59) felipefonseca: o que pega eh captacao de recursos
+(20:16:41) felipefonseca: primeira onda eh parceria com o agente cidadao: a gente agenciaria, em parceria com outros esporos e com nossos canais de doacao, descartes finais de equipamento pra vender lah em embu, num parceiro deles
+(20:16:47) felipefonseca: semana passada jah rolou R$ 250
+(20:16:50) felipefonseca: tah no wiki
+(20:17:04) felipefonseca: segunda onda eh interney blogs, com um blogue metarecicleiro ganhando uns trocos
+(20:17:17) felipefonseca: terceira eh possiveis apoios financeiros pra comecar a parada
+(20:17:41) felipefonseca: quarto eh prestacao de servicos, venda de metaprodutos, camisetas, apostilas
+(20:18:09) Tupi: primeiro item - cibersalao
+(20:18:10) felipefonseca: eu acho que eh viavel
+(20:18:14) felipefonseca: fala
+(20:18:21) Tupi: precisa se preocupar com captacao de recursos?
+(20:18:34) felipefonseca: cibversalao, a principio, na precisa de muita coisa
+(20:18:37) felipefonseca: espaco pra conversar
+(20:18:44) felipefonseca: o gringo, se vier, vem por conta propria
+(20:18:54) felipefonseca: temos que divulgar, mas pode ser do nosso jeito
+(20:19:08) felipefonseca: e no dia, pedimos pras pessoas uma colaboracao espontanea pra comprar agua
+(20:19:10) felipefonseca: e cerveja, se pans
+(20:19:13) Tupi: pode ser uma ocupacao, um flashmob?
+(20:20:32) Tupi: vai ser depois da copa, com o blog do metarec no interney no ar?
+(20:24:30) Tupi: cerveja open source agora e' 2.0
+(20:25:36) Tupi: http://www.free-beer.dk/blog/
+(20:25:45) felipefonseca: pode ser uma conversa no metro se pans
+(20:25:54) felipefonseca: mas eu queria aproveitar a movimentacao pra comecar memelab
+(20:27:12) Tupi: ia sugerir q um dos nucleos de estudos do memelab fosse arquitetura nomade
+(20:27:38) Tupi: a propria viabilizacao da conversa sem ter um telhado privado seria um exercicio
+(20:27:54) InterNey: Na verdade memelab pode ser 'varias coisas', mas antes memelab precisa ser 'alguma coisa', acho que esse eh o grande problema
+(20:28:19) InterNey: pelo que to sacando ff quer aproveitar o cibersalao pra fazer o memelab 'brotar'
+(20:28:41) InterNey: aproveitar a inercia do evento ou coisa similar, mas confesso que ainda nao entendi 100%
+(20:28:42) Tupi: memelab como espaco, certo?
+(20:28:52) InterNey: Isso eh o que eu ia perguntar
+(20:28:59) InterNey: se fosse pra definir memelab em uma palavra
+(20:29:03) InterNey: memelab = espaco ?
+(20:29:05) Tupi: lugar pra banca se reunir, uscambau, certo:
+(20:29:08) Tupi: ?
+(20:29:13) felipefonseca: memelab eh espaco
+(20:29:15) felipefonseca: exato
+(20:29:19) felipefonseca: a principio
+(20:29:21) InterNey: ok! :)
+(20:29:21) felipefonseca: depois evolui
+(20:29:32) InterNey: Sim, exato, soh queria ter certeza que tava sintonizado
+(20:29:33) felipefonseca: mas comeca como um lugar, fisico, saleta com janela porta banheiro
+(20:29:49) dri: voltei
+(20:30:29) InterNey: o minimo de recurso necessario entao eh para aluguel de um espaco, right?
+(20:30:40) Tupi: sera' q algum esquema nomade nao conseguiria conforto parecido q teriamos com esquema aluguel de sala?
+(20:31:00) Tupi: viajando
+(20:31:11) InterNey: o mais comum nesse tipo de empreitada eh o esquema 'garagem'
+(20:31:23) InterNey: alguem cederia uma garagem ou similar pra comecar a tocar o esqeuma
+(20:31:29) Tupi saiu da sala (quit: Read error: 104 (Connection reset by peer)).
+(20:31:29) InterNey: do lugar surge producao de alguma coisa
+(20:31:35) InterNey: a producao de alguma coisa gera renda
+(20:31:44) InterNey: a renda propicia um espaco melhor/maio/mais adequado 
+(20:32:10) felipefonseca: o minimo eh pra pagar aluguel, internet, agua e luz
+(20:32:25) felipefonseca: o ideal eh conseguir pagar alguem meio-periodo pra administrar e documentar
+(20:32:28) Tupi [n=icechat5@200.207.190.14] entrou na sala.
+(20:32:29) felipefonseca: pensei no djair
+(20:32:37) felipefonseca: tupi:
+(20:32:38) Tupi: voltei
+(20:32:39) felipefonseca: repetindo
+(20:32:39) felipefonseca: (20:32:25) felipefonseca: o ideal eh conseguir pagar alguem meio-periodo pra administrar e documentar
+(20:32:39) felipefonseca: (20:32:28) Tupi [n=icechat5@200.207.190.14] entrou na sala.
+(20:32:39) felipefonseca: (20:32:29) felipefonseca: pensei no djair
+(20:32:56) felipefonseca: na real, tem gente que cede espaco
+(20:33:01) felipefonseca: mas a gente fica dependente
+(20:33:10) Tupi: nao pode ser itinerante?
+(20:33:13) felipefonseca: agente cidadao tem um espacao no centro
+(20:33:14) Tupi: ocupacoes
+(20:33:19) felipefonseca: mas nao dah pra chegar com caminhao uscambau
+(20:33:32) Tupi: metareciclagens com hora pra acabar
+(20:33:35) felipefonseca: bom era um trailer :)
+(20:33:41) felipefonseca: isso pode rolar
+(20:33:44) InterNey: mas qual o mal de uma dependencia temporaria
+(20:33:51) InterNey: acho que se comecasse uma nova ocupacao dependente
+(20:33:53) felipefonseca: mas tem a parada de ser um centro de experimentacao
+(20:33:57) InterNey: focada em se tornar independente
+(20:34:07) InterNey: em alguns meses evoluiria
+(20:34:07) felipefonseca: pesquis
+(20:34:09) felipefonseca: a
+(20:34:14) felipefonseca: trampo que precisa de outro tempo
+(20:34:28) felipefonseca: um lugar que dah pra voltar
+(20:34:33) felipefonseca: entrar a hora que quiser
+(20:34:34) felipefonseca: e tal
+(20:34:46) Tupi: de repente, se as ocupacoes virarem uma especialidade metarec, nem vai precisar do lugar definitivo
+(20:35:00) felipefonseca: definitivo nunca vai ser, de qualquer jeito
+(20:35:06) felipefonseca: mas pesquisa precisa de lugar
+(20:35:07) felipefonseca: bancada
+(20:35:09) felipefonseca: ferro de solda
+(20:35:13) felipefonseca: soprador termico
+(20:35:16) felipefonseca: rola distribuido? rola
+(20:35:30) InterNey: sim, nao da pra levar todo equipamento na mochila de la pra ca, qq hora
+(20:35:31) felipefonseca: mas aih fragmenta ou desperdica recursos...
+(20:35:38) felipefonseca: glauco tem uma pah de coisa
+(20:35:48) felipefonseca: uma vez ele trouxe o compressor de santo andre pro olido
+(20:35:49) felipefonseca: no trem
+(20:35:53) felipefonseca: busao + trem
+(20:35:58) felipefonseca: falou que nunca mais faz isso
+(20:36:13) felipefonseca: e a galera nao vai no atelier do glauco
+(20:36:13) InterNey: nao da pra mudar toda hora
+(20:36:16) felipefonseca: porque ele tem seus horarios
+(20:36:19) felipefonseca: porque eh longe
+(20:36:23) felipefonseca: porque eh a casa do cara
+(20:36:25) dri: vou ter q sair de novo
+(20:36:30) dri saiu da sala.
+(20:36:34) Tupi: uma base minima tem q ter bastante coisa?
+(20:36:38) Tupi: cara?
+(20:36:53) felipefonseca: nem
+(20:36:58) felipefonseca: as coisas, cadum leva
+(20:37:05) felipefonseca: soh de nao ter que ficar transportando...
+(20:37:14) felipefonseca: tem que ter bancada, que pode ser uma porta velha
+(20:37:19) felipefonseca: e bancos ou alguma coisa pra sentar
+(20:37:25) felipefonseca: mas isso daah pra xavecar o agente cidadao
+(20:37:55) Tupi: vamos inventar uma caixa com rodas, com a oficina minima dentro
+(20:38:06) felipefonseca: hehehe
+(20:38:10) felipefonseca: mimoSa sobre rodas
+(20:38:15) InterNey: hehehehe
+(20:38:15) felipefonseca: rolou em porto alegre
+(20:38:19) felipefonseca: num latao de lixo
+(20:38:22) felipefonseca: com rodinhas
+(20:39:01) InterNey: Qto morre no aluguel do espaco? +internet+agua+luz?
+(20:39:13) felipefonseca: depende
+(20:39:20) felipefonseca: tem salinha na vila mariana por 400
+(20:39:26) felipefonseca: ou tem casa inteira por 1500
+(20:39:37) felipefonseca: ai eh que depende de quanta gente vai mobilizar
+(20:39:39) InterNey: o minimo eh 400?
+(20:39:41) felipefonseca: e de quanto recurso vai entrar
+(20:39:44) InterNey: esse de 400 eh viavel?
+(20:39:47) felipefonseca: minimo viavel, perto do metr, 400
+(20:39:57) felipefonseca: nao sei, nao vi
+(20:39:59) felipefonseca: eh possivel
+(20:40:07) felipefonseca: o ideal eh a gente jah ter meio ano de aluguel pra adiantar...
+(20:40:16) felipefonseca: pra nao se preocupar com fiador e o caramba
+(20:40:25) felipefonseca: se for a de 2400, fica ateh mais facil
+(20:40:40) felipefonseca: eu vou tentar fechar um projeto aih e passar toda a grana pra memelab
+(20:40:47) felipefonseca: ficaria mais perto...
+(20:40:52) felipefonseca: agua e luz, vai pouco
+(20:40:59) felipefonseca: se for saletinha sem banheiro, menos ainda :)
+(20:41:11) InterNey: e iria alugar no seu nome?
+(20:41:23) felipefonseca: nao
+(20:41:24) InterNey: sem banheiro eh embacado
+(20:41:37) felipefonseca: tendo a grana adiantada, canto o dalton pra alugar em nome da empresa dele
+(20:41:48) felipefonseca: mas soh se for certo...
+(20:41:57) felipefonseca: nao eh garantido que ele topa, mas acho que sim...
+(20:42:08) felipefonseca: porque aluguel PJ dah pra fazer contrato de 1 ano
+(20:42:29) felipefonseca: ai tem a parada de administrar
+(20:42:36) felipefonseca: definir regras, contas, etc, claro
+(20:42:49) felipefonseca: mas uma possibilidade eh chamar o djair pra trampar em meio periodo nisso
+(20:43:06) InterNey: se o espaco do memelab ja existisse, ele conseguiria capitalizar esse espaco?
+(20:43:14) felipefonseca: aih ele corre atras de jornalzinho, produto, evento
+(20:43:21) felipefonseca: possivelmente sim
+(20:43:24) felipefonseca: ele eh bom nisso
+(20:43:29) felipefonseca: e organizado, e responsa
+(20:43:39) felipefonseca: tem uma boa experiencia no movimento humanista lah
+(20:43:52) InterNey: porque de repente rolava de descolar um patrocinio
+(20:44:11) InterNey: alguem pra pagar 2400 em troca de descolar um patrocinio by fulano, por 6 meses nos projetos memelab
+(20:44:29) felipefonseca: nao entendi
+(20:44:31) Mateussd [n=Mateus@200.203.32.240] entrou na sala.
+(20:44:32) Mateussd saiu da sala.
+(20:44:42) felipefonseca: eu to tentando agitar uns patrocinadores ai
+(20:44:53) felipefonseca: parece que a dell tah montando fabrica em hortolandia
+(20:45:15) Mateussd [n=Mateus@200.203.32.240] entrou na sala.
+(20:45:23) InterNey: Entao, isso que to falando, nao rolaria de alguem bancar uns meses de aluguel em troca de um 'merchan' nos eventos memelab e tals?
+(20:45:32) InterNey: Se fosse feito um calendario do que seria desenvolvido em 6 meses
+(20:45:41) InterNey: e como a marca da empresa seria exposta
+(20:45:44) InterNey: Seria facil vender isso
+(20:45:59) felipefonseca: mateus daitx?
+(20:46:06) Mateussd: yeah!
+(20:46:12) felipefonseca: bem-vindo...
+(20:46:16) felipefonseca: falando aqui sobre memelab
+(20:46:23) felipefonseca: http://memelab.metareciclagem.org
+(20:46:27) Mateussd: uau, muito tempo que eu n?o usava irc
+(20:46:27) felipefonseca!n=felipe@201.6.103.134: felipefonseca mudou o tópico para: memelab, ex-metapub, ex-centro metarec sampa - http://memelab.metareciclagem.org
+(20:46:42) Tupi: facil? nao sei nao...
+(20:46:46) felipefonseca: InterNey: to liugado. eh uma possibilidade, mas desde que nao vire comercio puro...
+(20:46:47) InterNey: entao ff, seria um esquema tipo business plan
+(20:46:51) felipefonseca: tambem nao acho facil
+(20:46:58) felipefonseca: BP me lembra 99 ;)
+(20:47:01) Tupi: teria q dar nota
+(20:47:04) InterNey: hehehehe
+(20:47:09) felipefonseca: nota a gente dah um jeito...
+(20:47:11) InterNey: depende do valor ne?
+(20:47:19) felipefonseca: metareciclagem enterprises sao amplas
+(20:47:26) felipefonseca: parceiros PJs existem
+(20:47:28) InterNey: Se tu fala que precisa de 2500 o cara nao inventa muita onda pra dar a canetada
+(20:47:34) InterNey: ainda mais se for empresa que conhece algo do meta
+(20:47:38) InterNey: ou de algum metarecicleiro
+(20:48:18) Mateussd: t? boiando... e o wiki parece estar fora do ar
+(20:48:28) felipefonseca: putz, eh mesmo
+(20:48:29) felipefonseca: perae
+(20:49:27) felipefonseca: to reiniciando o mysql
+(20:49:29) felipefonseca: wiki de volta
+(20:49:38) felipefonseca: parei pra um becape ha pouco
+(20:49:53) felipefonseca: tem a computadorusado.com tambem
+(20:49:55) felipefonseca: tem sescsp
+(20:50:01) felipefonseca: tem itaucultural
+(20:50:11) felipefonseca: muitos possiveis interessados em apoiar
+(20:50:20) felipefonseca: mas geralmente o que rola eh prestar servico direto pros caras
+(20:50:33) felipefonseca: uma boa eh estabelecer uma taxinha pra projetos desenvolvidos no memelab
+(20:50:46) felipefonseca: usou a estrutura, pode cobrar o que quiser, mas deixa um trocado aqui
+(20:51:19) InterNey: entao, pelo que to vendo, tendo um espaco eh facil manter, pelo menos vc falando parece que existem 1000 maneiras
+(20:51:31) InterNey: mas juntar o capital inicial pro espaco ta sendo meio complicado
+(20:51:42) InterNey: ou to exagerando, eh soh questao de comecar a se mexer
+(20:51:57) InterNey: ?
+(20:52:10) felipefonseca: eh isso
+(20:52:14) felipefonseca: mas as coisas tem seu tempo
+(20:52:21) felipefonseca: e eu nao posso me dedicar soh a isso
+(20:52:30) felipefonseca: tem que sair projeto, sim
+(20:52:48) felipefonseca: mas dessa vez resolvi fazer o processo mais aberto e mais lento do que em outros esporos
+(20:52:54) felipefonseca: pra coisa ser diferente
+(20:52:58) felipefonseca: e se pans mais sustentavel
+(20:53:00) felipefonseca: menos dependente
+(20:53:05) Tupi: nao sei se e' tao facil manter
+(20:53:05) felipefonseca: porque eh complicado
+(20:53:18) felipefonseca: nao eh facil nao
+(20:53:19) Tupi: a tati mandou o salve da experiencia do IP Lab
+(20:53:23) wille [n=livre@201009251016.user.veloxzone.com.br] entrou na sala.
+(20:53:23) felipefonseca: to ligado
+(20:53:26) InterNey: por isso que to falando do business plan
+(20:53:27) felipefonseca: mas rio eh mais chato..
+(20:53:35) Tupi: tem q ficar ligeiro
+(20:53:38) felipefonseca: rio galera fala que vai, mas nao aparece
+(20:53:42) felipefonseca: tem que armar varias coisas, sim
+(20:54:03) Tupi: perai'...
+(20:54:08) Tupi saiu da sala (quit: "Do fish get thirsty?").
+(20:54:26) Mateussd: ainda t? boiando, mas a id?ia me pareceu muito massa!
+(20:55:00) InterNey: tb tem o lance de que a gente ta pirando aqui num valor provavel, tinha que ver qual o valor real e tals
+(20:55:20) Mateussd: o valor que vcs t?o falando ? aquele do wiki?
+(20:55:38) InterNey: sim, mas eh que lah ta tudo muito chutado
+(20:55:47) InterNey: melhor que nada, mas pra alavancar as coisas de verdade
+(20:55:53) InterNey: eh preciso de exemplos praticos
+(20:56:18) Tupi [n=icechat5@200.207.190.14] entrou na sala.
+(20:56:19) InterNey: mas tem o lance que o ff falou
+(20:56:21) Mateussd: pois ?, em rela??o ao espa?o, t?o pensando numa casa muito grande? e localiza??o?
+(20:56:21) felipefonseca: por isso a ideia de levantar recursos suficientes pra manter alguem dedicado, pelo menos uma parte do tempo, a fazer as coisas girarem
+(20:56:26) InterNey: soh ele correr atras dos esquemas
+(20:56:28) InterNey: eh embacado
+(20:56:41) Tupi: teste
+(20:56:45) felipefonseca: exemplos praticos
+(20:56:46) Tupi saiu da sala (quit: Connection reset by peer).
+(20:56:49) felipefonseca: temos
+(20:57:01) felipefonseca: tupi tah patinando
+(20:57:07) felipefonseca: cai cada meio minuto
+(20:57:48) InterNey: citei exemplos praticos me referindo a valores de aluguel reais, etc
+(20:57:56) InterNey: to ligado que esporos vcs ja montaram varios
+(20:58:00) InterNey: com espacos cedidos
+(20:58:08) felipefonseca: exemplos praticos tah na mao
+(20:58:11) InterNey: exemplos de ocupacao vcs jah tao caleijados :)
+(20:58:12) felipefonseca: R$ 1000 por mes 
+(20:58:21) felipefonseca: 6k pro primeiro semestre
+(20:58:34) InterNey: Entao, mas tem que ser 1000, nao existe lugar mais barato pra come?ar?
+(20:58:36) felipefonseca: talvez a onda seja a gente comecar com uma campanha
+(20:58:41) felipefonseca: 1000 com tudo
+(20:58:57) felipefonseca: agua luz internet e uns trocados pro papel higienico
+(20:59:15) felipefonseca: semana que vem tem iSummit
+(20:59:18) felipefonseca: bando de gringo vindo pro br
+(20:59:27) felipefonseca: se pans era umas de montar projetim e mostrar por lah
+(20:59:45) Mateussd: bah, certo que tem gringo que apoiaria isso!
+(21:00:20) Mateussd: vcs j? pensaram em falar com a Petrobras ou o BB?
+(21:00:43) InterNey: o foda eh que metareciclagem/memelab nao eh ONG ou nada do genero
+(21:01:17) InterNey: pra captar recursos de alguns cantos tem que ser entidade PJ
+(21:01:19) felipefonseca: petrobras eh bb demora meio ano pra aprovar qualquer coisa
+(21:01:27) felipefonseca: metareciclagem nunca vai ser pj
+(21:01:28) felipefonseca: mas
+(21:01:31) felipefonseca: agentecidadao eh
+(21:01:35) felipefonseca: pirituba33 eh
+(21:01:38) felipefonseca: sampa.org eh
+(21:01:42) felipefonseca: ipti eh
+(21:01:53) felipefonseca: precisando, a gente chama a parceria
+(21:01:57) felipefonseca: rapidim
+(21:02:20) InterNey: entao podia apresentar um projeto 'via' essas entidades
+(21:02:27) felipefonseca: nem
+(21:02:31) felipefonseca: apresenta o projeto via nois
+(21:02:40) felipefonseca: quando precisar assinar cheque, apresenta "via"
+(21:02:48) felipefonseca: ou as duas coisas
+(21:02:54) Mateussd: pois ?, mas eu j? trabalhei com o BB e meu pai trabalha com a Petrobr?s, pode ser que se conseguisse um contato mais direto com a pessoa respons?vel por essas verbas
+(21:02:57) felipefonseca: mas pra manter o espaco, sou mais ser o pirata de sempre
+(21:03:20) felipefonseca: Mateussd: pode ser, mas nem sei. Hermano Vianna conhece as cabecas do BB, e demorou
+(21:03:23) Mateussd: ahoy!
+(21:03:25) felipefonseca: e na real, a gente precisa eh de pouca coisa
+(21:03:43) felipefonseca: po, 6 mil real pra meio ano eh muito pouco pra BB e BR
+(21:03:56) felipefonseca: e nao quero depender desses caras pra manter a casa em ordem
+(21:04:13) InterNey: sim, projetos de 6 mil nao se apresenta pra esses caras
+(21:04:15) felipefonseca: depois a gente vai lah e tira dinheiro deles, invade, rouba e desapropria
+(21:04:24) Mateussd: por isso mesmo, pode ser que essa grana rolasse direto com algum comit? de cidadania desses locais, a? era bem mais f?cil
+(21:04:26) felipefonseca: mas nao quero criar um vinculo direto
+(21:04:32) felipefonseca: nem 
+(21:04:36) felipefonseca: precisa de um troco pra comecar
+(21:04:44) felipefonseca: e depois a parada tem que dar um jeito de sustentar sozinha
+(21:04:47) felipefonseca: senao eh melhor morrer mesmo
+(21:05:07) Mateussd: ah, nisso eu concordo... se ? pra viver com o rabo preso, melhor ser natimorto
+(21:05:25) InterNey: bem, pra conseguir esse troco eu acho que o caminho mais facil e patrocinio
+(21:05:29) felipefonseca: sim
+(21:05:32) felipefonseca: pontual
+(21:05:39) felipefonseca: nada que de direito a logotipo na porta da frente
+(21:05:40) InterNey: pra descolar patrocinio tem que mostrar pro cara como a marca dele vai ser exibida
+(21:05:55) felipefonseca: sim
+(21:05:56) InterNey: na porta da frente nao
+(21:05:56) felipefonseca: ou nao
+(21:06:07) InterNey: mas uns folhetinhos com um patrocinio fulano no rodape
+(21:06:09) felipefonseca: a marca em sim, nao necessariamente
+(21:06:16) felipefonseca: folhetinhos, beleza
+(21:06:35) Tupi [n=icechat5@200.207.190.14] entrou na sala.
+(21:06:36) InterNey: rodape do site, rodape de folhetos de eventos
+(21:06:47) InterNey: mas pra ele entender isso tem que saber quais eventos vao rolar
+(21:06:50) InterNey: quais projetos
+(21:06:55) InterNey: como eles serao expostos na midia
+(21:06:57) felipefonseca: voltou, tupi?
+(21:07:04) Tupi: e' nois
+(21:07:09) InterNey: quais oportunidade ele vai ter pra expor/associar a marca dele
+(21:07:12) felipefonseca: InterNey: sim, escrever projetim
+(21:07:23) felipefonseca: marca
+(21:07:25) felipefonseca: gado
+(21:07:27) felipefonseca: branding
+(21:07:31) felipefonseca: mas bele, por aih ateh vai
+(21:07:41) felipefonseca: no folhetinho
+(21:07:48) mbraz [n=marc@200-158-152-202.dsl.telesp.net.br] entrou na sala.
+(21:07:51) InterNey: entao, contrato de 6 meses depois tchau
+(21:07:51) felipefonseca: e na pagina do memelab na internet, um "apoio"
+(21:07:54) felipefonseca: olha o braz ae
+(21:07:59) InterNey: sim
+(21:08:03) mbraz: hy
+(21:08:06) InterNey: nada de esquema estilo boteco
+(21:08:08) Tupi: fmz?
+(21:08:14) InterNey: onde o letreiro da frente tem a marca da bebida :)
+(21:08:17) mbraz: blz, salve
+(21:08:20) Mateussd: acho que um ano talvez fosse melhor pra estabilizar o projeto
+(21:08:33) Tupi: boteco patrocina o time da varzea
+(21:08:33) Mateussd: salve
+(21:08:42) Tupi: e tb distribui marmitex depois das 15h
+(21:08:52) Tupi: :-D
+(21:09:04) InterNey: nao eh o patrocinio do boteco, eh o patrocinio para o boteco
+(21:09:31) Tupi: ambev patrocina boteco, libera o freezer, pa e tal
+(21:09:33) InterNey: aquele contratos de bebidas que o cara poe letreiro da brahma e soh pode servir bebida da ambev que poda e manipula
+(21:09:34) Tupi: :-D
+(21:09:47) InterNey: entao, to dizendo pro ff que nao eh nesse tipo que to pensando
+(21:09:55) InterNey: mas estilo, patrocionio Itau
+(21:09:55) felipefonseca: pra quem tah chegando agora, tem log parcial no metareciclagem.org/material
+(21:10:02) mbraz: boteco ou budega? :)
+(21:10:08) mbraz: legal, to lendo ...
+(21:10:17) InterNey: Vc ve patrocinio Itau no rodap? de uma pah de lugar e s?
+(21:10:31) InterNey: eh so pra figurar o estilo do patrocionio
+(21:10:31) felipefonseca: que que eh patrocinio itau?
+(21:10:40) felipefonseca: nem vejo
+(21:10:42) felipefonseca: :)
+(21:10:46) felipefonseca: fecho olho
+(21:10:48) InterNey: entao nesse esquema ai :)
+(21:10:51) InterNey: hehhehee
+(21:11:02) InterNey: logo pequenininho l? no rodap?
+(21:11:10) InterNey: Ita? tem uma p? de patrocinio assim por exemplo
+(21:11:10) wille saiu da sala (quit: "Fui embora").
+(21:12:20) felipefonseca: eca
+(21:12:22) felipefonseca: itau
+(21:12:24) felipefonseca: argh
+(21:12:32) InterNey: sahsuahsuahsaushausa
+(21:12:36) InterNey: so o exemplo ff
+(21:12:37) felipefonseca: vamo mudar de exemplo ai, que tah comecadndo a cheirar mal
+(21:12:41) felipefonseca: BB, BR, Itau
+(21:12:50) Tupi: PDVSA
+(21:12:57) felipefonseca: vamo pedir patrocinio pra monsanto agora
+(21:13:00) InterNey: Sei lah patrocinio Dell, metarecicle seu computador e troque pelo novo lalala
+(21:13:30) InterNey: patrocinio seu joaquim, desde 1970 fazendo um paozinho hexacampeao
+(21:13:32) felipefonseca: InterNey: nem. eles tem esse projeto. troquei uma ideia com a tiazinha da pensamento digital lah em porto alegre semana passada. mas eh esquema linha de (Des)montagem
+(21:13:40) felipefonseca: se pans legal pras cooperativas de alguns esporos por ai
+(21:13:45) felipefonseca: eu, to fora
+(21:13:55) InterNey: so to dando exemplo de novo :)
+(21:13:56) felipefonseca: quero uma bancada pra trampo qualitativo, nao quantitativo
+(21:14:07) felipefonseca: to ligado
+(21:14:13) felipefonseca: seu joaquim eh o bicho
+(21:14:15) Mateussd: pff, a Dell at? aonde eu sei ainda manda marretar qq LCD com um m?sero dead pixel, ao inv?s de doar o bixinho
+(21:14:19) felipefonseca: queria conhecer um joaquim desses
+(21:14:24) InterNey: hehehehehehhee
+(21:14:34) felipefonseca: Mateussd: reza a lenda que eles doam
+(21:14:38) InterNey: mas se o seu joaquim acreditasse que fosse vender mais pao ele toparia
+(21:14:40) felipefonseca: mas soh meia duzia de coisas mesmo
+(21:14:54) InterNey: trocand o seu joaquim por qq empresa e pao por qq produto
+(21:14:57) felipefonseca: nosso argumento nao pode ser diretamente ligado a vender mais
+(21:14:59) InterNey: o que memelab venderia?
+(21:15:01) Mateussd: FF, informa??o me foi passada e confirmada por mais de um funcion?rio da Dell
+(21:15:04) felipefonseca: a gente nunca vai ter tanta exposicao assim
+(21:15:09) InterNey: quem gostaria de associar com a marca memelab
+(21:15:15) felipefonseca: tem que ser intangivel, associacao de ideias
+(21:15:22) InterNey: bem, pode ser percepcao da marca
+(21:15:27) felipefonseca: e PR, a gente tem uma certa facilidade em aparecer na midia
+(21:15:30) Tupi: memelab inventa, a banca segue
+(21:15:33) InterNey: derepans eles mesmo criam a exposicao
+(21:15:37) Tupi: tipo se o metatelao virar
+(21:15:41) Tupi: vai ter maluco copiando
+(21:15:49) felipefonseca: Mateussd: to ligado, conheco varias historias assim.
+(21:15:50) mbraz: dell tah vindo para sp...
+(21:15:55) Tupi: metatelao = qq metaproduto
+(21:16:05) felipefonseca: perae, telefone
+(21:16:20) felipefonseca: voltei
+(21:16:24) felipefonseca: metatelao eh o esquema
+(21:16:26) InterNey: mas se tipo uma empresa achar que a associacao dela com as ideias e projetos do memelab eh bacana
+(21:16:29) felipefonseca: mbraz: tah vindo, sim
+(21:16:40) InterNey: ela patrocina e ela mesmo faz exposicao via acessoria de empresa dela
+(21:16:41) Mateussd: dell fez poupan?a com a grana dos ga?chos pra montar a f?brica de SP....
+(21:16:49) felipefonseca: a questao maior eh quais empresas _a gente_ nao vai se incomodar que se associem a memelab
+(21:16:53) mbraz: e o cara de soroc conhece os esquemas de altas doacoes ...
+(21:17:02) Tupi: se for fazer parceria com joaquim, empresa grande tb teria as mesmas condicoes e tratamento
+(21:17:04) Tupi: sei la
+(21:17:20) felipefonseca: mbraz: to ligado, a gente jah teve altas conversas com o dono da computadorusado
+(21:17:28) felipefonseca: mandei uma mensagem pro hudson e pro luiz lah
+(21:17:33) felipefonseca: se pans rola de alguma parceria
+(21:17:53) felipefonseca: empresa grande tem menos direitos
+(21:17:56) felipefonseca: por definicao
+(21:17:58) felipefonseca: :)
+(21:18:08) mbraz: algarra eh gente fina, melhor que o patrao do comput.usado ...
+(21:18:12) Mateussd: FF, essa quest?o das empresas ? beeeemmm complexa... o que n?o atinge alguns (Ita?, BB, Bradesco) pode ser impens?vel pra outros... eu por exemplo fui banc?rio, quero dist?ncia do nome dessas institui??es
+(21:18:12) InterNey: seria legal fazer uma lista de empresas, sites, jornais, associacoes, uscambau, que vc gostaria que se patrocinassem
+(21:18:21) InterNey: desse caos a gente sacaria onde poderia 'atacar'
+(21:18:40) felipefonseca: a principio
+(21:18:43) felipefonseca: padaria do joaquim
+(21:18:44) felipefonseca: :)
+(21:18:50) InterNey: hehehehehehe
+(21:18:58) InterNey: eu sabia que vc ia gostar do exemplo do joaquim
+(21:19:00) felipefonseca: ou capitalistas filhos da puta e anonimos
+(21:19:01) Tupi: restaurante por quilo?
+(21:19:06) InterNey: foda que seu joaquim nao usa internet ainda
+(21:19:12) Tupi: se pam vira fazer permuta
+(21:19:14) felipefonseca: InterNey: isso eh outro projeto :)
+(21:19:24) felipefonseca: permuta no por quilo eh o esquema
+(21:19:50) Tupi: nao da' pra fazer o cibersalao no kilo?
+(21:19:55) Tupi: ou em kilos?
+(21:19:59) Mateussd: bah, permuta com mini mercado pro PH e rango
+(21:20:12) InterNey: hehehhee, faz o microsite dos botecos e padocas da vila mariana em troca de 100/50 conto, depois de um mes tu descola uns 10 mil
+(21:20:25) InterNey: facamos um script qu emonta o microsite
+(21:20:29) Mateussd: bah, pior que rolava mesmo
+(21:20:42) Tupi: troca almoco por divulgacao no orkut
+(21:20:48) InterNey: yeahhh
+(21:20:49) InterNey: hehehe
+(21:20:50) Tupi: ou comunidade do boteco no orkut
+(21:21:03) felipefonseca: tudo isso rola de virar
+(21:21:08) felipefonseca: mas a gente precisa comecar de algum jeito
+(21:21:19) Tupi: ja' tem uma pa' de padoca e barraca de praia com comunidade no orkut
+(21:21:39) Mateussd: gosto mais dessa id?ia de mobilizar o micro-com?rcio da regi?o do que buscar uma multi qualquer
+(21:21:42) Tupi: so' falta calendario de eventos, cupom desconto
+(21:21:56) felipefonseca: o mov humanista faz umas coisas assim
+(21:22:01) felipefonseca: jornalzim de bairro
+(21:22:06) felipefonseca: campanha disso e daquilo
+(21:22:06) InterNey: vou jantar, dia dos namorados e tals, vou comer aqui mesmo mas n?o rola de ficar no IRC :)
+(21:22:17) Tupi: valeu!
+(21:22:17) felipefonseca: a gente pode estender pra internet
+(21:22:22) Tupi: bom apetite!
+(21:22:26) InterNey: Dispois vejo o log :)
+(21:22:27) InterNey: fui
+(21:22:28) felipefonseca: bele, edney. mando o log na lista qdo terminar
+(21:22:37) InterNey saiu da sala.
+(21:22:37) felipefonseca: tambem tenho que sair em breve :)
+(21:22:43) felipefonseca: 12/6 eh 12/6
+(21:22:48) felipefonseca: alias, 12/06/06
+(21:22:50) felipefonseca: 6+6=12
+(21:23:20) Mateussd: bizarro
+(21:23:42) felipefonseca: bom
+(21:23:44) felipefonseca: e ai?
+(21:23:51) felipefonseca: acorda, banto!!!!
+(21:24:13) Mateussd: bah, eu t? viajando ainda... pensando em maneiras de poder ajudar nesse projeto...
+(21:24:18) felipefonseca: conta ai
+(21:24:20) Tupi: cibersalao ja' tem programacao?
+(21:24:24) Mateussd: ali?s, eu queria uma camiseta
+(21:24:29) felipefonseca: cibersalao eh uma tarde soh
+(21:24:32) Mateussd: ? tu que faz, n??
+(21:24:34) felipefonseca: Mateussd: nem me pede camiseta
+(21:24:42) Tupi: entao, esse esquema de camiseta
+(21:24:45) felipefonseca: o nosklo encomendou quatro e pagou adiantado
+(21:24:52) felipefonseca: nao consegui ir lah no centro mandar fazer
+(21:24:55) Tupi: nao poderia fazer direto com algum maluco no mercado livre?
+(21:24:56) felipefonseca: camiseta pode ajudar pra caramba
+(21:25:05) felipefonseca: nem sei
+(21:25:07) Tupi: so manda o jpg da estampa
+(21:25:12) felipefonseca: esquema eh que eu jah fiz a tela
+(21:25:14) felipefonseca: silk
+(21:25:27) felipefonseca: sai 3 conto pra estampar cada camiseta
+(21:25:32) felipefonseca: barato, e dura. 
+(21:25:35) felipefonseca: transfer eh uma merda
+(21:25:44) Tupi: a tela ta com vc?
+(21:25:47) Mateussd: quanto sai cada uma?
+(21:25:48) Tupi: ou com o impressor?
+(21:25:55) felipefonseca: tah com ele, mas eu posso pegar
+(21:26:04) felipefonseca: memelab pode ter uma mesinha pra estampar tambem
+(21:26:08) Tupi: o impressor nao pode vender no mercado livre?
+(21:26:22) felipefonseca: Mateussd: tava fazendo a 25, que era pra ajudar no servidor
+(21:26:24) Tupi: ele tem acesso web?
+(21:26:29) felipefonseca: Tupi: pode. Mas ele nao vai.
+(21:26:40) felipefonseca: Tupi: acho que ateh tem, mas soh pra entrar em site porno mesmo
+(21:26:40) Tupi: serio?
+(21:26:58) Mateussd: FF, eu vou quere pelo menos uma certo... n?o tem problema de depositar antes
+(21:26:58) Tupi: sera' q nao tem outro silkeiro q tem o dom?
+(21:27:02) felipefonseca: Mateussd: mas na real, o servidor vai ir pra holanda em breve. Acho que vou vender a 20.
+(21:27:07) felipefonseca: deposita antes nao
+(21:27:12) Mateussd: pra Holanda???
+(21:27:12) felipefonseca: minha conta eh buraco negro
+(21:27:20) Mateussd: hehehe... vala comum
+(21:27:32) felipefonseca: Tupi: esquema eh ter uma mesinha pra estampar
+(21:27:40) felipefonseca: e a gente fazer lojinha no ML
+(21:27:42) Mateussd: era esse o termo usado no banco...
+(21:27:57) felipefonseca: servidor vai pra holanda, nossa parceria com waag.nl
+(21:27:58) Mateussd: quanto sai uma mesinha de silk?
+(21:28:06) Tupi: mas se algum silkeiro entra no ML por causa do metareciclagem
+(21:28:09) felipefonseca: mesinha, sei lah
+(21:28:14) felipefonseca: uns binteconto
+(21:28:16) Tupi: e ele aumenta o faturamento, ganha mais independencia
+(21:28:20) felipefonseca: Tupi: pois eh, pode ser
+(21:28:22) felipefonseca: mas sei lah
+(21:28:26) Tupi: sei la'... isso tb e' metareciclagem
+(21:28:30) Tupi: cada um na sua vocacao
+(21:28:33) felipefonseca: isso exige que alguem esteja lah pra trocar ideia com o cara
+(21:28:35) felipefonseca: pra ensinar a usar ML
+(21:28:44) felipefonseca: pra ensinar a colocar produto, chamar correio, mandar entregar
+(21:29:01) Tupi: ou entao achar algum sikeiro q esteja no ML ja'...
+(21:29:05) Tupi: e mandar a tela pra ele
+(21:29:13) felipefonseca: pode ser
+(21:29:16) Tupi: depois, indicar sempre ele pra quem quiser
+(21:29:22) felipefonseca: eh umas
+(21:29:23) Tupi: comprar...
+(21:29:29) felipefonseca: mas e como a grana vem pro memelab?
+(21:29:43) Tupi: o link tem q incluir o id do mercado socios
+(21:29:47) mbraz: hoje eu vi no buscapeh uma empresa vendendo projetor daquele jeito ... caixona
+(21:29:51) felipefonseca: classe
+(21:30:09) Tupi: pra ajudar, tem q comprar atraves do link do site, blog
+(21:30:13) Tupi: uscambau
+(21:30:25) felipefonseca: Tupi: mas tem uma onda
+(21:30:34) Tupi: pq vai embutido o id do afiliado
+(21:30:37) felipefonseca: silkeiro geralmente nao tem muito interesse em virar varejo
+(21:30:44) felipefonseca: pelo menos esses que eu conheo
+(21:30:46) felipefonseca: co
+(21:30:51) felipefonseca: ali das grandes galerias
+(21:31:02) felipefonseca: pra eles, vale a pena alguem que encomende 100 camisetas
+(21:31:04) Tupi: entao, sei q no ML tem silkeiro especializado em camiseta de rock
+(21:31:20) Tupi: muitos tem loja nas halerias
+(21:31:22) Tupi: galerias
+(21:31:25) felipefonseca: sim
+(21:32:01) felipefonseca: mas fazer um esquema desses exige ou que ele faca uma a uma, que cansa, ou que tenha espaco pra estocar
+(21:32:06) felipefonseca: sei lah
+(21:32:10) Tupi: nesses esporos, nao formou nenhum silkeiro q trampa nisso ate' hoje?
+(21:32:27) felipefonseca: o cara se ligar que fazer camiseta do nirvana e vender pelo ML eh garantido eh uma coisa
+(21:32:33) felipefonseca: metareciclagem, eh outra parada
+(21:32:43) mbraz: montar uma banca de revistas eh caro? ou colocar produtos numa ...
+(21:32:52) felipefonseca: Tupi: nem sei. Que eu tenha conhecido pessoalmente, nao.
+(21:33:02) felipefonseca: banca de revista em sampa eh caro
+(21:33:12) mbraz: fila grande ...
+(21:33:13) felipefonseca: mas a gente nao precisa da banca
+(21:33:14) felipefonseca: tem ML
+(21:33:22) felipefonseca: a onda eh ter alguem que faca a parada
+(21:35:03) mbraz: vender gibi/quadrinhos ---> troca 2 por 1 :)) 
+(21:35:11) Mateussd: saca s?, e conhe?o uma galera do Resist?ncia Popular aqui de Poa que trabalha com Silk... se bobear, dava pra fazer a parceria com eles
+(21:35:35) Tupi: eles vendem no Mercado Livre?
+(21:35:55) Mateussd: n?o, mas podemos agilizar isso e j? dar uma m?o pra eles
+(21:36:17) Tupi: blz... se virar, o fff manda a tela pra eles
+(21:36:54) Tupi: fff, vc disse q abre a conta no Mercado Socios, sem precisar deixar na mao do Edney
+(21:36:55) Mateussd: se n?o me engano, eles est?o com um laborat?rio/telecentro/whatever com acesso ? internet, pode ser que role legal
+(21:37:15) Tupi: tem o dom mesmo?
+(21:37:56) felipefonseca: vou abrir
+(21:37:58) felipefonseca: meio que jah
+(21:38:04) Tupi: blz..
+(21:38:11) Tupi: qdo tiver o id, espalha
+(21:38:27) Tupi: pq da' pra ir incluindo nos links e se pam ser remunerado
+(21:38:49) Tupi: eu mesmo incluo nas estampas metareciclagem q tem no camiset.andh.us
+(21:46:35) mbraz: to saindo, vou jantar que o cheiro tah bom... escrevam aih que eu assino embaixo:}
+(21:46:50) Tupi: valeu!
+(21:47:22) mbraz: bye,  assin. : ---------> mbraz
+(21:47:27) mbraz saiu da sala (quit: "Ex-Chat").
+(21:48:11) felipefonseca: cadastrei, mas o email de confirmacao nao veio
+(21:49:31) Tupi: nem lembro se demorava
+(21:57:51) felipefonseca: estranho.
+(21:57:55) felipefonseca: tentando com outro email
+(21:58:02) felipefonseca: se pans eh treta de ML com gmail
+(21:58:04) felipefonseca: seu lah
+(21:58:24) Tupi: sera' q demora um pouco mesmo?
+(21:58:34) Tupi: tem q incluir cpf, esses bagulhos?
+(21:58:58) felipefonseca: nao tem mais
+(21:59:08) felipefonseca: usuario memelab_sp
+(21:59:10) felipefonseca: tah lah
+(22:00:45) Tupi: vc se inscreveu no mercado socios?
+(22:00:53) felipefonseca: nem
+(22:00:56) felipefonseca: ainda nao
+(22:01:44) Tupi: se pam mesmo id e senha funciona, tenta entrar no link mercado socios no rodape
+(22:01:58) Tupi: dai' aparece o numero de afiliado
+(22:02:02) felipefonseca: vou ver
+(22:03:28) felipefonseca: rolou
+(22:03:30) felipefonseca: deixa ver o numero
+(22:04:44) felipefonseca: mercadosociois pediu cpf e inss
+(22:05:08) Tupi: xiiii
+(22:05:19) Tupi: nao tem pressa
+(22:07:21) felipefonseca: pronto 
+(22:07:24) felipefonseca: como vejo o codigo?
+(22:07:48) Tupi: tem no quadro a direita
+(22:07:50) felipefonseca: site registrado?
+(22:07:51) Tupi: sites
+(22:07:53) Tupi: isso
+(22:08:08) felipefonseca: 353291
+(22:08:13) Tupi: valeu!
+(22:08:16) felipefonseca: po, cada site tem um codigo?
+(22:08:29) Tupi: na verdade pode ter varios codigos
+(22:08:29) felipefonseca: interessante...
+(22:08:37) Tupi: dai' vc traqueia de onde veio o comprador
+(22:08:52) felipefonseca: classe
+(22:09:00) felipefonseca: tipo channels do google adsense
+(22:09:02) Tupi: um mesmo id de mercado socio pode ter varios sites ids
+(22:09:10) Tupi: acho q sim
+(22:09:16) Tupi: e e' automatico
+(22:09:24) Tupi: e' so' preencher o form
+(22:09:28) Tupi: q sai um numero novo
+(22:09:57) felipefonseca: legal
+(22:10:13) felipefonseca: na real, nao tem a ver com o site, mas com tua propria organizacao, ne?
+(22:10:26) Tupi: sim
+(22:10:27) felipefonseca: podia dar umas dicas lah no memelab/coletando
+(22:10:48) Tupi: pode espalhar o link sem site
+(22:10:50) Tupi: por email
+(22:10:55) Tupi: por google adwords
+(22:11:02) Tupi: por redirect
+(22:11:06) Tupi: notlong.com
+(22:11:35) Tupi: o edney programou o esquema
+(22:11:50) Tupi: q mostra as ofertas de acordo com o conteudo da pg
+(22:11:56) Tupi: e inclui o id dele no link
+(22:12:04) felipefonseca: sim
+(22:12:07) felipefonseca: esquemao
+(22:12:07) Tupi: bingo!
+(22:13:26) felipefonseca: esse interney blogs pode virar esquema bom
+(22:13:31) felipefonseca: a ver
+(22:13:34) felipefonseca: bom, vou ali sumir
+(22:13:39) Tupi: blz
+(22:13:42) felipefonseca: mando o log no server e aviso na lista
+(22:13:48) Tupi: valeu
+(22:13:56) felipefonseca: continuamos falando
+(22:13:56) Tupi: se pam mando msg com links ML
+(22:14:00) felipefonseca: maravilha
+(22:14:01) felipefonseca: valeu
+(22:14:02) felipefonseca: té
+(22:14:03) Tupi: incluindo o codigo memelab
+(22:14:08) felipefonseca: acoooooooorda, BANTO
+(22:14:15) Tupi: e nois!

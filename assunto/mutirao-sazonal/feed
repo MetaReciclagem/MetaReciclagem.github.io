@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - mutirão sazonal</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/928/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>MutSaz</title>
+ <link>http://rede.metareciclagem.org/wiki/MutSaz</link>
+ <description>&lt;p&gt;O Mutir&amp;atilde;o Sazonal &amp;eacute; uma publica&amp;ccedil;&amp;atilde;o peri&amp;oacute;dica do grupo MutGamb, lan&amp;ccedil;ada ao fim de cada esta&amp;ccedil;&amp;atilde;o do ano.&lt;/p&gt;
+&lt;p&gt;Saiba mais em:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://mutgamb.org/conteudo/Mutirao-Sazonal&quot; rel=&quot;nofollow&quot;&gt;http://mutgamb.org/conteudo/Mutirao-Sazonal&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Processo:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;MutSazReva&lt;/li&gt;
+    &lt;li&gt;MutSazLupercalia - Ver&amp;atilde;o 2010/2011&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/MutSaz#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/documenta%C3%A7%C3%A3o">documentação</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mutgamb">mutgamb</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mutirao-sazonal">mutirão sazonal</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Mutir%C3%A3o-da-Gambiarra" xmlns="http://drupal.org/project/og">Mutirão da Gambiarra</group>
+ <pubDate>Sun, 26 Sep 2010 23:22:49 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1957 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

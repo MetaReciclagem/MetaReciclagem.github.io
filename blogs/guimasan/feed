@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>blog de guimasan</title>
+ <link>http://rede.metareciclagem.org/blogs/guimasan</link>
+ <description>Apropriação tecnológica para a transformação social</description>
+ <language>pt-br</language>
+<item>
+ <title>TouchPlants + LEDfeedback</title>
+ <link>http://rede.metareciclagem.org/blog/18-09-12/TouchPlants-LEDfeedback</link>
+ <description>Experiência utilizando uma fita de led rgb como feedback aos estímulos de capacitância nas plantas...
+
+A troca de visualização (velocidade, cor, etc) é feita pelo controle remoto IR da própria fita, abrimos ligamos transistors no lugar dos botões e acionamos pelo arduino...
+
+
+&lt;iframe width=&quot;400&quot; height=&quot;255&quot; src=&quot;http://www.youtube.com/embed/ajcR7zzAjn4&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/18-09-12/TouchPlants-LEDfeedback#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/arduino">arduino</category>
+ <category domain="http://rede.metareciclagem.org/assunto/eletrorganicos">eletrorganicos</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/LabLivre-EletrOrganicos" xmlns="http://drupal.org/project/og">LabLivre - EletrOrgânicos</group>
+ <pubDate>Tue, 18 Sep 2012 23:23:04 +0000</pubDate>
+ <dc:creator>guimasan</dc:creator>
+ <guid isPermaLink="false">2134 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Cremilda matando a sede...</title>
+ <link>http://rede.metareciclagem.org/blog/18-09-12/Cremilda-matando-a-sede</link>
+ <description>&lt;p&gt;Utilizando os sensores de capacit&amp;acirc;ncia, a altera&amp;ccedil;&amp;atilde;o e deslocamento de massa da planta &amp;eacute; mapeado em frequ&amp;ecirc;ncias sonoras:&lt;/p&gt;
+&lt;p&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;225&quot; src=&quot;http://www.youtube.com/embed/H6XVs9oIw1Q&quot; width=&quot;400&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/18-09-12/Cremilda-matando-a-sede#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/arduino">arduino</category>
+ <category domain="http://rede.metareciclagem.org/assunto/eletrorganicos">eletrorganicos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/sesc-sorocaba">sesc sorocaba</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/LabLivre-EletrOrganicos" xmlns="http://drupal.org/project/og">LabLivre - EletrOrgânicos</group>
+ <pubDate>Tue, 18 Sep 2012 22:43:02 +0000</pubDate>
+ <dc:creator>guimasan</dc:creator>
+ <guid isPermaLink="false">2133 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>PlantNoise - Video</title>
+ <link>http://rede.metareciclagem.org/blog/14-09-12/PlantNoise-Video</link>
+ <description>&lt;p&gt;&lt;object classid=&quot;D27CDB6E-AE6D-11cf-96B8-444553540000&quot; data=&quot;http://www.flickr.com/apps/video/stewart.swf?v=109786&quot; height=&quot;225&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;400&quot;&gt;&lt;param name=&quot;flashvars&quot; value=&quot;intl_lang=pt-br&amp;amp;photo_secret=a93cc03e6f&amp;amp;photo_id=7984750498&quot; /&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.flickr.com/apps/video/stewart.swf?v=109786&quot; /&gt;&lt;param name=&quot;bgcolor&quot; value=&quot;#000000&quot; /&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot; /&gt;&lt;embed allowfullscreen=&quot;true&quot; bgcolor=&quot;#000000&quot; flashvars=&quot;intl_lang=pt-br&amp;amp;photo_secret=a93cc03e6f&amp;amp;photo_id=7984750498&quot; height=&quot;225&quot; src=&quot;http://www.flickr.com/apps/video/stewart.swf?v=109786&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;400&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Gerando ru&amp;iacute;dos t&amp;iacute;midos ainda com sensores de capacit&amp;acirc;ncia, toques midis e la&amp;ccedil;os simples no arduino.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/14-09-12/PlantNoise-Video#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/arduino">arduino</category>
+ <category domain="http://rede.metareciclagem.org/assunto/eletrorganicos">eletrorganicos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/hardware-livre-0">hardware livre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/lablivre">lablivre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/sesc-sorocaba">sesc sorocaba</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/LabLivre-EletrOrganicos" xmlns="http://drupal.org/project/og">LabLivre - EletrOrgânicos</group>
+ <pubDate>Fri, 14 Sep 2012 15:33:59 +0000</pubDate>
+ <dc:creator>guimasan</dc:creator>
+ <guid isPermaLink="false">2129 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Sensor capacitivo - Toque nas plantas</title>
+ <link>http://rede.metareciclagem.org/blog/14-09-12/Sensor-capacitivo-Toque-nas-plantas</link>
+ <description>&lt;p&gt;Hey hou&lt;/p&gt;
+&lt;p&gt;Na&amp;nbsp;&lt;a href=&quot;http://rede.metareciclagem.org/blog/06-09-12/1%C2%AA-Experimentacao-Giselda-Cremilda-e-Angelica&quot; rel=&quot;nofollow&quot;&gt;primeira experimenta&amp;ccedil;&amp;atilde;o&lt;/a&gt;&amp;nbsp;do lablivre do sesc sorocaba, montamos uma interface com &lt;a href=&quot;http://gypsyware.org/bricolab/protuino-usb/&quot; rel=&quot;nofollow&quot;&gt;protuino&lt;/a&gt;&amp;nbsp;+ &lt;a href=&quot;http://processing.org&quot; rel=&quot;nofollow&quot;&gt;processing&lt;/a&gt;&amp;nbsp;para gerar imagens em um notebook sempre que algu&amp;eacute;m tocava nas plantas.&lt;/p&gt;
+&lt;p&gt;O sensor utilizado &amp;eacute; conhecido como sensor de capacit&amp;acirc;ncia, pra arduino existe uma bliblioteca que pode ser incorporada ao script com facilidade &amp;gt;&amp;nbsp;&lt;a href=&quot;http://www.pjrc.com/teensy/td_libs_CapSense.html&quot; rel=&quot;nofollow&quot;&gt;http://www.pjrc.com/teensy/td_libs_CapSense.html&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;O circuito que montamos ficou assim:&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://farm9.staticflickr.com/8179/7984425363_babaf11f65.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;As antenas s&amp;atilde;o as plantas no qual inser&amp;iacute; os placas de metal/fenolite-cobre/abridor de garrafas etc &amp;quot;aterradas&amp;quot; no vaso ou na &amp;aacute;gua &amp;gt;&amp;gt;&lt;/p&gt;
+&lt;p&gt;na terra...&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://farm9.staticflickr.com/8039/7984388763_de5a6b0287.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;na &amp;aacute;gua ...&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;&quot; src=&quot;http://farm9.staticflickr.com/8451/7984389605_432626d32d.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;enfim, os circuitos s&amp;atilde;o todos muito simples e nessa mesma semana rolou uma florec&amp;ecirc;ncia de coisas, antigas at&amp;eacute; mas que est&amp;atilde;o se popularizando &amp;quot;coincidentemente&amp;quot; na mesma pegada &amp;gt;&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.makeymakey.com/&quot; rel=&quot;nofollow&quot;&gt;http://www.makeymakey.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://style.greenvana.com/2012/plantas-podem-servir-como-acessorios-para-aparelhos-eletronicos/&quot; rel=&quot;nofollow&quot;&gt;http://style.greenvana.com/2012/plantas-podem-servir-como-acessorios-para-aparelhos-eletronicos/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;cierto, depois de fazer o circuito adaptamos o c&amp;oacute;digo para conversar com o processing e ativar os apelidos das plantas quando eram tocadas, pra isso &amp;eacute; preciso calibrar os valores de leitura no arduino para filtrar o ru&amp;iacute;do de aproxima&amp;ccedil;&amp;atilde;o das pessoas e do que realmente &amp;eacute; um toque na planta.&lt;/p&gt;
+&lt;p&gt;Claro que aproveitar a movimenta&amp;ccedil;&amp;atilde;o das pessoas pode ser uma outra experimenta&amp;ccedil;&amp;atilde;o, mas no dia queriamos apenas interfer&amp;ecirc;ncia ao toque.&lt;/p&gt;
+&lt;p&gt;fizemos um mashup de c&amp;oacute;digos e ficou assim:&lt;/p&gt;
+&lt;p&gt;//Arduino c&amp;oacute;digo capsense eletrorganicos&lt;/p&gt;
+&lt;p&gt;#include &amp;lt;CapSense.h&amp;gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;CapSense &amp;nbsp; cs_4_2 = CapSense(4,2); &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;
+&lt;div&gt;CapSense &amp;nbsp; cs_4_6 = CapSense(4,6); &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;
+&lt;div&gt;CapSense &amp;nbsp; cs_4_8 = CapSense(4,8); &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;void setup() &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;
+&lt;div&gt;{&lt;/div&gt;
+&lt;div&gt;&amp;nbsp; &amp;nbsp;cs_4_2.set_CS_AutocaL_Millis(0xFFFFFFFF);&lt;/div&gt;
+&lt;div&gt;&amp;nbsp; &amp;nbsp;Serial.begin(9600);&lt;/div&gt;
+&lt;div&gt;}&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;void loop() &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;
+&lt;div&gt;{&lt;/div&gt;
+&lt;div&gt;&amp;nbsp; &amp;nbsp; long start = millis();&lt;/div&gt;
+&lt;div&gt;&amp;nbsp; &amp;nbsp; long planta1 = &amp;nbsp;cs_4_2.capSense(30);&lt;/div&gt;
+&lt;div&gt;&amp;nbsp; &amp;nbsp; long planta2 = &amp;nbsp;cs_4_6.capSense(30);&lt;/div&gt;
+&lt;div&gt;&amp;nbsp; &amp;nbsp; long planta3 = &amp;nbsp;cs_4_8.capSense(30);&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp; &amp;nbsp; if (planta1 &amp;gt; 20000) Serial.print(&amp;quot;A&amp;quot;); &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp; &amp;nbsp; if (planta2 &amp;gt; 25000) Serial.print(&amp;quot;B&amp;quot;);&lt;/div&gt;
+&lt;div&gt;&amp;nbsp; &amp;nbsp; if (planta3 &amp;gt; 4000) Serial.print(&amp;quot;C&amp;quot;);&lt;/div&gt;
+&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;delay(10);&lt;/div&gt;
+&lt;div&gt;}&lt;/div&gt;
+&lt;p&gt;//Fim&lt;/p&gt;
+&lt;p&gt;Os valores que est&amp;atilde;o nas condi&amp;ccedil;&amp;otilde;es (if) devem ser ajustados na hora, depende do resistor que est&amp;aacute; usando, o tipo de planta, enfim, tem que ir testando e calibrando vendo o serial print.&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Proximo passo &amp;gt;&amp;gt; #noise&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/14-09-12/Sensor-capacitivo-Toque-nas-plantas#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/capsense">capsense</category>
+ <category domain="http://rede.metareciclagem.org/assunto/eletrorganicos">eletrorganicos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/hardware-livre-0">hardware livre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/lablivre">lablivre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/sesc-sorocaba">sesc sorocaba</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/LabLivre-EletrOrganicos" xmlns="http://drupal.org/project/og">LabLivre - EletrOrgânicos</group>
+ <pubDate>Fri, 14 Sep 2012 03:52:45 +0000</pubDate>
+ <dc:creator>guimasan</dc:creator>
+ <guid isPermaLink="false">2128 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>1ª Experimentação  - Giselda Cremilda e Angelica</title>
+ <link>http://rede.metareciclagem.org/blog/06-09-12/1%C2%AA-Experimentacao-Giselda-Cremilda-e-Angelica</link>
+ <description>&lt;p&gt;Primeira experimenta&amp;ccedil;&amp;atilde;o de visualiza&amp;ccedil;&amp;atilde;o de dados com algumas plantas do lab.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sensores de capacitancia&lt;/strong&gt; nos vasos, tranformaram folhagem e troncos em antenas sensiveis ao toque.&lt;/p&gt;
+&lt;p&gt;vide &amp;gt;&amp;nbsp;&lt;a href=&quot;http://arduino.cc/playground/Code/CapacitiveSensor?from=Main.CapSense&quot; rel=&quot;nofollow&quot;&gt;http://arduino.cc/playground/Code/CapacitiveSensor?from=Main.CapSense&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;As plantas foram apelidadas de Giselda, Cremilda e Angelica ... eh eu sei... a ideia &amp;eacute; essa mesma, conversem com @vjpixel o.O&lt;/p&gt;
+&lt;p&gt;Calibramos os valores pra emitir sinal ao &lt;a href=&quot;http://processing.org/&quot; rel=&quot;nofollow&quot;&gt;processing&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://arduino.cc/&quot; rel=&quot;nofollow&quot;&gt;Arduino&lt;/a&gt; + Processing&lt;/p&gt;
+&lt;p&gt;A comunica&amp;ccedil;&amp;atilde;o foi feita via arduino &amp;gt; serialport &amp;gt; processing&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;203&quot; src=&quot;http://www.youtube.com/embed/x7-_IWiQ6h8&quot; width=&quot;360&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/06-09-12/1%C2%AA-Experimentacao-Giselda-Cremilda-e-Angelica#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/arduino">arduino</category>
+ <category domain="http://rede.metareciclagem.org/assunto/eletrorganicos">eletrorganicos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/processing">processing</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/LabLivre-EletrOrganicos" xmlns="http://drupal.org/project/og">LabLivre - EletrOrgânicos</group>
+ <pubDate>Thu, 06 Sep 2012 05:43:06 +0000</pubDate>
+ <dc:creator>guimasan</dc:creator>
+ <guid isPermaLink="false">2124 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Inauguração</title>
+ <link>http://rede.metareciclagem.org/blog/06-09-12/Inauguracao</link>
+ <description>&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;div class=&quot;post-excerpt&quot;&gt;
+	&lt;p&gt;&lt;span&gt;Post de registro e documenta&amp;ccedil;&amp;atilde;o do processo permanente do Laborat&amp;oacute;rio desenvolvido no SESC Sorocaba -&amp;nbsp;&lt;/span&gt;&lt;span&gt;Por Programa Internet Livre -&amp;nbsp;&lt;/span&gt;&lt;a href=&quot;http://internetlivre.sescsp.org.br/cultura_digital/laboratorio-livre-experimentacoes-eletro-organicas-no-sesc-sorocaba/&quot; rel=&quot;nofollow&quot;&gt;http://internetlivre.sescsp.org.br/cultura_digital/laboratorio-livre-experimentacoes-eletro-organicas-no-sesc-sorocaba/&lt;/a&gt;&lt;/p&gt;
+	&lt;p&gt;&lt;a href=&quot;http://internetlivre.sescsp.org.br/wp-content/uploads/2012/09/eletrorg.jpg&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignleft  wp-image-1674&quot; height=&quot;397&quot; src=&quot;http://internetlivre.sescsp.org.br/wp-content/uploads/2012/09/eletrorg.jpg&quot; title=&quot;eletrorg&quot; width=&quot;530&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+	A ideia do projeto Experimenta&amp;ccedil;&amp;otilde;es Eletro-org&amp;acirc;nicas, a ser realizado no segundo semestre de 2012, &amp;eacute; explorar a cria&amp;ccedil;&amp;atilde;o de sistemas a partir das possibilidades de integra&amp;ccedil;&amp;atilde;o entre a vida das plantas, a eletr&amp;ocirc;nica criativa e a visualiza&amp;ccedil;&amp;atilde;o de dados enquanto gera&amp;ccedil;&amp;atilde;o de imagens em tempo real.&lt;/p&gt;
+&lt;p&gt;Os interessados podem chegar, perguntar, responder e participar. O laborat&amp;oacute;rio &amp;eacute; aberto e necessita agregar diversidade de conhecimento&amp;hellip;&lt;br /&gt;
+	Em setembro, estar&amp;atilde;o envolvidos&amp;nbsp; VJ Pixel e Ricardo Guimar&amp;atilde;es, o Guima-San.&lt;br /&gt;
+	A partir de 13/9.&lt;br /&gt;
+	Quintas e Sextas, das 14h30 &amp;agrave;s 18h30, s&amp;aacute;bados, das 11h&amp;nbsp; &amp;agrave;s 14h e das 15h &amp;agrave;s 18h.&amp;nbsp; Gr&amp;aacute;tis.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://internetlivre.sescsp.org.br/wp-content/uploads/2012/09/eletrorg3.jpg&quot; rel=&quot;nofollow&quot;&gt;&lt;img alt=&quot;&quot; class=&quot;alignleft  wp-image-1679&quot; height=&quot;401&quot; src=&quot;http://internetlivre.sescsp.org.br/wp-content/uploads/2012/09/eletrorg3.jpg&quot; title=&quot;eletrorg3&quot; width=&quot;530&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/06-09-12/Inauguracao#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/eletrorganicos">eletrorganicos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/sesc-sorocaba">sesc sorocaba</category>
+ <category domain="http://rede.metareciclagem.org/assunto/vamoqvamo">vamoqvamo</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/LabLivre-EletrOrganicos" xmlns="http://drupal.org/project/og">LabLivre - EletrOrgânicos</group>
+ <pubDate>Thu, 06 Sep 2012 04:17:42 +0000</pubDate>
+ <dc:creator>guimasan</dc:creator>
+ <guid isPermaLink="false">2123 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Kit Didático de Robótica-Livre</title>
+ <link>http://rede.metareciclagem.org/blog/25-09-09/Kit-Did%C3%A1tico-de-Rob%C3%B3tica-Livre</link>
+ <description>&lt;p&gt;Finalmente consegui retonar ao projeto de rob&amp;oacute;tica-livre no weblab-social (metaprojeto);&lt;/p&gt;
+&lt;p&gt;Nessa segunda vai come&amp;ccedil;ar a oficina das 14hs as 16hs, a ideia &amp;eacute; aproveitar a energia da para produzir um Kit&amp;nbsp; Did&amp;aacute;tico de Rob&amp;oacute;tica-Livre, escrevi mais a respeito na p&amp;aacute;gina da &lt;a href=&quot;http://rede.acessasp.sp.gov.br/&quot; rel=&quot;nofollow&quot;&gt;rede de projetos&lt;/a&gt; do &lt;a href=&quot;http://www.acessasp.sp.gov.br&quot; rel=&quot;nofollow&quot;&gt;acessasp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rede.acessasp.sp.gov.br/?q=node/185&quot; title=&quot;http://rede.acessasp.sp.gov.br/?q=node/185&quot; rel=&quot;nofollow&quot;&gt;http://rede.acessasp.sp.gov.br/?q=node/185&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;e replico o formato a seguir:&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/25-09-09/Kit-Did%C3%A1tico-de-Rob%C3%B3tica-Livre&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/25-09-09/Kit-Did%C3%A1tico-de-Rob%C3%B3tica-Livre#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/hardware-livre">hardware-livre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metareciclagem">metareciclagem</category>
+ <category domain="http://rede.metareciclagem.org/assunto/pesquisas">pesquisas</category>
+ <category domain="http://rede.metareciclagem.org/assunto/robotica-livre">robotica-livre</category>
+ <category domain="http://rede.metareciclagem.org/assunto/software-livre">software-livre</category>
+ <group domain="http://rede.metareciclagem.org/esporo/metaprojeto" xmlns="http://drupal.org/project/og">Metaprojeto</group>
+ <pubDate>Fri, 25 Sep 2009 02:36:59 +0000</pubDate>
+ <dc:creator>guimasan</dc:creator>
+ <guid isPermaLink="false">1771 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

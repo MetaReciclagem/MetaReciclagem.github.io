@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - metametarec</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/601/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>InfoMetarec</title>
+ <link>http://rede.metareciclagem.org/wiki/InfoMetarec</link>
+ <description>&lt;p&gt;metametarec&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+EM WIKI&lt;br /&gt;
+&lt;br /&gt;
+hist&amp;oacute;rico&lt;br /&gt;
+&lt;a href=&quot;http://rede.metareciclagem.org/freelinking/HistoricoMetaReciclagem&quot; title=&quot;http://rede.metareciclagem.org/freelinking/HistoricoMetaReciclagem&quot; rel=&quot;nofollow&quot;&gt;http://rede.metareciclagem.org/freelinking/HistoricoMetaReciclagem&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+metodologia&lt;br /&gt;
+&lt;a href=&quot;http://rede.metareciclagem.org/wiki/MetodologiaMetaReciclagem&quot; title=&quot;http://rede.metareciclagem.org/wiki/MetodologiaMetaReciclagem&quot; rel=&quot;nofollow&quot;&gt;http://rede.metareciclagem.org/wiki/MetodologiaMetaReciclagem&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&amp;nbsp;-- replica&amp;ccedil;&amp;atilde;o&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;http://rede.metareciclagem.org/wiki/Replicacao&quot; title=&quot;http://rede.metareciclagem.org/wiki/Replicacao&quot; rel=&quot;nofollow&quot;&gt;http://rede.metareciclagem.org/wiki/Replicacao&lt;/a&gt;&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp; -- processo replica&amp;ccedil;&amp;atilde;o&lt;br /&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;a href=&quot;http://rede.metareciclagem.org/freelinking/ProcessoReplicacao&quot; title=&quot;http://rede.metareciclagem.org/freelinking/ProcessoReplicacao&quot; rel=&quot;nofollow&quot;&gt;http://rede.metareciclagem.org/freelinking/ProcessoReplicacao&lt;/a&gt;&lt;br /&gt;
+&amp;nbsp;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/InfoMetarec&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/InfoMetarec#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/metametarec">metametarec</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Mon, 06 Apr 2009 22:35:08 +0000</pubDate>
+ <dc:creator>t</dc:creator>
+ <guid isPermaLink="false">1569 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - infralógica</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/234/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Infralógica - reunião </title>
+ <link>http://rede.metareciclagem.org/blog/11-08-13/Infralogica-reuniao</link>
+ <description>&lt;p&gt;Dando sequ&amp;ecirc;ncia &amp;agrave; conversa sobre a infraestrutura de comunica&amp;ccedil;&amp;atilde;o da rede MetaReciclagem, nos reunimos na noite de quarta-feira passada no canal IRC #metareciclagem do freenode.org. Estivemos presentes e conversando efeefe, iuriguilherme, B3ZN05, deniszubieta, josenetomg, simba_, elenaralelex e adr___, acompanhados ainda de alguns usu&amp;aacute;rios inativos e rob&amp;ocirc;s.&lt;/p&gt;
+&lt;p&gt;A reuni&amp;atilde;o serviu como um primeiro momento de contato e levantamento de caminhos para avan&amp;ccedil;ar. Falamos sobre o elgg/lorea, sobre a necessidade de desenvolver uma pol&amp;iacute;tica de governan&amp;ccedil;a e sustentabilidade para uma eventual nova infral&amp;oacute;gica. Pensamos em configurar um piloto de rede lorea para a metareciclagem para experi&amp;ecirc;ncias - contribuindo com o esfor&amp;ccedil;o de desenvolvimento da plataforma, mas tamb&amp;eacute;m adaptando-a para algumas de nossas particularidades. Sugeriu-se investigarmos a possibilidade de criar um metagrupo que se comunique atrav&amp;eacute;s dos outros, e falou-se sobre a necessidade de aten&amp;ccedil;&amp;atilde;o especial a arquitetura de informa&amp;ccedil;&amp;atilde;o e experi&amp;ecirc;ncia de uso, como fizemos com o site da metareciclagem em drupal (ver os anexos no fim da p&amp;aacute;gina &lt;a href=&quot;/wiki/AI-da-Homepage&quot; rel=&quot;nofollow&quot;&gt;aqui&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;At&amp;eacute; o momento, minha sugest&amp;atilde;o pessoal &amp;eacute; que criemos uma instala&amp;ccedil;&amp;atilde;o do lorea em algum subdom&amp;iacute;nio da metareciclagem.org, documentando extensivamente cada etapa do processo (documenta&amp;ccedil;&amp;atilde;o esta que ser&amp;aacute; disponibilizada publicamente) e passemos a fazer testes em cima dela. Mas antes de come&amp;ccedil;ar, quero conversar mais e entender se esse &amp;eacute; realmente o melhor caminho.&lt;/p&gt;
+&lt;p&gt;Log completo segue &lt;a href=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/2013-08-07.210459-0300BRT.txt&quot; rel=&quot;nofollow&quot;&gt;em anexo&lt;/a&gt;.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/11-08-13/Infralogica-reuniao#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/irc">irc</category>
+ <category domain="http://rede.metareciclagem.org/assunto/lorea">lorea</category>
+ <category domain="http://rede.metareciclagem.org/assunto/projetos">projetos</category>
+ <category domain="http://rede.metareciclagem.org/assunto/reuni%C3%A3o">reunião</category>
+ <enclosure url="http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/2013-08-07.210459-0300BRT.txt" length="50798" type="text/plain" />
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Sun, 11 Aug 2013 22:20:41 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2256 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Limpando as teias</title>
+ <link>http://rede.metareciclagem.org/blog/31-07-13/Limpando-as-teias</link>
+ <description>&lt;p&gt;O site da MetaReciclagem tem uma hist&amp;oacute;ria. Seu formato atual &amp;eacute; fruto de uma s&amp;eacute;rie de discuss&amp;otilde;es que marcaram um epis&amp;oacute;dio importante da vida da rede. Mas hoje ele parece um pr&amp;eacute;dio abandonado: mostra aqui e ali tra&amp;ccedil;os de tempos passados. Existe ainda um ou outro habitante eventual. Mas est&amp;aacute; longe de cumprir a ambi&amp;ccedil;&amp;atilde;o que j&amp;aacute; teve, de refletir um pouco das din&amp;acirc;micas da rede, atrair a documenta&amp;ccedil;&amp;atilde;o de a&amp;ccedil;&amp;otilde;es e proporcionar a articula&amp;ccedil;&amp;atilde;o de projetos.&lt;/p&gt;
+&lt;p&gt;A pr&amp;oacute;pria MetaReciclagem tamb&amp;eacute;m mudou bastante nos &amp;uacute;ltimos anos. O processo do &lt;a href=&quot;http://fimdomundo.hotglue.me/&quot; rel=&quot;nofollow&quot;&gt;fim do mundo &lt;/a&gt;foi bastante significativo. Na minha leitura, ele denotou o esgotamento da tentativa de criar uma s&amp;oacute; voz para a rede, de tentar encontrar uma coer&amp;ecirc;ncia n&amp;atilde;o s&amp;oacute; para as opini&amp;otilde;es mas para o pr&amp;oacute;prio sentimento de pertencimento, para as multiplicidades e as constantes mudan&amp;ccedil;as desse boteco feito de vapor. &lt;strike&gt;Me parece significativo tamb&amp;eacute;m que eu escreva este post no blog do mutgamb, e n&amp;atilde;o na conectaz da infral&amp;oacute;gica. Sinto at&amp;eacute; alguma culpa, como se estivesse desistindo de algo. Mas sei que n&amp;atilde;o estou sozinho (na verdade, estaria sozinho se insistisse no contr&amp;aacute;rio).&lt;/strike&gt; T&amp;atilde;o culpado me senti, que mudei de ideia e resolvi publicar no site atual da rede mesmo.&lt;/p&gt;
+&lt;p&gt;Ainda assim, n&amp;atilde;o acho que a MetaReciclagem tenha desaparecido. Eu continuo chamando muito do que fa&amp;ccedil;o de MetaReciclagem, e trocando com outras pessoas - e para mim isso j&amp;aacute; &amp;eacute; sinal de exist&amp;ecirc;ncia da rede, ainda que bem menos estruturada do que j&amp;aacute; imaginei. As conversas, tenho certeza, continuam acontecendo. S&amp;oacute; que est&amp;atilde;o espalhadas e fragmentadas. Na melhor das hip&amp;oacute;teses, as pessoas est&amp;atilde;o documentando as a&amp;ccedil;&amp;otilde;es em seus pr&amp;oacute;prios blogs e wikis. Na pior, como todxs sabemos, est&amp;atilde;o usando as grandes redes sociais corporativas - onde n&amp;atilde;o podem ter nenhuma certeza de que suas informa&amp;ccedil;&amp;otilde;es v&amp;atilde;o continuar dispon&amp;iacute;veis amanh&amp;atilde;.&lt;/p&gt;
+&lt;p&gt;&amp;Eacute; por essas e outras que eu e Adriano Belis&amp;aacute;rio estamos propondo, atrav&amp;eacute;s do &lt;a href=&quot;http://mutgamb.org&quot; rel=&quot;nofollow&quot;&gt;MutGamb&lt;/a&gt;, debater e &lt;a href=&quot;http://rede.metareciclagem.org/wiki/Infralogica-de-novo&quot; rel=&quot;nofollow&quot;&gt;planejar os caminhos futuros para uma infral&amp;oacute;gica da MetaReciclagem&lt;/a&gt;. Queremos descobrir se &amp;eacute; vi&amp;aacute;vel reinserir a MetaReciclagem na busca de solu&amp;ccedil;&amp;otilde;es aut&amp;ocirc;nomas e seguras para a comunica&amp;ccedil;&amp;atilde;o entre grupos, para a documenta&amp;ccedil;&amp;atilde;o de a&amp;ccedil;&amp;otilde;es e para a articula&amp;ccedil;&amp;atilde;o de atividades colaborativas.&lt;/p&gt;
+&lt;p&gt;Colo abaixo um pequeno texto que rabisquei pensando nessas quest&amp;otilde;es.&lt;/p&gt;
+&lt;blockquote&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;A ideia de uma infraestrutura aut&amp;ocirc;noma que funcionaria como espa&amp;ccedil;o de identidade e documenta&amp;ccedil;&amp;atilde;o para a&amp;ccedil;&amp;otilde;es e projetos, al&amp;eacute;m de promover o interc&amp;acirc;mbio entre as diferentes iniciativas, sempre habitou o imagin&amp;aacute;rio da rede MetaReciclagem. Ao longo da &amp;uacute;ltima d&amp;eacute;cada, fizemos um s&amp;eacute;rie de experi&amp;ecirc;ncias nesse sentido. Foram pelo menos quatro gera&amp;ccedil;&amp;otilde;es de servidores, e talvez uma dezena de combina&amp;ccedil;&amp;otilde;es de servi&amp;ccedil;os de rede, CMSs e websites. Esses servi&amp;ccedil;os sempre funcionaram como espa&amp;ccedil;os de mem&amp;oacute;ria e articula&amp;ccedil;&amp;atilde;o, mas em todas suas encarna&amp;ccedil;&amp;otilde;es faltavam muitas coisas.&lt;/p&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;Por volta de 2009, quando ganhamos o Pr&amp;ecirc;mio de M&amp;iacute;dia Livre, decidiu-se dividir a aplica&amp;ccedil;&amp;atilde;o dos recursos em algumas &amp;aacute;reas: o que veio a se tornar MutGamb como esfor&amp;ccedil;o de documenta&amp;ccedil;&amp;atilde;o no sentido de oferecer uma alternativa narrativa para a demanda de explicita&amp;ccedil;&amp;atilde;o de algum tipo de limite (ainda que fluido) para a MetaReciclagem; o eixo MetaRecursos / MicroReciclagem que pretendia oferecer orienta&amp;ccedil;&amp;atilde;o para projetos em busca de recursos, al&amp;eacute;m de promover um programa de microfinanciamento de a&amp;ccedil;&amp;otilde;es de MetaReciclagem; e por fim a Infral&amp;oacute;gica, que configuraria uma s&amp;eacute;rie de a&amp;ccedil;&amp;otilde;es para melhorar as ferramentas de comunica&amp;ccedil;&amp;atilde;o da rede.&lt;/p&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;Desde meados de 2007, j&amp;aacute; hav&amp;iacute;amos trocado praticamente todos os sites que t&amp;iacute;nhamos simultaneamente antes (um site est&amp;aacute;tico em HTML, um planet, uma instala&amp;ccedil;&amp;atilde;o coletiva de wordpress-mu, um moodle, um scuttle, talvez outros) por um site em drupal (s&amp;oacute; mantivemos o &lt;a href=&quot;http://links.metareciclagem.org&quot; rel=&quot;nofollow&quot;&gt;scuttle&lt;/a&gt;, administrado at&amp;eacute; hoje pelo wille em um servidor separado). &amp;Agrave; &amp;eacute;poca, muitas iniciativas de MetaReciclagem haviam se atomizado - criavam seus pr&amp;oacute;prios blogs, mas n&amp;atilde;o dialogavam entre si nem pela lista nem por outras ferramentas. A aposta no &lt;a href=&quot;http://drupal.org&quot; rel=&quot;nofollow&quot;&gt;drupal&lt;/a&gt; estava naturalmente relacionada &amp;agrave; familiaridade com o sistema que alguns de n&amp;oacute;s t&amp;iacute;nhamos. Mas era tamb&amp;eacute;m uma tentativa de integrar grande parte das necessidades da rede em um sistema integrado e abrangente. &amp;Eacute; poss&amp;iacute;vel que tenha sido nessa &amp;eacute;poca que tentamos criar um vocabul&amp;aacute;rio comum (esporos, conectazes, infral&amp;oacute;gica, etc.). De certa forma, me parece que tudo isso foi uma busca por integra&amp;ccedil;&amp;atilde;o de a&amp;ccedil;&amp;otilde;es que se denominavam MetaReciclagem, na sequ&amp;ecirc;ncia de uma perda de identidade depois que muitxs de n&amp;oacute;s hav&amp;iacute;amos trabalhado em grandes projetos de governo, oferecido oficinas, feito experi&amp;ecirc;ncias diversas. Existia ali uma posi&amp;ccedil;&amp;atilde;o algo paradoxal: para refor&amp;ccedil;ar a import&amp;acirc;ncia das a&amp;ccedil;&amp;otilde;es espalhadas pelo Brasil, o site assumia uma grande centraliza&amp;ccedil;&amp;atilde;o: o wiki foi jardinado (at&amp;eacute; certo ponto), as ferramentas todas tinham uma interface comum, a administra&amp;ccedil;&amp;atilde;o e manuten&amp;ccedil;&amp;atilde;o do site ficaram na minha m&amp;atilde;o. Centraliza&amp;ccedil;&amp;atilde;o para criar espa&amp;ccedil;o comum, e possibilitar que as pontas se apropriassem dele. Foi uma aposta, que n&amp;atilde;o sei dizer se estava certa.&lt;/p&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;Esse impulso inicial em busca de articula&amp;ccedil;&amp;atilde;o e cria&amp;ccedil;&amp;atilde;o de base comum influenciaria grande parte do que tentar&amp;iacute;amos fazer depois de receber o pr&amp;ecirc;mio M&amp;iacute;dia Livre. A partir de 2009, ent&amp;atilde;o, organizamos um grupo de trabalho que alcan&amp;ccedil;ou algumas coisas: saiu da aletta (servidor mantido pelo descentro) que ent&amp;atilde;o j&amp;aacute; mostrava sinais de exaust&amp;atilde;o, padronizou a instala&amp;ccedil;&amp;atilde;o e atualizou a vers&amp;atilde;o do drupal para uma mais recente; fez um estudo de recursos do site, interface e usos; otimizou uma s&amp;eacute;rie de detalhes; desenvolveu um frontend e telas; montou um theme do drupal. Havia um questionamento sobre a pertin&amp;ecirc;ncia de continuarmos imaginando a lista como espa&amp;ccedil;o privilegiado de intera&amp;ccedil;&amp;atilde;o, quando sab&amp;iacute;amos que os emails condicionam as conversas a um determinado tipo de ret&amp;oacute;rica e imposta&amp;ccedil;&amp;atilde;o que j&amp;aacute; ficavam ultrapassadas para a molecada que chega hoje na rede. Ficava claro tamb&amp;eacute;m que a lista era tamb&amp;eacute;m um espa&amp;ccedil;o complicado para se pensar em arquivo, mem&amp;oacute;ria e busca. Fizemos um monte de reuni&amp;otilde;es via IRC, alguns encontros presenciais de trabalho, uma reuni&amp;atilde;o no Bailux durante o Encontr&amp;atilde;o Transdimensional. Algumas pessoas trabalharam para implementar aquelas mudan&amp;ccedil;as iniciais, e elas deram uma nova cara para o site.&lt;/p&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;Havia muitos outros planos, mas fomos atropelados por uma s&amp;eacute;rie de coisas. As duas mais dif&amp;iacute;ceis foram o falecimento de dpadua no fim de 2009, e o desaparecimento de mais de um ter&amp;ccedil;o dos recursos do pr&amp;ecirc;mio por dificuldades com a associa&amp;ccedil;&amp;atilde;o proponente. Essas duas situa&amp;ccedil;&amp;otilde;es imobilizaram tanto o eixo Infral&amp;oacute;gica quanto o MicroReciclagem. &lt;a href=&quot;http://mutgamb.org&quot; rel=&quot;nofollow&quot;&gt;MutGamb&lt;/a&gt; encontrou caminhos, no ano seguinte ganhou a segunda edi&amp;ccedil;&amp;atilde;o do Pr&amp;ecirc;mio e o resto todxs que leem isso j&amp;aacute; conhecem. J&amp;aacute; a Infral&amp;oacute;gica perdeu aquele &amp;iacute;mpeto inicial, e hoje nem seria adequado tentar retomar do ponto onde paramos. Al&amp;eacute;m de toda a transforma&amp;ccedil;&amp;atilde;o no cen&amp;aacute;rio, no papel das ferramentas colaborativas e nos recursos t&amp;eacute;cnicos dispon&amp;iacute;veis, a pr&amp;oacute;pria MetaReciclagem passou por uma profunda virada do avesso, com todo o processo do MutGamb Fim do Mundo.&lt;/p&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;Me parece que hoje em dia n&amp;atilde;o faz mais sentido almejar um vocabul&amp;aacute;rio e uma infraestrutura focados na integra&amp;ccedil;&amp;atilde;o ou no refor&amp;ccedil;o do comum. A MetaReciclagem ganhou tra&amp;ccedil;&amp;atilde;o como uma esp&amp;eacute;cie de for&amp;ccedil;a pendular - as pessoas por vezes se aproximam, se identificam, organizam encontros e usam esse nome; e outras vezes se afastam, fragmentam - e isso &amp;eacute; adequado &amp;agrave;s condi&amp;ccedil;&amp;otilde;es de hoje. Mas o site atual n&amp;atilde;o reflete isso. A inten&amp;ccedil;&amp;atilde;o deste &lt;a href=&quot;http://rede.metareciclagem.org/wiki/Infralogica-de-novo&quot; rel=&quot;nofollow&quot;&gt;projeto&lt;/a&gt; &amp;eacute; propor e buscar caminhos mais apropriados (pessoas, recursos, tecnologia) para implement&amp;aacute;-los.&lt;/p&gt;
+	&lt;p dir=&quot;ltr&quot;&gt;Hoje, mais do que nunca (e ainda mais refor&amp;ccedil;ado pela paranoia p&amp;oacute;s-Snowden), parece ser a hora de retomar a import&amp;acirc;ncia de ter uma infraestrutura aut&amp;ocirc;noma, gerenciada coletivamente, que possibilite a diversidade e ofere&amp;ccedil;a seguran&amp;ccedil;a e estabilidade para as pessoas e grupos fazerem suas pr&amp;oacute;prias articula&amp;ccedil;&amp;otilde;es e documenta&amp;ccedil;&amp;atilde;o. &amp;Eacute; importante buscar a possibilidade de hospedar o sistema em algum servidor (ou mais de um) no Brasil. &amp;Eacute; importante documentar as solu&amp;ccedil;&amp;otilde;es t&amp;eacute;cnicas, compartilhar o c&amp;oacute;digo, explicar as decis&amp;otilde;es conceituais, garantir a governan&amp;ccedil;a do sistema.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p dir=&quot;ltr&quot;&gt;No caminho vamos descobrir se essa conversa toda &amp;eacute; relevante para mais algu&amp;eacute;m. Se for, &amp;oacute;timo: vamos precisar de ajuda de todas as pessoas que tenham algo a contribuir. Sen&amp;atilde;o, pelo contr&amp;aacute;rio, tamb&amp;eacute;m &amp;eacute; bom saber: largamos a nau ao vento e seja o que o futuro quiser.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/31-07-13/Limpando-as-teias#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Thu, 01 Aug 2013 02:55:43 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2249 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Infralógica de novo</title>
+ <link>http://rede.metareciclagem.org/wiki/Infralogica-de-novo</link>
+ <description>&lt;p dir=&quot;ltr&quot;&gt;A partir do ac&amp;uacute;mulo de reflex&amp;otilde;es sobre as interfaces e o desenvolvimento de Infral&amp;oacute;gica, e de uma leitura do contexto atual de comunica&amp;ccedil;&amp;atilde;o em rede na busca de autonomia, esta a&amp;ccedil;&amp;atilde;o consiste em desenvolver colaborativamente outras possibilidades de comunica&amp;ccedil;&amp;atilde;o na web para os diversos grupos e projetos que se relacionam atrav&amp;eacute;s da rede Metareciclagem.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Quais s&amp;atilde;o os limites do que temos de comunica&amp;ccedil;&amp;atilde;o hoje - atrav&amp;eacute;s de uma lista de emails, um site semiabandonado, o uso inocente de redes sociais corporativas ou o uso fragmentado de diversas plataformas? Como desenvolver uma infraestrutura de comunica&amp;ccedil;&amp;atilde;o via internet que reconhe&amp;ccedil;a e estimule as caracter&amp;iacute;sticas particulares da rede MetaReciclagem - busca de linguagens comuns na diversidade, liberdade para tomada de decis&amp;otilde;es, e facilita&amp;ccedil;&amp;atilde;o de encontros potentes e alegres?&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Como a plataforma na web da MetaReciclagem pode se constituir n&amp;atilde;o apenas como ferramenta, mas como continuum de ecossistemas de colabora&amp;ccedil;&amp;atilde;o envolvendo o desenvolvimento de redes sociais federadas, garantindo tanto a interoperabilidade da informa&amp;ccedil;&amp;atilde;o - utilizando padr&amp;otilde;es abertos nos armazenamento dos dados - como o respeito &amp;agrave; privacidade?&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;A partir destas quest&amp;otilde;es, este projeto pretende avaliar e, se for o caso, elaborar um plano de migra&amp;ccedil;&amp;atilde;o do site atual para um novo sistema, que integre e ofere&amp;ccedil;a recursos de comunica&amp;ccedil;&amp;atilde;o para grupos, como listas de email, wikis e afins, e uma nova arquitetura de informa&amp;ccedil;&amp;otilde;es, buscando facilitar a colabora&amp;ccedil;&amp;atilde;o/comunica&amp;ccedil;&amp;atilde;o com o visitante que n&amp;atilde;o conhece a Rede e oferecer ferramentas &amp;uacute;teis para os diversos projetos e a&amp;ccedil;&amp;otilde;es de MetaReciclagem.&lt;/p&gt;
+&lt;h2 dir=&quot;ltr&quot;&gt;
+	Como&lt;/h2&gt;
+&lt;p dir=&quot;ltr&quot;&gt;A proposta &amp;eacute; iniciar um processo de pesquisa, articula&amp;ccedil;&amp;atilde;o e documenta&amp;ccedil;&amp;atilde;o, com dura&amp;ccedil;&amp;atilde;o estimada de tr&amp;ecirc;s meses. Durante esse per&amp;iacute;odo ser&amp;atilde;o aprofundadas quest&amp;otilde;es conceituais, t&amp;eacute;cnicas e de sustentabilidade para um ecossistema de servi&amp;ccedil;os de rede para a MetaReciclagem. Retomaremos discuss&amp;otilde;es que se iniciaram na &lt;a href=&quot;http://rede.metareciclagem.org/conectaz/Infra-Logica&quot; rel=&quot;nofollow&quot;&gt;ConecTAZ infral&amp;oacute;gica&lt;/a&gt; e acabaram abandonadas.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;Ser&amp;atilde;o realizadas reuni&amp;otilde;es peri&amp;oacute;dicas via IRC, com chamadas pela lista de discuss&amp;atilde;o e documenta&amp;ccedil;&amp;atilde;o publicada no site atual (e depois replicada no novo site). A pesquisa indicar&amp;aacute; os conhecimentos, recursos e parcerias necess&amp;aacute;rios para o desenvolvimento e manuten&amp;ccedil;&amp;atilde;o de sistemas alternativos. Estabelecer&amp;aacute; crit&amp;eacute;rios e fundamentos de implementa&amp;ccedil;&amp;atilde;o, documenta&amp;ccedil;&amp;atilde;o t&amp;eacute;cnica, gest&amp;atilde;o compartilhada, capta&amp;ccedil;&amp;atilde;o de recursos e tomada de decis&amp;atilde;o. Definir&amp;aacute; metodologias de planejamento e desenvolvimento para o sistema.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;A inten&amp;ccedil;&amp;atilde;o &amp;eacute; chegar ao fim desse per&amp;iacute;odo com uma solu&amp;ccedil;&amp;atilde;o concreta: a reformula&amp;ccedil;&amp;atilde;o do sistema atual ou mesmo um site novo funcionando em car&amp;aacute;ter experimental para valida&amp;ccedil;&amp;atilde;o pela rede. Pretende-se tamb&amp;eacute;m apontar respons&amp;aacute;veis pelas diferentes &amp;aacute;reas, elaborar um plano de manuten&amp;ccedil;&amp;atilde;o e p&amp;ocirc;r em andamento uma estrat&amp;eacute;gia de capta&amp;ccedil;&amp;atilde;o de recursos. Tamb&amp;eacute;m deixaremos o dom&amp;iacute;nio metareciclagem.org registrado por cinco anos, e aventamos a possibilidade (a ser debatida com a rede) de registrar tamb&amp;eacute;m um dom&amp;iacute;nio mais curto - a definir- para facilitar o acesso ao novo sistema.&lt;/p&gt;
+&lt;p dir=&quot;ltr&quot;&gt;* Proposta desenvolvida por Felipe Fonseca e Adriano Belis&amp;aacute;rio.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/Infralogica-de-novo#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Thu, 01 Aug 2013 02:48:05 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2248 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Outros 500</title>
+ <link>http://rede.metareciclagem.org/blog/31-07-11/Outros-500</link>
+ <description>&lt;p&gt;O site da MetaReciclagem passou o domingo fora do ar. Acusava &amp;quot;erro 500 - erro interno do servidor&amp;quot;.&amp;nbsp;Entrei no servidor e constatei que n&amp;atilde;o tinha mais espa&amp;ccedil;o em disco. Fui direto no diret&amp;oacute;rio /var/log, que estava com mais de 3Gb. O maior culpado era o log de acesso do lighttpd: tinha dois arquivos com mais de 1Gb cada. Fiz uma limpa no servidor, tirei algumas coisas antigas e os arquivos de log arquivados (sim, o logrotate est&amp;aacute; funcionando, mas com arquivos mais de 1Gb n&amp;atilde;o tem muito que se possa fazer, tem?).&lt;/p&gt;
+&lt;p&gt;Aproveitei que estava logado por l&amp;aacute; e atualizei a vers&amp;atilde;o do &lt;a href=&quot;http://drupal.org&quot; rel=&quot;nofollow&quot;&gt;drupal 6&lt;/a&gt; para a mais recente - 6.22.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/31-07-11/Outros-500#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/rede">rede</category>
+ <category domain="http://rede.metareciclagem.org/tags/site">site</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Sun, 31 Jul 2011 23:58:08 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2059 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>UID</title>
+ <link>http://rede.metareciclagem.org/blog/17-03-11/UID</link>
+ <description>&lt;p&gt;H&amp;aacute; alguns meses j&amp;aacute; est&amp;aacute;vamos com problemas em alguns posts do &lt;a href=&quot;http://rede.metareciclagem.org&quot; rel=&quot;nofollow&quot;&gt;site da MetaReciclagem&lt;/a&gt;: apareciam de repente sem estar associados a nenhumx autorx, e isso atrapalhava o acesso e a edi&amp;ccedil;&amp;atilde;o do conte&amp;uacute;do. N&amp;atilde;o consegui descobrir a causa do problema (que afeta, em verdade, uma propor&amp;ccedil;&amp;atilde;o &amp;iacute;nfima do site - duas p&amp;aacute;ginas em um universo de mais de 2000), mas hoje aprendi a consertar, com ajuda do &lt;a href=&quot;/pessoa/wundo&quot; rel=&quot;nofollow&quot;&gt;Wundo&lt;/a&gt;. L&amp;aacute; vai:&lt;/p&gt;
+&lt;p&gt;Entrar no mysql&lt;/p&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;#mysql -u usuario -p&lt;/p&gt;
+&lt;p&gt;Selecionar o banco de dados&lt;/p&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;mysql&amp;gt; use bancodedados;&lt;/p&gt;
+&lt;p&gt;Verificar se o problema &amp;eacute; mesmo o id de usu&amp;aacute;rix&lt;/p&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;mysql&amp;gt;&amp;nbsp;SELECT uid from node where nid=XXX;&lt;/p&gt;
+&lt;p&gt;(onde XXX deve ser substitu&amp;iacute;do pelo ID do node em quest&amp;atilde;o)&lt;/p&gt;
+&lt;p&gt;O resultado aqui foi:&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;+-----+&lt;/p&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;| uid |&lt;/p&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;+-----+&lt;/p&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;| &amp;nbsp; 0 |&amp;nbsp;&lt;/p&gt;
+&lt;p class=&quot;rteindent1&quot;&gt;+-----+&lt;/p&gt;
+&lt;div&gt;Ou seja, o node est&amp;aacute; associado ao usu&amp;aacute;rio 0, que n&amp;atilde;o existe. Ent&amp;atilde;o vou associ&amp;aacute;-lo ao usu&amp;aacute;rio 1 (que &amp;eacute; o superusu&amp;aacute;rio do drupal) e posteriormente posso atribuir a quem eu quiser atrav&amp;eacute;s da interface web:&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div class=&quot;rteindent1&quot;&gt;mysql&amp;gt;&amp;nbsp;UPDATE node SET uid = 1 WHERE nid = XXX;&lt;/div&gt;
+&lt;div&gt;&amp;nbsp;&lt;/div&gt;
+&lt;div&gt;E pronto, os nodes voltaram a ser associados a usu&amp;aacute;rios do site: EventosEtc e &lt;a href=&quot;/wiki/APH-no-Recife&quot; rel=&quot;nofollow&quot;&gt;APH-no-Recife&lt;/a&gt;.&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Atualizando:&lt;/strong&gt; apesar de ter resolvido por aqui, o problema continuou em uma p&amp;aacute;gina do site do MutGamb. &lt;a href=&quot;http://drupal.org/node/533720&quot; rel=&quot;nofollow&quot;&gt;Essa discuss&amp;atilde;o&lt;/a&gt; me leva a crer que o m&amp;oacute;dulo vertical tabs pode ser o culpado, ent&amp;atilde;o vou temporariamente desativ&amp;aacute;-lo.&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Atualizando outra vez:&lt;/strong&gt; desativei o vertical tabs no mutgamb. O erro continua ocorrendo...&lt;/div&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/17-03-11/UID#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/cli">cli</category>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/linha-de-comando">linha de comando</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mysql">mysql</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Thu, 17 Mar 2011 20:49:12 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">2028 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Módulos, módulos...</title>
+ <link>http://rede.metareciclagem.org/blog/27-01-11/Modulos-modulos</link>
+ <description>&lt;p&gt;Atulizei h&amp;aacute; pouco os m&amp;oacute;dulos gmaps_addon, google_analytics e panels do &lt;a href=&quot;http://rede.metareciclagem.org&quot; rel=&quot;nofollow&quot;&gt;site da MetaReciclagem&lt;/a&gt;. O panels est&amp;aacute; com uma vers&amp;atilde;o nova dispon&amp;iacute;vel. Nos pr&amp;oacute;ximos dias vou ver se vale a pena atualizar.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/27-01-11/Modulos-modulos#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Thu, 27 Jan 2011 02:49:35 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1998 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Atualizando, tentando resolver bugs</title>
+ <link>http://rede.metareciclagem.org/blog/04-01-11/Atualizando-tentando-resolver-bugs</link>
+ <description>&lt;p&gt;Cobrindo algumas brechas do site da MetaReciclagem para come&amp;ccedil;ar a resolver alguns problemas que t&amp;ecirc;m rolado. Atualizei o core do drupal para a vers&amp;atilde;o 6.20 e instalei as vers&amp;otilde;es mais recentes de alguns m&amp;oacute;dulos, entre eles o views que pedia um update de seguran&amp;ccedil;a.&lt;/p&gt;
+&lt;p&gt;Testando o upload de imagens, que S&amp;iacute;lia e Orlando n&amp;atilde;o conseguiram. Consegui subir o arquivo, agora vou tentar inserir aqui embaixo.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&quot;Banner Verao&quot; src=&quot;http://rede.metareciclagem.org/sites/rede.metareciclagem.org/midia/bannerverao__0.jpg &quot; /&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/04-01-11/Atualizando-tentando-resolver-bugs&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/04-01-11/Atualizando-tentando-resolver-bugs#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Wed, 05 Jan 2011 01:50:39 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1987 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Atualizando módulos</title>
+ <link>http://rede.metareciclagem.org/blog/28-11-10/Atualizando-modulos</link>
+ <description>&lt;p&gt;&lt;a href=&quot;/pessoa/dasilvaorg&quot; rel=&quot;nofollow&quot;&gt;Orlando&lt;/a&gt; &lt;a href=&quot;https://github.com/chuva-inc/Metareciclagem/issues&quot; rel=&quot;nofollow&quot;&gt;reportou no github&lt;/a&gt; alguns bugs do site da MetaReciclagem. Fui dar uma olhada e tinha v&amp;aacute;rios m&amp;oacute;dulos pedindo atualiza&amp;ccedil;&amp;atilde;o. No meio da semana eu fiz o update do mollom, que podia ser a causa de um problema (captcha n&amp;atilde;o funcionando). N&amp;atilde;o resolveu. Antes de tentar qualquer outra coisa, decidi atualizar tamb&amp;eacute;m os outros m&amp;oacute;dulos.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/28-11-10/Atualizando-modulos&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/28-11-10/Atualizando-modulos#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Mon, 29 Nov 2010 00:24:47 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1972 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>MetaLicença</title>
+ <link>http://rede.metareciclagem.org/wiki/MetaLicenca</link>
+ <description>&lt;blockquote&gt;
+&lt;p&gt;Princ&amp;iacute;pios que regem o uso do nome MetaReciclagem.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;MetaReciclagem &amp;eacute; um termo que tem m&amp;uacute;ltiplos significados: uma rede com integrantes em todo o Brasil, uma metodologia de reuso de tecnologias, um horizonte de apropria&amp;ccedil;&amp;atilde;o cr&amp;iacute;tica e transforma&amp;ccedil;&amp;atilde;o social. O objetivo deste texto &amp;eacute; definir coletivamente alguns princ&amp;iacute;pios b&amp;aacute;sicos para o uso do nome MetaReciclagem.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/wiki/MetaLicenca&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/wiki/MetaLicenca#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <category domain="http://rede.metareciclagem.org/assunto/metareciclagem">metareciclagem</category>
+ <category domain="http://rede.metareciclagem.org/assunto/usos-e-atribuicoes">usos e atribuições</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Thu, 14 Oct 2010 20:15:11 +0000</pubDate>
+ <dc:creator>mairabegalli</dc:creator>
+ <guid isPermaLink="false">1963 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Rascunhos!</title>
+ <link>http://rede.metareciclagem.org/blog/15-09-10/Rascunhos</link>
+ <description>&lt;p&gt;Esse post vai principalmente pro &lt;a href=&quot;/pessoa/dasilvaorg&quot; rel=&quot;nofollow&quot;&gt;Orlando&lt;/a&gt;: todo mundo que tem permiss&amp;otilde;es de editorxs no site da &lt;a href=&quot;http://rede.metareciclagem.org&quot; rel=&quot;nofollow&quot;&gt;MetaReciclagem&lt;/a&gt; pode agora usar o recurso de salvar posts como rascunhos. Depois &amp;eacute; s&amp;oacute; visualizar a lista de drafts em:&lt;/p&gt;
+&lt;p&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://rede.metareciclagem.org/draft/list&quot; rel=&quot;nofollow&quot;&gt;http://rede.metareciclagem.org/draft/list&lt;/a&gt;&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/15-09-10/Rascunhos&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/15-09-10/Rascunhos#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/drupal">drupal</category>
+ <category domain="http://rede.metareciclagem.org/assunto/infral%C3%B3gica">infralógica</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica" xmlns="http://drupal.org/project/og">Infra Lógica</group>
+ <pubDate>Wed, 15 Sep 2010 23:47:42 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1955 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>

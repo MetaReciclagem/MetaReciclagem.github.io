@@ -1,0 +1,128 @@
+/* $Id: style.css,v 1.3 2006/07/14 16:37:26 rkerr Exp $ */
+
+/* main fonts and colors for the entire page */
+body { color: #000000; background: #ffffff; font-family: Arial, Helvetica, sans-serif; margin: 10px; font-size: 13px; }
+
+a:link { color: #3366ff; }
+a:visited { color: #6633cc; }
+a:active { color: #ff0000; }
+a:hover { }
+
+h1, h2, h3, h4, h5, h6 { margin-top: 10px; margin-bottom: 10px; font-size: 100%; }
+p, ul, ol { margin-top: 0px; margin-bottom: 20px; font-size: 100%; }
+li { margin: 0px; padding: 0px; }
+table { border-collapse: collapse; border-spacing: 0px; font-size: inherit; }
+caption { text-align: left; }
+th { border-bottom-width: 1px; font-weight: bold; padding-bottom: 2px; text-align: left; }
+td { font-size: 100%; }
+form { margin: 0px; padding: 0px; }
+fieldset { border: 1px solid #e0e0e0; padding: 5px; }
+b, strong { font-weight: bold; }
+i, em, u { font-style: italic; }
+u { text-decoration: none; }
+a img { border: 0px; }
+
+/* onde a fernanda meteu a mao*/
+
+h1{line-height: 1.4em; font-size: 1.2em;}
+
+p{line-height: 1.6em;}
+.main-text-colored-bg {background-color: #EFFFCD; padding:8px; margin-bottom:20px;}
+.text-distinction {color:#3366ff; font-size: 1.2em;}
+
+/* main page element styles */
+.header { margin-bottom: 10px; text-align: center; background-color: #ffffff; padding-bottom: 10px; }
+.header h1 { margin-bottom: 10px; }
+.header img.logo { vertical-align: middle; }
+.header .site-name { }
+.header .site-slogan { }
+.header .navigation { }
+.header .navigation .navigation-primary { }
+.header .navigation .navigation-secondary { }
+.header form.search { margin-top: 10px; }
+
+.container { clear: both; }
+
+.sidebar { }
+.sidebar-left { float: left; width: 20%; }
+.sidebar-right { float: left; width: 20%; }
+
+.page { float: left; overflow: hidden; background-color: #ffffff; min-height: 500px; }
+
+.footer { clear: both; padding-top: 20px; text-align: center; }
+
+/* common page items */
+.page h2.title { }
+.page .mission { padding: 20px; font-size: 144%; }
+.page .tabs { }
+.page .help { }
+.page .messages { color: #333333; background-color: #f0f0f0; border: 1px solid #c0c0c0; margin-bottom: 10px; }
+.page .error { border-color: #ff0000; }
+
+.breadcrumb { }
+
+/* blocks */
+.block { padding-left: 5px; padding-right: 5px; }
+.block .title { font-weight: bold; }
+.block .content { padding-bottom: 10px; }
+.user-login-block { text-align: left; }
+
+/* nodes */
+.node { margin-bottom: 10px; }
+.node h3.title { }
+.node .content { }
+.node .picture { float: left; padding: 4px; margin-right: 4px; background-color: #f0f0f0; }
+.node .date { }
+.node .author { }
+.node .terms { }
+.node .links { clear: left; }
+.node-sticky { }
+.node table { width: 100%; }
+
+/* boxes */
+.box { }
+.box h3.title { }
+.box .content { }
+
+/* comments */
+.comment h4.title { }
+.comment .new { }
+.comment .content { }
+.comment .picture { float: left; padding: 4px; margin-right: 4px; background-color: #f0f0f0; }
+.comment .date { }
+.comment .author { }
+.comment .links { clear: left; }
+.comment-new { }
+
+/* customize different page layouts */
+.header { margin-left: auto; margin-right: auto; }
+.body-left .header { width: 80%; }
+.body-right .header { width: 80%; }
+.body-both .header { width: 60%; }
+.body-none .header { width: 100%; }
+
+.body-left .page { width: 77%; padding-left: 2%; }
+.body-right .page { width: 77%; padding-right: 2%; }
+.body-both .page { width: 55%; padding-left: 2%; padding-right: 2%; }
+.body-none .page { width: 100%; padding-left: 0%; padding-right: 0%; float: none; }
+
+.footer { margin-left: auto; margin-right: auto; }
+.body-left .footer { width: 80%; }
+.body-right .footer { width: 80%; }
+.body-both .footer { width: 60%; }
+.body-none .footer { width: 100%; }
+
+/* override drupal.css */
+#user-login-form { text-align: left; }
+
+/* dashboard multi-column layouts */
+.db-2col { overflow: hidden; }
+.db-2col .db-col-first { float: left; width: 50%; }
+.db-2col .db-col-last { float: left; width: 50%; }
+
+.db-3col { overflow: hidden; }
+.db-3col .db-col-first { float: left; width: 25%; }
+.db-3col .db-col { float: left; width: 50%; }
+.db-3col .db-col-last { float: left; width: 25%; }
+
+

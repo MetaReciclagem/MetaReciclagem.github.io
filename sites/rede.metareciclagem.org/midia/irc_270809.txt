@@ -1,0 +1,923 @@
+Conversation with #metareciclagem at Seg 27 Jul 2009 17:18:19 BRT on efeefe@irc.freenode.org (irc)
+(17:35:23) efeefe: comecando entao
+(17:35:40) _id_: bem a tempo hahahaha
+(17:35:43) efeefe: como acho que todo mundo sabe, eu e a tatirprado inscrevemos a metareciclagem no premio de midia livre do minc
+(17:35:49) efeefe: ganhamos no segundo tempo
+(17:36:02) efeefe: semana passada fizemos um papo aqui no IRC sobre como usar os recursos do premio
+(17:36:19) hdhd: ateh ai... beleza
+(17:36:20) efeefe: documentei no site
+(17:36:24) efeefe: http://rede.metareciclagem.org/wiki/RecursosMidiaLivre
+(17:36:35) efeefe: conversamos aqui, e a principio foi aprovado, sobre dividir o recurso em tres partes
+(17:36:43) efeefe: uma delas, a maior, para arrumar o site/infralogica
+(17:36:56) efeefe: a outra, pra documentacao, visitas, editar material publicado
+(17:37:07) efeefe: e a terceira um edital de microcredito pra acoes de metareciclagem
+(17:37:15) efeefe: a conversa hoje eh sobre a primeira parte
+(17:37:17) efeefe: infralogica
+(17:37:48) efeefe: tem uma conectaz chamada infralogica
+(17:37:49) efeefe: http://rede.metareciclagem.org/conectaz/Infra-L%C3%B3gica
+(17:37:52) hdhd: qual eh o objetivo de investir na infralogica?
+(17:37:54) efeefe: onde eu tenho documentado
+(17:38:04) efeefe: objetivos sao varios
+(17:38:16) efeefe: melhorar o site pra quem entra e ainda nao conhece a rede
+(17:38:23) efeefe: facilitar o acesso a material publicado lá
+(17:38:30) efeefe: (tem algumas centenas de páginas, mas é um caos de achar)
+(17:38:47) efeefe: incorporar algumas ferramentas pra integrar outros ambientes, como por exemplo importar o histórico da lista e associar a perfis de usuário
+(17:39:10) dpadua: então, acho que precisamos discutir melhor o que essa camada "infralogica" - porque ela não é só o site, nem é só web
+(17:39:12) efeefe: melhorar a estrutura de esporo e conectaz como unidades de articulação, e facilitar o intercâmbio e publicação de material
+(17:39:40) efeefe: e facilitar o uso do site como plataforma de apoio a projetos, como uma sourceforge de ações de metareciclagem
+(17:40:07) efeefe: dpadua: sim. incorporar outras coisas. na real hoje em dia a camada mais importante da infralogica é a lista.
+(17:40:10) efeefe: e isso tem limits
+(17:40:12) efeefe: limites
+(17:40:20) hdhd: acho q temos q dar conta da primeira camada.... info sobre o meta
+(17:40:27) efeefe: limites de linguagem, de alcance e de acompanhamento
+(17:40:50) hdhd: temos grana pra fazer uma parte do projeto
+(17:41:01) efeefe: hdhd: sim, isso é um lado da infralogica. fazer o site mais dinamico, acompanhando as coisas. mas isso tambem passa por fazer as pessoas documentarem mais.
+(17:41:08) dpadua: hdhd: que dados seriam exatamente "info sobre o meta"?
+(17:41:11) efeefe: lance eh a infralogica ser a estrutura
+(17:41:31) efeefe: e a outra parte, que acho que pode ser um desdobramento da moimentacao do mutirao, ser mais voltada pra "conteudo"
+(17:41:37) dpadua: é. infralogica = estrutura + "conteúdos". o raciocínio tem de ser integrado.
+(17:41:38) efeefe: (com todas as ressalvas ao termo que nao vou repetir"
+(17:41:57) hdhd: dpadua: quem entra no site do meta nao entende o q eh o meta
+(17:42:28) efeefe: hdhd: em certa medida, isso faz parte tambem. nao sei se alguem entende o que eh o meta.
+(17:42:33) efeefe: nem a gente.
+(17:42:35) _id_: hdhd: naum soh isso, ainda naum entendi como o conectaz funciona
+(17:42:37) tatirp: acho que não entender não é o maior dos problemas
+(17:42:46) dpadua: hdhd: certamente. mas até nós mesmos temos uma percepção heterogênea do meta
+(17:42:49) tatirp: o lance é achar um jeito de circular por lá...
+(17:43:02) _id_: se eu q to dentro naum entendi (se bem q naum parei pra estudar akilo) alguem q acaba de entrar fica perdido
+(17:43:23) dpadua: vou mais pela ideia do efeefe de que a significação do que é meta é um jogo que não acaba
+(17:43:33) _Pi_: acredito que a pagina deveria ser mais organizada, para que as pessoas consigam ao menos navegar pelos conteudos sem se perderem
+(17:43:36) efeefe: acho que um elemento a trazer eh justamente o historico de tentativas de entender 
+(17:43:41) hdhd: dpadua: nao falo de homogeneidade. acho q no minimo o site nao pode nos confundir com oficineiros de material reciclado
+(17:43:42) ian_brasil: efeefe1, tem que definir algumas coisas entao..qual plataforma (drupal?)..vai ser hospedado aonde..a gente vai escrever algo novo and so on
+(17:43:49) dpadua: talvez a "info sobre o meta" seja expor os diversos entendimentos que se tem disso
+(17:44:00) efeefe: jah tah hospedado num vserver
+(17:44:01) _Pi_: e facilitar mais a edi??o e coloca??o de conte?dos tb seria uma maneira de se documentar mais
+(17:44:04) efeefe: e temos um legado de drupal
+(17:44:05) uira: sem querer definir o meta, quem conhece um pouco do trabalho sabe que rolam ali vários projetos... muitos que surgiram ali, e muitos que chegaram junto para ajudar ou para pedir ajuda. acho que a infralógica é estrutura e ferramenta.
+(17:44:07) dpadua: hdhd: isso tbm concordo
+(17:44:07) efeefe: e gente que conhece o sistema
+(17:44:18) dpadua: hdhd: pra gente, meta tá muito além de computador
+(17:44:30) ian_brasil: pessoas nao senti um necessidade ir ao site no momento..precisa melhorar isso
+(17:44:53) hdhd: dpadua: sim... e alem da ferramenta
+(17:45:28) efeefe: nao tenho duvida que um dos camihos eh a agregacao
+(17:45:36) efeefe: e na real a gente meio que comecou isso, mas nunca estruturou direito
+(17:45:40) dpadua: efeefe1: concordo
+(17:45:43) efeefe: o site hoje jah puxa RSS de um monte de lugares
+(17:45:47) hdhd: yap
+(17:45:48) dpadua: queria ver galera mandando sms e isso sendo agregado no site
+(17:45:56) efeefe: de nossos blogs a pesquisas de youtube, flickr, etc
+(17:46:01) efeefe: sms acho que demora um pouco mais
+(17:46:06) _Pi_: dpadua: tipo um twitter?
+(17:46:07) efeefe: mas outras coisas com certeza
+(17:46:15) efeefe: twitter a gente jah importa tambem
+(17:46:18) hdhd: temos q fazer aquilo q eh possivel... ehhehe
+(17:46:21) dpadua: efeefe1: demora nada. já viu isso? http://www.ushahidi.com/
+(17:46:23) efeefe: sempre que alguem tuita "metareciclagem", a gente puxa
+(17:46:27) ian_brasil: o drupal permite isso?
+(17:46:38) hdhd: sim
+(17:46:43) _id_: um leitor de rss que reage a certas tags seria interessante pra jogar no site tb
+(17:46:44) efeefe: http://planet.metareciclagem.org/
+(17:47:27) dpadua: tem o tiny tiny rss também: http://tt-rss.org/ - que é mais extensível que o planetplanet
+(17:47:37) efeefe: nao eh planet
+(17:47:38) efeefe: eh drupal
+(17:47:43) efeefe: planet eh soh o subdominio
+(17:47:45) efeefe: ;)
+(17:47:47) dpadua: ah, sim
+(17:47:50) dpadua: ;D
+(17:47:54) hdhd: agora nao eh papo de ferramentas
+(17:48:02) dpadua: ok
+(17:48:13) efeefe: certo
+(17:48:28) efeefe: primeira coisa que eu snto falta eh essa coisa dinamica ficar mais clara
+(17:48:32) efeefe: esse planet hoje tá escondido
+(17:48:33) dpadua: bom, acho legal cada um falar: "pra que serve a infralogica?"
+(17:48:40) efeefe: quem entra no site tem aquele texto doidao que a Pi fez
+(17:48:43) efeefe: ok
+(17:48:45) efeefe: comeca entao dpadua
+(17:48:50) efeefe: pra que serve a infralogica?
+(17:49:03) uira: (o texto da Pi é o máximo )
+(17:49:06) dpadua: bom, pra mim, infralogica é linguagem e comunicação.
+(17:49:23) dpadua: isso acontece em diversos suportes, em momentos diversos, em locais diferentes.
+(17:49:32) dpadua: uma conversa olho no olho envolve infralogica
+(17:49:38) _id_: AHA! basicamente, deixar o site mais atraente :p
+(17:49:41) tatirp: (tb acho o máximo o texto da pi)
+(17:50:00) efeefe: dpadua: dah pra ser menos generico?
+(17:50:12) ian_brasil mudou seu apelido para ian_brasil-afk
+(17:50:14) hdhd: dpadua: o meta eh sobre comunicação
+(17:50:19) dpadua: efeefe1: se eu for menos genérico, vou listar ferramentas pra instalar lá
+(17:50:22) hdhd: conversas ... relações
+(17:50:35) efeefe: hdhd: pra que serve a infralogica?
+(17:50:46) ***uira levanta a mão...
+(17:51:03) hdhd: efe: eu vou saber? kkkkkkkkkk
+(17:51:19) efeefe: na tua visao
+(17:51:30) efeefe: pra que a metareciclagem deve usar as ferramentas online?
+(17:51:35) dpadua: o hdhd quer conversar sobre o sentido da infralogica. o efeefe1 quer debater estrutura. o que vai ser?
+(17:51:54) uira: estrutura
+(17:51:54) hdhd: eu acho q a infralogica tem q dar contra da nossa conversação... pra dentro e pra fora
+(17:51:59) tatirp: as 2 coisas
+(17:52:04) efeefe: as duas
+(17:52:08) uira: isso hdhd
+(17:52:08) hdhd: pra dentro... a lista da conta
+(17:52:22) efeefe: hdhd: acho que a lista dah conta, mas muita coisa se perde nela
+(17:52:23) uira: hdhd: dá não... mas belê!
+(17:52:29) dpadua: então vamos organizar o papo: sentido primeiro, estrutura depois?
+(17:52:32) hdhd: pra fora... o sitre nao da conta...
+(17:52:34) efeefe: tem um grande fosso entre a lista e o resto
+(17:52:39) hdhd: uira: pq
+(17:52:40) efeefe: acho que o site nao eh soh pra fora
+(17:52:51) dpadua: o site nao conversa bem com o resto da Internet
+(17:52:53) efeefe: dpadua: sentido!
+(17:52:58) dpadua: pra mim, infralogica do meta na Internet é a própria Internet
+(17:53:00) tatirp: pro site ser pra fora, precisa ser tb pra dentro
+(17:53:13) dpadua: bom, então sobre sentido
+(17:53:20) efeefe: hdhd: concordo com uira que a lista nao dah conta
+(17:53:26) efeefe: a gente nao articula mais nada por lah
+(17:53:28) hdhd: dpadua.... kkkkk da pra ser menois metaforico... kkk
+(17:53:32) _id_: acho q naum tem muito sentido discutir sentido
+(17:53:39) uira: hdhd: pq ela só da conta de uma metareciclagem.... aqui no ceará tem mais umas 3, e só uma delas tá na lista...
+(17:53:41) efeefe: dpadua: falei sentido no sentido militar mesmo. sentido!
+(17:53:42) hdhd: pq nao da conta
+(17:53:43) _id_: creio q todo mundo concorda que o site precisa de organiza??o
+(17:53:47) dpadua: tbm concordo com o uira que a lista nao dah conta
+(17:54:03) hdhd: o q vcs precisam alem da lista?
+(17:54:06) dpadua: bom. se é pra ser pragmatico, vamo lá.
+(17:54:15) uira: calma minha gente...
+(17:54:18) efeefe: eu quero ler sobre o que rola no cearah
+(17:54:20) _id_: um visual melhor talvez
+(17:54:23) _id_: mais ferramentas
+(17:54:25) dpadua: eu preciso de um twitter do meta + um servico de envio de info do celular
+(17:54:27) uira: isso, eu também.
+(17:54:38) _id_: uma nova disposi??o pra caber tudo
+(17:54:43) _id_: algo assim naum?
+(17:54:49) uira: o twitter do meta é uma instalação de laconica no domínio?
+(17:55:04) dpadua: nao uso a lista bem porque nao tenho muito tempo pra mensagens grandes
+(17:55:12) uira: dpadua: +1
+(17:55:28) hdhd: efe: dpadua: uira: ainda nao entendi o q vcs precisam alem da lista
+(17:55:29) liquuid: bota um phpbb :)
+(17:55:45) hdhd: forum... bah
+(17:55:46) uira: liquuid: tô contigo, mas só conceitualmente! :P
+(17:55:50) liquuid: eu acho a lista um treco muito ruim pra documentar
+(17:56:00) _id_: de fato,
+(17:56:08) hdhd: bem...documentar eh outra coisa
+(17:56:09) liquuid: algum tipo de fórum seria um puta avanço
+(17:56:11) _id_: perde-se muito na infinidade da minha caixa de entrada XD
+(17:56:16) hdhd: nao eh culpa da lista.
+(17:56:22) hdhd: e sim de quem nao doicumenta
+(17:56:31) uira: hdhd: mas é tudo fórum, cara... a lista é um forum, via e-mail... isso aqui é um fórum, via internet  relay chat, o twitter é um fórum via phptoscocodes...
+(17:56:38) dpadua: hdhd: se a infralogica serve pra gente contar sobre as nossas ações, preciso ter agilidade e mobilidade pra enviar info
+(17:56:39) liquuid: hdhd : o email é uma instituicao falida
+(17:56:42) _id_: hdhd: nem todo mundo tem tempo pra ficar criando tags no e-mail
+(17:56:44) efeefe: twitter do meta acho besteira
+(17:56:54) maira: dpadua, uira: vcs usam a lista sim, acho que todo mundo que está aqui usa, mas talvez pudessemos usar melhor, de uma forma mais facil pra documentar como o liquuid citou
+(17:56:54) _id_: fora q a lista soh quem participa ve
+(17:57:00) _id_: forum qq um ve
+(17:57:06) liquuid: de alguma forma forum se auto documentam de forma mais organizada
+(17:57:09) hdhd: uira: nao precisa explicar isso
+(17:57:15) dpadua: nao precisa inputar coisas num "twitter do meta", mas eu quero conversar com o site do meta via identi.ca por exemplo
+(17:57:27) uira: então não precisa achar ruim falar de forum, hdhd
+(17:57:41) hdhd: uira: de boa
+(17:57:54) dpadua: maira: podemos usar melhor a lista sim. mas isso exige esforço das pessoas. nem todo mundo tem tempo. acho que precisamos contemplar os apressados.
+(17:58:16) efeefe: liquuid: forum sempre deu errado
+(17:58:19) efeefe: e o drupal pode virar forum
+(17:58:20) maira: dapdua: concordo
+(17:58:30) efeefe: hdhd: documentar na lista nao dah pra reler depois
+(17:58:32) dpadua: acho que o drupal atende como agregador
+(17:58:38) tatirp: a questão não é só de tempo. tem camadas de info que cabem em espaços diferentes
+(17:58:39) hdhd: acho nq temos um problema extra lista... esse grupo nao documenta nem na lista nem em outros lugares....but bailux
+(17:58:44) uira: efeefe1: sim, mas e aquela velha história de ter uma interface pra lista, no site?
+(17:58:58) dpadua: hdhd: vc tá enganado
+(17:59:01) uira: onde vc pode renomear, editar e apagar as trédis
+(17:59:10) dpadua: as pessoas documentam em outros espaços, inclusive offline
+(17:59:23) hdhd: dpadua: nao vejo isso
+(17:59:26) dpadua: mas o site não tá preparado pra receber isso enquanto a info é gerada
+(17:59:36) ***uira sugere que sentemos e esperemos o primeiro release do wave...
+(17:59:38) _id_: interface da lista no site acho desnecess?rio. seria mais interessante usar drupal pra documentar as coisas s?rias q atualmente caem na lista
+(17:59:51) efeefe: hdhd: eu documento
+(17:59:53) efeefe: ;)
+(18:00:01) efeefe: uira: interface pra lista no site
+(18:00:04) uira: hdhd: eu vejo, e muito.
+(18:00:05) hdhd: efe: concordo
+(18:00:06) dpadua: hdhd: tem 2 wikis em brasilia lotados de informação pertinente ao meta. mas estão dentro da EBC e da presidencia.
+(18:00:17) tatirp: mas documentar é fazer constar, apenas?
+(18:00:42) hdhd: onde isso está no meta... onde ta essa info
+(18:00:59) hdhd: documentar eh distribuir
+(18:01:08) hdhd: documentar eh comunicar
+(18:01:09) dpadua: tatirp: documentar depende de tempo. algumas pessoas tem tempo pra avisar, e depois (as vezes muito depois), documentar mais profundamente
+(18:01:21) dpadua: hdhd: concordo
+(18:01:24) tatirp: dpadua: tb acho
+(18:01:33) uira: sem contar o graande número de coisas que estão documentadas mas não estão linkadas..
+(18:01:36) tatirp: muito tempo depois"
+(18:01:36) dpadua: nao vejo separação entre trocar ideia e "documentar"
+(18:01:55) efeefe: tem muito co9nteudo aqui
+(18:01:56) efeefe: http://rede.metareciclagem.org/node
+(18:02:00) dpadua: a questao de organizar as informacoes biblioteconomicamente acontece em projetos como o mutirao
+(18:02:03) efeefe: e aqui
+(18:02:04) efeefe: http://rede.metareciclagem.org/wiki
+(18:02:08) hdhd: trocar ideia eh um pra um... documentar.... eh disponibilizar
+(18:02:30) dpadua: botar o log do chat um pra um na rede é documentar
+(18:02:37) efeefe: sim
+(18:02:42) dpadua: muitas ideias no meta surgiram em chats
+(18:02:43) efeefe: mas soh botar o log nao eh comunicar
+(18:02:53) brunnov saiu da sala (quit: "Leaving.").
+(18:02:55) efeefe: esse esforco em traduzir e acessibilizar eh que falta muitas vezes
+(18:02:56) tatirp: registrar conversa para mim é "subestimar" a documentação, mas
+(18:02:57) hdhd: eu acho q o mutirao eh uma puta documntação
+(18:02:58) dpadua: tipo xamanismo tecnologico
+(18:03:04) efeefe: mas aí acho que a gente tá indo pra um lado que é outra conversa
+(18:03:08) tatirp: do processo surgem muitas coisas
+(18:03:11) _Pi_: * n?o da pra puxar do site um resum?o toda semana?
+(18:03:18) efeefe: que acho que começamos a tentar resolver com o mutirão
+(18:03:18) uira: alguém pede outra cerveja...
+(18:03:26) dpadua: viva o mutirão da gambiarra :)
+(18:03:27) _Pi_: tipo, tais acontecimentos, tais modifica??es nos blogs de fulanos e siclanos...
+(18:03:34) efeefe: _Pi_: dá pra puxar do site quaquer coisa. o problema é as pessoas subirem pro site.
+(18:03:34) hdhd: entao... kd as contribuições
+(18:03:37) _Pi_: e todo mundo cadastrado recebe esse resumo?
+(18:03:45) efeefe: por exemplo
+(18:03:46) efeefe: http://rede.metareciclagem.org/activity
+(18:03:51) efeefe: eu nao leria esse resumo
+(18:03:55) _Pi_: sim, mas se come?am a ir mais ao site, isso pode servir como incentivo tb
+(18:03:57) tatirp: subir pro site tem a ver com documentar. sem precisar chegar no aprofundamento do mutirão
+(18:03:59) efeefe: as pessoas nao contribuem por dois motivos
+(18:04:04) efeefe: 1) porque o site eh ruim
+(18:04:05) _Pi_: pois sabem que outros v?o l? atras da info deles
+(18:04:07) efeefe: 2) porque nao tem o costue
+(18:04:12) dpadua: há um tempo, eu tentei agitar o uso da agenda no site. nao funfou. pensemos porque?
+(18:04:22) hdhd: fico com a opção 2
+(18:04:29) tatirp: porque a rede não se organiza por tempo
+(18:04:33) efeefe: tatirp: ok, o mutirão acho que é ainda outra camada depois de subir pro site
+(18:04:33) dpadua: efeefe1: "porque o site é ruim" - disserte tecnicamente sobre isso
+(18:04:37) efeefe: hdhd: acho que sao as duas
+(18:04:59) hdhd: efe... pode se documentar sem o site
+(18:05:16) efeefe: dpadua: as estruturas que eu bolei nas horas vagas pra organizar a info do site nao sao necessariamente as mais faceis de chegar pra pessoas que nao compartilham da minha visao geral sobre o que eh meta
+(18:05:19) tatirp: pode, hdhd
+(18:05:23) uira: dpadua: interface não é clara, as coisas estão bagunçadas e não é fácil adicionar novas coisas...
+(18:05:24) efeefe: as unidades conectaz e esporo, por exemplo
+(18:05:34) efeefe: o otavio falou ha pouco que nao entendeu direito o que eh conectaz
+(18:05:48) tatirp: retomo  o exemplo do baliux: só tem o regis cadastrado
+(18:05:55) _id_: site ? ruim? nada q trocar o css e reorganizar onde aparece oq naum resolva :p
+(18:06:08) dpadua: então. "esporo" e "conectaz" são complicadores de entendimento. o que fazemos com isso?
+(18:06:10) efeefe: _id_: nao eh soh isso
+(18:06:21) efeefe: dpadua: sao complicadores com potencial pra ser facilitadores
+(18:06:34) efeefe: minha pira toda foi que o que a gente tinha antes era mais confuso
+(18:06:35) efeefe: wiki
+(18:06:40) efeefe: wiki aberto, largado
+(18:06:42) hdhd: tatirp: pode....
+(18:06:49) dpadua: efeefe1: sim. mas como faz pra ser isso?
+(18:06:53) efeefe: precisa ter uma consciencia forte do que eh
+(18:07:04) dpadua: efeefe1: falta texto publicitário pra explicar de cara
+(18:07:07) _id_: efeefe1: concordo, mas por algum lado tem q come?ar. o lado visual da coisa ajuda por mais estranho q pare?a...
+(18:07:16) efeefe: o lance de conectaz e esporo era no sentido de criar subgrupos, e que as pessoas pudessem subir ali infos sobre suas acoes e locais
+(18:07:40) _id_: efeefe1: algo parecido com sistema de milestones?
+(18:07:43) hdhd: eu acho q em primeiro lugar... temos q alinharmos da necessidade de documentar
+(18:07:53) dpadua: efeefe1: mais a coisa do "geografico" caiu, e esporo virou "uma conectaz que pretende continuar"
+(18:07:58) efeefe: _id_: nao sei o que sao milestones
+(18:08:05) efeefe: dpadua: caiu?
+(18:08:23) dpadua: uai, no campus party a gente conversou sobre isso, nao?
+(18:08:34) efeefe: sim
+(18:08:37) tatirp: eu vejo, pelo menos, 3 "tipos" de documentação: registro, sistematização, reflexão
+(18:08:37) usuario [n=usuario@r77-pw-pocogrande.ibys.com.br] entrou na sala.
+(18:08:42) efeefe: mas mudamos alguma coisa depois de conversar?
+(18:08:51) _id_: efeefe1: eh um sistema de metas. organiza uma atividade e a entrega a uma pessoa ou grupo. quando essa pessoa acaba, isso eh informado ao sistema, assim sabe-se o que foi feito
+(18:08:56) usuario: tarde!
+(18:09:04) dpadua: eu nao vejo diferença entre uma oficina temporária na colombia e uma oficina temporária no ceará
+(18:09:06) efeefe: _id_: nao necessariamente
+(18:09:24) dpadua: efeefe1: acho que não ratificamos mesmo..
+(18:09:25) efeefe: porque metas parte de um modelo de gestao de projeto muito mais objetivo do que o que a gente geralmente faz
+(18:09:27) usuario: usuario=mbraz
+(18:09:44) dpadua: fala mbraz :)
+(18:09:47) efeefe: mbraz, digita /nick mbraz
+(18:09:48) _id_: e ae marcelo! _id_ = ot?vio
+(18:09:57) usuario mudou seu apelido para mbraz
+(18:10:21) mbraz: aeeee!, macacada :)))
+(18:10:28) efeefe: fala mbraz
+(18:10:31) tatirp: :)
+(18:10:31) _id_: uga uga
+(18:10:31) efeefe: frio no parana?
+(18:10:37) uira: mbrazil zil zil
+(18:10:38) efeefe: galera
+(18:10:39) mbraz: gelo
+(18:10:41) efeefe: acho que a conversa ta meio improdutiva
+(18:10:51) efeefe: o que temos ateh agora?
+(18:10:52) dpadua: pois é.. eu preciso voltar aqui pro trampo, gente..
+(18:10:54) uira: concordo
+(18:11:05) uira: tenho sugestão
+(18:11:08) dpadua: efeefe1: todo mundo quer melhorar o trem
+(18:11:12) efeefe: 1) a lista sedia conversas internas. mas nao eh suficiente.
+(18:11:12) efeefe: 2) o site tah confuso.
+(18:11:14) uira: bora trampar no site
+(18:11:16) _id_: surgiram alguma ideias pra forum, wiki, documenta??o
+(18:11:17) mbraz: bom, entao o que rolou, basicamente ??
+(18:11:22) uira: e depois pirar em outras coisas
+(18:11:29) efeefe: uira: o que eh trampar no site?
+(18:11:32) efeefe: melhorar a interface?
+(18:11:52) efeefe: soh pra constar: dpadua, uira e fernanda scur já tem trabalhado numa versao um pouco melhor do CSS
+(18:12:02) efeefe: que melhora um pouco a situacao, mas nao resolve o problema mais estrutural
+(18:12:17) tatirp: eu gosto dos problemas estruturais
+(18:12:17) dpadua: tem aquele wireframe que eu fiz
+(18:12:27) dpadua: tatirp: eu tbm :)
+(18:12:30) efeefe: quem quiser ver a versao temporaria, avise em PVT
+(18:12:34) efeefe: quase escrevi PVC
+(18:12:38) tatirp: ;)
+(18:12:39) efeefe: o que me fez lembrar do MDF
+(18:12:46) uira: deixar ele com cara de peça publicitária (interface e textos) e integrar a lista...
+(18:12:50) dpadua: salve adilsão
+(18:13:05) efeefe: cara de peça publicitaria acho discurso meio otario
+(18:13:09) liquuid: dilsão do dendê
+(18:13:10) _id_: efeefe: q me faz lembrar de mdf/mds <== credo, prefiro iso...
+(18:13:11) efeefe: mas ok, mais facil de entender
+(18:13:13) efeefe: didatico
+(18:13:14) uira: q wireframe é esse, dpadua
+(18:13:19) mbraz: lista para mim e' tudo, butequinho na esquina
+(18:13:27) dpadua: uira: oxi, eu fiz na cparty
+(18:13:39) dpadua: xo catar aqui, mandar na lista
+(18:13:42) hdhd: kd
+(18:13:47) uira: eu nunca vi isso...
+(18:13:52) liquuid: mbraz:  lista é puleiro de galinha
+(18:14:12) mbraz: de macacos
+(18:14:13) tatirp: tem um desenho seu, aqui, dpadua. é esse?
+(18:14:15) _id_: liquuid: local das fofocas :p
+(18:14:16) uira: o cara não trouxe ainda aquela ceveja?
+(18:14:27) liquuid: email é a forma do demo interferir na nossa vida
+(18:14:45) mbraz: o inferninho e' aqui
+(18:15:04) tatirp: email é tipo casamento, luquuid... falido, mas necessário
+(18:15:05) _id_: concordo
+(18:15:11) _id_: sala de bate papo eh bem pior
+(18:15:20) uira: eu acho que mais produtivo seria a gente fazer uma chamada pra idéias...
+(18:15:29) mbraz: eu, lu, maira e teia vamos produzir um doc
+(18:15:34) _Pi_: acho que se a info no site fosse mais "organizada" ou "modular" ficaria mais facil achar o que se quer l? dentro
+(18:15:37) efeefe: tatirp: acho que nao precisamos dividir em partes, mas acho que tua visao de registro/sistematizacao/analise faz algum sentido
+(18:15:37) liquuid: tatirp:  eu soh uso email como interface legada do seculo passado
+(18:15:55) efeefe: exceto pelo fato de que muito do que a gente produz de informação é registro do processo em si
+(18:15:59) _Pi_: eu posso desenhar e scanear umas id?ias e mandar?
+(18:15:59) efeefe: não registro de produto
+(18:16:01) tatirp: não precisamos dividir, só pensar...
+(18:16:07) mbraz: titulo provisorio: a meta e' o inferno e o ceu, tudo aki, tudo aagora
+(18:16:11) _Pi_: tipo, sou menos que zero em desenhos e editores vetoriais e etc
+(18:16:23) _Pi_: mas posso desenhar as coias que achoq ue iriam facilitar
+(18:16:23) dpadua: mandei na lista, PIPOUS
+(18:16:25) mbraz: tempo presente continuo dos guaranys mbyas :)))
+(18:16:44) uira: por mim, a gente deixava a lista quieta, mas trabalhava pra levar os papos pro saite...
+(18:16:57) _id_: acho uma boa ideia pensar recursivamente agora
+(18:16:59) _Pi_: acho que precisamos pensar em peda?os da infralogica
+(18:16:59) _id_: tipow
+(18:17:05) _Pi_: tipo, primeiro quala  cara que queremos
+(18:17:09) uira: mesmo que muitas pessoas continuem interagindo através do, falido, email...
+(18:17:13) _id_: pra alcan?ar objetivo quais subobjetivos saum necess?rios
+(18:17:19) dpadua: email pra mim virou escrever um post ou copiar um log de chat e mandar via um tweet
+(18:17:39) dpadua: a infralogica envolve também a infrafisica
+(18:17:40) efeefe: dpadua: ok, mas acho que tudo isso nao eh ferramenta, eh intencao
+(18:17:49) efeefe: a gente tem que ter espacos onde o lance simplesmente flui
+(18:17:57) efeefe: lista, chat, twitter
+(18:18:11) dpadua: efeefe1: a infralogica tem de abarcar todas as "intenções"
+(18:18:11) efeefe: mas tem que ter também espaços onde a idéia inicial vira intenção de construir e articular
+(18:18:16) efeefe: aí tem uma quebra de ritmo
+(18:18:23) efeefe: o que era fluxo se cristaliza
+(18:18:31) mbraz: subojetivos = subjetivos
+(18:18:31) dpadua: quem é de email, que fale em email. quem é de twitter, que twite. quem é de fórum, que fórumnhe hehehe
+(18:18:32) efeefe: dpadua: com certeza, tem que abrarcar
+(18:18:46) dpadua: eu queria mandar coisas pra infralogica via SMS
+(18:18:47) efeefe: como a gente facilita essa mudanca de ritmo?
+(18:18:48) dpadua: ou MMS
+(18:18:50) efeefe: sem quebrar o fluxo?
+(18:18:59) dpadua: ou MM's - chocolate pra geral
+(18:19:00) dpadua: :D
+(18:19:12) efeefe: dpadua: tu pode mandar pelo twitter. agora.
+(18:19:41) dpadua: cada um tem seu fluxo. o lance é o agregador cuspir e engolir. com o perdão do trocadalho
+(18:19:43) tatirp: e depois que tá no site. enviado por sms ou não... e daí?
+(18:19:50) efeefe: dpadua: vi teu desenho
+(18:19:53) uira: efeefe1: pode, mas 'eu' não vejo, pq não acompanho o site do meta...
+(18:20:09) _id_: talvez um sistema de blogs no site?
+(18:20:10) efeefe: uira: como tu faria pra ver?
+(18:20:26) efeefe: _id_: tivemos um sistema de blogs, que virou encrenca que soh eu mantinha
+(18:20:32) efeefe: e na real o proprio site jah tem blog
+(18:20:35) uira: ex: um bot twitteiro que eu seguiria...
+(18:20:38) efeefe: http://rede.metareciclagem.org/blog
+(18:20:38) _id_: descartado
+(18:20:39) dpadua: tipo. uma conectaz poderia subir um fórum phpbb na hora, e depois dar um "jogar na rede" e toda a info gerada ir pro site, já organizado automagicamente
+(18:20:49) mbraz: site jah agrega twitteres? ou eh, tuitagem?
+(18:20:53) efeefe: uira: tudo que mudar no site virar tuiter?
+(18:20:57) efeefe: isso resolve?
+(18:21:12) uira: efeefe1: pra mim, sim
+(18:21:15) dpadua: eu colocaria um www.laconi.ca na home do meta
+(18:21:21) tatirp: isso resolve pra meia dúzia que tá na rede
+(18:21:24) dpadua: chupando tudo de wiki, email, uscambau
+(18:21:36) mbraz: a fofocaiada tem que estar presente no dia-a-dia
+(18:21:40) efeefe: mbraz: http://rede.metareciclagem.org/aggregator/sources/43
+(18:21:40) _id_: efeefe1: talvez uma alternativa interessante seria poder blogar lah usando rss
+(18:21:40) liquuid: eu acho que usar o identi.ca é mais razoavel
+(18:21:46) _id_: caso a pessoa jah tenha um blog
+(18:21:49) liquuid: sem falar que já integra com twitter e facebook
+(18:21:56) efeefe: dpadua: laconi.ca pra que?
+(18:22:01) uira: ai cara, toda vez que começo a conversar com vocẽs sobre isso, fico com preguiça... pq queremos mudar muita coisa duma vez.
+(18:22:10) efeefe: _id_: essa alternativa jah existe
+(18:22:21) hdhd: uira: isso q eu queria evitar
+(18:22:30) efeefe: uira: eu nao quero mudar tanta coisa
+(18:22:31) dpadua: efeefe1: pra gente poder hackear além do que tá hackeado no identi.ca
+(18:22:34) efeefe: acho laconi.ca viagem
+(18:22:37) uira: hdhd: mas isso é lindo...!
+(18:22:39) uira: :)
+(18:22:43) tatirp: a fê é boa pra evitar esse problema: muita coisa de uma vez...
+(18:22:45) efeefe: a gente nao ia usar
+(18:22:54) dpadua: entao vamos diminuir as expectativas
+(18:23:03) dpadua: o que vcs querem melhorar exatamente no site atual?
+(18:23:05) efeefe: acho que tem um limite entre a viagem e a praticidade
+(18:23:08) dpadua: o menu? as caixinhas laterais?
+(18:23:12) liquuid: laconica é mais um pra administrar, ideia ruim
+(18:23:26) dpadua: nao acho viagem instalar algo que leva 10 minutos pra quem sabe
+(18:23:29) hdhd: uira: lindo?
+(18:23:30) efeefe: eu quero saber se as estruturas atuais fazem sentido
+(18:23:40) _id_: liquuid: ideia do identica eh uma boa pra quem jah usa
+(18:23:43) uira: boa efeefe
+(18:23:45) dpadua: liquiid: o que tu faria no drupal do site?
+(18:23:47) uira: vamos partir daí
+(18:23:50) efeefe: se o agregador, o mapa, os esporos, conectazes, pessoas, wiki, fazem sentido
+(18:23:55) uira: GENTE, COMEÇA TUDO DO ZERO
+(18:24:03) _id_: mas como twitter naum permite muita coisa, identica eh uma boa :p
+(18:24:04) efeefe: o que é zero?
+(18:24:16) mbraz: uirah: tempo novo!!
+(18:24:16) uira: é o que você falou: o agregador, o mapa, os esporos, conectazes, pessoas, wiki,
+(18:24:30) uira: o que a gente adiciona aí, e o que a gente retira
+(18:24:33) efeefe: uira: faz sentido isso?
+(18:24:33) liquuid: dpadua: integrava com identica , colocava feeds de um forum, ultimos posts das listas , ultimos posts de blogs relacionados
+(18:24:41) efeefe: todomundo: fazem sentido essas estruturas?
+(18:24:48) liquuid: dpadua: pra mim a páfgina principal tinha que ser  o agregador
+(18:24:54) uira: dpadua: tá sugerindo colocar um microbloggin nesse monte
+(18:25:00) uira: é isso, dpadua?
+(18:25:07) efeefe: liquuid: tambem acho sobre a home. agregar, já estamos agregando.
+(18:25:19) dpadua: agregador, microblog... dependendo do layout, fica tudo com a mesma cara
+(18:25:39) mbraz: nao vejo muito sentido - mas alguem ve - quando se cria conectaz
+(18:25:44) dpadua: contando que cada item "agregado' tenha um botao de "responder"
+(18:25:51) mbraz: divulga, mas pouca gente conecta
+(18:25:55) liquuid: página principal tem que ser imersiva ... não da pra explicar o inexplicavel com um texo
+(18:25:58) liquuid: texto
+(18:26:02) efeefe: mbraz: concordo, falta conecar
+(18:26:11) efeefe: falta o engajamento nos projetos colaborativos ali dentro
+(18:26:19) efeefe: a conectaz infralogica tem um bando de gente cadastrada
+(18:26:23) dpadua: liquuid: concordo com o lance imersivo
+(18:26:26) efeefe: mas o que significa isso pra elas?
+(18:26:45) efeefe: eu que criei te digo que ali tenho a impressao que existe um grupo mais focado, e que o que eu publicar ali não vai se perder na selva do site
+(18:26:47) uira: pois é...
+(18:26:49) _id_: liquuid tem raz?o. fica ruim de cara, mas as pessoas se acostumam rapido com muita informa??o na cara delas
+(18:26:53) dpadua: eu gosto da conectaz infralogica
+(18:26:56) efeefe: pode ser ilusão, mas me dá um foco
+(18:26:59) _id_: eh soh olhar sites de noticias ou grandes portais
+(18:27:03) efeefe: e uma sensação de vizinhança mais próxima
+(18:27:15) liquuid: dpadua:  sera que rola um esquema de catar o email do visitante e mandar spam pra ele soh de acessar  a pagina ? :P
+(18:27:16) dpadua: só acho que definir a priori uma atividade de metareciclagem como "esporo" ou "conectaz" é meio forçar a barra
+(18:27:25) liquuid: dpadua:  isso eh imersao :)
+(18:27:37) efeefe: dpadua: nao precisa
+(18:27:45) efeefe: eu posso criar paginas de wiki lá
+(18:27:54) mbraz: liquuid: concordo, entrou na home - casinha - jah visualizar o que tah bombando ...
+(18:28:04) dpadua: liquuid: imersão é catar a geo-posição do cara e mandar uma pizza
+(18:28:05) efeefe: mas a conectaz e esporo era pra tentar estruturar um pouco mais o que no wiki é confuso: o que é, quem participa, como publica.
+(18:28:14) liquuid: dpadua: boa !
+(18:28:29) uira: efeefe1: mas vc meio que tá confundindo as coisas
+(18:28:34) uira: vc listou entidades e estruturas
+(18:28:50) uira: conectaz é uma entidade que agrega coisas de várias estruturas
+(18:29:22) efeefe: uira: fala mais
+(18:29:23) _id_: dpadua, entaum criar um sisteminha de mensagens privadas (soltem a descarga!) dentro do site talvez (num sei se jah existe)
+(18:29:23) dpadua: gente. qualquer atividade humana agrega comunicação em múltiplos suportes/linguagens
+(18:29:25) uira: wiki, blog, mocroblog, lista, etc. são estruturas que geram informações que podem ser filtradas em entidades
+(18:29:59) dpadua: _id_: mensagens privadas? tipo scrap?
+(18:30:01) uira: o pádua vai querer inventar a entidade festa, definir o que ela agrega (geotag, pizzaria, lista de pessoas, feed do flikr) e pimba...
+(18:30:41) efeefe: _id_: mensagem privada é email ou direct do twitter ou alguma outra coisa. nao acho que a gente precise disso.
+(18:30:47) mbraz: msgs para grupos, grupinhos e grupelhos: vai de onibus, de taxi, de aviao, a peh conversando ...
+(18:30:49) uira: acho que temos que definir algumas entidades básicas e algumas estruturas básicas... e deixar essas coisas funcioando supimpamente!
+(18:30:49) _id_: dpadua: isso eh outra ideia, mas se for usar um sistema de scraps, eh melhor fazer um sistema de respostas para os artigos e redirecionar pra lista talvez
+(18:31:12) efeefe: acho besteira o scrap
+(18:31:29) efeefe: tenho cá pra mim que a lista se esvaziou de sentido quando a gente perdeu a noção dos limites dela
+(18:31:36) efeefe: quando era 50 pessoas, era mais fácil
+(18:31:52) mbraz: ainda eh  50 pessoas!
+(18:31:59) liquuid: nem isso
+(18:32:01) dpadua: bom, acho que a gente tem de partir dos perfis. que interfaces estariam disponíveis pra um perfil?
+(18:32:01) efeefe: depois explodiu e ninguém poe lá coisas sobre seus próprios lances porque nao sabe quem tá lendo
+(18:32:03) uira: efeefe1: claro! quando o bol tinha 2mb de espaço, também era mais fácil acompanhar os email..
+(18:32:05) liquuid: só tem ouvinte
+(18:32:08) mbraz: grupelho??
+(18:32:29) efeefe: acho que existe uma escala na quala comunicacao flui melhor
+(18:32:33) efeefe: como  a gente lida com isso?
+(18:32:36) hdhd: mbraz: pq grupelho
+(18:32:41) efeefe: vamos expulsar da lsita todo mundo que nao manda mensagem?
+(18:32:48) uira: efeefe1: sim sim
+(18:32:49) dpadua: huahuahuahauhauh
+(18:32:50) dpadua: aff
+(18:32:53) dpadua: claro que nao
+(18:32:53) efeefe: minha alternativa foi o contrario
+(18:32:54) liquuid: boa
+(18:32:55) dpadua: :P
+(18:32:59) uira: e vamos mandar eles acompanharem via rSS
+(18:32:59) liquuid: nhé
+(18:33:01) efeefe: criar no site estruturas que permitam criar subgrupos
+(18:33:05) efeefe: com mais intimidade
+(18:33:12) efeefe: só que na real só eu uso
+(18:33:13) hdhd: 'efe: concordo
+(18:33:17) efeefe: talvez porque nao esteja claro
+(18:33:17) uira: isso efeefe
+(18:33:20) dpadua: po. se bem que agora faz mais sentido
+(18:33:20) mbraz: porque hd: porque muito pouca gente falando, muitas ouvintes
+(18:33:22) uira: temos que melhorar iss
+(18:33:28) efeefe: ou talvez porque nao consegui explicar direito
+(18:33:34) tatirp: subgrupos, sim
+(18:33:52) _Pi_: efeefe1: concordo com os subgrupos
+(18:33:57) hdhd: mbraz: importa eh q todo mundo tem a psssibilidade de falar ou de ouvir
+(18:33:59) efeefe: tem a ver lá com os 12 principles of collaboration, mas nao precisa ler nao
+(18:34:02) uira: efeefe1: é, as pessoas não entenderam a parada..
+(18:34:26) efeefe: a questao é: vale a pena existirem esses subgrupos e aí a gente precisa é melhorar a interface e comunicação e how-to deles?:
+(18:34:28) mbraz: hd: concordo, eh intrinseco. eh uma conquista.
+(18:34:37) uira: efeefe1: isso!
+(18:34:38) hdhd: pois eh
+(18:34:43) efeefe: ou não faz sentido, e vamos deixar isso pra lá e partir pra outras bases?
+(18:35:25) _id_: talvez fosse melhor come?ar do 0, ver o que tem, decidir o que fica, oq vai ser substituido e ver o que entra
+(18:35:31) hdhd: uira: cada um pode se apropriar do meta da maneira q achar melhor
+(18:35:38) mbraz: conquistar e dividir
+(18:35:45) hdhd: soh pedimos para documentar aquilo q se faz
+(18:35:55) _Pi_: ver o que quem contribui precisa, e quem tem algo a ver, descobrir porque nao contribui era um bom come?o
+(18:36:09) mbraz: conquistar eh sair de simpatico para sinaptico
+(18:36:13) uira: efeefe1: subgrupos é recriar nings da metareciclagem...
+(18:36:27) efeefe: uira: de certa forma, é.
+(18:36:31) hdhd: conquistar eh deixar a preguiça pra lá
+(18:36:50) dpadua: gente, vou ter de sair aqui
+(18:36:52) tatirp: conquistar dá trabalho
+(18:36:52) efeefe: eu que sou chato gostaria de evitar que as pessoas criassem nings, e oferecer pra elas uma ferramenta mais completa e livre no site da metareciclagem.
+(18:37:05) efeefe: mas de qualquer forma a gente pode importar o RSS do Ning, e tá valendo
+(18:37:21) uira: efeefe1: boto fé, inclusive pq o objetivo é ter coisas que os nings não tem...
+(18:37:25) efeefe: de toda forma, acredito que existam alguns princípios, queria saber se todo mundo concorda.
+(18:37:32) dpadua: continuem o papo de boa, depois eu vejo o log
+(18:37:39) efeefe: 1) agregação. o site tem que chupar bem.
+(18:37:40) efeefe: ;)
+(18:37:41) uira: obrigado, daniel!
+(18:37:44) hdhd: dpadua: bjs
+(18:37:45) dpadua: falou
+(18:37:48) dpadua: \o>
+(18:37:49) efeefe: vai sapo!
+(18:37:57) tatirp: bjs
+(18:38:00) _Pi_: bjs
+(18:38:02) uira: dpadua: manda um abraço pro 9 dedos
+(18:38:05) mbraz: besu
+(18:38:10) dpadua: \o>
+(18:38:16) efeefe: 2) subgrupos, alguém discorda?
+(18:38:17) dpadua saiu da sala.
+(18:38:25) uira: 2) não
+(18:38:34) mbraz: no
+(18:38:35) hdhd: vou sair tb.... bjs a todos
+(18:38:42) tatirp: não
+(18:38:46) tatirp: bjs
+(18:38:59) efeefe: faz sentido os subgrupos serem conectazes e esporos?
+(18:38:59) mbraz: hd: sds
+(18:39:28) uira: efeefe1: não só isso, mas acho que é um bom começo...
+(18:39:32) mbraz: precisa de um tempo para se saber o que eh
+(18:39:46) mbraz: microprojeto
+(18:39:48) liquuid: e um começo
+(18:40:04) efeefe: ok, mas partir dessa base, comunicar melhor e integrar melhor as ferramentas é um caminho?
+(18:40:11) tatirp: conectazes e esporos como subgrupos com base
+(18:40:22) uira: claro
+(18:40:47) efeefe: entao acho que jah temos algumas diretrizes
+(18:40:49) mbraz: grupos maiores terao um carinho todo especial para os grupelhos
+(18:40:53) efeefe: o que mais a gente tem em termos de estrutura?
+(18:41:06) uira: tem outra coisa, efeefe1, que acho fundamental. que é liberar tudo o que foi feito, de um jeito fácil de usar...
+(18:41:07) hdhd saiu da sala (quit: "Page closed").
+(18:41:08) efeefe: de ideias ou solucoes possiveis
+(18:41:15) efeefe: uira: liberar como?
+(18:41:21) _Pi_: hoje ? possivel linkar conectazes ou atividades de outros grupos/usuarios?
+(18:42:00) _Pi_: no meu usuario por exemplo?
+(18:42:07) uira: tipo transformar o modelo de conectaz e esporo que tu fez, como uma instalation profile de drupal, pra o meu grupo de música baiana (espertõesdoaxé.com) usarem na comunidade deles...
+(18:42:25) uira: acho que tem que ser diretriz da infralógica garantir isso...
+(18:42:36) efeefe: uira: ok, documentar o proprio processo de criar a estrutura?
+(18:42:43) efeefe: mas isso acho que eh depois de ela funcionar
+(18:42:57) efeefe: _Pi_: o que chamas de linkar?
+(18:43:04) uira: se não for pensado durante, vira lenda...
+(18:43:09) _Pi_: um pouco disso que o Uira falou
+(18:43:17) _Pi_: e mais que isso
+(18:43:32) _Pi_: eu tenho meu user, meu espa?o... minha atividade (blog, conectaz... )
+(18:43:43) _Pi_: mas eu n?o sou bailux por ex..
+(18:43:45) uira: hum.... é, na real, eu sou uma conectaz ambulante...
+(18:43:55) _Pi_: mas quero tb poder linkar isso, pq mandei algo pra l?.. enfim...
+(18:44:00) _Pi_: isso ? um exemplo
+(18:44:09) efeefe: _Pi_: acho que tudo isso eh mais facil do que parece
+(18:44:13) efeefe: nada te impede de ser bailux
+(18:44:15) _Pi_: o complicado do site ? ter que navegar por 3, 4, 5 paginas pra chegar a algo que eu quero
+(18:44:15) uira: _Pi_: acho que o perfil do usuário deve ter as mesmas coisas que a conectaz tem... (como modelo de agregação)
+(18:44:16) efeefe: te conecta lah
+(18:44:18) _Pi_: queria isso num local s?
+(18:44:23) _Pi_: sim, eu sei que posso me conectar l?
+(18:44:42) _Pi_: queria que o processo fosse mais simples, mais organico
+(18:44:46) regis_ [n=regis@189.105.104.115] entrou na sala.
+(18:45:12) uira: _Pi_: acho que deixar mais fácil é a prioridade número um desse esforço.
+(18:45:23) _Pi_: entao... estou dando pitacos pra isso ;)
+(18:45:32) efeefe: sim
+(18:45:34) regis_: tava rolando bailux e fiquei das 15 hrs até agora no lab
+(18:45:37) efeefe: acho que tem outras camadas de participacao
+(18:45:41) _Pi_: n?o que eu n?o consiga fazer coisas no drupal... muitas vezes e a maoria delas eu n?o fa?o por tempo
+(18:45:47) regis_: hello nação metarecsx
+(18:45:50) efeefe: tipo comentar e replicar
+(18:45:52) _Pi_: ou pq realmente n?o temos conseguido fazer nada que valha a documenta??o
+(18:45:54) efeefe: fala regis!
+(18:46:01) _Pi_: mas navego pelo site, olho, leio...
+(18:46:03) efeefe: por exemplo, aproveitando a chegada do regis
+(18:46:05) uira: regis_: olá!
+(18:46:06) regis_: na adrenalina metarecsx
+(18:46:11) mbraz: oba, mais um braz :D
+(18:46:21) efeefe: ha uns anos eu troquei uma ideia com ele e falei que era muito importante que rolasse documentacao das acoes
+(18:46:22) _Pi_: e realmente pra mim tem duas coisas chatas: ele ? pesado (pra pobre aqui que navega em 3g)
+(18:46:27) efeefe: ele tem sido muito forte nisso
+(18:46:29) regis_: sairam duas maquinhas met-reciladas do esporo para cassa dos replicadores uuuuuuuuuuuuuuu
+(18:46:35) _Pi_: e preciso procurar muitooo  as vezes
+(18:46:38) efeefe: flickr, blog, etc
+(18:46:54) mariwell [i=bb22faa9@gateway/web/freenode/x-588262e6a9991c4e] entrou na sala.
+(18:46:56) efeefe: mas no esquema do site que eu montei, até existe lá um esporo bailux, mas o regis é o único que tá lá?
+(18:46:57) efeefe: por que?
+(18:47:19) _Pi_: isso ? outra coisa... nem sempre vamos conseguir que as pessoas que estao nos esporos entrem no meta
+(18:47:20) liquuid: agora que a mariwell chegou vou sair
+(18:47:22) mariwell: oi povo!
+(18:47:26) mbraz: regis, ja pensastes que se junto com a maquininha fosse uma rede mesh??
+(18:47:27) mariwell: :P
+(18:47:29) mbraz: fino da bossa
+(18:47:34) _Pi_: ai j? ? um trabalho de assimila??o qie precisa ser feito dentro do esporo
+(18:47:41) regis_: a rede esta sendo construida passao a passo e com a chegada do radio no lab ai sim vamos potencializar as inteligencias coletivas
+(18:47:53) efeefe: mbraz: regis_vamos manter o foco da conversa aqui?
+(18:48:05) regis_: opa mbrazasunto para o encontrao
+(18:48:26) regis_: vqv
+(18:48:33) markun_ [n=markun@200-171-89-68.dsl.telesp.net.br] entrou na sala.
+(18:48:43) mbraz: entao atualizemos o regis e a mariel!
+(18:48:47) efeefe: legal
+(18:48:49) efeefe: quem resume?
+(18:49:02) regis_: na escuta
+(18:49:06) mbraz: cheguei tarde
+(18:49:14) efeefe: bom
+(18:49:16) maira saiu da sala (quit: "Page closed").
+(18:49:35) efeefe: a gente conversou um monte sobre estruturas, sobre o site, sobre possibilidades de ferramentas
+(18:49:35) regis_: fico com ol og depois..segue o ritmo ai
+(18:49:47) efeefe: acho que nao chegamos a nenhuma solucao definitiva
+(18:49:54) regis_: (-;
+(18:49:57) efeefe: mas alguns principios acho que são consenso
+(18:50:03) mariwell: solução para?
+(18:50:15) efeefe: solução pra infra-estrutura lógica da metareciclagem
+(18:50:17) _id_: efeefe1: eu naum esperava q chegasse ainda hj, acho q vai mais algumas reuni?es antes de uma solu??o real
+(18:50:17) efeefe: que vai além do site
+(18:50:19) mariwell: ok
+(18:50:37) efeefe: um conjunto de ambientes e ferramentas online que servem pra integrar a rede
+(18:50:43) efeefe: os princípios
+(18:50:52) regis_: ok na escuta
+(18:51:32) efeefe: 1) agregação de informação de outras estruturas - dar mais destaque pros feeds
+(18:51:32) efeefe: 2) formação de subgrupos - facilitar a compreensão disso
+(18:51:32) efeefe: 3) facilitar o acesso à informação
+(18:51:43) regis_: infralogica distribuida....realimentando células metarecsx
+(18:51:54) efeefe: acho que existe também um quarto princípio que na real se articula com o que vem a ser outro projeto, que é trabalhar a intenção de documentar
+(18:51:59) efeefe: fazer as pessoas darem atenção a isso
+(18:52:47) tatirp: acho que as outras coisas "afetam" a documentação
+(18:52:54) lu1: tenho uma sugestao
+(18:53:01) efeefe: lu1: fala
+(18:53:12) mbraz: efeefe1: eu documento melhor pela fala, pelas conversas
+(18:53:12) lu1: n sei se tem a ver...mas n seria  melhor q a proxima reuniao fosse via voz
+(18:53:13) tatirp: retroalimentação: site melhor, interesse em ouvr e falar
+(18:53:22) lu1: ?
+(18:53:35) efeefe: tatirp: as outras coisas afetam, claro. mas se existisse a intenção de documentar, até a lista serviria. temos que pensar nisso também.
+(18:53:46) efeefe: lu1: reunião por voz com mais de três pessoas é uma merda.
+(18:53:57) lu1: sei...
+(18:54:08) efeefe: mbraz: entendo que documentes melhor pela fala e conversas, mas isso não é uma coisa que a gente vá mudar com a infralógica, é?
+(18:54:27) efeefe: nada impede que graves conversas, publique no estudiolivre ou qualquer outro lugar, e avise na lista.
+(18:54:42) efeefe: ainda acho que falta a intenção de documentar e compartilhar com essa rede específica.
+(18:54:52) regis_: sinais de fumaça...testemunhando presença..inalizando para o outro..hey hei estamos aqui
+(18:54:53) avena [n=avena@189.101.132.9] entrou na sala.
+(18:55:17) efeefe: acho que a gente tem muito a aprender com o regis
+(18:55:25) regis_: o outro presica saber..precisamos deixar pegadas
+(18:55:27) efeefe: acho que precisamos mesmo de mais encontros presenciais
+(18:55:33) efeefe: e mais esforço editorial como o mutirão
+(18:55:36) mbraz: efeefe1: eh  a mesma coisa ?? o ||gravado|| perde o encantamento
+(18:55:44) efeefe: mas não é isso que quero resolver nessa reunião de hoje.
+(18:55:58) tatirp: não acho que o gravado perde o encantamento...
+(18:56:01) lu1: concordo tambem--->>>mbraz: liquuid: concordo, entrou na home - casinha - jah visualizar o que tah bombando ...
+(18:56:06) efeefe: mbraz: perde um encantamento, gera outro. mas isso a gente não resolve com infralógica.
+(18:56:09) efeefe: que é a conversa de hoje.
+(18:56:13) efeefe: as ferramentas estão aí.
+(18:56:21) regis_: hoje tive experiencias que tão no centro da metodologia metarecsx..formação de redes locais e virtuas neste rede irc agora
+(18:56:22) efeefe: quero saber também porque é que ninguém convoca reuniões pelo IRC
+(18:56:34) efeefe: porque é que as idéias de projetos de metareciclagem nunca vão pra frente
+(18:56:39) efeefe: isso precisa de mais conversa ao vivo
+(18:56:40) efeefe: mais encontros
+(18:56:59) efeefe: markun_: mariwell: por que e que voces nao fizeram nenhum encontro de metareciclagem na casa?
+(18:57:10) mbraz: caranguejo anda de lado :)))
+(18:57:17) lu1: mais encontros presenciais
+(18:57:24) efeefe: mbraz: o que quer dizer isso?
+(18:57:24) mariwell: nós não fizemos nada ainda na casa!
+(18:57:34) regis_: preocesso virotico..contaminação......virus do compartilhamento....d
+(18:57:50) mbraz: que nao temos meta, mas jah  conseguimos muito.
+(18:57:57) regis_: metarecsx é paixão é surto..he he he
+(18:57:57) liquuid: povo , tenho que ir , leio o log depois
+(18:58:00) efeefe: nem meta nem reciclagem
+(18:58:00) lu1: -o/
+(18:58:01) efeefe: hah
+(18:58:12) liquuid mudou seu apelido para liquuid_treinand
+(18:58:21) VJ_VARGA [n=varga@189.38.229.137] entrou na sala.
+(18:58:22) lu1: _o/
+(18:58:25) mbraz: liquuid: saudades, veio!
+(18:58:29) VJ_VARGA: Cheguei
+(18:58:39) efeefe: VJ_VARGA: quase no fim ;)
+(18:58:48) efeefe: pessoal
+(18:58:50) liquuid_treinand: mbraz: as ferias ja vao acabar pra gente, fué !
+(18:58:55) VJ_VARGA: s? deu pra entrar agora
+(18:59:01) efeefe: to querendo encerrar daqui a pouco
+(18:59:09) efeefe: e vou levantar algumas questoes
+(18:59:14) efeefe: ok?
+(18:59:16) VJ_VARGA: depois eu leio o log
+(18:59:18) mbraz: manda
+(18:59:23) VJ_VARGA: ok
+(18:59:36) _id_: preciso ir.. depois leio pelo log
+(18:59:45) _id_: redireciono pra lista mais tarde tb
+(18:59:49) _id_: t+
+(18:59:50) lu1: em qual item dos 3 q vc listou, ff, entra melhoria da home ?1) agregação de informação de outras estruturas - dar mais destaque pros feeds 2) 2) formação de subgrupos - facilitar a compreensão disso  3) facilitar o acesso à informação ou é tudo a mesma coisa?
+(19:00:16) _id_ mudou seu apelido para _id_d34d
+(19:00:17) mariwell: acho que os três visam isso...
+(19:00:20) efeefe: lu1: tá por ai, mas já vou chegar nesse assundo
+(19:00:27) lu1: ok
+(19:00:29) efeefe: quero dar uma amarrada na conversa
+(19:00:31) lu1: tentando focar
+(19:00:35) lu1: precisa
+(19:00:41) efeefe: a metareciclagem tem essa coisa doida de uma existencia distribuida e de identidade indefinida ou até confusa.
+(19:00:54) lu1: !!
+(19:00:57) regis_: metarecsx..vou sair agora..deixo abs na nação
+(19:01:01) efeefe: isso nos atrapalha as vezes, mas isso também é parte essencial do que a gente conseguiu alcançar
+(19:01:08) mbraz: regis: valeu!!
+(19:01:09) regis_: vou postar fotos ainda hoje
+(19:01:17) regis_: saudades de todos
+(19:01:18) lu1: regis: ommmm...
+(19:01:23) regis_: ommmm
+(19:01:27) regis_: (-;
+(19:01:42) efeefe: quando a gente foi se isncrever no premio, a intenção era justamente dar valor pra essa coisa descentralizada e pensar em maneiras de realizar um pouco do potencial que isso traz.
+(19:01:43) regis_: quero encontrar todos vcs aqui na zona impermanente
+(19:02:08) mbraz: regis: yeh!!!
+(19:02:11) uira: tá indo bem, efeefe1
+(19:02:15) uira: continua...
+(19:02:29) regis_ saiu da sala (quit: "Ex-Chat").
+(19:02:47) efeefe: isso passa por um monte de coisas. "fortalecer a rede" é uma coisa meio difícil de entender, porque a gente parte de princípios diferentes da maneira como as coisas eram feitas no passado.
+(19:02:58) tatirp: continua, efeefe
+(19:03:01) efeefe: o que é fortalecer a rede? fazer as pessoas falarem mais? fazer trocarem mais oportunidades?
+(19:03:11) efeefe: fazer as pessoas se deixarem afetar mais pelas outras?
+(19:03:15) efeefe: não sei.
+(19:03:24) efeefe: mas acho que existem algumas pistas.
+(19:03:49) efeefe: a gente sabe que encontros presenciais, tanto locais quanto nacionais, são importantes. não tanto por produtividade, mas por reflexo e identidade coletiva.
+(19:03:52) efeefe: precisamos disso.
+(19:04:00) mariwell: :)
+(19:04:23) efeefe: mas acho que isso tem que ser articulado pelas pontas. não faz muito sentido a gente pensar em estruturar demais a metareciclagem para organizar encontros grandes.
+(19:04:28) efeefe: pelo menos pra mim. não é minha busca.
+(19:04:56) mbraz: encontros pequenos tambem rola
+(19:04:56) tatirp: não, a gente não tá conseguindo fazer um...
+(19:05:02) efeefe: outras pistas que acho que a gente tem: até hoje, nos organizamos através de uma infralógica que, se depende do esforço e administração de poucxs, sempre foi aberta e distribuída.
+(19:06:01) efeefe: e ainda outras pistas: documentação, narrativa e análise sobre a rede fortalece e realiza potencial. e acredito que apoiar projetos de pequena escala também o faça.
+(19:06:09) efeefe: pistas, indícios, insights.
+(19:06:24) efeefe: um pouco por isso, decidimos essa coisa de dividir o recurso do prêmio em três partes.
+(19:06:43) efeefe: a chamada de projetos, que acho que pode ser um episódio e eventualmente se repetir no futuro;
+Conversation with #metareciclagem at Seg 27 Jul 2009 19:08:51 BRT on efeefe@irc.freenode.org (irc)
+(19:09:00) mbraz: coloca, uirah ... :)))
+(19:09:01) efeefe: ops. caí.
+(19:09:01) _Pi_: mas leio depois a continua??o no log
+(19:09:03) efeefe: peraí
+(19:09:06) efeefe: deixa eu terminar
+(19:09:11) _Pi_: ok
+(19:09:31) efeefe: o esforço de documentação, visitas, residências documentadoras, organização e edição de material gerado, que pode ser tratado através da autonomia do mutirão da gambiarra: o mutirão virar um projeto em si, a gente investir nele agora mas ele depois ir atrás da se viabilizar por outras fontes;
+(19:09:37) efeefe: e a infralógica.
+(19:10:03) efeefe: o que a gente precisa com a infralógica é encontrar o equilíbrio entre inovação tecnológica, piração, experimentação de um lado, e praticidade e facilidade do outro.
+(19:10:15) tatirp: o tao
+(19:10:19) efeefe: porque sabemos que a fórmula lista+wiki não tá mais cumprindo direito hoje em dia
+(19:10:29) efeefe: pra isso é que eu convoquei essa reunião de hoje
+(19:10:39) efeefe: e queria sair dela com alguns caminhos
+(19:10:53) efeefe: dessa vez, não se trata de fazer um site nas minhas horas vagas
+(19:11:00) efeefe: é um projeto, que tem dinheiro e objetivos.
+(19:11:09) efeefe: quero definir algumas coisas, então.
+(19:11:19) mbraz: isso, acho que a chamada de projetos eh o que se pode pensar como tempo novo,
+(19:11:21) efeefe: os princípios, acho que a gente ja falou.
+(19:11:32) efeefe: chamada de projetos a gente conversa daqui a pouco, pode ser?
+(19:11:41) mbraz: yeh
+(19:11:41) efeefe: vamo encerrar o assunto infralógica antes?
+(19:11:55) lu1: sim ff
+(19:12:01) efeefe: então
+(19:12:25) efeefe: todo mundo sabe que eu gosto muito de falar com todo mund, avisar na lista, chamar no chat. mas pras coisas acontecerem, não acho que seja produtivo isso.
+(19:13:12) efeefe: quero estabelecer o seguinte: vamos definir algumas pessoas pra tocarem esse projeto. todxs interessadxs se cadastram na conectaz e vão participar do processo, mas algumas vão ser responsáveis por coisas específicas.
+(19:13:36) efeefe: duas pessoas que se dispuseram a ajudar e têm muito a colaborar mas não estão aqui hoje são a fê e o wundo
+(19:13:38) uira: efeefe: só funciona assim, hehe!
+(19:13:48) mariwell: sim. retomando os princípios: feeds, subgrupos, melhor acesso a informações, documentação...
+(19:13:51) mbraz: sim
+(19:13:55) efeefe: quero que elas participem da parte mais pratica
+(19:14:14) efeefe: o lance conceitual, quero convocar mais alguns papos como esse de agora, só que focados na infralógica
+(19:14:17) efeefe: a gente dispersou muito
+(19:14:23) efeefe: e aí nao conseguimos decidir muita coisa
+(19:14:29) efeefe: o lance conceitual, acho que quem quiser opina
+(19:14:41) mariwell: certo.
+(19:14:44) efeefe: mas na parte prática, vou pesar nas pessoas que tem esse perfil
+(19:14:54) efeefe: o liquuid, o varga já se dispuseram a ajudar
+(19:14:56) efeefe: o ian também
+(19:15:10) efeefe: quem mais quiser, cadastre-se na conectaz e aguarde instruções
+(19:15:35) efeefe: a gente vai fazer esse subgrupo e vamos prestar contas e documentar pra rede tudo o que fizermos, mas vamos tomar decisões entre esse grupo
+(19:15:38) efeefe: alguém discorda
+(19:15:39) efeefe: ?
+(19:16:03) _Pi_: nop
+(19:16:03) mariwell: dentro do grupo, você quer dizer.
+(19:16:08) efeefe: dentro
+(19:16:14) mariwell: parece que todos concordam
+(19:16:16) mbraz: nao, decisoes locais sao boas
+(19:16:38) mbraz: concordo, decisoes locais em subgrupos sao boas
+(19:16:46) efeefe: minha sugestão é: efeefe, dpadua, tatirprado, uira, scur, markun, liquuid, ian, varga.
+(19:16:51) efeefe: já é um bando de gente
+(19:17:04) mbraz: grupinho
+(19:17:16) efeefe: todxs com personalidade forte
+(19:17:23) mbraz: grupao
+(19:17:34) lu1: onde eu entro mesmo?
+(19:17:38) efeefe: aí vai ter uma subdivisão de responsas, de trabalho e de grana.
+(19:17:54) lu1: rss
+(19:18:05) efeefe: lu1: pensei em ti pra outra parte, de conteúdo e documentação
+(19:18:08) uira: efeefe: faltou o wundo e o lourenzo...
+(19:18:14) efeefe: isso tudo que eu falei era sobre infralógica
+(19:18:15) lu1: ah ok
+(19:18:18) lu1: massa
+(19:18:18) efeefe: uira: isso, valeu
+(19:18:20) lu1: so p entender
+(19:19:06) lu1 saiu da sala (quit: "Leaving.").
+(19:19:21) mbraz: volta, lu!
+(19:19:31) efeefe: mais algum comentário sobre isso?
+(19:19:41) efeefe: ainda vou organizar isso como proposta e por na lista
+(19:19:45) uira: não, tô que nem o blog do lula.
+(19:19:45) mbraz: confio plenamente nesse grupo
+(19:19:58) lu1 [n=valentin@189.38.227.133] entrou na sala.
+(19:20:30) efeefe: e vou criar uma metodologia pra balizar na lista as tomadas de decisão
+(19:20:57) mbraz: democracia soh de vez em quando eh bao
+(19:21:07) efeefe: peço um pouco de paciência pra conversa sobre conteúdo
+(19:21:30) efeefe: em parte porque a gente já tem muitas idéias sobre o site que estão guardadas há tempo
+(19:21:40) efeefe: e em parte porque eu quero participar dos dois projetos
+(19:21:40) lu1: sim...
+(19:21:46) efeefe: e tenho que construir isso
+(19:21:47) mariwell: hehehe
+(19:22:13) efeefe: mas já adianto que a conversa sobre o mutirão vai ser até mais fácil
+(19:22:18) mbraz: efefefe: construir ...??
+(19:22:24) _Pi_: gente, preciso ir...
+(19:22:25) efeefe: temos aquela idéia de residências documentadoras
+(19:22:28) _Pi_: beijocas a quem fica
+(19:22:31) uira: efeefe: eu ia sugerir de vc e a tatipr se dividirem pra tocar as duas coisas em paralelo... mas pensando bem, é mais interessante que uma coisa fique pronta pra rolar a outra...
+(19:22:33) efeefe: mbraz: construir tempo na minha vida pra fazer tudo que quero
+(19:22:38) tatirp: bjs, pi
+(19:22:45) efeefe: uira: acho que muito dá pra rolar em paralelo
+(19:22:58) efeefe: mas não a primeira fase, da elaboração
+(19:23:00) lu1: tipo o q?
+(19:23:03) efeefe: é rápido, na real
+(19:23:04) _Pi_ saiu da sala (quit: ).
+(19:23:15) uira: mas a minha idéia de ongueiro publicitário ia na linha de usar uma coisa pra bombar a outra...
+(19:23:32) efeefe: precisamos estruturar o andamento do projeto infralógica, e deixar andando
+(19:23:38) efeefe: aí já partirmos pro mutirão
+(19:23:43) efeefe: de qualquer forma, ainda é cedo.
+(19:23:51) uira: quando as coisas da infralogica tiverem prontas, pra bombar e estimular o uso, fazemos rolar o multirão e o microprojetos pra testar...
+(19:24:09) efeefe: sim
+(19:24:11) efeefe: tem a ver.
+(19:24:24) efeefe: mas a elaboração do mutirão não precisa esperar a infralógica pronta
+(19:24:33) efeefe: porque na real é um movimento mais demorado
+(19:24:44) efeefe: quero ver o doc da lu com mbraz, quero ver produças locais
+(19:24:46) efeefe: quase rimei
+(19:24:52) efeefe: eme brais
+(19:25:16) mbraz: tah  rimando... agora vai sair o doc.
+(19:25:19) efeefe: ok, galera?
+(19:25:29) tatirp: ok
+(19:25:48) efeefe: mutirao também acho que é mais descentralizado: conteudo nao tem problema de ser multiplo. infralogica perde com redunancia.
+(19:25:49) lu1: sim
+(19:26:03) lu1: estamos na cola dos editais
+(19:26:05) mariwell: parece bom. o próximo passo então é se inscrever na conectaz da infralógica.
+(19:26:13) mariwell: e tocar isso.
+(19:26:15) lu1: roteiro temos
+(19:26:30) mariwell: e armar outras conversas conceituais.
+(19:26:33) mariwell: certo?
+(19:26:37) efeefe: entao proximos passos: vou organizar aquele subgrupo da infralogica, estruturar o projeto, informar a lista, elaborar e deixar andando. no maximo em duas semanas eu volto ao assunto mutirão/conteúdo/etc.
+(19:26:39) mbraz: lu1: pra variar, falta grana.
+(19:26:58) efeefe: mbraz: lu1: a gente tem idéia pra cacete. sempre vai faltar grana. mas sempre vai sobrar gente querendo ajudar.
+(19:27:16) lu1: exatamente
+(19:27:29) lu1: tenho percebido e buscado  isso
+(19:27:52) efeefe: mas acho que a gente consolidar um grupo editorial no mutirão da gambiarra e começar a exercitar mais essa articulação abre canais pra financiar novos projetos também
+(19:28:32) mbraz: sim, o doc pode estimular parcerias
+(19:28:41) lu1: sim, mas ainda n rolou
+(19:28:55) efeefe: lu1: vai rolar. vamos conversar melhor sobre isso daqui a duas semanas.
+(19:28:56) mbraz: lu, nao rolou o que ??
+(19:29:15) lu1: ff: define a diferença basica entre o projeto multirao e o site do meta?
+(19:29:23) lu1: a grana
+(19:29:33) mbraz: aaahh
+(19:30:00) efeefe: lu1: como assim?
+(19:30:06) efeefe: infralóigica é estrutura
+(19:30:12) efeefe: sistemas onde as conversas vão circular.
+(19:30:29) efeefe: mutirão é ação editorial. conteúdo. histórias. debates. materiais.
+(19:30:35) efeefe: tá claro isso?
+(19:30:54) efeefe: galera, to com fome
+(19:30:54) mariwell: sim
+(19:30:57) efeefe: algo mais a comentar hoje?
+(19:30:59) mbraz: o doc entraria como multirao?
+(19:31:04) mariwell: yo también
+(19:31:09) efeefe: o doc eu acho que é mutirão
+(19:31:15) efeefe: não é infralógica
+(19:31:17) efeefe: de acuerdo?
+(19:31:37) mariwell: beleza!
+(19:31:41) mariwell: vamos comer
+(19:31:45) mbraz: acuerdado, duas semanas vamos papear o restante, non??
+(19:32:00) tatirp: vamos
+(19:32:08) mariwell: tchau!
+(19:32:12) efeefe: mbraz: exato
+(19:32:15) efeefe: vou comer
+(19:32:17) efeefe: fui
+(19:32:23) mariwell saiu da sala.
+(19:32:26) mbraz: irei
+(19:32:27) efeefe: depois documento a conversa e publico o log
+(19:32:27) tatirp: bjs

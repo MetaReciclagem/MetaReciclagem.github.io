@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://rede.metareciclagem.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MetaReciclagem - mesh</title>
+ <link>http://rede.metareciclagem.org/taxonomy/term/536/0</link>
+ <description></description>
+ <language>pt-br</language>
+<item>
+ <title>Confiabilidade do mesh</title>
+ <link>http://rede.metareciclagem.org/blog/14-10-09/Confiabilidade-do-mesh</link>
+ <description>&lt;p&gt;Tenho percebido que nem todos os adaptadores wi-fi funcionam direito com redes mesh. Alguns n&amp;atilde;o pegam o sinal ou acabam perdendo. N&amp;atilde;o consegui identificar se o problema &amp;eacute; nos pr&amp;oacute;prios aparelhos ou no adaptador que estou usando como cabe&amp;ccedil;a de rede. Se algu&amp;eacute;m tiver dicas, aceito.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/14-10-09/Confiabilidade-do-mesh#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/mesh">mesh</category>
+ <category domain="http://rede.metareciclagem.org/assunto/wireless">wireless</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/ZASF" xmlns="http://drupal.org/project/og">ZASF</group>
+ <group domain="http://rede.metareciclagem.org/conectaz/Rede-Mexe" xmlns="http://drupal.org/project/og">Rede Mexe</group>
+ <pubDate>Wed, 14 Oct 2009 01:03:27 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1780 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Redes mesh no Encontrão</title>
+ <link>http://rede.metareciclagem.org/blog/17-09-09/Redes-mesh-no-Encontr%C3%A3o</link>
+ <description>&lt;p&gt;Durante o &lt;a href=&quot;http://rede.metareciclagem.org/conectaz/Encontrão-Transdimensional-de-MetaReciclagem-Bailux-Party&quot; rel=&quot;nofollow&quot;&gt;encontr&amp;atilde;o transdimensional de MetaReciclagem&lt;/a&gt;, na semana passada, eu dediquei a tarde de s&amp;aacute;bado a fazer rodar a rede mesh com a &lt;a href=&quot;http://rede.metareciclagem.org/wiki/Alix3d3&quot; rel=&quot;nofollow&quot;&gt;Alix&lt;/a&gt;.&lt;span class=&quot;read-more&quot;&gt;&lt;a href=&quot;/blog/17-09-09/Redes-mesh-no-Encontr%C3%A3o&quot;&gt;&lt;strong&gt;&lt;strong&gt;leia mais&lt;/strong&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/17-09-09/Redes-mesh-no-Encontr%C3%A3o#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/arraial">arraial</category>
+ <category domain="http://rede.metareciclagem.org/assunto/bailux">bailux</category>
+ <category domain="http://rede.metareciclagem.org/assunto/encontr%C3%A3o">encontrão</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mesh">mesh</category>
+ <category domain="http://rede.metareciclagem.org/assunto/oficina">oficina</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Rede-Mexe" xmlns="http://drupal.org/project/og">Rede Mexe</group>
+ <pubDate>Thu, 17 Sep 2009 16:00:31 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1764 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Links</title>
+ <link>http://rede.metareciclagem.org/blog/17-09-09/Links</link>
+ <description>&lt;p&gt;Adicionei aqui no &lt;a href=&quot;http://rede.metareciclagem.org/node/1532/aggregator&quot; rel=&quot;nofollow&quot;&gt;agregador da Rede Mexe&lt;/a&gt; os links com a tag &amp;quot;wireless&amp;quot; do &lt;a href=&quot;http://links.metareciclagem.org&quot; rel=&quot;nofollow&quot;&gt;scuttle da MetaReciclagem&lt;/a&gt;.&lt;/p&gt;</description>
+ <comments>http://rede.metareciclagem.org/blog/17-09-09/Links#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/mesh">mesh</category>
+ <category domain="http://rede.metareciclagem.org/assunto/rede">rede</category>
+ <group domain="http://rede.metareciclagem.org/conectaz/Rede-Mexe" xmlns="http://drupal.org/project/og">Rede Mexe</group>
+ <pubDate>Thu, 17 Sep 2009 02:58:38 +0000</pubDate>
+ <dc:creator>felipefonseca</dc:creator>
+ <guid isPermaLink="false">1762 at http://rede.metareciclagem.org</guid>
+</item>
+<item>
+ <title>Rede Mexe</title>
+ <link>http://rede.metareciclagem.org/conectaz/Rede-Mexe</link>
+ <description>&lt;div class=&quot;form-item&quot;&gt;
+ &lt;label&gt;Descrição: &lt;/label&gt;
+ A rede mesh que qualquer um mexe (Conectando internets feitas pelas pessoas)
+&lt;/div&gt;
+Movimento de descentralização da infra-estrutura da Rede&lt;div class=&quot;field field-type-text field-field-situacao-conectaz&quot;&gt;
+      &lt;div class=&quot;field-label&quot;&gt;Situação desta ConecTAZ:&amp;nbsp;&lt;/div&gt;
+    &lt;div class=&quot;field-items&quot;&gt;
+            &lt;div class=&quot;field-item odd&quot;&gt;
+                    em planejamento        &lt;/div&gt;
+        &lt;/div&gt;
+&lt;/div&gt;
+</description>
+ <comments>http://rede.metareciclagem.org/conectaz/Rede-Mexe#comments</comments>
+ <category domain="http://rede.metareciclagem.org/assunto/descentraliza%C3%A7%C3%A3o">descentralização</category>
+ <category domain="http://rede.metareciclagem.org/assunto/emerg%C3%AAncia">emergência</category>
+ <category domain="http://rede.metareciclagem.org/assunto/mesh">mesh</category>
+ <category domain="http://rede.metareciclagem.org/assunto/redes-livres">redes livres</category>
+ <pubDate>Fri, 06 Feb 2009 16:29:14 +0000</pubDate>
+ <dc:creator>dpadua</dc:creator>
+ <guid isPermaLink="false">1532 at http://rede.metareciclagem.org</guid>
+</item>
+</channel>
+</rss>
